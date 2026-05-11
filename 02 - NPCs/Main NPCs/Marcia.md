@@ -1,4 +1,0 @@
----
-aliases:
-  - Tiefling Bard
----

@@ -1,192 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Shadows over Rome — Campaign Hub",
-      "path": "00 - Campaign Hub/Shadows over Rome — Campaign Hub.md"
+      "basename": "Corda",
+      "path": "05 - NPCs/Criminal Underworld/Corda.md"
     },
     {
-      "basename": "Rome - Port City",
-      "path": "01 - City/Rome - Port City.md"
-    },
-    {
-      "basename": "Diego Quest 1",
-      "path": "Diego Quest 1.md"
-    },
-    {
-      "basename": "Warehouse Break-Ins",
-      "path": "Warehouse Break-Ins.md"
-    },
-    {
-      "basename": "Spoiled Shipment",
-      "path": "Spoiled Shipment.md"
-    },
-    {
-      "basename": "Price Discrepancy Investigation",
-      "path": "Price Discrepancy Investigation.md"
+      "basename": "Unregistered Delivery Check",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md"
     },
     {
       "basename": "Official Transport Escort",
-      "path": "Official Transport Escort.md"
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md"
     },
     {
       "basename": "Merchant Refuses Delivery",
-      "path": "Merchant Refuses Delivery.md"
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Merchant Refuses Delivery.md"
     },
     {
-      "basename": "The Silent Ship",
-      "path": "The Silent Ship.md"
+      "basename": "Discreet Double Registration Check",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md"
     },
     {
-      "basename": "Missing Shepherd",
-      "path": "Missing Shepherd.md"
+      "basename": "Bread Before Sunset",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Bread Before Sunset.md"
     },
     {
-      "basename": "High Priority Caravan Escort",
-      "path": "High Priority Caravan Escort.md"
+      "basename": "Shop Dispute",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Shop Dispute.md"
     },
     {
-      "basename": "Counterfeit Coins",
-      "path": "Counterfeit Coins.md"
+      "basename": "Lantern in the Crooked Alley",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Lantern in the Crooked Alley.md"
     },
     {
-      "basename": "Caravan Guards - Grain Transport",
-      "path": "Caravan Guards - Grain Transport.md"
+      "basename": "Forge Theft",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Forge Theft.md"
     },
     {
-      "basename": "Lost Ledger near the Harbor",
-      "path": "Lost Ledger near the Harbor.md"
+      "basename": "Disputed Market Delivery",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Disputed Market Delivery.md"
+    },
+    {
+      "basename": "Delayed Shipment Mediation Needed",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Delayed Shipment Mediation Needed.md"
+    },
+    {
+      "basename": "Faustus",
+      "path": "05 - NPCs/Supporting NPCs/Faustus.md"
+    },
+    {
+      "basename": "Wolves Outside the Walls",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Wolves Outside the Walls.md"
+    },
+    {
+      "basename": "Parcel to the Apothecary",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Parcel to the Apothecary.md"
     },
     {
       "basename": "Missing Cargo from the Docks",
-      "path": "Missing Cargo from the Docks.md"
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Missing Cargo from the Docks.md"
     },
     {
-      "basename": "Campaign Endings",
-      "path": "Campaign Endings.md"
+      "basename": "Marcia's Song in the Square",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Marcia's Song in the Square.md"
     },
     {
-      "basename": "Meaningless Atmosphere Table",
-      "path": "Meaningless Atmosphere Table.md"
+      "basename": "Lost Ledger near the Harbor",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Lost Ledger near the Harbor.md"
     },
     {
-      "basename": "Clue Design Philosophy",
-      "path": "Clue Design Philosophy.md"
-    },
-    {
-      "basename": "I corrieri che non tornano",
-      "path": "I corrieri che non tornano.md"
-    },
-    {
-      "basename": "Day 10",
-      "path": "Day 10.md"
-    },
-    {
-      "basename": "Day 09",
-      "path": "Day 09.md"
-    },
-    {
-      "basename": "Day 08",
-      "path": "Day 08.md"
-    },
-    {
-      "basename": "Day 07",
-      "path": "Day 07.md"
-    },
-    {
-      "basename": "Day 06",
-      "path": "Day 06.md"
-    },
-    {
-      "basename": "Day 05",
-      "path": "Day 05.md"
-    },
-    {
-      "basename": "Day 04",
-      "path": "Day 04.md"
-    },
-    {
-      "basename": "Day 03",
-      "path": "Day 03.md"
-    },
-    {
-      "basename": "Day 02",
-      "path": "Day 02.md"
-    },
-    {
-      "basename": "Day 01",
-      "path": "Day 01.md"
-    },
-    {
-      "basename": "Velio Stoppino",
-      "path": "Velio Stoppino.md"
-    },
-    {
-      "basename": "Plautia Ramefine",
-      "path": "Plautia Ramefine.md"
-    },
-    {
-      "basename": "Livia Cornelia Frizzapunto",
-      "path": "Livia Cornelia Frizzapunto.md"
-    },
-    {
-      "basename": "Anti-Varro Merchants",
-      "path": "Anti-Varro Merchants.md"
-    },
-    {
-      "basename": "Diego",
-      "path": "Diego.md"
-    },
-    {
-      "basename": "Mira dei Sussurri",
-      "path": "Mira dei Sussurri.md"
-    },
-    {
-      "basename": "Borin Martelferro",
-      "path": "Borin Martelferro.md"
-    },
-    {
-      "basename": "Cult Clues",
-      "path": "Cult Clues.md"
-    },
-    {
-      "basename": "Government Palace",
-      "path": "Government Palace.md"
-    },
-    {
-      "basename": "Government Hill",
-      "path": "Government Hill.md"
-    },
-    {
-      "basename": "Eternal Night",
-      "path": "Eternal Night.md"
-    },
-    {
-      "basename": "Black Market",
-      "path": "Black Market.md"
+      "basename": "Veltharuun",
+      "path": "05 - NPCs/Supporting NPCs/Veltharuun.md"
     },
     {
       "basename": "Cassian Luro",
-      "path": "Cassian Luro.md"
+      "path": "05 - NPCs/Varro Network/Cassian Luro.md"
     },
     {
-      "basename": "Sea Caves",
-      "path": "Sea Caves.md"
+      "basename": "Day 01",
+      "path": "03 - Sessions and Timeline/Daily Timeline/Day 01.md"
     },
     {
-      "basename": "Ring of a Thousand Faces",
-      "path": "Ring of a Thousand Faces.md"
+      "basename": "Aferio Lento",
+      "path": "05 - NPCs/Merchant NPCs/Aferio Lento.md"
     },
     {
-      "basename": "Quest Board",
-      "path": "Quest Board.md"
+      "basename": "Sabina",
+      "path": "05 - NPCs/City Officials and Guards/Sabina.md"
     },
     {
-      "basename": "Merchants' Guild Headquarters",
-      "path": "Merchants' Guild Headquarters.md"
+      "basename": "Tullio",
+      "path": "05 - NPCs/City Officials and Guards/Tullio.md"
     },
     {
-      "basename": "Merchant District",
-      "path": "Merchant District.md"
+      "basename": "Marius Clava",
+      "path": "05 - NPCs/City Officials and Guards/Marius Clava.md"
+    },
+    {
+      "basename": "Mella Corda",
+      "path": "05 - NPCs/City Officials and Guards/Mella Corda.md"
+    },
+    {
+      "basename": "Nerva Censore",
+      "path": "05 - NPCs/City Officials and Guards/Nerva Censore.md"
+    },
+    {
+      "basename": "Nerio Albidus",
+      "path": "05 - NPCs/City Officials and Guards/Nerio Albidus.md"
+    },
+    {
+      "basename": "Lucan Ferrum",
+      "path": "05 - NPCs/City Officials and Guards/Lucan Ferrum.md"
+    },
+    {
+      "basename": "Flavia Ronda",
+      "path": "05 - NPCs/City Officials and Guards/Flavia Ronda.md"
+    },
+    {
+      "basename": "Fabius Ordo",
+      "path": "05 - NPCs/City Officials and Guards/Fabius Ordo.md"
+    },
+    {
+      "basename": "Crispus Lanca",
+      "path": "05 - NPCs/City Officials and Guards/Crispus Lanca.md"
+    },
+    {
+      "basename": "Cotta",
+      "path": "05 - NPCs/City Officials and Guards/Cotta.md"
+    },
+    {
+      "basename": "Claudia Vetrarossa",
+      "path": "05 - NPCs/City Officials and Guards/Claudia Vetrarossa.md"
+    },
+    {
+      "basename": "Aelia Polvere",
+      "path": "05 - NPCs/City Officials and Guards/Aelia Polvere.md"
+    },
+    {
+      "basename": "Maro Silanus",
+      "path": "05 - NPCs/Merchant NPCs/Maro Silanus.md"
+    },
+    {
+      "basename": "Durgan Dato",
+      "path": "05 - NPCs/Merchant NPCs/Durgan Dato.md"
+    },
+    {
+      "basename": "Gnaeus Petron",
+      "path": "05 - NPCs/Merchant NPCs/Gnaeus Petron.md"
+    },
+    {
+      "basename": "Larto Vero",
+      "path": "05 - NPCs/Merchant NPCs/Larto Vero.md"
+    },
+    {
+      "basename": "Marcia",
+      "path": "05 - NPCs/Main NPCs/Marcia.md"
+    },
+    {
+      "basename": "Gaius Varro",
+      "path": "05 - NPCs/Main NPCs/Gaius Varro.md"
+    },
+    {
+      "basename": "Aelius Nuurglaag",
+      "path": "05 - NPCs/Main NPCs/Aelius Nuurglaag.md"
+    },
+    {
+      "basename": "Zhara delle Lame Basse",
+      "path": "05 - NPCs/Criminal Underworld/Zhara delle Lame Basse.md"
+    },
+    {
+      "basename": "Veyra Nhal",
+      "path": "05 - NPCs/Criminal Underworld/Veyra Nhal.md"
+    },
+    {
+      "basename": "Tarlo",
+      "path": "05 - NPCs/Criminal Underworld/Tarlo.md"
+    },
+    {
+      "basename": "Spago",
+      "path": "05 - NPCs/Criminal Underworld/Spago.md"
+    },
+    {
+      "basename": "Naso Rotto",
+      "path": "05 - NPCs/Criminal Underworld/Naso Rotto.md"
+    },
+    {
+      "basename": "Nereth Kaul",
+      "path": "05 - NPCs/Criminal Underworld/Nereth Kaul.md"
+    },
+    {
+      "basename": "Brina",
+      "path": "05 - NPCs/Criminal Underworld/Brina.md"
+    },
+    {
+      "basename": "Borso Tre Denti",
+      "path": "05 - NPCs/Criminal Underworld/Borso Tre Denti.md"
+    },
+    {
+      "basename": "Piso Greve",
+      "path": "05 - NPCs/City Officials and Guards/Piso Greve.md"
     }
   ],
   "omittedPaths": [],
