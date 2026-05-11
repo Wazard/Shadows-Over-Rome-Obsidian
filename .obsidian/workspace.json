@@ -207,11 +207,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://chatgpt.com/g/g-p-6a01c9f8dbf08191b48340b72535fc75-shadows-over-rome-obsidian/c/6a02019d-7c94-8397-816d-330b19ac55db",
-                "title": "Shadows over Rome Obsidian - Sources Analysis Request",
+                "title": "ChatGPT",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Shadows over Rome Obsidian - Sources Analysis Request"
+              "title": "ChatGPT"
             }
           }
         ],
@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 962.5
+    "width": 831.5
   },
   "left-ribbon": {
     "hiddenItems": {
