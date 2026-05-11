@@ -207,11 +207,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://chatgpt.com/g/g-p-6a01c9f8dbf08191b48340b72535fc75-shadows-over-rome-obsidian/c/6a02019d-7c94-8397-816d-330b19ac55db",
-                "title": "ChatGPT",
+                "title": "Shadows over Rome Obsidian - Sources Analysis Request",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "ChatGPT"
+              "title": "Shadows over Rome Obsidian - Sources Analysis Request"
             }
           }
         ],
@@ -240,6 +240,12 @@
   },
   "active": "1e9431c423393531",
   "lastOpenFiles": [
+    "02 - NPCs/Main NPCs/Marcia.md",
+    "02 - NPCs/Main NPCs/Gaius Varro.md",
+    "02 - NPCs/Main NPCs/Arach-Sul.md",
+    "02 - NPCs/Main NPCs/Aelius Nuurglaag.md",
+    "02 - NPCs/Main NPCs",
+    "02 - NPCs",
     "00 - Campaign Hub/Shadows over Rome — Campaign Hub.md",
     "01 - City/Rome - Port City.md",
     "Diego Quest 1.md",
@@ -262,10 +268,6 @@
     "I corrieri che non tornano.md",
     "Day 10.md",
     "Day 09.md",
-    "Day 08.md",
-    "Day 07.md",
-    "Day 06.md",
-    "Day 05.md",
     "01 - City",
     "00 - Campaign Hub",
     "Untitled.base"
