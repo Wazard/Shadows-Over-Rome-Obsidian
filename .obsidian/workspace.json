@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbf5f33877ca4e4c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5cedecc35f0c15f7",
+            "id": "5ed228d5da47fa47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roma.md",
+                "file": "00 - Campaign Hub/Shadows over Rome — Campaign Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roma"
+              "title": "Shadows over Rome — Campaign Hub"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,19 +199,33 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "1e9431c423393531",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/g/g-p-6a01c9f8dbf08191b48340b72535fc75-shadows-over-rome-obsidian/c/6a02019d-7c94-8397-816d-330b19ac55db",
+                "title": "ChatGPT",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ChatGPT"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 962.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "nexus-ai-chat-importer:Nexus AI Chat Importer - Import new file": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -235,12 +238,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "638110ad6448cf73",
+  "active": "1e9431c423393531",
   "lastOpenFiles": [
-    "Roma.md",
-    "2026-05-11.md",
-    "Untitled.base",
-    "Welcome.md",
-    "create a link.md"
+    "00 - Campaign Hub/Shadows over Rome — Campaign Hub.md",
+    "01 - City/Rome - Port City.md",
+    "Diego Quest 1.md",
+    "Warehouse Break-Ins.md",
+    "Spoiled Shipment.md",
+    "Price Discrepancy Investigation.md",
+    "Official Transport Escort.md",
+    "Merchant Refuses Delivery.md",
+    "The Silent Ship.md",
+    "Missing Shepherd.md",
+    "High Priority Caravan Escort.md",
+    "Counterfeit Coins.md",
+    "Caravan Guards - Grain Transport.md",
+    "Lost Ledger near the Harbor.md",
+    "Missing Cargo from the Docks.md",
+    "Aelius Nuurglaag.md",
+    "Campaign Endings.md",
+    "Meaningless Atmosphere Table.md",
+    "Clue Design Philosophy.md",
+    "I corrieri che non tornano.md",
+    "Day 10.md",
+    "Day 09.md",
+    "Day 08.md",
+    "Day 07.md",
+    "Day 06.md",
+    "Day 05.md",
+    "01 - City",
+    "00 - Campaign Hub",
+    "Untitled.base"
   ]
 }

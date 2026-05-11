@@ -7,5 +7,14 @@
       "key": "O"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "smart-chatgpt:smart-chatgpt-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
 }

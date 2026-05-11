@@ -1,1 +1,0 @@
-Roma è una metropoli con 40.000 abitanti circa. Questa è divisa in 

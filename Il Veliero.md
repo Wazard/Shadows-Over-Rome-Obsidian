@@ -1,0 +1,1 @@
+The main tavern and player hub, located near the docks and warehouse district. It has a quest board in a Witcher-style format. It is close to the port, the warehouses, and possibly connected to sea caves below or nearby.
