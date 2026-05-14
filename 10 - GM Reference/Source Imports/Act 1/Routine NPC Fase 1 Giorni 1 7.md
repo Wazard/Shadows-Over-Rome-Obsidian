@@ -200,7 +200,7 @@ Discorsi ascoltabili di Varro
 
 "La carita non basta. Serve ordine."
 
-Cassian Luro – funzionario nobile e braccio istituzionale
+Cassian Rulfo – funzionario nobile e braccio istituzionale
 
 Cassian e il volto istituzionale sporco. Deve sembrare meno carismatico di Varro, ma piu pericoloso perche ha timbri, guardie, documenti e accesso al governo.
 

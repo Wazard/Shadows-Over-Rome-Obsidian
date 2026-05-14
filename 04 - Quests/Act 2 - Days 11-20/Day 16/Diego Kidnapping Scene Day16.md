@@ -11,6 +11,14 @@ source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/Diego_Kidnapping_Scene_Day16.
 ---
 # Diego Kidnapping Scene Day16
 
+## Festival Calendar Context
+
+- Calendar: [[Day 16]] is Desnus 16, 3608.
+- Remembrance Moon deepens: festival brightness gives way to vigils, memorial processions, family gatherings, and public grief that Marcia can shape without calling for open rebellion.
+- Festival use: Diego is taken when bells, lanterns, songs, and remembrance crowds make pursuit confusing.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 2/Diego_Kidnapping_Scene_Day16.docx`

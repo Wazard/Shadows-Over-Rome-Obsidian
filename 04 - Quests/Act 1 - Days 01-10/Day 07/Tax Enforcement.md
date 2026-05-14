@@ -6,10 +6,35 @@ tags:
   - source/phase-1-quests
 Day: "[[Day 07]]"
 NPCs:
-  - ""
+  - "[[Cassian Rulfo]]"
+  - "[[Nerva Censore]]"
+  - "[[Pietro Dueprezzi]]"
+  - "[[Larto Vero]]"
 source: "Wazard/Shadows-over-Rome/phase 1/quests/Day7_Tax_Collector_Quest.docx"
 ---
 # Tax Enforcement
+
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Drunk festival guards show up late for Saturday rotation | Diplomacy DC 15; Perform DC 13; Stealth DC 15 to observe | Guard tavern near Noble District gate | No unless exposed | [[Nerva Censore]], off-duty guards, black market uniform broker | Creates a Noble District entry window using purchased uniforms | Noble District security tightens for 48 hours if mishandled |
+| Selective tax record | Linguistics DC 16; Sense Motive DC 15 | Tax ledger | Possible civic confrontation | [[Cassian Rulfo]], [[Nerva Censore]] | Tax enforcement is targeting useful pressure points | Cassian becomes colder and harder to question |
+
+- Calendar: [[Day 07]] is Desnus 7, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: emergency taxes and permit checks during festivities feel like punishment, not governance.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
+## Named NPC Anchors
+
+- Tax collector: [[Cassian Rulfo]].
+- Administrative pressure and tax paperwork: [[Nerva Censore]].
+- Small shop pressure point: [[Larto Vero]] or another honest small merchant.
+- Aggressive merchant confrontation: [[Pietro Dueprezzi]] if you want a familiar opportunist with public presence.
 
 ## Source Migration
 
@@ -37,7 +62,7 @@ TAVERN → MARKET DISTRICT → MULTIPLE COLLECTION POINTSPlayers accompany Cassi
 
 COLLECTION POINT 1 – SMALL SHOP
 
-Owner:Elderly shopkeeperSituation:Cannot pay full taxDialogue:- "I already paid last month…"- "This isn’t right"CASSIAN:- Calmly insists on paymentPLAYER OPTIONS:- Force payment- Cover cost- Let it goCLUE:Receipt shows altered numbers
+Owner:[[Larto Vero]] or another small shopkeeper harmed by selective taxesSituation:Cannot pay full taxDialogue:- "I already paid last month…"- "This isn’t right"CASSIAN:- Calmly insists on paymentPLAYER OPTIONS:- Force payment- Cover cost- Let it goCLUE:Receipt shows altered numbers
 
 COLLECTION POINT 2 – FAMILY HOME
 
@@ -45,7 +70,7 @@ Situation:Family hiding valuablesTENSION:- Emotional scene- Children presentCASS
 
 COLLECTION POINT 3 – MERCHANT
 
-Merchant reacts aggressivelyDIALOGUE:- "This isn’t tax—it’s theft!"ESCALATION:- Possible fight (non-lethal)IMPORTANT:Merchant mentions Varro indirectly:"Funny how all this started when HE got involved"CLUE:Direct link to Varro influence
+[[Pietro Dueprezzi]] or another small merchant reacts aggressivelyDIALOGUE:- "This isn’t tax—it’s theft!"ESCALATION:- Possible fight (non-lethal)IMPORTANT:Merchant mentions Varro indirectly:"Funny how all this started when HE got involved"CLUE:Direct link to Varro influence
 
 INVESTIGATION OPTIONS
 

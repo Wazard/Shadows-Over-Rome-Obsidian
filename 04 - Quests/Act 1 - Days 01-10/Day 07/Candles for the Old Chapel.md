@@ -13,6 +13,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day7_Candele_per_la_cappella_ve
 ---
 # Candles for the Old Chapel
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aulus men shadow the party near slum shrines | Perception DC 15; Sense Motive DC 16 | Slums, shrine roads, old chapel approach | Yes if confronted: 2-3 Aulus men | [[Naso Rotto]], [[Muto]], [[Spago]] | Investigation is visible to organized muscle | If one escapes, Aulus changes meeting locations |
+
+- Calendar: [[Day 07]] is Desnus 7, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: remembrance candles and festival lights let ordinary devotion blur with darker symbolism.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day7_Candele_per_la_cappella_vecchia.docx`

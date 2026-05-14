@@ -2,6 +2,12 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "indexes/"
-  ]
+    "indexes/",
+    "context/",
+    "03 - Sessions and Timeline/",
+    "DS Compendium/"
+  ],
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "showInlineTitle": true
 }

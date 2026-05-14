@@ -13,6 +13,14 @@ source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/quests/Day16_Persone_scompars
 ---
 # Day 16 - Persone scomparse dopo la veglia
 
+## Festival Calendar Context
+
+- Calendar: [[Day 16]] is Desnus 16, 3608.
+- Remembrance Moon deepens: festival brightness gives way to vigils, memorial processions, family gatherings, and public grief that Marcia can shape without calling for open rebellion.
+- Festival use: vigils create dense, emotional crowds where disappearances can be mistaken for grief, drunkenness, or private mourning.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 2/quests/Day16_Persone_scomparse_dopo_la_veglia.docx`

@@ -14,109 +14,176 @@ source:
 
 # Wolves Outside the Walls
 
-Board hook: wolves outside the walls - help requested for flock.
+## Contesto di Calendario e Festival
 
-This is a normal rural problem. It gives the players a short trip outside Rome without opening a major investigation. There are no cult clues, no Varro clues, and no hidden second layer.
+[[Day 01]] e Desnus 1, 3608. Mentre dentro Roma si preparano canti, cena speciale e fuochi d'artificio, fuori dalle mura il festival ha un altro significato: piu carovane, piu animali, piu parenti in viaggio, piu merci da proteggere. Se la strada non e sicura, la festa costa di piu a chi e gia povero.
 
-## Quest Board Text
+Questa quest deve restare normale. Non ci sono cultisti, non ci sono sigilli di Varro, non ci sono indizi nascosti da trasformare in cospirazione. Il suo scopo e dare contrasto: a volte il problema e davvero che i lupi hanno fame.
 
-A small herder seeks help driving away wolves circling his flock just outside the walls. Modest payment. Intervention requested before sunset.
+Tono: rurale, pratico, breve ma espandibile.
 
-Posted by: [[Faustus]]  
-Payment: low.  
-Expected duration: 2 hours.
+## Testo per la Bacheca degli Incarichi
 
-## Step 1 - Meet Faustus
+**Lupi fuori dalle mura. Aiuto richiesto prima del tramonto.**
 
-Faustus waits near a secondary city gate with a shepherd's staff, an old cloak, and dried mud on his boots. He is tired but dignified.
+Un piccolo pastore cerca persone capaci di scacciare lupi che girano intorno al gregge. Pagamento modesto. Preferita soluzione senza inutili rischi.
 
-Sample lines:
+Firmato: [[Faustus]]  
+Pagamento: basso, con possibile aggiunta in cibo.  
+Durata prevista: 2 ore.  
+Rischio: animale, fisico, contenuto.
 
-- "I do not need heroes. I need people loud enough to convince wolves to find dinner elsewhere."
-- "They took one last night. A young sheep. If they come back tonight, they take another."
-- "The guards told me outside the walls is not their problem. So here I am."
+## Riassunto per il DM
 
-What he knows:
+Faustus non cerca eroi. Cerca persone abbastanza forti o intelligenti da evitare che il suo gregge venga ridotto prima della settimana di mercati. Vuole scacciare i lupi, non sterminarli. Questo dettaglio lo rende umano e impedisce alla quest di diventare solo un combattimento.
 
-- there are at least three wolves;
-- they move near a small wood and a collapsed stone wall;
-- they already took one sheep;
-- they seem like hungry animals, not monsters;
-- Faustus would rather drive them off than kill them.
+La quest puo essere usata come pausa dopo un'indagine urbana o come incarico semplice per mostrare cosa esiste oltre le mura.
 
-## Step 2 - Outside The Walls
+## Scena di Apertura
 
-As the party leaves Rome, the port noise fades. Roads narrow, paving breaks, low walls divide small fields, and farm smoke hangs in the distance.
+Faustus aspetta presso una porta secondaria della citta, con un bastone da pastore, un mantello vecchio e fango secco sugli stivali. Dietro di lui entrano carri decorati per il festival. Lui non guarda le decorazioni: guarda il sole, perche il tramonto si avvicina.
 
-Meaningless atmosphere:
+Leggi o parafrasa:
 
-- an abandoned broken wheel;
-- a crow picking at mud;
-- a red mark on stone that is rust-colored earth, not blood;
-- a farmer yelling at a mule;
-- a bottle rolling in the wind.
+> Appena fuori dal rumore della citta, l'aria cambia. Si sente ancora la musica lontana, ma qui domina l'odore di terra, lana e fumo di campi. Un uomo con un bastone consumato vi fa cenno senza teatralita. Sembra troppo stanco per vendere la propria paura come una storia.
 
-## Step 3 - The Flock
+Frasi di Faustus:
 
-The flock is in a weak enclosure of wood, stone, and rope. An old sheepdog growls toward the trees but stays near the sheep.
+- "Non mi servono eroi. Mi servono persone abbastanza rumorose da convincere i lupi a cenare altrove."
+- "Ne hanno presa una ieri notte. Giovane. Se tornano stasera, ne prendono un'altra."
+- "Le guardie mi hanno detto che fuori dalle mura non e problema loro. Quindi eccomi qui."
+- "Preferirei scacciarli. Non odio le bestie affamate."
 
-| Clue | Check | Result |
+## Cosa Sa Faustus
+
+- Ci sono almeno tre lupi.
+- Si muovono vicino a un boschetto e a un vecchio muro crollato.
+- Hanno gia preso una pecora.
+- Tornano quando il rumore umano cala.
+- Non sembrano mostri.
+- Il cane del gregge e troppo vecchio per inseguirli ma abbastanza sveglio da sentirli.
+
+## Verso il Gregge
+
+Uscendo da Roma, il rumore del festival diventa piu basso. La strada si restringe, la pietra lascia spazio a terra battuta, i campi sono tagliati da muretti bassi e fossi asciutti.
+
+Dettagli normali da usare:
+
+- una ruota rotta abbandonata;
+- un contadino che litiga con un mulo;
+- una striscia rossa su una pietra che e solo terra ferrosa;
+- un corvo nel fango;
+- una bottiglia vuota che rotola nel vento;
+- un carro di parenti diretto verso la citta per il festival.
+
+Se i giocatori cercano misteri, rispondi con chiarezza: sono dettagli normali.
+
+## Il Recinto
+
+Il gregge sta in un recinto debole fatto di legno, corda e pietre basse. Il vecchio cane ringhia verso gli alberi ma non si allontana dalle pecore.
+
+| Indizio | Prova | Risultato |
 | --- | --- | --- |
-| Wolf tracks near the trees | Survival DC 11 | normal wolf movement |
-| Weak point in the fence | Perception DC 12 | rope was strained and loosened |
-| Frightened flock | Handle Animal or Nature DC 12 | fear is natural |
-| Torn wool on stone | Investigation DC 13 | compatible with a sheep dragged away |
-| Timing of return | Knowledge Nature DC 13 | wolves likely return near sunset or when human noise drops |
+| Tracce presso gli alberi | Sopravvivenza CD 11 | Movimento normale di lupi |
+| Punto debole nella recinzione | Percezione CD 12 | La corda e stata tirata e allentata |
+| Gregge agitato | Addestrare Animali o Natura CD 12 | Paura naturale |
+| Lana strappata su pietra | Indagare CD 13 | Compatibile con pecora trascinata |
+| Orario di ritorno | Conoscenze natura CD 13 | Probabile ritorno al tramonto |
 
-## Step 4 - Prepare
+## Preparare la Difesa
 
-Reward practical, non-magical solutions.
+Premia soluzioni pratiche. Non serve che tutto finisca in combattimento.
 
-| Action | Check |
-| --- | --- |
-| Prepare torches, noise, and positions | Survival DC 12 |
-| Reinforce the fence | Craft or relevant profession DC 12 |
-| Calm and use the sheepdog | Handle Animal DC 13 |
-| Hide near the wall | Stealth DC 13 |
-| Choose a good watch point | Perception DC 13 |
+| Azione | Prova | Effetto |
+| --- | --- | --- |
+| Preparare torce e rumore | Sopravvivenza CD 12 | Bonus al tentativo di scacciare |
+| Rinforzare la recinzione | Artigianato o Professione CD 12 | I lupi hanno meno accessi |
+| Usare il cane | Addestrare Animali CD 13 | Avviso anticipato |
+| Nascondersi vicino al muro | Furtivita CD 13 | Possibile sorpresa |
+| Scegliere punto di guardia | Percezione CD 13 | I PG vedono i lupi prima |
+| Lasciare esca lontano | Sopravvivenza CD 12 | Evita il gregge per una notte, non risolve per sempre |
 
-## Step 5 - Wolves Arrive
+## L'Arrivo dei Lupi
 
-At sunset, low gray shapes appear between the trees. They watch the fence, the dog, the torches, and the party.
+Al tramonto, forme grigie basse appaiono tra gli alberi. Guardano torce, cane, recinto e persone. Sono affamate, non malvagie.
 
-Best outcome: scare them away.
+Soluzione senza combattimento:
 
-- Survival DC 13 with torches/noise: wolves retreat.
-- Handle Animal or Nature DC 14: drive them away without provoking an attack.
-- Intimidation DC 15 with fire and noise: enough to make them flee.
+| Metodo | Prova | Esito |
+| --- | --- | --- |
+| Torce e rumore coordinato | Sopravvivenza CD 13 | I lupi arretrano |
+| Comportamento animale corretto | Addestrare Animali o Natura CD 14 | I lupi evitano lo scontro |
+| Intimidazione con fuoco | Intimidire CD 15 | Fuga rapida |
+| Recinto rinforzato | Nessuna o CD ridotta | I lupi non trovano apertura facile |
 
-Combat option:
+Combattimento:
 
-- 3 normal wolves for a level 2 party;
-- 2 wolves if the party is small or already hurt;
-- wolves flee when one is badly hurt or killed.
+- 3 lupi normali per gruppo integro;
+- 2 lupi se il gruppo e piccolo o ferito;
+- i lupi fuggono quando uno e gravemente ferito o morto;
+- non combattere fino alla morte salvo errori gravi dei PG.
 
-Bait option:
+## Indizi di Indagine Profonda
 
-- Survival DC 12 to place bait well.
-- Knowledge Nature DC 13 to know this saves the night but not forever.
+Questa quest e intenzionalmente povera di cospirazione.
 
-## Resolution
+| Oggetto o Pista | CD | Luogo | Presenza di Scontro | PNG Coinvolti | Implicazione | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tensione sulla strada delle carovane | Sopravvivenza CD 13; Diplomazia CD 14 | Fuori dalle mura | Solo lupi | [[Faustus]], carrettieri | Le carovane del festival rendono le strade piu importanti e vulnerabili | Non trasformarla in prova contro Varro |
+| Recinto riparato male | Artigianato CD 12; Percezione CD 12 | Campo di Faustus | No | [[Faustus]] | I poveri risparmiano su tutto, anche sulla sicurezza | Se i PG lo umiliano, Faustus si chiude |
+| Carrettiere nervoso | Diplomazia CD 13 | Strada fuori citta | No | Carrettieri anonimi | I viaggiatori temono ritardi e rincari | Voce generica, non indagine principale |
 
-If the wolves are driven off:
+## Scene Opzionali
 
-> "Good. Better that way. I never hated hungry beasts. I hate being poorer than they are."
+### Il Carro dei Parenti
 
-If the fence is reinforced:
+Una famiglia passa verso Roma per il festival e chiede se la strada e sicura. Se i PG hanno gia visto tracce di lupi, possono avvertirli o accompagnarli per un tratto.
 
-> "This holds for a few days. More than I expected."
+### Il Cane Vecchio
 
-If the wolves are killed, [[Faustus]] pays but is quieter:
+Il cane di Faustus non puo vincere una lotta, ma puo salvare una pecora abbaiando al momento giusto. Se i PG lo aiutano, Faustus si commuove piu che per la paga.
 
-> "At least they do not return tonight. It is a solution, even if not the one I hoped for."
+### Il Vicino Avaro
 
-## GM Notes
+Un vicino rifiuta di prestare pali o corda, dicendo che durante la festa "ognuno pensa al suo". I PG possono convincerlo con Diplomazia CD 14 o pagarlo poco. Questa scena mostra tensione economica senza cospirazione.
 
-Keep this completely normal. If players overthink the crow, bottle, old footprint, or broken branch, answer plainly. The value of the quest is that not every problem is a conspiracy.
+### La Pecora Ferita
 
-Feeling: "Outside the walls, sometimes the problem really is only that wolves are hungry."
+Una pecora e ferita ma viva. Guarire CD 12 o Addestrare Animali CD 13 evita che Faustus perda altro denaro. E una piccola vittoria concreta.
+
+## Esiti
+
+### Lupi Scacciati
+
+Faustus paga e ringrazia con sollievo.
+
+> "Bene. Meglio cosi. Non ho mai odiato le bestie affamate. Odio essere piu povero di loro."
+
+### Recinto Rinforzato
+
+Faustus aggiunge cibo, formaggio o una promessa di aiuto futuro.
+
+> "Questo regge qualche giorno. Piu di quanto speravo."
+
+### Lupi Uccisi
+
+Faustus paga ma e piu silenzioso.
+
+> "Almeno stanotte non tornano. E una soluzione, anche se non quella che volevo."
+
+### Fallimento
+
+Un'altra pecora viene presa. Faustus paga poco o nulla, ma non odia i PG se hanno provato davvero.
+
+## Ricompense
+
+- Pagamento basso.
+- Cibo semplice o lana.
+- Gratitudine di Faustus.
+- Possibile voce positiva tra pastori e piccoli carrettieri.
+
+## Note DM
+
+Questa quest serve a respirare. In una campagna piena di complotti, una scena normale rende i complotti piu credibili per contrasto.
+
+Sensazione finale: "Fuori dalle mura, a volte il problema e solo che i lupi hanno fame."

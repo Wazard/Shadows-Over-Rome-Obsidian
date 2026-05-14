@@ -15,6 +15,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day4/Day4_Guardie_richieste_per
 ---
 # Guards Needed for Short Transport
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Guard patrol gap during short transport | Perception DC 14; Knowledge Local DC 15 | Market-to-warehouse route | Possible bandit pressure | [[Flavia Ronda]], [[Cotta]] | Some patrol gaps are convenient rather than accidental | Direct accusation alerts corrupt guard contacts |
+
+- Calendar: [[Day 04]] is Desnus 4, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: short routes are suddenly crowded, watched, and vulnerable because everyone is outside.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day4/Day4_Guardie_richieste_per_trasporto_breve.docx`

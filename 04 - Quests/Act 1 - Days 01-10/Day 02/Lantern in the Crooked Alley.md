@@ -8,118 +8,252 @@ Day: "[[Day 02]]"
 NPCs:
   - "[[Corda]]"
   - "[[Gancio]]"
+  - "[[Oriolo Candelaio]]"
 source: "Wazard/Shadows-over-Rome/phase 1/quests/Day2/Day2_Rumore_Lanterna_del_vicolo_storto.docx"
 ---
-# Lantern in the Crooked Alley
+# La Lanterna del Vicolo Storto
 
-## Source Migration
+## Contesto di Calendario e Festival
 
-Source file: `phase 1/quests/Day2/Day2_Rumore_Lanterna_del_vicolo_storto.docx`
+- Calendario: [[Day 02]] è Desnus 2, 3608.
+- Stato della città: molte strade vengono decorate con lanterne festivalieri, ma i vicoli poveri ricevono gli scarti, le riparazioni lente o nulla.
+- Uso al tavolo: una lanterna rotta è un problema piccolo, ma il festival rende la differenza tra strade illuminate e vicoli bui ancora più evidente.
+- Tono: urbano, domestico, quasi ordinario. Può contenere un piccolo indizio ambiguo, ma non deve diventare una rivelazione.
 
-Giorno 2 – Quest di Rumore: La lanterna del vicolo storto
+## Testo per la Bacheca degli Incarichi
 
-Funzione della quest: questa è una quest di rumore per il Giorno 2. Deve essere semplice, urbana e normale. Serve a far usare abilità pratiche e a ricordare che Roma è una città abitata, non solo una macchina narrativa. Nessun indizio del culto, nessuna pista nascosta, nessuna connessione segreta.
-
-Hook sulla Quest Board
-
-Lanterna rotta nel vicolo – aiuto richiesto prima di sera
+**Lanterna rotta nel vicolo - aiuto richiesto prima di sera**
 
 Una famiglia chiede aiuto per riparare o sostituire una lanterna pubblica caduta in un vicolo vicino al mercato. Il vicolo diventa buio e pericoloso dopo il tramonto. Piccola ricompensa disponibile.
 
-Postata da: Daria, vedova di un facchino.
-
-Pagamento: basso.
-
+Postata da: residenti del vicolo.  
+Pagamento: basso.  
 Durata prevista: 1 ora.
 
-Tono: semplice, urbano, domestico.
+## Riassunto per il DM
 
-Funzione della quest
+Questa quest deve far respirare Roma come città abitata. Una lanterna rotta non è il centro della cospirazione. Per chi vive lì, però, significa cadute, furti, paura e bambini che non possono uscire dopo il tramonto. Il festival crea contrasto: le vie principali brillano, il vicolo resta al buio.
 
-Questa quest serve a mostrare la città come luogo abitato, non solo come scenario politico. Una lanterna rotta è un problema piccolo, ma per chi vive in quel vicolo significa ladri, cadute, paura e bambini che non possono uscire. Non deve esserci nessun indizio occulto.
+Puoi usarla in due modi:
 
-Fase 1 – Arrivo al vicolo
+- Versione ordinaria: riparazione semplice, gratitudine locale, nessun mistero.
+- Versione con traccia leggera: una lanterna "sbagliata" fra le decorazioni festivalieri suggerisce che qualcuno usa luci e percorsi per segnali pratici, non cultuali.
 
-Il vicolo si trova tra mercato e zona artigiana. È stretto, inclinato, con case addossate e panni stesi tra una finestra e l’altra. La lanterna pubblica è caduta da un gancio arrugginito e si è spaccata sul selciato.
+## Apertura della Scena
 
-Descrizione atmosferica:
+Leggi o parafrasa:
 
-Il vicolo odora di bucato umido, minestra povera e pietra bagnata. Una finestra si apre sopra di voi e qualcuno scuote una tovaglia senza guardare sotto. Da una casa arriva il rumore ritmico di un telaio; da un’altra, una discussione familiare interrotta appena vi avvicinate.
+> Il vicolo è stretto e inclinato, incastrato tra case che sembrano appoggiarsi l'una all'altra per non cadere. Sopra di voi panni umidi attraversano l'aria come piccole vele. Più in là, sulla strada principale, le lanterne del festival sono nuove, colorate, tutte uguali. Qui, invece, una lanterna pubblica giace spaccata sul selciato, con il gancio arrugginito ancora attaccato a un pezzo di muro.
 
-NPC – Daria
+## Punti di Interesse
 
-Donna pratica, stanca, non incline a supplicare. Ha due figli e poca pazienza per gli avventurieri teatrali.
+### Imbocco del Vicolo
 
-Dialoghi:
+L'imbocco è abbastanza largo per due persone affiancate, ma non per un carretto. Dalla strada principale si vede solo il primo tratto, illuminato dalle lanterne festivalieri. Il resto piega a sinistra e sparisce in ombra. Questo rende il vicolo perfetto per piccoli incidenti, pedinamenti e scambi non troppo segreti.
 
-"Non vi chiedo di uccidere draghi. Vi chiedo di rimettere luce in un vicolo."
+Dettagli utili:
 
-"Quando cala il buio, chi passa qui inciampa o viene seguito. A volte entrambe le cose."
+- una lanterna nuova sulla strada principale e una vecchia rotta pochi passi più dentro;
+- segni di ruote sul bordo, prova che qualcuno ha forzato il passaggio con un carico alto;
+- una scritta infantile sul muro coperta a metà da un manifesto del festival;
+- un odore di minestra da una finestra bassa;
+- candele votive della Remembrance Moon protette in bicchieri sbeccati.
 
-"Il Comune dice che passeranno. Il Comune passa sempre domani."
+### Punto della Lanterna Caduta
 
-Fase 2 – Capire il problema
+La lanterna giace sul selciato in mezzo a vetro, olio annacquato e ruggine. Non è un oggetto prezioso, ma per chi vive qui è il confine tra una sera sopportabile e una sera pericolosa.
 
-La lanterna non è stata sabotata. Il gancio era vecchio, il vento l’ha fatta oscillare e qualcuno l’ha urtata con una pertica o un carico alto. È un problema banale, ed è proprio questo il punto.
+Usa questo punto per rendere il problema fisico: i PG devono chinarsi, tenere la scala, sporcarsi le mani e parlare con persone che passano a pochi centimetri.
 
-Prove possibili
+Possibili prove:
 
-Perception CD 10: la lanterna è rotta, ma buona parte della struttura metallica è recuperabile.
+| Azione | CD | Risultato |
+| --- | --- | --- |
+| Esaminare il gancio | Artigianato CD 14 | Il metallo era fragile e vecchio |
+| Controllare l'olio | Alchimia o Percezione CD 13 | L'olio è annacquato |
+| Guardare i vetri | Percezione CD 12 | Il colpo è venuto da un carico alto o da una spinta laterale |
 
-Craft / Professione fabbro / Knowledge Engineering CD 12: il gancio è arrugginito e va sostituito, non basta riappenderla.
+### Finestra di Daria
 
-Disable Device CD 13: smontare ciò che resta senza tagliarsi o rompere il vetro rimasto.
+Daria parla spesso dalla finestra prima di scendere. La finestra ha panni stesi, un vaso incrinato e una candela consumata fino a metà. Da lì vede chi entra nel vicolo, ma non vede il punto più buio.
 
-Sleight of Hand CD 12: recuperare con cura lo stoppino e la piccola ghiera interna ancora utilizzabile.
+Questo punto serve per testimonianze domestiche: non "ho visto il colpevole", ma "so chi passa di solito e chi non apparteneva al vicolo".
 
-Diplomacy CD 12: convincere un bottegaio vicino a prestare olio o una scala.
+### Banco di [[Oriolo Candelaio]]
 
-Athletics CD 11: salire e fissare il nuovo gancio in sicurezza.
+Il banco di Oriolo non è lontano: una piccola isola di cera, vetri colorati, stoppini arrotolati, ganci storti e lanterne recuperate da altri quartieri. Durante il festival tutti vogliono luce davanti alla propria porta; Oriolo sa benissimo chi può pagare e chi deve accontentarsi degli scarti.
 
-Fase 3 – Piccola complicazione
+Dettagli utili:
 
-Mentre i player lavorano, un garzone passa con un carico di tavole e quasi urta di nuovo la lanterna o uno dei player.
+- ganci nuovi di qualità diversa in tre cassette separate;
+- olio buono chiuso sotto il banco e olio annacquato in vista;
+- vetro verdastro raro, utile come possibile segnale pratico;
+- un registro di clienti che non sembra importante finché non si cercano ripetizioni;
+- Oriolo che distingue una lanterna cittadina da una privata con un solo colpo d'occhio.
 
-Garzone:
+### Fondo Buio del Vicolo
 
-"Oh! Non l’ho vista. Cioè, l’ho vista, ma troppo tardi."
+Il fondo del vicolo non è una tana criminale, ma dopo il tramonto lo sembra. Una porta laterale chiusa, un muro umido e una scala di servizio creano abbastanza ombra da far fermare chi non conosce il posto.
 
-Possibili risposte:
+Se i PG tornano più tardi, qui possono capire quanto conti una singola lanterna. Una riparazione riuscita cambia davvero la geografia sociale del quartiere.
 
-Reflex / Acrobatics CD 12: evitare che cada olio o vetro.Intimidation CD 12: il garzone si spaventa e se ne va, ma Daria non apprezza troppo.Diplomacy CD 11: lo convincono ad aiutare tenendo la scala o portando un secchio.
+## PNG di Scena
 
-Fase 4 – Riparazione o sostituzione
+### Daria, vedova del vicolo
 
-I player possono riparare la lanterna con pezzi recuperati, comprare una lanterna economica o improvvisare una soluzione temporanea.
+Donna pratica, stanca, non incline a supplicare.
 
-Soluzione economica: riparano ciò che c’è. Richiede Craft/Disable Device CD 13.Soluzione pulita: comprano o fanno comprare una lanterna nuova. Costa poche monete d’argento.Soluzione improvvisata: fissano una lanterna privata o una candela protetta da vetro. Funziona per una notte, ma non risolve del tutto.
+Frasi:
 
-Fase 5 – Chiusura
+- "Non vi chiedo di uccidere draghi. Vi chiedo di rimettere luce in un vicolo."
+- "Quando cala il buio, chi passa qui inciampa o viene seguito. A volte entrambe le cose."
+- "Il Comune dice che passeranno. Il Comune passa sempre domani."
 
-Se la lanterna torna a funzionare prima di sera, la gente del vicolo reagisce in modo piccolo ma reale: qualcuno lascia una scodella di zuppa, qualcuno ringrazia da una finestra, un bambino prova a fare ombre con le mani sul muro.
+### Oriolo Candelaio
 
-Daria:
+Venditore di candele e lanterne economiche. Può fornire parti, olio o una lanterna nuova.
 
-"Ecco. Adesso almeno vediamo chi ci viene a rubare."
+Frasi:
 
-Se i player fanno un buon lavoro senza pretendere troppo:
+- "Nuova costa. Riparata dura. Improvvisata cade."
+- "In festa tutti vogliono luce davanti. Dietro, invece, ci si arrangia."
 
-"Non è molto, ma è più di quanto abbia fatto chi dovrebbe occuparsene."
+## Fase 1 - Capire Il Problema
 
-Esiti
+La lanterna è caduta perché il gancio era vecchio, ma qualcuno potrebbe averla urtata con un carico alto. Non è sabotaggio sofisticato.
 
-Successo pieno: la lanterna funziona. I residenti ricordano i player con favore.Successo parziale: la luce dura solo una notte. Daria paga comunque poco, ma chiede di non vantarsene.Fallimento: il vicolo resta buio. Nessuna grande conseguenza, ma un borseggiatore potrebbe colpire lì nei giorni successivi.Soluzione generosa: se i player pagano una lanterna nuova, Daria resta sorpresa e diffidente prima di essere grata.
+Prove:
 
-Rumore casuale senza significato
+- Percezione CD 10: la struttura è recuperabile.
+- Artigianato o Ingegneria CD 12: il gancio va sostituito.
+- Disattivare Congegni CD 13: smontare senza rompere il vetro rimasto.
+- Rapidità di Mano CD 12: recuperare stoppino e ghiera.
+- Atletica CD 11: fissare il nuovo gancio.
 
-- Un gatto nero osserva i player da una finestra e poi si addormenta.- Tre gocce cadono da un panno steso, una dopo l’altra. Non è un segnale.- Una bambina disegna una casa storta nel fango con un bastoncino.- Una vecchia litiga con un vaso di basilico perché non cresce bene.- Un topo attraversa il vicolo con un pezzo di stoffa in bocca. Non conduce da nessuna parte.- Il vento fa sbattere una persiana due volte.
+## Indagine Profonda
 
-DM Notes
+| Oggetto o Traccia | CD | Luogo | Presenza di Scontro | PNG Coinvolti | Implicazione | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Lanterna sbagliata fra le lanterne del festival | Percezione CD 15; Conoscenze locali CD 14 | Vicolo vicino a rotte festivalieri | Possibile se qualcuno viene seguito | [[Oriolo Candelaio]], testimoni del vicolo | Le decorazioni del festival possono nascondere segnali pratici | Può essere scambiata troppo presto per simbolismo cultuale |
+| Gancio sostituito con metallo troppo fragile | Artigianato CD 14 | Muro del vicolo | No | Oriolo, residenti | I materiali economici stanno peggiorando | Non prova sabotaggio |
+| Olio annacquato | Alchimia o Percezione CD 13 | Lanterna rotta | No | Oriolo | Persino le forniture comuni calano di qualità | È povertà e cattiva fornitura, non cospirazione diretta |
 
-Questa quest deve essere davvero normale. È utile proprio perché non tutto nella campagna deve essere trama. Permette ai player di usare abilità pratiche, Rapidità di Mano, Disattivare Congegni, Diplomazia e Artigianato senza creare un mistero.
+## Complicazione: Garzone Con Tavole
 
-Non trasformare la lanterna in simbolo. Non mettere cultisti. Non collegarla alla scarsità, se non in modo puramente urbano: il Comune è lento, i poveri aspettano, la gente si arrangia. Quest collegata a [[Veltharuun]]
+Mentre i personaggi lavorano, un garzone passa con assi per una bancarella e quasi urta scala o lanterna.
 
-Feeling finale:
+Prove:
 
-"Non tutte le quest cambiano la città. Alcune accendono solo una luce in un vicolo."
+- Riflessi/Acrobazia CD 12 per evitare che cada olio o vetro.
+- Diplomazia CD 11 per farlo aiutare.
+- Intimidire CD 12 per farlo fuggire, ma Daria disapprova.
+
+Se aiutato, il garzone dice:
+
+> "Ci fanno montare tutto di corsa. Le strade belle prima, i vicoli se resta tempo."
+
+## Soluzioni
+
+### Riparazione economica
+
+Usano i pezzi recuperati. Richiede Artigianato o Disattivare Congegni CD 13. La lanterna dura, ma resta brutta.
+
+### Sostituzione pulita
+
+Comprano o ottengono una lanterna da [[Oriolo Candelaio]]. Costa poche monete d'argento. I residenti sono sorpresi dalla generosità.
+
+### Soluzione temporanea
+
+Fissano una lanterna privata o una candela protetta da vetro. Funziona per una notte, ma Daria chiede una soluzione vera.
+
+## Esiti
+
+### Successo pieno
+
+Il vicolo è illuminato prima di sera. I residenti ricordano i personaggi con favore. In futuro possono offrire voci, riparo breve o un avviso.
+
+### Successo parziale
+
+La luce dura una notte. Daria paga poco ma non è scontenta.
+
+### Fallimento
+
+Il vicolo resta buio. Nei giorni successivi può diventare luogo adatto per borseggiatori, pedinamenti o piccole intimidazioni.
+
+## Ricompense
+
+- Piccola ricompensa in monete o cibo.
+- Favore dei residenti del vicolo.
+- Accesso a [[Oriolo Candelaio]] come contatto per candele, stoppini, olio, cera nera economica o lanterne difettose.
+
+## Rumore Casuale Senza Significato
+
+- Un gatto nero osserva i personaggi e si addormenta.
+- Una bambina disegna una casa storta nel fango.
+- Una vecchia litiga con un vaso di basilico.
+- Un topo attraversa il vicolo con stoffa in bocca.
+- Il vento fa sbattere una persiana due volte.
+
+## Note DM
+
+Non tutto deve puntare a Varro. Questa quest serve anche a ricordare ai giocatori che aiutare persone comuni cambia il modo in cui la città li vede.
+
+Se vuoi inserire una traccia, mantienila pratica: lanterne, olio, materiali scadenti, segnali di percorso. Non trasformarla in culto. La frase finale ideale è:
+
+> Oggi hanno acceso una luce. Domani potrebbero accorgersi di chi vuole spegnerne altre.
+
+## Scene Opzionali Per Allungare La Quest
+
+### Il Giro Da Oriolo
+
+Se i personaggi cercano pezzi migliori, mandali da [[Oriolo Candelaio]]. Il suo banco è una piccola montagna di candele, vetri, stoppini, ganci, olio e lanterne ammaccate.
+
+Frasi:
+
+- "Lanterne buonea Finite sulla strada grande."
+- "Lanterne decentia Finite ai banchi che pagano prima."
+- "Lanterne onestea Quelle le aggiusto io, quando la gente smette di rompere quelle cattive."
+
+Prove:
+
+- Valutare CD 12 per non pagare troppo.
+- Diplomazia CD 13 per ottenere olio gratis.
+- Artigianato CD 14 per riconoscere un gancio difettoso venduto in più punti della città.
+
+### Il Vicolo Dopo Il Tramonto
+
+Se i giocatori tornano dopo il tramonto o perdono tempo, mostra il problema in modo concreto. Una donna rientra con una brocca, inciampa nel punto buio e quasi cade. Due ragazzi più grandi aspettano sul fondo del vicolo, fingendo di non guardare nessuno.
+
+Opzioni:
+
+- Una buona luce li fa andare via.
+- Un confronto verbale richiede Diplomazia o Intimidire CD 13.
+- Se i personaggi ignorano la scena, il vicolo resta luogo di piccole paure.
+
+### La Lanterna Sbagliata
+
+Se vuoi usare la traccia del segnale pratico, una lanterna vicina ha vetro leggermente verdastro mentre le altre sono ambrate. Non è magia. Non è culto. È un segnale visivo facile da riconoscere da lontano.
+
+Prove:
+
+- Percezione CD 15 per notarla.
+- Conoscenze locali CD 14 per sapere che non è lo standard del quartiere.
+- Seguirne la direzione porta solo a una strada più trafficata, non a una tana.
+
+Uso: più avanti, se i personaggi vedono un'altra lanterna verdastra vicino a un magazzino o a un passaggio, capiranno che qualcuno usa le decorazioni del festival per orientarsi.
+
+## Persone Del Vicolo
+
+| Persona | Dettaglio | Uso |
+| --- | --- | --- |
+| Daria | Vedova pratica | Dà il lavoro e giudica il comportamento dei personaggi |
+| Bambina col bastoncino | Disegna case nel fango | Può ricordare chi passava con carichi alti |
+| Vecchia del basilico | Litiga dalla finestra | Sa quali vicoli restano bui ogni sera |
+| Garzone con tavole | Quasi causa un secondo incidente | Mostra la fretta del festival |
+
+## Agganci Futuri
+
+- I residenti possono nascondere i personaggi per pochi minuti durante un inseguimento.
+- Oriolo può riconoscere cera, stoppini o lanterne modificate.
+- Il vicolo può diventare un passaggio sicuro se i giocatori lo hanno aiutato.
+- Una futura intimidazione di Aulus' uomini può avvenire qui, con i residenti che avvisano i personaggi in anticipo.

@@ -7,105 +7,178 @@ tags:
 Day: "[[Day 01]]"
 NPCs:
   - "[[Publius - Apprentice]]"
+  - "[[Vera Salevivo]]"
 source:
   - Wazard/Shadows-over-Rome/phase 1/quests/Day1/Day1_Lost_Ledger.docx
   - Wazard/Shadows-over-Rome/phase 1/quests/props/lost ledger book
 ---
-
 # Lost Ledger near the Harbor
 
-Related prop: [[Lost Ledger Prop]]
+## Contesto di Calendario e Festival
 
-This is a short opening investigation. It should look like an apprentice losing an important document, while quietly introducing false records, cargo discrepancies, and planned scarcity.
+[[Day 01]] e Desnus 1, 3608. La citta apre il Breaching Festival con rumore, carretti, musici, tende provvisorie e contratti riscritti in fretta. Nel pomeriggio [[Il Veliero]] prepara una cena speciale, mentre al porto si sistemano casse per bancarelle, spezie, vini, stoppini, polveri da fuoco e materiali per i fuochi d'artificio della sera.
 
-## Quest Board Text
+La quest deve sembrare piccola: un apprendista ha perso un registro. Il valore reale e che il registro mostra, gia dal primo giorno, che alcune merci risultano assegnate prima di essere contate, alcune destinazioni sono state cambiate e certe mancanze sembrano previste invece che subite.
 
-Ledger lost near harbor - discreet help requested.
+Tono: indagine breve, nervosa, piena di dettagli ordinari. La citta e felice, ma il porto ha gia qualcosa che stride.
 
-A commercial ledger was lost near the port. Discreet recovery requested. Reward available if the book is returned, even damaged.
+## Testo per la Bacheca degli Incarichi
 
-Posted by: [[Publius - Apprentice]]  
-Payment: low.  
-Expected duration: 1.5-2 hours.  
-Tone: nervous, contained, investigative.
+**Registro smarrito presso il porto. Aiuto discreto richiesto.**
 
-## Real Premise
+Un registro commerciale e stato perso vicino alle banchine. Serve recuperarlo rapidamente, anche se danneggiato. Ricompensa modesta ma immediata. Discrezione apprezzata.
 
-Publius lost a compromised ledger. It contains numbers that do not match real cargo and notes about future cargo, some of which hint at planned shortages and assigned supplies before arrival.
+Firmato: [[Publius - Apprentice]]  
+Pagamento: basso, aumentabile se il registro torna leggibile.  
+Durata prevista: 1-2 ore.  
+Tono al tavolo: piccolo incarico, tensione nascosta.
 
-Publius does not know the full plan. He only knows the ledger is dangerous. He may have tried to ruin it with water, then panicked when he could not recover it cleanly.
+## Riassunto per il DM
 
-## Step 1 - Meeting Publius
+[[Publius - Apprentice]] ha perso un registro compromettente. Non e un grande cospiratore: e un ragazzo che ha visto numeri sbagliati e ha capito che quei numeri potevano rovinargli la vita. Il registro contiene righe su consegne del festival, casse assegnate a magazzini sbagliati, destinazioni abbreviate e note di priorita non firmate.
 
-Publius waits near [[Il Veliero]] or just outside the port. He is young, pale, better dressed than a dockworker but not as fine as a real merchant. His hands are ink-stained and he speaks too fast.
+Publius potrebbe aver fatto cadere il registro per sbaglio. Oppure potrebbe aver provato a bagnarlo per rendere illeggibili le righe piu pericolose. Non chiarirlo subito: lascia che i personaggi decidano quanto fidarsi di lui.
 
-Sample lines:
+La quest non deve nominare [[Gaius Varro]]. Deve solo piantare l'idea che la scarsita non nasce dal caos, ma da una mano che sa usare il caos.
 
-- "It is just a ledger. I mean... not just. It is important. But not dangerous. Not for you."
-- "I lost it near the port. I think. Maybe near the warehouses."
-- "If my superior learns I lost it, I am finished."
+## Scena di Apertura
 
-Checks:
+Publius aspetta vicino a una via laterale tra [[Il Veliero]] e il porto. Ha una tunica pulita ma macchiata d'inchiostro, le mani fredde e una borsa troppo vuota per contenere cio che dice di aver perso. Ogni volta che un portuale passa vicino, abbassa la voce.
 
-- Sense Motive / Insight DC 13: Publius is minimizing the problem.
-- Sense Motive / Insight DC 17: he fears consequences worse than being fired.
+Leggi o parafrasa:
 
-## Step 2 - Reconstructing The Route
+> L'odore del mare si mescola a quello del vino speziato, delle corde bagnate e della pece calda. Sopra le banchine, operai e musicisti litigano per lo stesso spazio. Un giovane con le dita nere d'inchiostro vi guarda come se foste arrivati troppo tardi, poi come se foste la sola cosa utile della giornata.
 
-Possible route:
+Publius prova a sembrare pratico. Fallisce.
 
-`register desk -> commercial pier -> side unloading area -> back of Il Veliero -> small warehouse -> water edge`
+Frasi utili:
 
-Investigation options:
+- "E solo un registro. Cioe, non solo. Ma non e pericoloso. Non per voi."
+- "Se il mio superiore scopre che l'ho perso, non mi licenzia. Mi cancella."
+- "Vicino all'acqua, credo. O vicino ai magazzini. O... vicino a entrambi."
 
-| Lead | Check | Information |
+## Motivazione di Publius
+
+Publius vuole recuperare il registro prima che lo faccia qualcun altro. Se i personaggi sono gentili, paga e collabora. Se lo pressano, comincia a contraddirsi. Se lo minacciano, potrebbe tentare di distruggere qualunque frammento leggibile.
+
+| Approccio dei PG | Risposta di Publius |
+| --- | --- |
+| Cortesia e calma | Ammette di aver gia cercato vicino all'acqua |
+| Pressione leggera | Dice che alcune righe "non erano state ricopiate bene" |
+| Minacce | Si chiude e offre solo mezza paga |
+| Promessa di discrezione | Rivela il percorso preciso fatto al mattino |
+| Accusa diretta di frode | Panico, poi bugie maldestre |
+
+Prove:
+
+| Prova | CD | Esito |
 | --- | --- | --- |
-| Reconstruct Publius's route | Persuasion or Sense Motive DC 12, DC 16 for the avoided point | He passed near the water and keeps avoiding that detail |
-| Ask dockworkers | Persuasion DC 13 or Intimidation DC 14 | He was already panicking before the ledger was "lost" |
-| Ask [[Il Veliero]] staff | Persuasion DC 12 | He kept looking over his shoulder |
-| Check the ground | Survival DC 14 or Perception DC 15, DC 17 for better read | Dry ink marks suggest the book was opened or handled near the water |
+| Intuizione | 13 | Publius minimizza il pericolo |
+| Intuizione | 17 | Teme conseguenze peggiori del licenziamento |
+| Diplomazia | 14 | Ottiene una descrizione migliore del registro |
+| Intimidire | 16 | Confessa che alcune righe "non dovevano esserci" |
+| Professione mercante o Valutare | 15 | Capisce quali parti di un registro commerciale sono piu sensibili |
 
-## Step 3 - Clues Near The Water
+## Ricostruire il Percorso
 
-The area is a side pier where port noise becomes lower. There are empty crates, rope scraps, fish stains, mud, and water under the boards.
+Publius e passato da un banco di registrazione, poi dal molo commerciale, poi da una zona di scarico laterale, poi dietro [[Il Veliero]], poi verso un piccolo magazzino e infine vicino all'acqua. La folla del festival ha coperto ogni passaggio.
 
-| Clue | Check | Surface Reading | Hidden Implication |
+Usa queste tappe come scene brevi, non come un labirinto.
+
+| Tappa | Dettaglio Visibile | Indizio |
+| --- | --- | --- |
+| Banco di registrazione | Ceralacca, liste, impiegati stanchi | Publius era gia nervoso prima di uscire |
+| Molo commerciale | Casse per bancarelle e cibo festivo | Alcuni numeri di carico sono stati corretti a mano |
+| Retro de [[Il Veliero]] | Botti, cuochi, camerieri in corsa | Publius si e fermato qui a rileggere una pagina |
+| Magazzino piccolo | Porta aperta, nessun sorvegliante stabile | Qualcuno ha visto il registro aperto |
+| Bordo dell'acqua | Fango, sale, assi scivolose | Il registro e stato bagnato o quasi gettato |
+
+## Testimoni
+
+### [[Vera Salevivo]]
+
+Vera ha visto Publius discutere con un uomo piu anziano. Non conosce il nome dell'uomo, ma ricorda un anello da ufficio, non da mercante. Non e una prova: e un'immagine.
+
+Frase:
+
+> "Il ragazzo non sembrava uno che aveva perso qualcosa. Sembrava uno che aveva trovato troppo."
+
+### Portuali senza nome
+
+I portuali non vogliono problemi. Durante il festival ogni minuto perso e paga persa. Possono confermare che Publius e tornato indietro due volte verso il molo laterale.
+
+### Cameriere de [[Il Veliero]]
+
+Un cameriere ha visto gocce d'acqua sul registro prima che Publius dicesse di averlo perso. Non sa se fossero pioggia, mare o mani bagnate.
+
+## Trovare il Registro
+
+Il registro non e intero. A seconda del ritmo, puoi far trovare:
+
+- il libro completo ma gonfio d'acqua;
+- la copertina con alcune pagine strappate;
+- una pagina quasi leggibile incastrata sotto una cassa;
+- frammenti separati che vanno ricomposti.
+
+| Indizio | Prova | Lettura Superficiale | Verita Nascosta |
 | --- | --- | --- | --- |
-| Diluted ink stains | Perception DC 12, Investigation DC 14 | book got wet | possibly wet on purpose |
-| Light drag marks | Perception DC 13 or Survival DC 14 | someone moved the book | book was retrieved or nearly retrieved from water |
-| Torn page | Perception DC 15 | damaged ledger | cargo discrepancy fragment |
-| Nervous witness | Persuasion DC 13 | Publius searched frantically | Publius knew where to look |
-| Uneven water damage | Investigation DC 16 | accidental fall | possible attempt to destroy selected pages |
-| Almost unreadable future cargo notes | Investigation or Linguistics DC 18 | ruined notes | planned shortage / preassigned cargo hint |
+| Inchiostro diluito | Percezione CD 12 | Il registro e caduto in acqua | Alcune pagine sono state bagnate piu di altre |
+| Segni di trascinamento | Percezione o Sopravvivenza CD 14 | Qualcuno lo ha spostato | Il libro e stato recuperato, poi lasciato di nuovo |
+| Pagina strappata | Percezione CD 15 | Danno accidentale | La pagina conteneva numeri di destinazione |
+| Iniziali ripetute | Linguistica CD 16 | Codici commerciali | Le stesse iniziali tornano in carichi non collegati |
+| Note future | Linguistica o Professione mercante CD 18 | Pianificazione ordinaria | Alcune merci risultano assegnate prima dell'arrivo |
 
-## Resolution
+## Indizi di Indagine Profonda
 
-If the players find the ledger, Publius is relieved but visibly tense.
+| Oggetto o Pista | CD | Luogo | Presenza di Scontro | PNG Coinvolti | Implicazione | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Frammento umido con numeri di spedizione festiva | Percezione CD 13; Linguistica CD 14; Valutare o Professione mercante CD 15 | Vicino a [[Il Veliero]] o lungo la rotta del porto | No | [[Publius - Apprentice]], [[Vera Salevivo]] | I registri sono gia sbagliati su Desnus 1 | Publius puo distruggere i frammenti se pressato male |
+| Iniziali di destinazione ripetute | Linguistica CD 16; Conoscenze locali CD 15 | Frammento strappato | No | [[Publius - Apprentice]] | Codici identici appaiono su merci non collegate | E una traccia di schema, non una prova legale |
+| Macchia di ceralacca senza sigillo | Percezione CD 14; Artigianato o Professione scrivano CD 15 | Copertina del registro | No | Impiegati portuali | Qualcuno ha rimosso un contrassegno ufficiale | Accusare subito un ufficio chiude molte bocche |
 
-Sample line:
+## Complicazioni Opzionali
 
-> "You found it... good. Good. Even ruined. Better ruined than lost."
+### Il Ragazzo Vuole Bruciare Una Pagina
 
-If asked why ruined is better, he gives a weak answer: "At least I can prove I did not steal it."
+Se i personaggi trovano una pagina molto leggibile davanti a Publius, lui allunga la mano per strapparla. Non lo fa per cattiveria: crede che leggere quella riga lo condanni.
 
-Checks:
+### Un Impiegato Cerca il Registro
 
-- Sense Motive / Insight DC 14: the answer is badly prepared.
-- Sense Motive / Insight DC 17: Publius is genuinely relieved the contents are hard to read.
-- Diplomacy or Intimidation DC 17 with evidence: he admits some lines in the ledger "were not supposed to be there."
+Un uomo con mantello sobrio arriva al porto chiedendo del registro. Non da nome. Se interrogato, dice di lavorare "per chi tiene i conti puliti". Non combatte; sparisce nella folla.
 
-If the players copy useful fragments, they can recognize similar record discrepancies in later quests.
+### La Folla Copre Tutto
 
-## Failure
+Una prova fallita puo non significare "non trovi nulla", ma "trovi qualcosa mentre passa una processione di musici e perdi il testimone che stavi seguendo".
 
-If the players do not find the book but find at least two clues, Publius pays half and remains a fragile future contact.
+## Esiti
 
-If they fail hard or threaten him, he avoids them for 1-2 days and future records may be cleaned faster.
+### Successo Pulito
 
-## GM Notes
+I PG recuperano il registro o abbastanza frammenti. Publius paga pieno. Se sono discreti, diventa un contatto fragile per future questioni di documenti.
 
-Publius is not a major conspirator. He is frightened because he saw enough to know the records are dangerous, but not enough to explain [[Gaius Varro|Varro]]'s Plan - Act 1.
+### Successo con Copia
 
-Feeling if successful: "It was only a lost ledger, but someone had good reason not to want it readable."
+I PG copiano una riga prima di restituire il registro. In futuro potranno confrontarla con altre consegne. Questo dovrebbe premiare la prudenza.
 
-Feeling if failed: "We did not find the book, but Publius was far too afraid for this to be only paperwork."
+### Successo Duro
+
+I PG minacciano Publius ma ottengono la verita. Publius paga, ma li evita per 1-2 giorni. Le prove future potrebbero sparire piu in fretta.
+
+### Fallimento Utile
+
+Il registro non viene recuperato, ma i PG trovano almeno due indizi. Publius paga meta. La sensazione corretta e: "Non abbiamo il libro, ma qualcuno ha paura di quei numeri."
+
+## Ricompense
+
+- Pagamento basso.
+- Possibile favore minore di Publius.
+- Una riga o frammento utile per collegare futuri errori di carico.
+- Voce: alcuni magazzini stanno ricevendo priorita non firmate.
+
+## Note DM
+
+Non trasformare Publius in un cattivo. La sua utilita e morale: mostrare che anche gli ingranaggi piccoli sanno quando una macchina sta schiacciando qualcuno.
+
+Non nominare Varro. Non nominare Cassian. Non spiegare il piano. Il primo giorno deve avere piu atmosfera che risposte.
+
+Sensazione finale: "Era solo un registro perso, ma il modo in cui tutti lo temono dice che i numeri valgono piu del denaro."

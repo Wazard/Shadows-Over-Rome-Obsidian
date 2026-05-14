@@ -7,6 +7,12 @@ tags:
 
 # Day 03
 
+## Calendar And Festival Frame
+
+- Date: Desnus 3, 3608.
+- Festival state: Breaching Festival week. Markets, music, performers, pilgrims, and caravans crowd the city; every shortage is more public because everyone is in the streets.
+
+
 Main beat: disappearances begin behind the economic noise.
 
 - Primary quests: [[Merchant Refuses Delivery]], [[Official Transport Escort]]

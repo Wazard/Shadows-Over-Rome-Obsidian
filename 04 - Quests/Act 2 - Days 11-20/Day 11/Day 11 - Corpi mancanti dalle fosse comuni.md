@@ -15,6 +15,14 @@ source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/quests/Day11_Corpi_mancanti_d
 ---
 # Day 11 - Corpi mancanti dalle fosse comuni
 
+## Festival Calendar Context
+
+- Calendar: [[Day 11]] is Desnus 11, 3608.
+- Remembrance Moon deepens: festival brightness gives way to vigils, memorial processions, family gatherings, and public grief that Marcia can shape without calling for open rebellion.
+- Festival use: Remembrance Moon makes missing bodies a civic wound, not only an investigation.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 2/quests/Day11_Corpi_mancanti_dalle_fosse_comuni.docx`

@@ -6,11 +6,19 @@ tags:
   - source/reference-doc
 Day: "[[Day 15]]"
 NPCs:
-  - "[[Cassian Luro]]"
+  - "[[Cassian Rulfo]]"
   - "[[Diego]]"
 source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/quests/Day15_Caravan_Escalation.docx"
 ---
 # Day 15 - Caravan Escalation
+
+## Festival Calendar Context
+
+- Calendar: [[Day 15]] is Desnus 15, 3608.
+- Remembrance Moon deepens: festival brightness gives way to vigils, memorial processions, family gatherings, and public grief that Marcia can shape without calling for open rebellion.
+- Festival use: late-arriving caravans now carry more than trade goods; public celebration has become cover for armed preparation.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
 
 ## Source Migration
 
@@ -26,7 +34,7 @@ HOOK – QUEST BOARD
 
 START – DEPARTURE
 
-Location: City GatesNPC: Cassian Luro (same handler as before)Behavior change:- More tense- Less talkativeDIALOGUE:"Stay focused. No delays this time."
+Location: City GatesNPC: Cassian Rulfo (same handler as before)Behavior change:- More tense- Less talkativeDIALOGUE:"Stay focused. No delays this time."
 
 CARAVAN DETAILS
 

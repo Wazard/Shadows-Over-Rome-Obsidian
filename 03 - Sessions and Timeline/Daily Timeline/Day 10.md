@@ -7,6 +7,12 @@ tags:
 
 # Day 10
 
+## Calendar And Festival Frame
+
+- Date: Desnus 10, 3608.
+- Festival state: Late Breaching Festival. The city is still celebrating, but exhaustion, price pressure, and suspicious logistics now show through the spectacle.
+
+
 Main beat: Act 1 resolves into a power shift.
 
 - City mood: Government Hill secured, city divided.

@@ -14,13 +14,27 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Escort_Required_Offic
 ---
 # Official Transport Escort
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Unregistered delivery permit with blurred noble-house seal | Perception DC 15; Knowledge Nobility DC 18 | Caravan staging lane | No at first; guards intervene if stolen | [[Erca Corrivia]], gate clerks, merchant porters | A noble patron benefits from temporary festival permits | A bad copy points to the wrong noble house |
+
+- Calendar: [[Day 03]] is Desnus 3, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: official traffic competes with processions, performers, pilgrims, and caravan wagons.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day3/Day3_Escort_Required_Official_Transport.docx`
 
 Giorno 3 Quest – Escort Required: Official Transport
 
-Funzione della quest: questa è la quest principale del Giorno 3 e la prima apparizione diretta di Varro. Deve sembrare una scorta amministrativa noiosa ma ben pagata, con un tragitto stranamente agevole dentro la città e un assalto casuale fuori dalle mura. Il vero obiettivo di Varro è triplo: introdurre monete false nel mercato, far arrivare documenti al palazzo governativo, caricare merci extra nei magazzini e far perdere parte del carico fuori città tramite un assalto simulato. I player devono chiedersi: “Perché ci hanno assunti dall’inizio se in città tutto fila così liscio?”
+Funzione della quest: questa è la quest principale del Giorno 3 e la prima apparizione diretta di [[Gaius Varro|Varro]]. Deve sembrare una scorta amministrativa noiosa ma ben pagata, con un tragitto stranamente agevole dentro la città e un assalto casuale fuori dalle mura. Il vero obiettivo di Varro è triplo: introdurre monete false nel mercato, far arrivare documenti al palazzo governativo, caricare merci extra nei magazzini e far perdere parte del carico fuori città tramite un assalto simulato. I player devono chiedersi: “Perché ci hanno assunti dall’inizio se in città tutto fila così liscio?”
 
 Hook sulla Quest Board
 
@@ -28,7 +42,7 @@ Escort required – official transport
 
 Si richiedono guardie affidabili per accompagnare un trasporto mercantile autorizzato attraverso più distretti cittadini e oltre il Cancello Nord. Pagamento alto a consegna completata. Discrezione richiesta.
 
-Postata da: Marcus Livius, incaricato del carico.
+Postata da: [[Marcus Livius]], incaricato del carico.
 
 Pagamento: alto.
 
@@ -90,7 +104,7 @@ Investigation CD 19:
 
 La traccia potrebbe essere ciò che resta di un simbolo disegnato, ma è troppo parziale per capirlo.
 
-Importante: non dire “culto”. Qui deve sembrare sporco, nota di scarico o segno da magazzino.
+Importante: Qui deve sembrare sporco, nota di scarico o segno da magazzino.
 
 5. Magazzino corretto
 
@@ -194,7 +208,7 @@ Scena
 
 Appena la carovana esce dal distretto nobiliare, una piccola folla blocca la strada. Non sono briganti. Sono cittadini, lavoratori, piccoli venditori, poveri urbani. Sono arrabbiati per la disparità evidente.
 
-Descrizione: la folla non è grande, ma è compatta. Non hanno armi vere, solo bastoni, ceste, mani vuote e facce stanche. Guardano il carro, poi guardano il cancello nobiliare alle vostre spalle.
+Descrizione: `la folla non è grande, ma è compatta. Non hanno armi vere, solo bastoni, ceste, mani vuote e facce stanche. Guardano il carro, poi guardano il cancello nobiliare alle vostre spalle.`
 
 Richiesta della folla
 

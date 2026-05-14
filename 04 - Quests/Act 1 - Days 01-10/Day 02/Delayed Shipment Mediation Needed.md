@@ -17,391 +17,223 @@ NPCs:
   - "[[Vibius Panciotto Ennio]]"
 source: "Wazard/Shadows-over-Rome/phase 1/quests/Day2/Day2_Varro_Delayed_Shipment_Mediation_Needed.docx"
 ---
-# Delayed Shipment Mediation Needed
+# Mediazione per Carico in Ritardo
 
-## Source Migration
+## Contesto di Calendario e Festival
 
-Source file: `phase 1/quests/Day2/Day2_Varro_Delayed_Shipment_Mediation_Needed.docx`
+- Calendario: [[Day 02]] è Desnus 2, 3608.
+- Stato della città: seconda giornata piena del Breaching Festival. Le strade sono piene di bancarelle provvisorie, carovane in ingresso, facchini assunti a giornata, musicisti, venditori di cibo e clienti impazienti.
+- Uso al tavolo: entrambi i lati danno la colpa al traffico del festival, ma il ritardo espone quanto sia fragile la catena logistica della città.
+- Tono: commerciale, irritato, burocratico. Non deve sembrare ancora una prova contro [[Gaius Varro]]. Deve sembrare un sistema che comincia a funzionare in modo diseguale.
 
-Giorno 2 Quest – Delayed Shipment, Mediation Needed
+## Testo per la Bacheca degli Incarichi
 
-Funzione della quest: questa è la quest principale del Giorno 2. Deve mostrare che i ritardi nei carichi non sono ancora percepiti come corruzione, ma come disorganizzazione, incompetenza o litigio tra mercanti. I player devono inizialmente pensare che i mercanti colpiti stiano esagerando o abbiano sbagliato procedura. Solo se proseguono oltre la mediazione devono capire il primo vero pattern: non tutti i carichi vengono trattati allo stesso modo.
-
-Hook sulla Quest Board
-
-Delayed shipment – mediation needed
+**Mediazione richiesta per carico in ritardo**
 
 Un carico regolarmente atteso non è stato consegnato nei tempi stabiliti. Si richiede presenza neutrale per chiarire una disputa tra mercanti e magazzini. Pagamento a mediazione conclusa.
 
-Postata da: Vibius Panciotto Ennio. Gnomo
+Postata da: [[Vibius Panciotto Ennio]].  
+Pagamento: basso-medio.  
+Durata prevista: 3 ore se chiusa in mediazione, 4-5 ore se investigata a fondo.
 
-Pagamento: basso-medio.
+## Riassunto per il DM
 
-Durata prevista: 3 ore se chiusa in mediazione, 4–5 ore se investigata.
+[[Vibius Panciotto Ennio]] ha pagato un trasporto festivaliero di conserve, olio da cucina, stoviglie economiche e piccoli utensili destinati a stand temporanei. Il carico è formalmente arrivato nel circuito dei magazzini, ma non è stato consegnato al suo spazio. I registri non dicono "rubato" o "perso": dicono "rinviato per priorità superiore".
 
-Tono: commerciale, irritato, apparentemente banale, antipatico.
+Il trucco non è ancora dimostrabile. Alcuni carichi ricevono precedenza grazie a note, sigilli o autorizzazioni non standard. I piccoli mercanti sembrano disorganizzati; i mercanti più protetti sembrano semplicemente più professionali. La verità è che il sistema viene inclinato per far perdere fiducia nella distribuzione ordinaria.
 
-Fase 1 – Presa in carico della quest
+Questa quest deve dare ai giocatori una prima frase mentale importante:
 
-Scena iniziale
+> Non tutti stanno aspettando secondo le stesse regole.
 
-I player incontrano il richiedente presso un magazzino secondario, non al porto. Il luogo è pieno di casse ordinate, carrettieri in attesa e piccoli mercanti irritati. Non c’è panico. C’è burocrazia, frustrazione e gente che ha perso tempo e denaro.
+## Apertura della Scena
 
-NPC principale – Vibius Ennio
+Il magazzino secondario non ha l'aspetto di un covo criminale. È un cortile lungo, stretto, con colonne di casse accatastate, muletti, corde, sacchi di paglia e due file di carri che avanzano a scatti. Dalle strade vicine arrivano tamburi, canti, odore di focacce speziate e richiami di venditori. Dentro il cortile, invece, nessuno canta.
 
-Piccolo mercante di beni alimentari conservati e materiali da cucina. Non è povero, ma non ha protezioni alte. Sta perdendo clienti perché il suo carico non arriva.
+Leggi o parafrasa:
 
-Dialoghi:
+> Il Breaching Festival passa appena oltre il muro del magazzino come una festa vista attraverso una finestra sporca. Sentite musica, risa e il colpo secco di un martello che monta una bancarella. Qui dentro, però, l'aria sa di sudore, cera da sigillo e rabbia trattenuta. Tre mercanti parlano sopra la voce l'uno dell'altro davanti a un registro chiuso. Un carrettiere guarda il cielo come se sperasse in una pioggia capace di sciogliere tutti i documenti.
 
-"Ecco, qualcuno dallo sguardo serio. Prego, diteci chiaramente chi ha sbagliato."
+## Punti di Interesse
 
-"Il carico era registrato. Il trasporto era pagato. Il magazzino era avvisato. Eppure, quando tocca a me, nessuno sa niente."
+### Cortile dei Carri in Attesa
 
-"Se ho torto, pago eh, e sto pure zitto. Ma voglio che qualcuno lo dica davanti a tutti."
+Il cortile è una striscia di pietra consumata tra due magazzini bassi. I carri entrano da un arco stretto, si fermano davanti a un banco di registrazione e poi vengono spinti a mano verso le zone di scarico. Durante il festival il cortile è troppo pieno: ruote incastrate, muli nervosi, facchini che saltano sopra corde tese e mercanti che urlano numeri invece di nomi.
 
-Cosa si pensa sia successo
+Usalo per mostrare pressione logistica. Qui i PG possono vedere chi aspetta davvero e chi viene fatto passare avanti.
 
-- Il carico è in ritardo.- Probabilmente il mercante richiedente ha sbagliato registrazione.- Forse il carico è stato assegnato a un altro magazzino.- Forse il trasportatore ha perso tempo lungo la strada.- Non sembra un furto.
+Dettagli utili:
 
-Prima impressione corretta per i player
+- una fila di carri con gessetti diversi sulle ruote;
+- una macchia di olio dove un carro è rimasto fermo troppo a lungo;
+- un facchino che conosce la posizione di ogni carico ma non osa parlare;
+- due casse identiche con sigilli diversi;
+- una tenda festivaliera montata male che restringe ancora di più l'accesso.
 
-I player devono pensare: "Sembra una disputa commerciale. Forse Vibius ha sbagliato qualcosa e vuole scaricare la colpa."
+Possibili prove:
 
-Primo punto osservazione
+| Azione | CD | Risultato |
+| --- | --- | --- |
+| Osservare l'ordine reale dei carri | Percezione CD 13 | L'ordine di scarico non corrisponde alla fila |
+| Parlare con i facchini | Diplomazia CD 14 | Qualcuno ammette che certi carri "hanno precedenza" |
+| Controllare i gessetti sulle ruote | Professione mercante CD 13 | Alcuni segni indicano categorie non ufficiali |
 
-Durante la presa in carico, un uomo seduto su alcune casse osserva la scena troppo a lungo.
+### Banco dei Registri
 
-Perception CD 14:
+Il banco è una tavola lunga, lucidata dall'uso, piena di tavolette cerate, corde per sigilli, coltelli da ceralacca e pesi di pietra usati per tenere ferme le pergamene. Sembra ordinato solo da lontano: da vicino ogni lista ha correzioni, raschiature e note laterali.
 
-Successo: noti un uomo con mantello corto e mani pulite per essere un lavoratore. Sta guardando più voi che la discussione. Quando incrocia il tuo sguardo, si alza e si allontana senza fretta.
+Questo è il punto migliore per far capire ai giocatori che la carta non mente in modo vistoso. La carta piega la realtà con formule rispettabili.
 
-Se seguito o affrontato:
+Dettagli utili:
 
-"Sto aspettando un carico, come tutti."
+- una formula ripetuta: "rinviato per priorità superiore";
+- cera di due colori sullo stesso carico;
+- un angolo raschiato dove una firma è stata rimossa;
+- un impiegato che copre una riga con la mano prima di rispondere;
+- una pila di registri vecchi chiusa con una corda troppo nuova.
 
-Sense Motive CD 15: sta mentendo sul motivo per cui è lì, ma non sembra pronto a combattere.
+### Corsia delle Merci Prioritarie
 
-Se pressato troppo: si allontana verso una strada laterale e si perde nella folla.
+Non è segnata da cartelli. È solo uno spazio laterale più pulito, più sorvegliato e meno affollato. Le casse qui sono legate meglio, hanno sigilli più freschi e vengono caricate su carri con uomini meno stanchi.
 
-Fase 2 – Ascolto dei racconti discordanti
+Questa corsia deve far nascere sospetto senza dare prova. Non è illegale avere priorità. Il problema è chi la concede.
 
-Struttura: i player ascoltano almeno 7 racconti. Devono essere discordanti, incompleti e parziali. Alcuni devono far sembrare i mercanti colpiti incompetenti o lamentosi. Non ci deve essere un NPC che spiega il pattern.
+Dettagli utili:
 
-Racconto 1 – Vibius Panciotto Ennio, mercante colpito
+- casse festivalieri con stoviglie e olio sistemate prima di merci alimentari urgenti;
+- un carrettiere che finge di non sapere per chi lavora;
+- un sigillo non nobiliare ma troppo elegante per un piccolo magazzino;
+- un uomo con mani pulite che non porta nulla ma guarda tutto.
 
-"Il mio carico doveva arrivare ieri mattina. Ho pagato il trasporto, ho mandato due uomini al magazzino, ho registrato tutto. Poi mi dicono che non c’è spazio. Non c’è spazio? Per casse già previste?"
+### Muretto dei Mercanti Irritati
 
-Tono: frustrato, personale.
+Sul lato ombreggiato del cortile, i piccoli mercanti aspettano seduti su casse vuote. Qui si raccolgono lamentele, mezze verità e voci. Nessuno vuole accusare un potente; tutti vogliono che qualcun altro dica per primo che il sistema è truccato.
 
-Cosa suggerisce: il magazzino ha cambiato priorità.
+Usalo come spazio sociale. Se i PG parlano bene, ottengono contesto. Se arrivano con arroganza, ricevono solo lamentele inutili.
 
-Percezione iniziale: Vibius potrebbe essere disorganizzato.
+## PNG Principali
 
-Racconto 2 – Maro Silanus, umano, mercante colpito
+### Vibius Panciotto Ennio
 
-"Anche a me è successo. Prima mi dicono: aspetta. Poi: torna domani. Poi scopro che un altro carico è entrato al posto mio. Stessa merce, stesso settore. Ma il suo è entrato."
+Mercante halfling di alimenti, stoviglie e materiali da cucina. Non è povero, ma non ha protezioni alte. È abbastanza abile da sapere quando un errore non è più un errore.
 
-Tono: amareggiato.
+Frasi:
 
-Cosa suggerisce: precedenza selettiva.
+- "Il carico era registrato. Il trasporto era pagato. Il magazzino era avvisato. Eppure, quando tocca a me, nessuno sa niente."
+- "Se ho torto, pago e sto zitto. Ma voglio che qualcuno lo dica davanti a tutti."
+- "Non mi serve giustizia poetica. Mi serve sapere dove sono finite le mie casse."
 
-Percezione iniziale: sta facendo paragoni senza prove.
+### Maro Silanus
 
-Racconto 3 – Larto Vero, halfling, mercante colpito
+Mercante indipendente più ruvido, abituato alle strade interne. Ha perso tempo e denaro perché un altro carro è entrato prima del suo.
 
-"Io ho sbagliato una volta un timbro. Una volta. Da allora ogni mio carico viene controllato due volte. Però altri passano senza aprire una cassa."
+Frasi:
 
-Tono: paranoico, ma forse non del tutto.
+- "Prima mi dicono aspetta. Poi torna domani. Poi scopro che un altro carico è entrato al posto mio."
+- "Stessa merce, stesso settore. Ma il suo è entrato."
 
-Cosa suggerisce: controlli mirati.
+### Larto Vero
 
-Percezione iniziale: potrebbe avere cattiva reputazione.
+Panettiere halfling. Ha già avuto problemi con timbri e controlli, quindi tutti lo trattano come se fosse sempre colpa sua.
 
-Racconto 4 – Octavius Brenno, Gioielliere
+Frasi:
 
-"Consegne regolari da parte mia. Se i documenti sono corretti, i carichi arrivano. Forse qualcuno dovrebbe imparare a compilare meglio i registri."
+- "Ho sbagliato un timbro una volta. Una. Da allora il mio pane viene contato come se nascondessi armi."
+- "Altri passano senza aprire una cassa."
 
-Tono: calmo, superiore.
+### Titus Falco
 
-Cosa suggerisce: i colpiti sono incompetenti.
+Magazziniere importante, formalmente corretto e molto attento alle parole.
 
-Verità parziale: Octavius non ha canali preferenziali, ma essendo umano non viene colpito subito.
+Frasi:
 
-Racconto 5 – Flavius Corvin, umano, Mercante di pozioni e oggetti magici
+- "Il carico di Vibius non è stato respinto. È stato rinviato. Sono cose diverse."
+- "Sulla carta è tutto regolare."
+- "Chi lavora con ordine riceve ordine. Gli altri ricevono conseguenze."
 
-"I ritardi capitano. Ultimamente più spesso, certo. Ma io non ho avuto problemi seri. Forse perché non lavoro con trasportatori improvvisati."
+## Struttura della Quest
 
-Tono: diplomatico.
+### Fase 1 - Ascoltare le Parti
 
-Cosa suggerisce: problema di qualità dei contatti.
+Lascia che i giocatori ascoltino almeno tre versioni prima di tirare conclusioni. Ogni versione deve sembrare parziale.
 
-Verità parziale: sa che alcuni carichi vengono trattati meglio, ma non vuole parlarne.
+| Testimone | Cosa Dice | Cosa Sembra | Cosa Nasconde |
+| --- | --- | --- | --- |
+| [[Vibius Panciotto Ennio]] | Il carico era previsto e non è arrivato | Mercante irritante che vuole ragione | È davvero stato scavalcato |
+| [[Maro Silanus]] | Un carro simile è entrato dopo il suo ma prima del suo | Gelosia commerciale | C'è precedenza selettiva |
+| [[Larto Vero]] | Alcuni vengono controllati due volte, altri mai | Paranoia da piccolo mercante | I controlli sono mirati |
+| [[Octavius Brenno]] | Se i documenti sono corretti, i carichi arrivano | Efficienza | Non è ancora colpito dal sistema |
+| [[Flavius Corvin]] | I ritardi capitano | Diplomazia | Sa più di quanto voglia dire |
+| [[Publius Nerva]] | "Noi seguiamo l'ordine che ci danno" | Burocrazia normale | La nota di priorità è la chiave |
+| Carrettiere | Un carro con più sigilli è entrato prima | Testimonianza confusa | Ha visto una priorità non standard |
 
-Racconto 6 – Publius Nerva, Magazziniere addetto ai turni
+## Indizi Principali
 
-"Noi seguiamo l’ordine che ci danno. Se arriva una nota di priorità, quel carico passa prima. Non decido io."
+| Indizio | Prova | Risultato |
+| --- | --- | --- |
+| Spazio di Vibius occupato | Investigazione CD 12 | Il posto riservato è stato riempito da merci simili con altri sigilli |
+| Registro "rinviato" | Linguistica o Professione scriba CD 14 | Non risulta respinto, ma rinviato per priorità superiore |
+| Formula ricorrente | CD 17 sul registro | La stessa frase è stata usata più volte |
+| Carro di Maro ancora fermo | Percezione CD 13 | Non è mai stato scaricato, solo spostato di fila |
+| Tavoletta modificata | Investigazione CD 15 | La priorità è stata aggiunta dopo la registrazione iniziale |
+| Documenti troppo completi | Investigazione CD 16 | Alcuni mercanti hanno autorizzazioni extra non standard |
 
-Tono: pratico, difensivo.
+## Indizi di Indagine Profonda
 
-Cosa suggerisce: esiste una priorità, ma sembra normale.
+| Oggetto o Traccia | CD | Luogo | Presenza di Scontro | PNG Coinvolti | Implicazione | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Moneta contraffatta calda nel sacchetto di pagamento | Valutare CD 14; Percezione CD 16; Conoscenze locali CD 15 | Ufficio consegne o banco festivaliero | No | [[Vibius Panciotto Ennio]], impiegato di consegna | Le irregolarità monetarie stanno entrando nel commercio del festival | Accusare il mercante sbagliato crea una scena pubblica |
+| Nota di priorità senza firma | Linguistica CD 15 | Registro del magazzino | No | [[Publius Nerva]], [[Titus Falco]] | Qualcuno assegna precedenze senza dichiarare autorità | Copiarla male rende la prova contestabile |
+| Osservatore con mani pulite | Percezione CD 14; Intuizione CD 15 | Casse laterali del cortile | No, fugge se pressato | [[Tarlo]] o altro osservatore minore | Qualcuno controlla chi fa domande | Se seguito, avvisa contatti nei magazzini |
 
-Punto chiave: "nota di priorità".
+## Complicazione Sociale
 
-Racconto 7 – Carrettiere
+Se i giocatori accusano subito un mercante o un magazziniere, fai salire la tensione. I festivalieri nel cortile non vogliono una rissa, ma sono già nervosi.
 
-"Io porto dove mi dicono. Ieri ho aspettato due ore con Vibius, poi mi hanno mandato via. Dopo dieci minuti hanno fatto entrare un altro carro. Non so di chi fosse. Aveva più sigilli del solito."
+Prove utili:
 
-Tono: stanco, non coinvolto.
+- Diplomazia CD 14 per riportare la discussione sui fatti.
+- Intimidire CD 15 per far tacere tutti, ma peggiorare i rapporti.
+- Raggirare CD 15 per fingere autorità e ottenere accesso breve a un registro.
+- Professione mercante CD 14 per spiegare perché la priorità non è normale.
 
-Cosa suggerisce: carichi simili trattati diversamente.
+Fallimento: arriva una guardia di magazzino e dichiara la questione "disputa privata". I giocatori possono ancora investigare, ma senza collaborazione.
 
-Percezione iniziale: forse non ha visto bene.
+## Se I Giocatori Si Fermano Alla Mediazione
 
-Racconto 8 opzionale – Titus Falco, umano, Magazziniere importante
+Esito valido, ma debole. Vibius ottiene forse uno sconto o una promessa di consegna futura. Il sistema non viene scalfito.
 
-"Sulla carta è tutto regolare. Il carico di Vibius non è stato respinto. È stato rinviato. Sono cose diverse."
+Conseguenze:
 
-Tono: burocratico.
+- Vibius paga metà.
+- [[Titus Falco]] considera i personaggi facili da gestire.
+- Il giorno dopo altri mercanti useranno la parola "priorità" come se fosse normale.
 
-Cosa suggerisce: cavillo amministrativo.
+## Se I Giocatori Investigano A Fondo
 
-Importante: non sta necessariamente mentendo.
-
-Fase 3.0 – I player decidono di proseguire
-
-Obiettivo: se i player non si accontentano della mediazione, vanno nei luoghi citati: magazzini, zona carovane, zona scarico interna. Non al porto. Devono raccogliere prove per capire che alcuni carichi hanno precedenza sistematica.
-
-Devono visitare almeno: luogo del mercante colpito Vibius, luogo di un secondo mercante colpito, luogo di un mercante non colpito/fedele.
-
-Luogo 1 – Magazzino assegnato a Vibius
-
-Descrizione: magazzino secondario, ordinato ma pieno. Le casse di Vibius non ci sono. Lo spazio dove dovevano andare è occupato da merci simili, ma con sigilli diversi.
-
-Prova 1 – Spazio occupato da altro carico
-
-Investigation CD 12:
-
-Successo: lo spazio riservato a Vibius non è vuoto. È stato riempito da un altro carico dopo l’orario previsto.
-
-Con CD 15: il carico sostitutivo è entrato dopo, ma risulta registrato come prioritario.
-
-Prova 2 – Registro dei turni
-
-Linguistics / Professione scriba / Knowledge local CD 14:
-
-Successo: il registro non dice “respinto”. Dice “rinviato per priorità superiore”.
-
-Con CD 17: la formula è troppo precisa per essere casuale. Sembra una dicitura usata più volte.
-
-Prova 3 opzionale – Rapidità di Mano
-
-Sleight of Hand CD 15:
-
-Successo: i player riescono a copiare rapidamente una nota di priorità senza farsi vedere.
-
-Fallimento: lo scriba nota il gesto e chiude subito il registro.
-
-Luogo 2 – Zona carovane di Maro Silanus
-
-Descrizione: area di scarico per merci provenienti dalle strade interne. Carri fermi, animali stanchi, uomini irritati. Qui non c’è furto: c’è attesa forzata.
-
-Prova 1 – Carro rimasto fuori turno
-
-Perception CD 13:
-
-Successo: il carro di Maro è ancora lì, con il carico coperto e legato. Non sembra scaricato né ispezionato.
-
-Prova 2 – Ordine di ingresso alterato
-
-Sense Motive su capocarovana CD 14:
-
-Successo: il capocarovana è arrabbiato, ma non con Maro. Sembra convinto che qualcuno abbia cambiato l’ordine dall’alto.
-
-Dialogo:
-
-"Noi eravamo i prossimi. Poi arriva uno con una tavoletta sigillata e tutti cambiano faccia."
-
-Prova 3 – Sigillo di priorità
-
-Investigation CD 15:
-
-Successo: su una tavoletta di smistamento notate un segno aggiunto dopo la registrazione iniziale. Non è un errore: è una modifica.
-
-Luogo 3 – Zona scarico interna di Octavius Brenno, mercante non colpito
-
-Descrizione: questa zona è più pulita, più controllata. Meno persone urlano, meno carri aspettano. Il carico di Octavius è stato scaricato senza problemi.
-
-Prova 1 – Documenti perfettamente in ordine
-
-Investigation CD 12:
-
-Successo: i documenti sono completi, sigillati e approvati. Tutto appare regolare.
-
-Con CD 16: sono fin troppo completi rispetto agli altri. Ci sono autorizzazioni che gli altri mercanti non avevano.
-
-Prova 2 – Reazione dei lavoratori
-
-Sense Motive CD 14:
-
-Successo: i lavoratori sembrano più cauti quando parlano di Titus. Non lo ammirano: lo evitano.
-
-Dialogo breve di un lavoratore, se persuaso:
-
-"Con certi carichi non fai domande. Li scarichi e basta."
-
-Prova 3 – Priorità scritta
-
-Perception CD 15:
-
-Successo: su una tavoletta di consegna vedete una piccola annotazione: “precedenza concessa”.
-
-Knowledge local CD 16:
-
-La formula sembra amministrativa, ma non è una formula standard governativa.
-
-Secondo punto osservazione
-
-Dopo che i player hanno visitato almeno due luoghi, qualcuno li segue da distanza maggiore.
-
-Perception CD 18:
-
-Successo: tra i carretti e le colonne dei magazzini, noti lo stesso mantello scuro comparire due volte in punti diversi. Non guarda mai direttamente verso di voi, ma si ferma quando vi fermate.
-
-Se i player provano a intercettarlo:
-
-L’uomo accelera senza correre. Cerca la folla, non il confronto.
-
-Se bloccato:
-
-"State facendo domande a gente che non vuole rispondere."
-
-Se intimidito:
-
-"Io guardo. Altri decidono."
-
-Se attaccato, non combatte fino alla morte. Cerca di fuggire. È un osservatore di Aulus/Varro, non un boss.
-
-Fase 3.1 – I player decidono di non continuare
-
-Innesco
-
-I player ascoltano i racconti e concludono che i mercanti colpiti hanno sbagliato registri, turni o procedure. Se lo dicono apertamente davanti agli altri, la situazione si scalda.
-
-Dialogo acceso
-
-Vibius:
-
-"Quindi è colpa mia? Io pago il trasporto, pago il magazzino, pago il turno, e quando il carico sparisce dietro una parola scritta su una tavoletta è colpa mia?"
-
-Maro:
-
-"Certo. Sempre colpa nostra. Mai di chi entra prima. Mai di chi ha il sigillo giusto."
-
-Titus Falco, freddo:
-
-"Chi lavora con ordine riceve ordine. Gli altri ricevono conseguenze."
-
-Questa frase deve sembrare arrogante, ma non confessione.
-
-Se i player non placano la scena
-
-Dopo qualche minuto arriva una pattuglia cittadina o guardie di magazzino.
-
-Capoguardia:
-
-"Basta. Questa è una disputa commerciale, non una rissa da strada."
-
-Se i player insistono:
-
-"O ve ne andate voi, o vi accompagniamo noi."
-
-Prove per placare
-
-Diplomacy CD 14: abbassano i toni, nessuna conseguenza.
-
-Intimidation CD 15: la folla si disperde, ma i mercanti colpiti li odiano.
-
-Perform / Oratoria CD 15: possono ridicolizzare la disputa e chiuderla senza violenza.
-
-Fallimento: arrivano guardie, la quest si chiude male.
-
-Esito
-
-I player se ne vanno. Possono ricevere una ricompensa minima per aver “ascoltato le parti”, ma Vibius è furioso e non li considera affidabili. Il sistema prosegue indisturbato.
-
-Fase 4.0 – Realizzazione se hanno proseguito
-
-Cosa dovrebbero capire
-
-Dopo aver confrontato racconti e luoghi, i player non hanno prove di corruzione, ma hanno un pattern:
-
-- I carichi non sono semplicemente in ritardo.- Alcuni carichi vengono rinviati.- Altri, simili, passano subito.- La parola “priorità” compare più volte.- I mercanti non colpiti hanno documenti più completi o sigilli migliori.- I lavoratori non decidono davvero l’ordine.
+Non trovano Varro. Non trovano Aulus. Trovano una struttura.
 
 Conclusione corretta:
 
-"Ci sono carichi e CARICHI. Alcuni hanno la precedenza."
+> Alcuni carichi non sono in ritardo. Vengono messi dietro ad altri carichi scelti.
 
-Non devono ancora arrivare a Varro, Aulus, Cassian, pizzo o controllo economico completo.
+Vibius paga pieno se ricevono almeno due prove coerenti. Se ne hanno tre o più, diventa contatto affidabile e in futuro può confrontare registri, prezzi e liste di fornitori.
 
-Confronto finale con Vibius
+## Ricompense
 
-Se tornano con prove deboli ma coerenti:
+- Pagamento pieno da Vibius.
+- Vibius come contatto mercantile minore.
+- Bonus narrativo: vantaggio o +2 a una futura prova per confrontare registri di merci alimentari.
+- Se la moneta contraffatta viene identificata, primo aggancio al tema economico del Giorno 2.
 
-"Quindi non sono pazzo."
+## Note DM
 
-Se i player dicono che alcuni carichi hanno precedenza:
+Non rendere Vibius troppo simpatico. Deve essere possibile pensare che stia solo protestando. Non rendere Titus Falco apertamente criminale. Deve sembrare un uomo che conosce il sistema e lo usa bene.
 
-"E chi decide? Perché non è scritto da nessuna parte chi decide."
+La quest funziona se i giocatori passano da:
 
-Questa è la domanda giusta. Non dare ancora risposta.
+> "Chi ha sbagliato consegna"
 
-Pagamento
+a:
 
-Vibius paga pieno se i player hanno portato almeno 2 prove concrete. Se hanno solo sospetti, paga metà ma resta grato.
-
-Fase 4.1 – Se hanno incolpato i mercanti colpiti
-
-Chiusura
-
-I player se ne vanno dopo aver concluso che il problema è cattiva gestione dei mercanti colpiti. Le guardie o i magazzinieri chiudono la disputa.
-
-Conseguenza leggera
-
-Il giorno dopo:- Vibius non parla più volentieri con loro.- Titus Falco li tratta con sottile rispetto.- Nei magazzini la parola “priorità” compare ancora, ma nessuno la spiega.- I mercanti colpiti iniziano a perdere terreno.
-
-Feeling finale
-
-"Abbiamo chiuso la lite. Non siamo sicuri di aver risolto il problema."
-
-Clues Summary
-
-| Indizio                                             | CD      | Tipo          | Cosa sembra             | Cosa implica                  |
-| --------------------------------------------------- | ------- | ------------- | ----------------------- | ----------------------------- |
-| Racconti discordanti                                | nessuna | sociale       | confusione tra mercanti | sistema non visibile          |
-| Nota di priorita`                                   | 12-14   | testimonianza | procedura normale       | precedenza selettiva          |
-| Spazio di Vibius occupato                           | 12-15   | fisico/logico | errore magazzinieri     | carico sostituito             |
-| Registro "rinviato"                                 | 14-17   | documento     | cavillo                 | formula ricorrente            |
-| Carro di [[Maro Silanus\|Maro]] fermo               | 13      | fisico        | ritardo                 | blocco selettivo              |
-| Tavoletta modificata                                | 15      | documento     | correzione              | priorita` aggiunta dopo       |
-| Documenti di [[Titus Falco\|Titus]] troppo completi | 12-16   | documento     | efficienza              | canale preferenziale          |
-| Lavoratori cauti con Titus                          | 14      | sociale       | rispetto                | paura / abitudine             |
-| Osservatore 1                                       | 14      | percezione    | curioso                 | controllo leggero             |
-| Osservatore 2                                       | 18      | percezione    | pedinamento             | interesse di [[Aulus Seneca]] |
-
-DM Notes
-
-Questa quest funziona solo se all’inizio sembra davvero colpa dei mercanti colpiti. Non fare Vibius troppo vittima. Deve essere irritante, insistente, forse anche antipatico. I mercanti fedeli devono sembrare più professionali, non palesemente corrotti. Titus Falco deve sembrare uno che “sa lavorare”, non un criminale.
-
-Il punto non è dare una prova. Il punto è far nascere un confronto: chi segue le stesse regole non riceve lo stesso trattamento.
-
-Non usare il porto. Questa quest deve spostare il focus su magazzini, carovane e logistica interna, così non sembra una ripetizione della Missing Cargo.
-
-Se i player mollano presto, va bene. Il fallimento non deve bloccare la campagna. Deve solo far avanzare il sistema senza opposizione.
-
-Feeling finale se investigano:
-
-"Non è un ritardo. È una precedenza data a qualcun altro."
-
-Feeling finale se non investigano:
-
-"Forse era solo una lite commerciale. Ma la lite non ha risolto nulla."
+> "Chi decide quale consegna conta di più"

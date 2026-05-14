@@ -7,6 +7,12 @@ tags:
 
 # Day 02
 
+## Calendar And Festival Frame
+
+- Date: Desnus 2, 3608.
+- Festival state: Breaching Festival week. Markets, music, performers, pilgrims, and caravans crowd the city; every shortage is more public because everyone is in the streets.
+
+
 Main beat: coin irregularities and early price confusion begin.
 
 - Quest threads: delayed shipment, disputed delivery, forge or workshop theft.

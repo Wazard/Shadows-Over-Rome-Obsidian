@@ -15,6 +15,14 @@ source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/quests/Day13_14_Bestia_nei_ba
 ---
 # Day 13 - 14 Bestia nei bassifondi
 
+## Festival Calendar Context
+
+- Calendar: [[Day 13]] is Desnus 13, 3608.
+- Remembrance Moon deepens: festival brightness gives way to vigils, memorial processions, family gatherings, and public grief that Marcia can shape without calling for open rebellion.
+- Festival use: masks, music, and crowded alleys make sightings easier to dismiss until blood appears.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 2/quests/Day13_14_Bestia_nei_bassifondi.docx`

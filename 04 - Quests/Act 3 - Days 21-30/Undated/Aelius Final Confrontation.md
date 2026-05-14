@@ -11,6 +11,14 @@ source: "Wazard/Shadows-over-Rome@gpt-main/phase 3/Aelius_Final_Confrontation.do
 ---
 # Aelius Final Confrontation
 
+## Festival Calendar Context
+
+- Calendar: Day 30 is Desnus 30, 3608.
+- Black moon of Desnus 30, 3608: the cult chose this night because festival memory, public grief, and lunar darkness align.
+- Festival use: Desnus 30 is the black moon; the cult chose the end of Remembrance Moon because the city is ritually primed to look toward the dead and the sea.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 3/Aelius_Final_Confrontation.docx`

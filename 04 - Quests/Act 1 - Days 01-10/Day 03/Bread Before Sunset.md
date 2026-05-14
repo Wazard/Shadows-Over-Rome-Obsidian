@@ -13,6 +13,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Pane_prima_del_tramon
 ---
 # Bread Before Sunset
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bread order copied under two merchant ledgers | Linguistics DC 14; Sense Motive DC 15 | Bakery or guild desk | No | [[Larto Vero]], junior guild clerks | Duplicate orders are not mistakes; scarcity is being manufactured | Clerks report the questions to superiors |
+
+- Calendar: [[Day 03]] is Desnus 3, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: festival crowds turn bread into both food and symbol; running out before sunset feels like public humiliation.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day3/Day3_Pane_prima_del_tramonto.docx`

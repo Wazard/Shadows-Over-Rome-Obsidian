@@ -16,6 +16,21 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day5_Diego_Quest_1_Tutto_Strano
 ---
 # Diego Quest 1
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Black market access lead | Diplomacy DC 15 with street contacts; Knowledge Local DC 15 | Slums, old well, night-market edges | Possible Aulus-men pressure | [[Diego]], [[Nico Lanterna]], [[Mira dei Sussurri]] | Day 5 can open purchasable information: names, locations, routines, uniforms, tokens | Buying information marks the party as serious investigators |
+| Common bandit names a man of Aulus | Intimidate DC 16 or Diplomacy DC 17 | Slums or abandoned festival stall | Possible fight with 2-4 normal bandits | [[Cencio]], [[Muto]], [[Spago]] | Bandits know a payer connected to Aulus' men, not Aulus himself | If released, one bandit disappears or is beaten next day |
+
+- Calendar: [[Day 05]] is Desnus 5, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: Diego notices patterns in songs, crowd routes, bells, and supply movement that sober officials miss.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day5_Diego_Quest_1_Tutto_Strano.docx`

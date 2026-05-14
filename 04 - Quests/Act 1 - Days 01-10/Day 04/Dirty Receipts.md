@@ -11,6 +11,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day4/Day4_Ricevute_sporche_Ques
 ---
 # Dirty Receipts
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Torn black cloth from a messenger cloak | Perception DC 15; Craft cloth/leather or Knowledge Local DC 14 | Alley near market delivery route | No | [[Cesta]], cloth mender, street children | Same cloak type appears near port, market, and slums | Too generic for proof; overusing it creates a false lead |
+
+- Calendar: [[Day 04]] is Desnus 4, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: receipts from temporary booths and festival suppliers create enough noise to hide deliberate fraud.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day4/Day4_Ricevute_sporche_Quest_Ramificata.docx`

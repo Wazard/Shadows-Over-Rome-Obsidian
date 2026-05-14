@@ -16,6 +16,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Controllo_su_consegna
 ---
 # Unregistered Delivery Check
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Blurred noble seal on unregistered permit | Perception DC 15; Linguistics DC 16; Knowledge Nobility DC 18 | Checkpoint or courier tube | No unless confiscation goes badly | [[Valeria Targa]], checkpoint guards | Noble-house access is hidden inside festival logistics | Direct accusation alerts the wrong household first |
+
+- Calendar: [[Day 03]] is Desnus 3, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: unregistered deliveries are everywhere during festival week, giving smugglers perfect cover.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day3/Day3_Controllo_su_consegna_non_registrata.docx`

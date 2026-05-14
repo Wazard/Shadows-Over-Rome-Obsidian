@@ -8,7 +8,7 @@ tags:
   - faction/varro-network
 aliases:
   - "Varro"
-  - "The noble merchant"
+  - "Il nobile mercante"
 Faction: "Fazione di Varro"
 race: "Umano"
 role: "Antagonista principale / nobile mercante"
@@ -17,27 +17,58 @@ source: "Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs/NPC_primari.csv"
 ---
 # Gaius Varro
 
-## Imported NPC Data
+## Dati NPC
 
-| Field | Detail |
+| Campo | Dettaglio |
 | --- | --- |
-| Source CSV | `NPC_primari.csv` |
-| Faction | Fazione di Varro |
-| Race | Umano |
-| Role | Antagonista principale / nobile mercante |
+| Fonte | `NPC_primari.csv` |
+| Fazione | Fazione di Varro |
+| Stirpe | Umano |
+| Ruolo | Antagonista principale / nobile mercante |
 
-## Description
+## Descrizione Estesa
 
-Nobile ricchissimo, curato, elegante, sempre composto; abiti pregiati, mani pulite, servitù addestrata e guardie discrete.
+Gaius Varro e una figura centrale della campagna legata a **Fazione di Varro**. Il tratto di partenza piu evidente e questo: Nobile ricchissimo, curato, elegante, sempre composto; abiti pregiati, mani pulite, servitù addestrata e guardie discrete.
 
-## Personality
+In scena dovrebbe avere una silhouette riconoscibile anche prima di parlare. Usa il modo in cui occupa lo spazio, guarda gli altri, tiene le mani o protegge i propri strumenti per far capire ai giocatori che non e una comparsa generica. Anche quando compare per pochi minuti, Gaius Varro dovrebbe lasciare un dettaglio facile da ricordare: un odore, una postura, un tic, un oggetto consumato, una frase ripetuta o una reazione sproporzionata a qualcosa di piccolo.
+
+Durante il Breaching Festival e la Remembrance Moon, la sua presenza va colorata con la citta in movimento: folla, candele, merci in ritardo, musica, fame trattenuta, lutto pubblico e prezzi che cambiano. Non serve che conosca il grande complotto; basta che mostri come il complotto tocca la vita quotidiana.
+
+## Personalita
 
 Calmo, politico, paternalista, mai apertamente minaccioso. Vuole sembrare necessario alla città.
 
-## Campaign Use
+Al tavolo, interpreta Gaius Varro con un obiettivo semplice e immediato. Vuole conservare qualcosa: reputazione, sicurezza, profitto, fede, lavoro, segreti o dignita. Se i PG danno a questa persona modo di ottenere quel bisogno senza umiliarlo, diventa piu utile. Se lo mettono all'angolo, reagisce in modo pratico prima che drammatico: mente, prende tempo, chiama qualcuno, chiude una porta o cambia versione.
+
+## Uso in Campagna
 
 Regia politica ed economica del collasso; non si sporca direttamente le mani.
 
-## Player-Facing Impression
+Funzione consigliata: portare in scena decisioni, conseguenze e pressione politica. Quando entra in scena, la situazione dovrebbe cambiare peso.
+
+Gaius Varro non deve spiegare la trama al posto dei PG. Deve dare attrito, colore e conseguenze. Quando serve un indizio, fallo arrivare attraverso qualcosa che ha visto, comprato, registrato, sentito o temuto, non attraverso una confessione completa.
+
+## Impressione per i Giocatori
 
 Sembra un nobile influente, forse arrogante ma rispettabile.
+
+La prima impressione deve essere giocabile in una frase: i PG dovrebbero capire subito se questa persona sembra utile, pericolosa, fragile, irritante, rispettabile o compromessa. La verita puo essere piu complessa, ma il primo impatto deve aiutare il tavolo a scegliere come avvicinarla.
+
+## Spunti di Scena
+
+- Usa Gaius Varro come traccia indiretta della rete di Varro: ordini parziali, denaro pulito, paura di superiori invisibili.
+- Se i PG trattano Gaius Varro con rispetto, puo offrire una voce, una scorciatoia sociale o un dettaglio osservato per caso.
+- Se i PG fanno pressione nel modo sbagliato, Gaius Varro si chiude, chiede protezione a qualcuno o trasforma una scena semplice in reputazione negativa.
+
+## Segreti, Pressione e Reazioni
+
+- **Se aiutato:** Gaius Varro ricorda il favore e puo restituirlo con informazioni minori, accesso sociale, una voce o un avvertimento.
+- **Se minacciato:** prova a proteggersi prima di dire la verita completa; se appartiene a una rete, avverte qualcuno piu in alto.
+- **Se ignorato:** continua la propria routine e puo riapparire piu avanti come testimone, cliente, ostacolo o vittima indiretta degli eventi.
+- **Sotto pressione del festival:** diventa piu frettoloso, piu emotivo o piu disposto a piccoli compromessi, perche la citta intera sta chiedendo troppo a tutti.
+
+## Battute Rapide
+
+- "Non ho detto di sapere tutto. Ho detto di sapere abbastanza da voler restare fuori dai guai."
+- "Oggi Roma ha troppa musica per sentire bene le bugie."
+- "Se volete una risposta pulita, chiedete a qualcuno che non rischia nulla."

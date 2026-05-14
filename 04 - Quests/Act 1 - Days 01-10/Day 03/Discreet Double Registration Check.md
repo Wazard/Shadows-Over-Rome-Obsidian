@@ -14,6 +14,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Verifica_discreta_su_
 ---
 # Discreet Double Registration Check
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Duplicate registration under festival wagon permits | Linguistics DC 15; Knowledge Local DC 15 | Registration office | No unless documents are stolen | [[Lucio Cartaferma]], merchant clerk | Temporary festival permits hide repeated cargo movement | Bad copies point to the wrong merchant |
+
+- Calendar: [[Day 03]] is Desnus 3, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: duplicate registrations can hide festival wagons, guest merchants, and temporary storage permits.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day3/Day3_Verifica_discreta_su_doppia_registrazione.docx`

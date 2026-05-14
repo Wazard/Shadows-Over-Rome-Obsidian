@@ -12,7 +12,16 @@ source:
 
 This is the GM-facing day-by-day pressure map for [[Act 1 - Varro's Merchant Conspiracy]].
 
-## Day 1
+## Festival Calendar Frame
+
+Act 1 covers Desnus 1-10, 3608.
+
+- Desnus 1 opens the Breaching Festival with public preparation, [[Il Veliero]]'s special dinner, and harbor fireworks.
+- Desnus 2-7 are the crowded festival week: markets, music, performers, visiting caravans, temporary stalls, and public meals.
+- Desnus 8-10 are the late festival days, when celebration continues but scarcity, exhaustion, and political blame become difficult to hide.
+- Use the festival as contrast: Rome looks alive and united while Varro's manipulation makes ordinary logistics fail in public.
+
+## Day 1 - Desnus 1
 
 Trade disruption begins quietly. Missing cargo is reported.
 
@@ -21,11 +30,11 @@ Trade disruption begins quietly. Missing cargo is reported.
 - Aelius: hidden.
 - Diego: already suspicious of the docks.
 - Clues: wrong cargo, odd merchant seals, faint recurring symbol.
-- City mood: docks tense, market normal.
+- City mood: docks tense, market festive and distracted.
 
-Main event: first cult-tainted cargo is moved while merchant scarcity begins.
+Main event: first cult-tainted cargo is moved while merchant scarcity begins under cover of festival preparation and harbor fireworks.
 
-## Day 2
+## Day 2 - Desnus 2
 
 Coin irregularities begin and economic manipulation starts.
 
@@ -34,11 +43,11 @@ Coin irregularities begin and economic manipulation starts.
 - Aelius: observing.
 - Diego: obsessed with patterns.
 - Clues: warm counterfeit coins, slightly wrong mint marks, coins appearing in several districts.
-- City mood: market confused, docks slower, roads delayed.
+- City mood: market crowded, confused, and eager to blame festival traffic.
 
 Main event: fake currency and trade imbalance begin.
 
-## Day 3
+## Day 3 - Desnus 3
 
 Disappearances begin behind the economic noise.
 
@@ -47,11 +56,11 @@ Disappearances begin behind the economic noise.
 - Aelius: begins abductions.
 - Diego: openly alarmed.
 - Clues: drag marks toward water, symbol carved in wood, missing dock workers.
-- City mood: docks quieter, slums uneasy.
+- City mood: docks quieter beneath festival noise, slums uneasy.
 
 Main event: first human sacrifices are taken, but the cult should not be clear yet.
 
-## Day 4
+## Day 4 - Desnus 4
 
 Political influence increases.
 
@@ -60,11 +69,11 @@ Political influence increases.
 - Aelius: expanding network.
 - Diego: ignored.
 - Clues: lists of unreliable citizens, private official meetings.
-- City mood: Government Hill guarded, market tense, slums angry.
+- City mood: Government Hill guarded, festival markets tense, slums angry.
 
 Main event: merchant influence expands and political pressure is applied.
 
-## Day 5
+## Day 5 - Desnus 5
 
 Artificial food shortages become visible.
 
@@ -73,11 +82,11 @@ Artificial food shortages become visible.
 - Aelius: continues abductions.
 - Diego: posts his first warning.
 - Clues: warehouses full but not distributing, rebel markings, cult symbols crossing trade routes.
-- City mood: warehouses guarded, slums hungry, roads unsafe.
+- City mood: warehouses guarded, slums hungry, festival roads unsafe.
 
 Main event: food supply is manipulated. [[Diego Quest 1]] appears.
 
-## Day 6
+## Day 6 - Desnus 6
 
 The symbol appears across systems.
 
@@ -86,11 +95,11 @@ The symbol appears across systems.
 - Aelius: spreading symbols.
 - Diego: connecting everything too loudly.
 - Clues: symbols on crates, walls, and coins.
-- City mood: unease becomes city-wide.
+- City mood: unease becomes city-wide despite music and public meals.
 
 Main event: the cult prepares larger ritual anchors without becoming directly investigable.
 
-## Day 7
+## Day 7 - Desnus 7
 
 Public unrest begins.
 
@@ -99,11 +108,11 @@ Public unrest begins.
 - Aelius: unaffected.
 - Diego: louder but ignored.
 - Clues: organized chanting, food-related anger.
-- City mood: slums active, market guarded.
+- City mood: slums active, market guarded, festival crowds volatile.
 
 Main event: rebellion starts forming and the merchant response becomes imminent.
 
-## Day 8
+## Day 8 - Desnus 8
 
 The political shift accelerates.
 
@@ -112,11 +121,11 @@ The political shift accelerates.
 - Aelius: waiting.
 - Diego: pointing toward the sea.
 - Clues: emergency authority documents, secret messages.
-- City mood: Government Hill fortified, city tense.
+- City mood: Government Hill fortified, city tense beneath late festival spectacle.
 
 Main event: Varro consolidates control and weakens the government.
 
-## Day 9
+## Day 9 - Desnus 9
 
 The rebellion becomes organized.
 
@@ -125,11 +134,11 @@ The rebellion becomes organized.
 - Aelius: nearing readiness.
 - Diego: dismissed entirely.
 - Clues: rebel symbols, structured groups.
-- City mood: slums controlled by rebels, market unstable.
+- City mood: slums organized around Marcia's voice, market unstable.
 
 Main event: the city chooses sides.
 
-## Day 10
+## Day 10 - Desnus 10
 
 A power shift occurs.
 

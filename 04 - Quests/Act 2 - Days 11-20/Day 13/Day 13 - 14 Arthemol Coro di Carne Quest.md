@@ -15,6 +15,14 @@ source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/quests/Day13_14_Arthemol_Coro
 ---
 # Day 13 - 14 Arthemol Coro di Carne Quest
 
+## Festival Calendar Context
+
+- Calendar: [[Day 13]] is Desnus 13, 3608.
+- Remembrance Moon deepens: festival brightness gives way to vigils, memorial processions, family gatherings, and public grief that Marcia can shape without calling for open rebellion.
+- Festival use: music and choir imagery from the festival curdles into something bodily, devotional, and wrong.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 2/quests/Day13_14_Arthemol_Coro_di_Carne_Quest.docx`

@@ -19,6 +19,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day6_Disputa consegna cargo num
 ---
 # Cargo Delivery Dispute With Wrong Numbers
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Merchants' Guild private inquiry list | Diplomacy DC 16 with guild ally; Stealth DC 17 to steal; Linguistics DC 15 | Private guild office | Legal trouble if caught | [[Bobbins McTwist]], [[Crispo Gessomano]], independent merchants | The Guild suspects organized manipulation but avoids public postings | Stolen evidence can make the Guild treat the party as a liability |
+
+- Calendar: [[Day 06]] is Desnus 6, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: wrong numbers can be excused by festival volume, which is exactly why they matter.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day6_Disputa consegna cargo numeri errati.txt`

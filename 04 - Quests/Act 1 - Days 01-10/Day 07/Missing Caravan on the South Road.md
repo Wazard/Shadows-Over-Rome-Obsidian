@@ -12,6 +12,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day7_Carovana mancante strada s
 ---
 # Missing Caravan on the South Road
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bandit safehouse with half-burned payment tally | Perception DC 16; Disable Device DC 14; Linguistics DC 15 | Roadside ruin or abandoned festival booth | Yes: normal bandits | [[Corda]], [[Mazza]], one paid lookout | Payments are routed through initials and courier marks, not Varro's name | Fire trap or fleeing bandit can destroy the best page |
+
+- Calendar: [[Day 07]] is Desnus 7, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: caravans should be more visible than ever this week, so a missing one is harder to explain away.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day7_Carovana mancante strada sud.txt`

@@ -10,6 +10,14 @@ source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/Diego_Quest_2_COMPLETE.docx"
 ---
 # Diego Quest 2 COMPLETE
 
+## Festival Calendar Context
+
+- Calendar: Act 2 material should be placed around Desnus 11-20, 3608 unless play dictates otherwise.
+- Act 2 occurs during Remembrance Moon, when Marcia can turn songs, vigils, and mutual aid into political pressure without needing an open uprising.
+- Festival use: the completed version should treat Remembrance Moon as the emotional reason the city notices the missing too late.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 2/Diego_Quest_2_COMPLETE.docx`

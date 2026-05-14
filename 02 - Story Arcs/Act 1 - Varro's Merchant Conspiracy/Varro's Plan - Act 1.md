@@ -24,7 +24,7 @@ His control points are:
 Varro creates instability without exposing himself.
 
 - Aulus Seneca organizes targeted thefts against merchants not loyal to Varro.
-- [[Cassian Luro]] buries complaints inside the government.
+- [[Cassian Rulfo]] buries complaints inside the government.
 - Varro hires extra guards for his own caravans so his shipments appear safer and more reliable.
 - Varro starts offering protection in exchange for cargo control and a share of sales.
 
@@ -76,7 +76,7 @@ If exposed, Varro is weakened or forced out of the market narrative, and prices 
 
 | Agent | Role |
 | --- | --- |
-| [[Cassian Luro]] | Government functionary who hides complaints and gives Varro political cover |
+| [[Cassian Rulfo]] | Government functionary who hides complaints and gives Varro political cover |
 | Aulus Seneca | Slum mercenary, organizes thefts and intimidation |
 | Lucius Livius | Second in command of the Merchants' Guild, wants power |
 | Marcus Livius | Lucius's brother, common merchant with similar resentments |

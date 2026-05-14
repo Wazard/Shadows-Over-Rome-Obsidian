@@ -13,6 +13,20 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day5_Una_stanza_per_chi_non_puo
 ---
 # A Room for Those Who Cannot Return
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Black market guard uniform offer | 30-60 gp per set; Appraise DC 13 | Inn rumor or black market approach | No | [[Vera Salevivo]], black market runner | Festival duty creates uniform confusion that can later open the Noble District | Bad uniforms increase future Disguise DCs |
+
+- Calendar: [[Day 05]] is Desnus 5, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: full inns, blocked streets, and night controls leave stranded visitors with nowhere to sleep.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day5_Una_stanza_per_chi_non_puo_tornare.docx`

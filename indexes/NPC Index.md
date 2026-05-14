@@ -11,7 +11,7 @@ source: "Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs"
 
 # NPC Index
 
-This index tracks NPCs imported from the three reference CSVs on the `gpt-main` branch.
+This index tracks NPCs imported from the three reference CSVs on the `gpt-main` branch, plus later vault-created NPCs added during cleanup and prep.
 
 ## Source CSVs
 
@@ -38,7 +38,7 @@ Total imported NPC rows: **160**.
 | [[Gaius Varro]] | Umano | Antagonista principale / nobile mercante |
 | [[Lucius Livius]] | Umano | Secondo in carica della Gilda dei Mercanti / coordinatore mercantile corrotto |
 | [[Aulus Seneca]] | Umano | Capo operativo criminale collegato a Varro |
-| [[Cassian Luro]] | Elfo - apparenza umana | Funzionario nobile / alleato istituzionale di Varro |
+| [[Cassian Rulfo]] | Elfo - apparenza umana | Funzionario nobile / alleato istituzionale di Varro |
 
 ### Governo cittadino
 
@@ -215,6 +215,8 @@ Total imported NPC rows: **160**.
 
 | NPC | Race | Role |
 | --- | --- | --- |
+| [[Prior Lucanus Solari]] | Umano | Priore amministrativo del Tempio di Sarenrae |
+| [[Sorella Maura Vesta]] | Umana | Sacerdotessa itinerante e mediatrice spirituale |
 | [[Varia Solechiaro]] | Umana | Sacerdotessa operativa del tempio |
 
 ### Uomini del mercato nero
@@ -334,7 +336,7 @@ Total imported NPC rows: **160**.
 | [[Nessa Briciole]] | Halfling | Venditrice di pane |
 | [[Pietro Dueprezzi]] | Halfling | Rivenditore opportunista |
 | [[Raska]] | Kitsune | Cantastorie povera |
-| [[Tamira VeloFalso]] | Kitsune | Venditrice di profumi economici |
+| [[Tamira Velofalso]] | Kitsune | Venditrice di profumi e facciata legale |
 | [[Decimo Lanterna]] | Umano | Guardia del mercato che guarda altrove |
 | [[Oriolo Candelaio]] | Gnomo | Venditore di candele |
 | [[Terenzia Acquabassa]] | Umana | Portatrice dâ€™acqua |
@@ -360,6 +362,9 @@ Total imported NPC rows: **160**.
 
 | NPC | Race | Role |
 | --- | --- | --- |
+| [[Captain Linh Sura]] | Umana | Captain of La Chimera di Giada |
+| [[Sajan Qadir]] | Umano | Harbor factor and commission contact |
+| [[Bao Yiren]] | Umano | Cargo-master and shady scroll broker |
 | [[Bruna Bracciodargano]] | Nana | Addetta alle gru del porto |
 | [[Grumo]] | Mezzorco | Scaricatore silenzioso |
 | [[Miro Funegrigia]] | Umano | Garzone del Veliero |
@@ -385,6 +390,16 @@ Total imported NPC rows: **160**.
 
 | NPC | Race | Role |
 | --- | --- | --- |
+| [[Sorella Elenia]] | Umana | Sorella del tempio addetta a cure, razioni e accoglienza |
+| [[Fratello Iovian]] | Umano | Guaritore minore e raccoglitore di testimonianze |
+| [[Novizia Clara]] | Umana | Novizia addetta a file, acqua e messaggi |
+| [[Accolito Marius]] | Umano | Accolito di servizio nel cortile del tempio |
+| [[Padre Caldus Orante]] | Umano | Predicatore minore e confessore paziente |
+| [[Sorella Livia delle Bende]] | Umana | Addetta a bende, lavanderia e piccoli medicamenti |
+| [[Fratello Nabor]] | Umano | Custode delle scorte povere e delle ceste |
+| [[Diacona Prisca]] | Umana | Mediatrice fra donatori, poveri e sacerdoti |
+| [[Custode Tullian]] | Umano | Guardiano laico del portico e delle porte |
+| [[Eudocia la Lampadaria]] | Umana | Inserviente anziana responsabile di lampade e offerte |
 | [[Frate Caldus]] | Umano | Accolito ottimista |
 
 ### Uomini del mercato nero
@@ -392,7 +407,7 @@ Total imported NPC rows: **160**.
 | NPC | Race | Role |
 | --- | --- | --- |
 | [[Gavro il Topo Pulito]] | Umano | Ricettatore minore |
-| [[Kessa Vetroverde]] | Vishkanya | Curatrice clandestina |
+|[[Kessa Fasciarossa]]] | Vishkanya | Curatrice clandestina |
 | [[Lyr Mezza-Notte]] | Drow | Cantore / messaggero |
 | [[Olma la Tessicarne]] | Goblin | Riparatrice di materiali strani |
 | [[Padre Senza Campana]] | Umano | Predicatore clandestino |

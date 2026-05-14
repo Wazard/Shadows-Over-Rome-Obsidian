@@ -10,6 +10,14 @@ source:
 
 # Quest Board
 
+## Festival Calendar Context
+
+- Calendar: Act 1 spans Desnus 1-10, 3608.
+- Act 1 occurs during the Breaching Festival period, when public celebration makes scarcity and civic failure more visible.
+- Festival use: the board is crowded with festival labor, missing cargo, night-permit, caravan, and public-order notices.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 The quest board at [[Il Veliero]] is the campaign's daily pressure valve. It should feel practical, local, and a little messy: missing cargo, escort work, mediation, rumors, low-pay errands, and urgent notices.
 
 The players should not see "main quests." They should see jobs.

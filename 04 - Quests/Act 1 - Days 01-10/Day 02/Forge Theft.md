@@ -9,407 +9,236 @@ NPCs:
   - "[[Borin Martelferro]]"
   - "[[Corda]]"
   - "[[Durgan Dato]]"
+  - "[[Naso Rotto]]"
   - "[[Pezza]]"
 source: "Wazard/Shadows-over-Rome/phase 1/quests/Day2/Day2_Varro_Furto_alla_forgia.docx"
 ---
-# Forge Theft
+# Furto alla Forgia
 
-## Source Migration
+## Contesto di Calendario e Festival
 
-Source file: `phase 1/quests/Day2/Day2_Varro_Furto_alla_forgia.docx`
+- Calendario: [[Day 02]] è Desnus 2, 3608.
+- Stato della città: la settimana del Breaching Festival richiede ganci per lanterne, ferri per palchi, rinforzi per carri, staffe per bancarelle, ferri da cucina e riparazioni rapide.
+- Uso al tavolo: il furto sembra un gesto razzista contro un fabbro nano, ma il vero obiettivo è rallentare la produzione locale.
+- Tono: cittadino, concreto, sporco di carbone. Questa quest deve far capire che la scarsità non riguarda solo il cibo: riguarda anche la capacità di riparare, produrre e reagire.
 
-Giorno 2 Quest – Furto alla forgia: che Torag ci benedica
+## Testo per la Bacheca degli Incarichi
 
-Funzione della quest: questa è una quest secondaria del Giorno 2. Serve a mostrare che le mancanze non riguardano solo carichi e magazzini, ma anche la capacità produttiva della città. A prima vista deve sembrare un furto rozzo con possibile movente razzista contro un nano. Con indagini migliori, i player devono intuire che il vero obiettivo erano gli attrezzi, non le armi.
-
-Hook sulla Quest Board
-
-Furto alla forgia – che Torag ci benedica
+**Furto alla forgia - che Torag ci benedica**
 
 Rubate armi e attrezzi dalla forgia vicino al mercato. Il proprietario offre ricompensa a chi recupera la merce o porta notizie certe. Che Torag dia pazienza agli onesti e martelli ai colpevoli.
 
-Postata da: Borin Martelferro, fabbro nano.
+Postata da: [[Borin Martelferro]].  
+Pagamento: basso in monete, migliore in sconti futuri.  
+Durata prevista: 2-4 ore.
 
-Pagamento: basso in monete, migliore in sconti futuri.
+## Riassunto per il DM
 
-Durata prevista: 2 ore.
+La forgia di [[Borin Martelferro]] è stata colpita durante la notte. La scena è stata costruita per sembrare un furto razzista e rozzo: scritta anti-nani, armi prese a caso, disordine evidente, oggetti personali calpestati. In realtà, l'obiettivo erano gli attrezzi su misura di Borin, cioè la sua capacità di lavorare.
 
-Tono: furto cittadino, tensione razziale, indizio economico sottile.
+Gli uomini collegati ad Aulus non sanno il piano economico completo. Hanno ricevuto ordini semplici: far sembrare il furto chiaro, far sparire gli attrezzi, scoraggiare domande. Non nominano [[Gaius Varro]].
 
-Fase 1 – Arrivo alla forgia
+## Apertura della Scena
 
-Scena
+Leggi o parafrasa:
 
-La forgia si trova tra mercato e zona artigiana. È bassa, robusta, costruita con pietra scura e travi spesse. Dentro c’è odore di carbone, metallo caldo e birra lasciata troppo vicino al fuoco. La porta è stata forzata male. Alcune rastrelliere sono rovesciate. Armi semplici sono sparite: coltelli, punte di lancia, ferri rinforzati, qualche lama corta.
+> La forgia è bassa, larga, costruita in pietra scura e travi pesanti. Davanti alla porta ci sono due clienti che discutono sottovoce e un apprendista con il volto sporco di fuliggine. Dentro, il calore è ancora vivo ma disordinato: rastrelliere rovesciate, chiodi sparsi, una statuetta di Torag a terra, odore di carbone e metallo bagnato. Sulla parete annerita qualcuno ha scritto a carbone: TORNATE SOTTO TERRA.
 
-Borin è furioso, ma non isterico. Sta già rimettendo in ordine, imprecando in nanico e italiano.
+[[Borin Martelferro]] non piange, non supplica e non fa melodramma. Sta rimettendo in ordine con rabbia metodica.
 
-NPC – Borin Martelferro
+Frasi:
 
-Nano fabbro, devoto a Torag. Orgoglioso, concreto, permaloso se trattato con pietà.
+- "Se volevano rubare bene, rubavano meglio. Se volevano insultarmi, almeno hanno fatto centro."
+- "Le armi le rivendi. Gli attrezzi no. Gli attrezzi li usi per lavorare. O li togli a chi lavora."
+- "Non mi serve pietà. Mi serve sapere dove sono finiti i miei martelli."
 
-Dialoghi:
+## Punti di Interesse
 
-"Se volevano rubare bene, rubavano meglio. Se volevano insultarmi, almeno hanno fatto centro."
+### Sala Calda della Forgia
 
-"Armi prese a caso, rastrelliere buttate giù, ferri sparsi ovunque. Sembra un branco di ubriachi con una chiave storta."
+La sala principale è bassa, annerita dal fumo e costruita per resistere al calore. Il pavimento è coperto di limatura, carbone spezzato e impronte sovrapposte. L'incudine centrale è ancora al suo posto, ma intorno tutto sembra spostato di pochi centimetri, come se qualcuno avesse voluto creare disordine senza conoscere il ritmo del lavoro.
 
-"Ma gli attrezzi... quelli non li tocchi per caso."
+Qui i PG vedono la messa in scena. La scritta anti-nani è visibile, ma troppo teatrale. Gli attrezzi importanti, invece, mancano in silenzio.
 
-Se un player chiede perché gli attrezzi siano importanti:
+Dettagli utili:
 
-"Perché una lama la rivendi. Un martello su misura no. Quello lo usi per lavorare. O per impedire a me di farlo."
+- statuetta di Torag caduta ma non spezzata;
+- carbone usato per la scritta preso dal secchio sbagliato;
+- rastrelliera di armi rovesciata con armi poco preziose lasciate a terra;
+- un martello comune abbandonato, mentre quelli su misura sono spariti;
+- odore di metallo bagnato, segno che qualcuno ha raffreddato pezzi in fretta.
 
-Prima impressione
+### Banco degli Attrezzi su Misura
 
-Deve sembrare:- furto maldestro;- possibile odio contro nani;- danno più simbolico che professionale.
+Il banco di Borin non è ordinato per bellezza: ogni spazio vuoto ha una forma precisa. Si vedono sagome di polvere dove stavano pinze, punzoni, martelli e una piccola incudine portatile. Un ladro comune prenderebbe ciò che brilla; chi ha preso questi oggetti sapeva che cosa feriva davvero la forgia.
 
-Fase 2 – Indagine nella forgia
+Usa questo punto per spostare l'indagine dal movente razzista al sabotaggio produttivo.
 
-Gli indizi semplici devono essere abbastanza convincenti da orientare male i player verso il furto razziale.
+Possibili prove:
 
-Indizi semplici: pista razziale
+| Azione | CD | Risultato |
+| --- | --- | --- |
+| Guardare le sagome nella polvere | Investigazione CD 14 | Mancano attrezzi specifici, non casuali |
+| Capire il valore reale | Artigianato CD 15 | Sono difficili da rivendere ma essenziali per Borin |
+| Controllare il banco | Percezione CD 13 | Qualcuno ha preso tempo per scegliere |
 
-1. Scritta offensiva sul muro
+### Cortile del Carbone
 
-Perception CD 10:
+Dietro la forgia c'è un piccolo cortile con sacchi di carbone, aste di ferro grezzo, secchi d'acqua e un muro basso verso il vicolo. Qui il rumore del festival arriva ovattato, coperto dal raschiare del carbone e dal respiro caldo della forgia.
 
-Su una parete annerita dal fumo c’è una scritta tracciata con carbone: “TORNATE SOTTO TERRA”.
+Questo è il punto migliore per tracce fisiche: impronte, grasso, pezzi di corda e segni di trascinamento.
 
-Knowledge Local CD 12:
+Dettagli utili:
 
-È un insulto abbastanza comune verso nani e minatori. Non è elegante, ma è riconoscibile.
+- carbone schiacciato da stivali non da bottega;
+- gocce di grasso da forgia su una pietra;
+- muro basso graffiato da un sacco pesante;
+- una corda vecchia con fibre nere;
+- un vicino che ha sentito metallo urtare il muro prima dell'alba.
 
-Interpretazione probabile: furto razzista.
+### Vecchio Pozzo dei Magazzini
 
-Verità: messa in scena.
+Il pozzo si trova in una zona laterale dei magazzini, non abbastanza lontana da essere sicura e non abbastanza vicina da essere ovvia. Ha bordo consumato, muschio secco e un secchio rotto lasciato come se nessuno lo usasse più.
 
-2. Rastrelliera di armi svuotata a caso
+Quando i PG arrivano qui, il tono deve cambiare: non stanno più guardando una bottega vandalizzata, stanno trovando il punto dove qualcuno ha nascosto la capacità di lavoro di un uomo.
 
-Investigation CD 11:
+Dettagli utili:
 
-Le armi rubate non seguono un criterio chiaro. Alcune valgono poco, altre di più. Sembra una scelta frettolosa.
+- graffi freschi sul bordo interno;
+- corda con grasso da forgia;
+- tintinnio metallico se qualcuno muove il secchio rotto;
+- acqua scura che odora di ruggine;
+- impronte che arrivano al pozzo e poi si disperdono verso strade diverse.
 
-Interpretazione probabile: ladri inesperti o vandali.
+## Fase 1 - Prima Impressione
 
-Verità: rumore per coprire il vero obiettivo.
+Tutto deve suggerire una pista sbagliata ma plausibile.
 
-3. Impronte pesanti e confuse
+| Indizio Visibile | Prova | Interpretazione Apparente | Verità |
+| --- | --- | --- | --- |
+| Scritta anti-nani | Percezione CD 10; Conoscenze locali CD 12 | Furto razzista | Messa in scena |
+| Armi prese a caso | Investigazione CD 11 | Ladri inesperti | Rumore per coprire il vero obiettivo |
+| Impronte pesanti e confuse | Sopravvivenza CD 12, CD 16 per dettagli | Gruppo rozzo | Impronte ripassate apposta |
+| Oggetti nanici rovinati | Percezione CD 12; Intuizione CD 14 | Rabbia razziale | Gesto teatrale |
 
-Survival CD 12:
+## Fase 2 - Vero Obiettivo
 
-Trovate impronte di stivali fangosi, alcune volutamente marcate. Sembrano lasciate da più persone, ma sono confuse.
+Quando i giocatori guardano meglio, emergono gli attrezzi.
 
-Con CD 16:
+| Indizio | Prova | Risultato |
+| --- | --- | --- |
+| Attrezzi mancanti | Investigazione CD 14 | Mancano martelli, pinza lunga, calibro, punzoni e piccola incudine portatile |
+| Attrezzi su misura | Artigianato o Ingegneria CD 15 | Sono bilanciati per Borin, difficili da usare o rivendere |
+| Scaffale troppo pulito | Investigazione CD 16 | Chi li ha presi sapeva dove guardare |
+| Armadietto aperto bene | Disattivare Congegni CD 14, CD 18 per dettaglio | La porta principale è forzata male, l'armadietto no |
 
-Alcune impronte sembrano ripassate, come se qualcuno avesse voluto renderle più visibili.
+## Indagini Profonde
 
-Interpretazione probabile: gruppo di ladri rozzi.
+| Oggetto o Traccia | CD | Luogo | Presenza di Scontro | PNG Coinvolti | Implicazione | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tally di ganci per lanterne pagato due volte | Linguistica CD 15; Professione mercante CD 14 | Distretto artigiano | Possibile scuffle se i ladri vengono seguiti | [[Borin Martelferro]], [[Corda]], [[Pezza]] | Gli ordini festivalieri vengono usati per muovere denaro | I ladri fuggono nei bassifondi e avvisano un contatto |
+| Scaffale pulito in mezzo al caos | Investigazione CD 16; Artigianato CD 15 | Forgia di Borin | Possibile incontro con uomini di Aulus | [[Borin Martelferro]], [[Naso Rotto]] | Il furto mirava alla produzione, non al profitto | Conclusioni gridate attirano attenzione |
+| Grasso da forgia su corda vecchia | Percezione CD 13 | Vecchio pozzo dei magazzini | No, se arrivano prima degli uomini di Aulus | Borin, testimone di strada | Gli attrezzi sono stati calati e nascosti, non venduti | Ritardare può far recuperare il sacco da altri |
 
-Verità: pista costruita.
+## Testimoni
 
-4. Oggetti nani rovinati
+### Apprendista di Borin
 
-Perception CD 12:
+Imbarazzato, teme di essere accusato.
 
-Una piccola statuetta di Torag è stata buttata a terra, ma non spezzata. Un grembiule nanico è stato calpestato.
+- Intuizione CD 12: dice la verità.
+- Diplomazia CD 13: ha visto due uomini aggirarsi nei giorni precedenti.
 
-Sense Motive / Intuizione CD 14:
+Frase:
 
-Il gesto sembra più teatrale che rabbioso. Troppo pulito, troppo leggibile.
+> "Non sembravano clienti. Guardavano più il retro che la merce."
 
-Indizi più alti: vero obiettivo
+### Venditrice di carbone
 
-5. Attrezzi mancanti
+Ha sentito metallo trascinato prima dell'alba.
 
-Investigation CD 14:
+- Percezione retroattiva o Sopravvivenza CD 13: conferma direzione verso i magazzini.
 
-Oltre alle armi, mancano diversi attrezzi da fabbro: due martelli, una pinza lunga, un calibro, punzoni e una piccola incudine portatile.
+### Bambino dei vicoli
 
-Se chiedono a Borin:
+Ha visto un sacco pesante vicino a un pozzo secondario.
 
-"Normali? Normali per me. Un umano con quei martelli si spacca il polso dopo mezz’ora."
+- Cibo, moneta o Diplomazia CD 13.
 
-Interpretazione corretta: rubare questi attrezzi è poco sensato se il movente è profitto.
+Frase:
 
-6. Attrezzi su misura
+> "Uno rideva della scritta. L'altro gli ha detto che non erano pagati per fare teatro."
 
-Craft / Professione fabbro / Knowledge Engineering CD 15:
+### Guardia svogliata
 
-Gli attrezzi non sono standard. Sono bilanciati per mani più piccole e forza diversa. Un fabbro umano potrebbe usarli, ma male. Rivenderli sarebbe difficile.
+Non vuole lavoro in più.
 
-Conclusione: non sono stati rubati per valore immediato.
+- Diplomazia o Intimidire CD 15.
 
-7. Disordine selettivo
+Frase:
 
-Investigation CD 16:
+> "Ho visto tre uomini passare verso i magazzini. Uno portava un sacco troppo pesante per essere pane."
 
-La ferramenta è disordinata ovunque: chiodi sparsi, ferri rovesciati, rastrelliere aperte. Ma il punto dove erano tenuti gli attrezzi più importanti è stranamente pulito. Niente ricerca, niente caos. Chi li ha presi sapeva già dove guardare.
+## Complicazione - Uomini di Aulus
 
-Conclusione corretta: il furto razzista è probabilmente una messinscena. Il vero obiettivo erano gli attrezzi.
+Se i giocatori seguono la pista giusta, tre uomini legati ad Aulus li aspettano vicino a un carro rotto. Non devono sembrare boss. Devono sembrare criminali di strada con una versione preparata.
 
-8. Serratura forzata male, ma accesso preciso
+Possibili frasi:
 
-Disable Device CD 14 o Investigation CD 15:
+- "Brutta storia, eha Certi uomini non sopportano che un nano faccia lavoro migliore del loro."
+- "Tornate alla forgia. Ditegli di comprare una serratura più alta."
+- "Attrezzi, armi, ferri... che differenza fa"
 
-La porta è stata forzata in modo rozzo, quasi eccessivo. Però il piccolo armadio degli attrezzi è stato aperto senza quasi danneggiarlo.
+Prove:
 
-Con CD 18:
+- Intuizione CD 15: stanno recitando.
+- Intuizione CD 18: non sono interessati ai nani, vogliono chiudere le domande.
+- Intimidire CD 17 se catturati: nominano Aulus come voce sopra di loro, ma non sanno il piano.
 
-Chi ha aperto l’armadio sapeva come farlo o aveva già visto la serratura.
+Combattimento: 2-3 uomini di Aulus, non fino alla morte. Uno prova a scappare.
 
-Fase 3 – Testimoni e piste
+## Recupero degli Attrezzi
 
-Testimone 1 – Apprendista umano
+Il sacco è in un vecchio pozzo della zona magazzini.
 
-Giovane apprendista di Borin, imbarazzato. Teme di essere accusato.
+| Azione | CD | Effetto |
+| --- | --- | --- |
+| Notare graffi sul bordo | Percezione CD 12 | Qualcosa di metallico è stato calato in fretta |
+| Vedere grasso sulla corda | Investigazione CD 13 | La corda è stata usata per il sacco |
+| Sentire tintinnio | Percezione CD 14 | Il sacco è ancora sotto |
+| Recuperare il sacco | Atletica CD 14 o Disattivare Congegni/Usare Corde CD 13 | Gli attrezzi tornano recuperabili |
 
-Dialogo:
+Descrizione:
 
-"Io ho chiuso ieri sera. Giuro. Il maestro controlla sempre due volte."
+> Dal pozzo emerge un sacco nero, pesante d'acqua e grasso. Quando lo aprite, trovate martelli, pinze, punzoni e una piccola incudine portatile avvolti male in stracci bagnati. Non sono merci da rivendere. Sono strumenti di lavoro. Qualcuno non voleva arricchirsi: voleva fermare una forgia.
 
-Sense Motive CD 12: dice la verità.
+## Esiti
 
-Persuasion CD 13: rivela di aver visto due uomini aggirarsi nei giorni precedenti.
+### Successo pieno
 
-"Non sembravano clienti. Guardavano più il retro che la merce."
+Gli attrezzi tornano a Borin. La forgia riparte entro poco. Borin diventa contatto affidabile per riparazioni, armi, metallo, serrature e sigilli.
 
-Testimone 2 – Venditrice di carbone
+### Successo parziale
 
-Lavora vicino alla forgia, vede passare molti carrettieri.
+I giocatori capiscono il sabotaggio ma non recuperano gli attrezzi. Ottengono sospetto su Aulus, ma Borin resta danneggiato.
 
-Dialogo:
+### Fallimento plausibile
 
-"Ho sentito rumore prima dell’alba. Non urla, non lotta. Rumore di metallo trascinato."
+Credono al furto razzista. La forgia rallenta. Aulus ottiene ciò che voleva.
 
-Perception retroattiva / Survival CD 13: conferma che qualcosa di pesante è stato trascinato verso il lato dei magazzini.
+## Ricompense
 
-Testimone 3 – Ragazzino dei vicoli
+- Sconti futuri su armi e armature.
+- Riparazioni a prezzo ridotto.
+- Possibilità di commissionare equipaggiamento senza anticipo.
+- Borin può identificare attrezzi, metalli, marchi e manomissioni future.
 
-Ha visto qualcuno scaricare un sacco pesante vicino al pozzo dei magazzini.
+## Note DM
 
-Come ottenerlo: moneta piccola, cibo, Persuasion CD 13.
+Non correggere subito i giocatori se seguono la pista razzista. È costruita apposta. Il dubbio giusto nasce da una domanda pratica:
 
-Dialogo:
+> Perché rubare attrezzi difficili da vendere
 
-"Due uomini. Uno rideva della scritta sul muro. L’altro gli ha detto di muoversi, che non erano pagati per fare teatro."
+La risposta non è ancora "Varro". La risposta del Giorno 2 è:
 
-Se pressato:
-
-"Sono andati verso il pozzo dietro i magazzini. Quello dove buttano le corde marce."
-
-Questo è l’indizio più utile.
-
-Testimone 4 – Guardia svogliata
-
-Non vuole problemi.
-
-Dialogo iniziale:
-
-"Un furto in una bottega nanica? Succede. Non fateci una guerra."
-
-Intimidation o Diplomacy CD 15:
-
-"Ho visto tre uomini passare verso i magazzini. Uno portava un sacco troppo pesante per essere pane."
-
-Non li identifica.
-
-Fase 3.1 - Arrivo apprendisti di Durgan Dato
-
-Due apprendisti, uno umano e l’altro halfling si presntano all’ingresso bussando
-
-Dialoghi:
-
-Apprendista umano: “Ehi Boris, abbiamo sentito del furto, Durgan ci ha mandati a chiedere se servisse aiuto”
-
-Boris: “Oh, grazie di cuore, e ringraziate anche Durgan, che Torag sia con lui. Comunque ci sono questi 4 gentili avventurieri che si stanno prodigando per me, riferite a Durgan che lo contattero` io se avro` bisogno. Grazie”
-
-Apprendista halfling: “Va bene Boris, come vuoi tu. Siamo da Durgan se hai bisogno.”
-
-Se interrogati non sanno nulla. Se pressati CD 14 dicono che ultimamente succedono cose strane con i carichi di grezzo. Danno la colpa alla gilda: “troppo buoni con i controlli”
-
-Fase 4 – Incontro con uomini di Aulus
-
-Luogo
-
-Strada laterale tra botteghe e magazzini. Non è un covo. È solo un punto dove alcuni uomini di Aulus stanno controllando che nessuno segua troppo bene la pista.
-
-Scena
-
-Tre uomini appoggiati a un carro rotto. Parlano a bassa voce. Quando i player si avvicinano, uno sorride come se li aspettasse.
-
-Funzione
-
-Devono rinforzare la falsa pista razziale, non rivelare la verità. Se interrogati, sembrano bulli razzisti o criminali comuni.
-
-Dialoghi
-
-"Brutta storia, eh? Certi uomini non sopportano che un nano faccia lavoro migliore del loro."
-
-"Forse qualcuno voleva solo ricordargli che questa città non è una miniera."
-
-"Tornate alla forgia, ditegli di comprarsi una serratura più alta."
-
-Se i player chiedono degli attrezzi:
-
-"Attrezzi, armi, ferri... che differenza fa? Se brucia la bottega, brucia tutto."
-
-Sense Motive CD 15: stanno recitando una versione preparata.
-
-Sense Motive CD 18: non sembrano interessati ai nani. Stanno cercando di chiudere le domande.
-
-Possibile combattimento
-
-Il fight parte se:- i player li accusano direttamente;- li bloccano;- provano a seguirli;- insistono troppo sugli attrezzi.
-
-Nemici
-
-- 2–3 uomini di Aulus, livello basso/medio;- non combattono fino alla morte;- uno cerca di scappare se le cose vanno male.
-
-Durante il combattimento
-
-"Era solo una bottega!"
-
-"Non sapete quando smettere!"
-
-"Non dovevate arrivare fino agli attrezzi."
-
-Questa ultima frase è importante ma deve uscire solo se stanno perdendo o se uno viene ferito.
-
-Se catturati
-
-Non sanno il piano completo. Davvero.
-
-Dialoghi:
-
-"Ci hanno detto di far sembrare tutto chiaro."
-
-"Furto da stronzi, insulto sul muro, roba così. Fine."
-
-"Gli attrezzi? Dovevano sparire. Non chiederci perché."
-
-Se chiedono chi ha dato gli ordini:
-
-"Uno sopra di noi. Non il tipo che incontri al mercato."
-
-Intimidation CD 17:
-
-"Aulus. Va bene? Aulus ha mandato la voce. Ma lui non dice mai perché."
-
-Non nominano [[Gaius Varro|Varro]].
-
-Fase 5 – Ritrovamento degli attrezzi
-
-Luogo
-
-Pozzo secondario nella zona dei magazzini. Non è il pozzo principale per l’acqua potabile; è un vecchio pozzo usato poco, vicino a corde marce, secchi rotti e scarti.
-
-Come arrivarci
-
-I player possono arrivarci tramite:- ragazzino dei vicoli;- tracce di trascinamento;- confessione degli uomini di [[Aulus Seneca]];- guardia svogliata;- intuizione sugli attrezzi troppo difficili da rivendere.
-
-Indizi attorno al pozzo
-
-1. Graffi sul bordo
-
-Perception CD 12:
-
-Il bordo del pozzo ha graffi freschi, come se qualcosa di metallico fosse stato calato giù in fretta.
-
-2. Corda sporca di grasso
-
-Investigation CD 13:
-
-Una corda vecchia è sporca di grasso da forgia. Non è il tipo di sporco che trovi normalmente vicino a un pozzo.
-
-3. Rumore metallico dal fondo
-
-Perception CD 14:
-
-Dal fondo, quando il vento cala, sentite un debole tintinnio metallico.
-
-4. Sacco incastrato
-
-Athletics CD 14 o Use Rope / Disable Device CD 13:
-
-Riuscite a calare una corda o liberare il sacco incastrato contro una pietra sporgente.
-
-Fallimento: gli attrezzi restano recuperabili, ma uno si danneggia o serve più tempo.
-
-Descrizione del ritrovamento
-
-Dal pozzo emerge un sacco scuro, pesante d’acqua e grasso. Quando lo aprite, trovate martelli, pinze, punzoni e una piccola incudine portatile avvolti male in stracci bagnati. Non sono merci da rivendere. Sono strumenti di lavoro. Qualcuno non voleva arricchirsi: voleva fermare una forgia.
-
-Fase 6 – Ritorno da Borin
-
-Se riportano gli attrezzi
-
-Borin non si commuove apertamente. Controlla prima ogni strumento, uno per uno. Poi annuisce.
-
-Dialoghi:
-
-"Sono rovinati. Ma non morti."
-
-"Avete fatto più di quanto credevo. E meno domande stupide di quanto temevo."
-
-"Niente anticipo. Niente monete grosse. Ma quando questi torneranno a cantare sull’incudine, vi farò prezzi da amici."
-
-Ricompensa
-
-Solo se gli attrezzi vengono ritrovati:- sconti futuri su armi e armature;- possibilità di commissionare equipaggiamento senza pagamento anticipato;- Borin diventa contatto affidabile;- può riparare armi danneggiate a prezzo ridotto.
-
-Se ritrovano solo armi rubate ma non attrezzi:- piccola ricompensa;- Borin resta grato ma frustrato;- niente sconti importanti.
-
-Se non ritrovano nulla:- Borin non paga, ma riconosce se hanno capito che il furto era strano;- può restare contatto se i player lo hanno rispettato.
-
-Fase 7 – Esiti
-
-Esito A – I player credono al furto razzista
-
-Il caso si chiude male ma plausibile. Borin è amareggiato. Gli uomini di Aulus ottengono ciò che vogliono: la forgia resta rallentata.
-
-Conseguenza:- meno disponibilità di armi semplici nei giorni successivi;- Borin lavora più lentamente;- i player hanno perso un piccolo segnale sul sabotaggio produttivo.
-
-Esito B – I player recuperano gli attrezzi
-
-La forgia torna attiva dopo poco. Borin diventa alleato minore.
-
-Conseguenza:- accesso migliore ad armamenti;- possibile fonte futura di informazioni su metallo, armi, sigilli, attrezzi manomessi;- piccolo ostacolo al piano di scarsità tecnica.
-
-Esito C – I player scoprono Aulus, ma non recuperano gli attrezzi
-
-Ottengono una pista criminale ma perdono il risultato pratico. Va bene.
-
-Conseguenza:- Aulus sa che i player sono curiosi;- Borin resta danneggiato;- il sospetto aumenta, ma senza beneficio materiale.
-
-Clues Summary
-
-
-| Indizio                                   | CD    | Cosa sembra                | Cosa implica             |
-| ----------------------------------------- | ----- | -------------------------- | ------------------------ |
-| Scritta anti-nani                         | 10–12 | furto razzista             | messa in scena           |
-| Armi rubate a caso                        | 11    | ladri incompetenti         | copertura                |
-| Impronte confuse                          | 12–16 | gruppo rozzo               | pista costruita          |
-| Oggetti nani rovinati                     | 12–14 | odio razziale              | teatralità               |
-| Attrezzi mancanti                         | 14    | furto strano               | vero obiettivo           |
-| Attrezzi su misura                        | 15    | oggetti difficili da usare | non rubati per profitto  |
-| Disordine selettivo                       | 16    | scena caotica              | obiettivo trovato subito |
-| Armadio aperto bene                       | 14–18 | ladro capace               | conoscenza interna       |
-| Ragazzino vede sacco al pozzo             | 13    | pista utile                | attrezzi nascosti        |
-| Uomini di Aulus recitano movente razziale | 15–18 | bulli razzisti             | copertura deliberata     |
-
-DM Notes
-
-Questa quest deve far pensare prima a un furto razzista. Non correggere subito i player se seguono quella pista: è costruita apposta. Il sospetto vero deve nascere da una domanda pratica: perché rubare attrezzi inutili a quasi tutti?
-
-Non rendere gli uomini di Aulus troppo competenti. Sono esecutori. Hanno ricevuto istruzioni: far sembrare il furto razziale e far sparire gli attrezzi. Non sanno il piano di Varro, non sanno la strategia economica.
-
-Non far diventare Borin un povero nano vittima. È orgoglioso e duro. Deve sembrare colpito, non spezzato.
-
-Feeling finale se risolvono:
-
-"Non volevano rubare. Volevano fermare la produzione."
-
-Feeling finale se falliscono:
-
-"Era solo un furto razzista... forse. Ma qualcosa negli attrezzi non tornava."
+> Qualcuno sta spezzando la capacità della città di reagire.

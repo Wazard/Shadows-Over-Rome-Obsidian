@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Corda",
-      "path": "05 - NPCs/Criminal Underworld/Corda.md"
+      "basename": "Session 03 - Day 02 Festival Pressure",
+      "path": "03 - Sessions and Timeline/Session Prep/Session 03 - Day 02 Festival Pressure.md"
     },
     {
-      "basename": "Unregistered Delivery Check",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md"
-    },
-    {
-      "basename": "Official Transport Escort",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md"
-    },
-    {
-      "basename": "Merchant Refuses Delivery",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Merchant Refuses Delivery.md"
-    },
-    {
-      "basename": "Discreet Double Registration Check",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md"
-    },
-    {
-      "basename": "Bread Before Sunset",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Bread Before Sunset.md"
+      "basename": "Naso Rotto",
+      "path": "05 - NPCs/Criminal Underworld/Naso Rotto.md"
     },
     {
       "basename": "Shop Dispute",
@@ -45,104 +29,140 @@
       "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Delayed Shipment Mediation Needed.md"
     },
     {
-      "basename": "Faustus",
-      "path": "05 - NPCs/Supporting NPCs/Faustus.md"
-    },
-    {
-      "basename": "Wolves Outside the Walls",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Wolves Outside the Walls.md"
-    },
-    {
       "basename": "Parcel to the Apothecary",
       "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Parcel to the Apothecary.md"
     },
     {
-      "basename": "Missing Cargo from the Docks",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Missing Cargo from the Docks.md"
+      "basename": "Eudosia Vetroverde",
+      "path": "05 - NPCs/Supporting NPCs/Eudosia Vetroverde.md"
     },
     {
-      "basename": "Marcia's Song in the Square",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Marcia's Song in the Square.md"
+      "basename": "Veska Sottolingua",
+      "path": "05 - NPCs/Criminal Underworld/Veska Sottolingua.md"
     },
     {
-      "basename": "Lost Ledger near the Harbor",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Lost Ledger near the Harbor.md"
+      "basename": "Muto",
+      "path": "05 - NPCs/Criminal Underworld/Muto.md"
     },
     {
-      "basename": "Veltharuun",
-      "path": "05 - NPCs/Supporting NPCs/Veltharuun.md"
+      "basename": "Kessa Fasciarossa",
+      "path": "05 - NPCs/Criminal Underworld/Kessa Fasciarossa.md"
     },
     {
-      "basename": "Cassian Luro",
-      "path": "05 - NPCs/Varro Network/Cassian Luro.md"
+      "basename": "Frate Caldus",
+      "path": "05 - NPCs/Supporting NPCs/Frate Caldus.md"
     },
     {
-      "basename": "Day 01",
-      "path": "03 - Sessions and Timeline/Daily Timeline/Day 01.md"
+      "basename": "Faustus",
+      "path": "05 - NPCs/Supporting NPCs/Faustus.md"
+    },
+    {
+      "basename": "Erinna CodaCorta",
+      "path": "05 - NPCs/Supporting NPCs/Erinna CodaCorta.md"
+    },
+    {
+      "basename": "Erca Corrivia",
+      "path": "05 - NPCs/Supporting NPCs/Erca Corrivia.md"
+    },
+    {
+      "basename": "Er Trace",
+      "path": "05 - NPCs/Supporting NPCs/Er Trace.md"
+    },
+    {
+      "basename": "Durghetta Limesalde",
+      "path": "05 - NPCs/Supporting NPCs/Durghetta Limesalde.md"
+    },
+    {
+      "basename": "Dora Passolungo",
+      "path": "05 - NPCs/Supporting NPCs/Dora Passolungo.md"
+    },
+    {
+      "basename": "Dock Fishmonger",
+      "path": "05 - NPCs/Supporting NPCs/Dock Fishmonger.md"
+    },
+    {
+      "basename": "Diego",
+      "path": "05 - NPCs/Supporting NPCs/Diego.md"
+    },
+    {
+      "basename": "Decimo Lanterna",
+      "path": "05 - NPCs/Supporting NPCs/Decimo Lanterna.md"
+    },
+    {
+      "basename": "Dama Irenia",
+      "path": "05 - NPCs/Supporting NPCs/Dama Irenia.md"
+    },
+    {
+      "basename": "Crew of the Chimera di Giada",
+      "path": "05 - NPCs/Supporting NPCs/Crew of the Chimera di Giada.md"
+    },
+    {
+      "basename": "Cinna Occhistanchi",
+      "path": "05 - NPCs/Supporting NPCs/Cinna Occhistanchi.md"
+    },
+    {
+      "basename": "Cesta",
+      "path": "05 - NPCs/Supporting NPCs/Cesta.md"
+    },
+    {
+      "basename": "Captain Linh Sura",
+      "path": "05 - NPCs/Supporting NPCs/Captain Linh Sura.md"
+    },
+    {
+      "basename": "Caeso Rovi",
+      "path": "05 - NPCs/Supporting NPCs/Caeso Rovi.md"
+    },
+    {
+      "basename": "Bruna Bracciodargano",
+      "path": "05 - NPCs/Supporting NPCs/Bruna Bracciodargano.md"
+    },
+    {
+      "basename": "Bao Yiren",
+      "path": "05 - NPCs/Supporting NPCs/Bao Yiren.md"
+    },
+    {
+      "basename": "Aulo Ficosecche",
+      "path": "05 - NPCs/Supporting NPCs/Aulo Ficosecche.md"
+    },
+    {
+      "basename": "Asterio Falena",
+      "path": "05 - NPCs/Supporting NPCs/Asterio Falena.md"
     },
     {
       "basename": "Aferio Lento",
       "path": "05 - NPCs/Merchant NPCs/Aferio Lento.md"
     },
     {
-      "basename": "Sabina",
-      "path": "05 - NPCs/City Officials and Guards/Sabina.md"
+      "basename": "Anders Crispian",
+      "path": "05 - NPCs/Varro Network/Anders Crispian.md"
     },
     {
-      "basename": "Tullio",
-      "path": "05 - NPCs/City Officials and Guards/Tullio.md"
+      "basename": "Bobbins McTwist",
+      "path": "05 - NPCs/Merchant NPCs/Bobbins McTwist.md"
     },
     {
-      "basename": "Marius Clava",
-      "path": "05 - NPCs/City Officials and Guards/Marius Clava.md"
+      "basename": "Borin Martelferro",
+      "path": "05 - NPCs/Merchant NPCs/Borin Martelferro.md"
     },
     {
-      "basename": "Mella Corda",
-      "path": "05 - NPCs/City Officials and Guards/Mella Corda.md"
+      "basename": "Brutus Verro",
+      "path": "05 - NPCs/Merchant NPCs/Brutus Verro.md"
     },
     {
-      "basename": "Nerva Censore",
-      "path": "05 - NPCs/City Officials and Guards/Nerva Censore.md"
+      "basename": "Caius Rutilo",
+      "path": "05 - NPCs/Varro Network/Caius Rutilo.md"
     },
     {
-      "basename": "Nerio Albidus",
-      "path": "05 - NPCs/City Officials and Guards/Nerio Albidus.md"
-    },
-    {
-      "basename": "Lucan Ferrum",
-      "path": "05 - NPCs/City Officials and Guards/Lucan Ferrum.md"
-    },
-    {
-      "basename": "Flavia Ronda",
-      "path": "05 - NPCs/City Officials and Guards/Flavia Ronda.md"
-    },
-    {
-      "basename": "Fabius Ordo",
-      "path": "05 - NPCs/City Officials and Guards/Fabius Ordo.md"
-    },
-    {
-      "basename": "Crispus Lanca",
-      "path": "05 - NPCs/City Officials and Guards/Crispus Lanca.md"
-    },
-    {
-      "basename": "Cotta",
-      "path": "05 - NPCs/City Officials and Guards/Cotta.md"
-    },
-    {
-      "basename": "Claudia Vetrarossa",
-      "path": "05 - NPCs/City Officials and Guards/Claudia Vetrarossa.md"
-    },
-    {
-      "basename": "Aelia Polvere",
-      "path": "05 - NPCs/City Officials and Guards/Aelia Polvere.md"
-    },
-    {
-      "basename": "Maro Silanus",
-      "path": "05 - NPCs/Merchant NPCs/Maro Silanus.md"
+      "basename": "Decimus Varian",
+      "path": "05 - NPCs/Varro Network/Decimus Varian.md"
     },
     {
       "basename": "Durgan Dato",
       "path": "05 - NPCs/Merchant NPCs/Durgan Dato.md"
+    },
+    {
+      "basename": "Flavius Corvin",
+      "path": "05 - NPCs/Varro Network/Flavius Corvin.md"
     },
     {
       "basename": "Gnaeus Petron",
@@ -153,52 +173,32 @@
       "path": "05 - NPCs/Merchant NPCs/Larto Vero.md"
     },
     {
-      "basename": "Marcia",
-      "path": "05 - NPCs/Main NPCs/Marcia.md"
+      "basename": "Mauro Tersi",
+      "path": "05 - NPCs/Merchant NPCs/Mauro Tersi.md"
     },
     {
-      "basename": "Gaius Varro",
-      "path": "05 - NPCs/Main NPCs/Gaius Varro.md"
+      "basename": "Naevius Prisco",
+      "path": "05 - NPCs/Varro Network/Naevius Prisco.md"
     },
     {
-      "basename": "Aelius Nuurglaag",
-      "path": "05 - NPCs/Main NPCs/Aelius Nuurglaag.md"
+      "basename": "Octavius Brenno",
+      "path": "05 - NPCs/Merchant NPCs/Octavius Brenno.md"
     },
     {
-      "basename": "Zhara delle Lame Basse",
-      "path": "05 - NPCs/Criminal Underworld/Zhara delle Lame Basse.md"
+      "basename": "Plautia Ramefine",
+      "path": "05 - NPCs/Merchant NPCs/Plautia Ramefine.md"
     },
     {
-      "basename": "Veyra Nhal",
-      "path": "05 - NPCs/Criminal Underworld/Veyra Nhal.md"
+      "basename": "Publius Nerva",
+      "path": "05 - NPCs/Varro Network/Publius Nerva.md"
     },
     {
-      "basename": "Tarlo",
-      "path": "05 - NPCs/Criminal Underworld/Tarlo.md"
+      "basename": "Sergerro Atranus",
+      "path": "05 - NPCs/Merchant NPCs/Sergerro Atranus.md"
     },
     {
-      "basename": "Spago",
-      "path": "05 - NPCs/Criminal Underworld/Spago.md"
-    },
-    {
-      "basename": "Naso Rotto",
-      "path": "05 - NPCs/Criminal Underworld/Naso Rotto.md"
-    },
-    {
-      "basename": "Nereth Kaul",
-      "path": "05 - NPCs/Criminal Underworld/Nereth Kaul.md"
-    },
-    {
-      "basename": "Brina",
-      "path": "05 - NPCs/Criminal Underworld/Brina.md"
-    },
-    {
-      "basename": "Borso Tre Denti",
-      "path": "05 - NPCs/Criminal Underworld/Borso Tre Denti.md"
-    },
-    {
-      "basename": "Piso Greve",
-      "path": "05 - NPCs/City Officials and Guards/Piso Greve.md"
+      "basename": "Velio Stoppino",
+      "path": "05 - NPCs/Merchant NPCs/Velio Stoppino.md"
     }
   ],
   "omittedPaths": [],

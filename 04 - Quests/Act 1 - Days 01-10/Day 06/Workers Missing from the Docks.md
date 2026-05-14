@@ -11,6 +11,21 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day6_Workers_Missing_Quest.docx
 ---
 # Workers Missing from the Docks
 
+## Festival Calendar Context
+
+## Deeper Investigation Clues
+
+| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
+| --- | --- | --- | --- | --- | --- | --- |
+| Guard patrol schedule changed without normal stamp | Knowledge Local DC 15; Perception DC 14; Linguistics DC 16 | Guard post near harbor or market | No unless forged documents are used | [[Marius Clava]], [[Cotta]], dockworkers | Some guards are being moved away from useful routes | Direct accusation alerts corrupt guard contacts |
+| Witness quietly removed | Diplomacy DC 15; Sense Motive DC 15 | Dockworker lodging | Possible pursuit | [[Nerio Spaccacorde]], [[Grumo|Grumo Bracciodiragno]] | Low-level witnesses are being scared off before they talk | Delay loses the witness for at least a day |
+
+- Calendar: [[Day 06]] is Desnus 6, 3608.
+- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
+- Festival use: missing workers are first mistaken for drunk festival absences, delaying the alarm.
+- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+
+
 ## Source Migration
 
 Source file: `phase 1/quests/Day6_Workers_Missing_Quest.docx`
