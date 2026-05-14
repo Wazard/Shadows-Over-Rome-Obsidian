@@ -27,6 +27,7 @@ Generated from migrated quest notes.
 | [[Disputed Market Delivery]] | document |
 | [[Forge Theft]] | document |
 | [[Lantern in the Crooked Alley]] | document |
+| [[Marcia's Song in the Square 2]] | curated |
 | [[Shop Dispute]] | document |
 
 ## Day 03
@@ -35,7 +36,6 @@ Generated from migrated quest notes.
 | --- | --- |
 | [[Bread Before Sunset]] | document |
 | [[Discreet Double Registration Check]] | document |
-| [[Merchant Official Escort]] | document |
 | [[Merchant Refuses Delivery]] | document |
 | [[Official Transport Escort]] | document |
 | [[Unregistered Delivery Check]] | document |

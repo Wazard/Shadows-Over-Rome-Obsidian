@@ -162,6 +162,18 @@ Chiedi ai giocatori dove controllano. Ogni scelta dà un pezzo.
 | Due anfore spostate ma non aperte | Percezione CD 14 | Banco vicino con telo verde | No | [[Cesta]] | Qualcuno ha creato il litigio senza rubare davvero | Il venditore può sentirsi ridicolizzato |
 | Marchio raschiato sul collo di un'anfora | Artigianato o Percezione CD 15 | Una delle anfore recuperate | No | Carrettiere, venditori | Le anfore potrebbero essere state riassegnate prima della consegna | Il marchio è troppo rovinato per accusare qualcuno |
 
+## Tracce Cultuali Molto Sottili
+
+Questi elementi devono sembrare folklore del festival, sporcizia di mercato o coincidenze. Non usare parole come culto, simbolo o rituale al tavolo.
+
+| Dettaglio | Dove Appare | Prova | Lettura Immediata | Verità Lontana |
+| --- | --- | --- | --- | --- |
+| Un filo di alghe secche legato sotto il collo di una delle anfore | Anfora recuperata dietro il telo verde | Percezione CD 15; Natura CD 14 | Portafortuna da marinaio o decorazione sporca | Piccola offerta marina usata come segno tra iniziati minori |
+| Un bambino canta "la luna beve il sale" senza sapere da chi l'ha sentito | Fontana piccola | Diplomazia CD 12 con bambini | Filastrocca nuova e senza senso | Frammento di canto rituale diluito dalla strada |
+| Una ciotola di olive nere disposte in cerchio perfetto, poi subito rimescolate dal venditore | Banco vicino | Percezione CD 16 | Nervosismo, superstizione o gesto casuale | Immagine lunare involontariamente ripetuta |
+
+Direzione DM: nessuno deve reagire con paura. La città è piena di superstizioni durante la Remembrance Moon.
+
 ## Complicazione: Folla e Reputazione
 
 Se i giocatori trattano la disputa come una truffa evidente, la folla prende posizione. Alcuni difendono il carrettiere, altri il venditore, altri vogliono solo che il banco riapra.

@@ -138,6 +138,18 @@ Prove:
 | Gancio sostituito con metallo troppo fragile | Artigianato CD 14 | Muro del vicolo | No | Oriolo, residenti | I materiali economici stanno peggiorando | Non prova sabotaggio |
 | Olio annacquato | Alchimia o Percezione CD 13 | Lanterna rotta | No | Oriolo | Persino le forniture comuni calano di qualità | È povertà e cattiva fornitura, non cospirazione diretta |
 
+## Tracce Cultuali Molto Sottili
+
+Questa è la quest migliore per lasciare un'impressione, non una risposta. Le tracce devono poter essere archiviate come superstizione di quartiere.
+
+| Dettaglio | Dove Appare | Prova | Lettura Immediata | Verità Lontana |
+| --- | --- | --- | --- | --- |
+| Una candela votiva spenta che continua a odorare di mare | Finestra di Daria | Percezione CD 14; Religioni CD 17 | Cera economica o olio cattivo | Offerte della Remembrance Moon contaminate da pratica cultuale |
+| Vetro della lanterna con riflesso blu solo quando resta in ombra | Punto della lanterna caduta | Percezione CD 16; Artigianato CD 15 | Vetro scadente o sabbia diversa nella fusione | Stesso materiale usato in piccoli segnali notturni |
+| Bambina del vicolo disegna una luna nera senza sapere perché | Fondo del vicolo | Diplomazia CD 12; Intuizione CD 14 | Disegno infantile copiato da qualche muro | Immagine cultuale già entrata nell'immaginario dei bambini |
+
+Direzione DM: se i PG indagano troppo, ottengono solo voci vaghe: "Sono disegni della luna dei morti", "i bambini copiano tutto", "la cera costa poco perché puzza".
+
 ## Complicazione: Garzone Con Tavole
 
 Mentre i personaggi lavorano, un garzone passa con assi per una bancarella e quasi urta scala o lanterna.

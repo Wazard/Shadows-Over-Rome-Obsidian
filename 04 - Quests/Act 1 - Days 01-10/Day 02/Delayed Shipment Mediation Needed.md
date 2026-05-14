@@ -186,6 +186,18 @@ Lascia che i giocatori ascoltino almeno tre versioni prima di tirare conclusioni
 | Nota di priorità senza firma | Linguistica CD 15 | Registro del magazzino | No | [[Publius Nerva]], [[Titus Falco]] | Qualcuno assegna precedenze senza dichiarare autorità | Copiarla male rende la prova contestabile |
 | Osservatore con mani pulite | Percezione CD 14; Intuizione CD 15 | Casse laterali del cortile | No, fugge se pressato | [[Tarlo]] o altro osservatore minore | Qualcuno controlla chi fa domande | Se seguito, avvisa contatti nei magazzini |
 
+## Tracce Cultuali Molto Sottili
+
+Questi dettagli non devono diventare una pista completa. Usali come rumore strano, non come prova. Se i giocatori li ignorano, va bene. Se li annotano, potranno riconoscerne il peso molto più avanti.
+
+| Dettaglio | Dove Appare | Prova | Lettura Immediata | Verità Lontana |
+| --- | --- | --- | --- | --- |
+| Granelli di sale nero dentro una piega del registro | Banco dei registri | Percezione CD 16; Conoscenze religioni CD 19 | Sale sporco, sabbia da porto o residuo di imballaggio | Piccolo residuo rituale legato a mare e lutto |
+| Una formula scritta tre volte sul bordo di una tavoletta: "quando la luna manca" | Tavolette vecchie sotto il banco | Linguistica CD 15 | Frase popolare della Remembrance Moon | Eco di linguaggio cultuale entrato nei registri |
+| Cera grigio-bluastra su un sigillo non ufficiale | Corsia delle merci prioritarie | Percezione CD 14; Artigianato CD 16 | Cera economica di cattiva qualità | Stesso colore usato in piccole offerte notturne al mare |
+
+Direzione DM: nessun PNG qui sa spiegare queste tracce. Al massimo un impiegato dice: "Durante Desnus la gente scrive sciocchezze sulla luna ovunque."
+
 ## Complicazione Sociale
 
 Se i giocatori accusano subito un mercante o un magazziniere, fai salire la tensione. I festivalieri nel cortile non vogliono una rissa, ma sono già nervosi.

@@ -140,6 +140,18 @@ Quando i giocatori guardano meglio, emergono gli attrezzi.
 | Scaffale pulito in mezzo al caos | Investigazione CD 16; Artigianato CD 15 | Forgia di Borin | Possibile incontro con uomini di Aulus | [[Borin Martelferro]], [[Naso Rotto]] | Il furto mirava alla produzione, non al profitto | Conclusioni gridate attirano attenzione |
 | Grasso da forgia su corda vecchia | Percezione CD 13 | Vecchio pozzo dei magazzini | No, se arrivano prima degli uomini di Aulus | Borin, testimone di strada | Gli attrezzi sono stati calati e nascosti, non venduti | Ritardare può far recuperare il sacco da altri |
 
+## Tracce Cultuali Molto Sottili
+
+La scena principale resta sabotaggio economico. Queste tracce non indicano che i ladri siano cultisti; indicano solo che altri segni della città stanno filtrando anche qui.
+
+| Dettaglio | Dove Appare | Prova | Lettura Immediata | Verità Lontana |
+| --- | --- | --- | --- | --- |
+| Acqua del pozzo innaturalmente salmastra | Vecchio pozzo dei magazzini | Natura CD 15; Percezione CD 14 | Infiltrazione marina, vecchia cisterna o acqua cattiva | Presenza rituale marina in punti secondari della città |
+| Fuliggine disposta in una mezzaluna sotto la statuetta di Torag caduta | Sala calda della forgia | Percezione CD 16; Religioni CD 18 | Caso, sporcizia spostata dalla caduta | Immagine di luna mancante, non un simbolo completo |
+| Un chiodo annerito legato con filo blu scuro dentro il sacco degli attrezzi | Sacco nel pozzo | Percezione CD 15; Artigianato CD 13 | Scarto finito nel sacco | Piccolo marcatore usato da chi manipola oggetti destinati all'acqua |
+
+Direzione DM: Borin interpreta tutto come sporcizia o insulto. Non lasciargli spiegare il culto.
+
 ## Testimoni
 
 ### Apprendista di Borin

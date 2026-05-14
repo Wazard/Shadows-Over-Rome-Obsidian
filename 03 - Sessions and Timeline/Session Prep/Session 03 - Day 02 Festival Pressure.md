@@ -76,7 +76,7 @@ Gli incarichi disponibili sono:
 
 | Quest | Tipo | Durata Stimata | Pagamento Relativo | Perché Potrebbero Sceglierla |
 | --- | --- | --- | --- | --- |
-| [[Marcia's Song in the Square]] | Sociale/pubblica | 1 ora | Basso | Rapida, visibile, contatto con Marcia |
+| [[Marcia's Song in the Square 2]] | Sociale/pubblica | 1-2 ore | Basso | Rapida, visibile, contatto con Marcia |
 | [[Delayed Shipment Mediation Needed]] | Mediazione/indagine commerciale | 3-5 ore | Basso-medio | Pagamento migliore, indizio su ritardi selettivi |
 | [[Forge Theft]] | Indagine/sabotaggio | 2-4 ore | Basso in monete, alto in favori | Furto concreto, possibile scontro, ricompense utili |
 | [[Lantern in the Crooked Alley]] | Aiuto urbano/minor clue | 1 ora | Basso | Veloce, reputazione locale |
@@ -108,7 +108,7 @@ Se scelgono:
 - [[Forge Theft]]: vai alla forgia, poi cortile del carbone e vecchio pozzo.
 - [[Shop Dispute]]: tienila breve ma piena di dettagli materiali.
 - [[Lantern in the Crooked Alley]]: usala come incontro umano e reputazionale.
-- [[Marcia's Song in the Square]]: rendila leggera, ma con pubblico più agitato del giorno prima.
+- [[Marcia's Song in the Square 2]]: rendila leggera, ma con pubblico più agitato del giorno prima.
 - [[Wolves Outside the Walls]]: falli uscire dalla città e mostra carovane in arrivo per il festival.
 
 ### Pranzo, 12:30-14:00
@@ -295,13 +295,17 @@ Ricompensa utile:
 
 - residenti del vicolo possono offrire avvisi futuri o nascondiglio breve.
 
-### Se scelgono [[Marcia's Song in the Square]]
+### Se scelgono [[Marcia's Song in the Square 2]]
 
-Rendila più festivaliera e più pubblica. Marcia non spiega la trama. Fa sentire la temperatura sociale.
+Rendila più festivaliera e più pubblica. Marcia non spiega la trama. Fa sentire la temperatura sociale. La scena può includere guardie che si godono musica e folla, lasciando correre per una volta insulti razzisti minori o attriti sociali se i PG li gestiscono senza violenza.
 
 Indizio minimo:
 
 > La gente collega già prezzi, porto e festa prima degli uffici.
+
+Traccia cultuale minima:
+
+> La frase "la luna beve" circola come ritornello e superstizione, non come prova.
 
 ### Se scelgono [[Wolves Outside the Walls]]
 
@@ -342,7 +346,6 @@ Conseguenza morbida:
 - Oppure segnala il fatto a un contatto senza creare scena immediata.
 
 Non rivelare "Cassian falsifica monete" con una singola spesa. Usa la moneta come filo.
-
 ## Gestione di Naso Rotto
 
 [[Naso Rotto]] non deve riapparire subito come boss. Meglio usarlo come pressione.

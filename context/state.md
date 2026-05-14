@@ -152,6 +152,7 @@ Day 02 Act 1 quest expansion:
   - crooked alley entrance, fallen lantern point, Daria's window, Oriolo's stall, and dark alley end;
   - Asterio's workbench, old sample shelf, Caius' crate, street window, and apprentice corner.
 - Cleaned lingering encoding artifacts in Day 02 quest text after the point-of-interest pass.
+- Later added very subtle cult traces to each Day 02 quest. These are intentionally non-conclusive background details: salt, moon phrases, blue/gray candle wax, sea smell, strange glass, children's drawings, and other motifs that can be ignored now but recognized later.
 
 Day 01 Act 1 quest expansion:
 
@@ -164,6 +165,10 @@ Day 01 Act 1 quest expansion:
 - Each now includes festival/remembrance context, a bacheca hook, DM summary, scene flow, named NPC handling, investigation options, complications, outcomes, rewards, and table notes.
 - `Parcel to the Apothecary` canon changed: the apothecary is not seen by the players. The true hidden figure is `Veska Sottolingua`, a vishkanya from the black market. `Tamira Velofalso` is the legal face of the activity, selling perfumes, ordinary remedies, oils, soaps, and other normal apothecary goods.
 - Renamed/normalized the Tamira NPC note to `Tamira Velofalso`; `Market Apothecary` is now only a legacy placeholder pointing to Tamira and Veska.
+- `Marcia's Song in the Square` is the Day 01 Marcia quest only. A separate Day 02 quest now exists as `Marcia's Song in the Square 2`, with stronger festival texture, short recurring lyrics, random square encounters, crowd lines, guard behavior, possible payout, and a very subtle "la luna beve" cult echo that Marcia does not understand as occult.
+- `Wolves Outside the Walls` was expanded with detailed points of interest outside the walls, travel encounters, sensory cues, advanced preparations, and wolf behavior.
+- `04 - Quests/Act 1 - Days 01-10/Quest Board.md` now has a Day 2 board section linking `Marcia's Song in the Square 2` and the other Day 2 Session 03 quests.
+- `indexes/Act 1 Quest Index.md` now lists `Marcia's Song in the Square 2` under Day 02 and no longer includes the stale broken `Merchant Official Escort` row.
 
 ### Source Imports And Assets
 
@@ -269,7 +274,7 @@ Session 03 starts on `Day 02`, Desnus 2, 3608, at Il Veliero after rest. It shou
 
 Available Session 03 quests:
 
-- `Marcia's Song in the Square`
+- `Marcia's Song in the Square 2`
 - `Delayed Shipment Mediation Needed`
 - `Forge Theft`
 - `Lantern in the Crooked Alley`
@@ -277,6 +282,8 @@ Available Session 03 quests:
 - `Wolves Outside the Walls`
 
 The prep includes rollable d4 encounter tables with 4 encounters per zone for Il Veliero, Harbor District, Warehouse District, Market Square, artisan/shop district, poor residential alleys, city gates/outside walls, and roads toward the noble district.
+
+Session 03 prep now points the Marcia option toward the separate Day 02 quest `Marcia's Song in the Square 2`.
 
 ### Day 1-2 NPC Cleanup
 

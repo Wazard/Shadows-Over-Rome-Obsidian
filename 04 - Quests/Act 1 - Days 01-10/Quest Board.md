@@ -44,6 +44,16 @@ During [[Act 1 - Varro's Merchant Conspiracy]], the board slowly teaches the pla
 | Parcel needed from the harbor | [[Parcel to the Apothecary]] | Movement and logistics noise |
 | Wolves outside the walls | [[Wolves Outside the Walls]] | Normal rural problem |
 
+## Day 2 Board
+
+| Posting | Note | Tone |
+| --- | --- | --- |
+| Second public song - voices and rhythm wanted | [[Marcia's Song in the Square 2]] | Festival crowd scene, Marcia contact, social pressure |
+| Mediation requested for delayed shipment | [[Delayed Shipment Mediation Needed]] | Commercial pressure and selective priority |
+| Theft at the forge | [[Forge Theft]] | Practical sabotage disguised as hate crime |
+| Broken lantern in crooked alley | [[Lantern in the Crooked Alley]] | Local favor and city texture |
+| Shop dispute - neutral witnesses requested | [[Shop Dispute]] | Material quality and supply-chain pressure |
+
 ## Day 5 Special Posting
 
 [[Diego Quest 1]] should look hand-written, frantic, and unpaid. It is not formatted like a normal job.

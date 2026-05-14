@@ -145,6 +145,18 @@ Il registro è pulito. Troppo pulito.
 | Registro corretto, merce sbagliata | Linguistica CD 13; Intuizione CD 14 | Banco della bottega | No | [[Asterio Falena]] | La documentazione è più pulita della realtà | Indica manipolazione della catena, non un colpevole |
 | Fornitura parallela più buona | Diplomazia CD 15 | Bottega vicina | No | Artigiano vicino | Qualcuno riceve ancora materiale buono | Il vicino teme ritorsioni commerciali |
 
+## Tracce Cultuali Molto Sottili
+
+Non collegare questi elementi alla disputa commerciale. Devono sembrare difetti di materiale, gusti strani o superstizioni da artigiani.
+
+| Dettaglio | Dove Appare | Prova | Lettura Immediata | Verità Lontana |
+| --- | --- | --- | --- | --- |
+| Una lastrina metallica vibra con un suono basso quando passa una processione funebre della Remembrance Moon | Banco di montaggio | Percezione CD 15; Artigianato CD 16 | Metallo difettoso o troppo sottile | Lega contaminata da materiale usato in oggetti rituali |
+| Vecchio campione buono macchiato da sale bianco sul bordo, anche se conservato all'asciutto | Scaffale dei vecchi campioni | Percezione CD 14; Natura CD 16 | Umidità o cattiva conservazione | Presenza salina anomala ricorrente |
+| Disegno di una lanterna senza fiamma tra gli appunti dell'apprendista | Angolo dell'apprendista | Percezione CD 13; Intuizione CD 15 | Schizzo fatto per noia | Immagine vista su un manifesto o muro e copiata senza capirla |
+
+Direzione DM: Asterio può interessarsi al difetto tecnico, non al significato occulto. Se i PG gli chiedono del culto, ne ride o si irrita.
+
 ## Fase 3 - Mediazione
 
 I giocatori possono decidere chi ha ragione o proporre compromesso.
