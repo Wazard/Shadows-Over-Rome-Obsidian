@@ -13,6 +13,35 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day5_Una_stanza_per_chi_non_puo
 ---
 # A Room for Those Who Cannot Return
 
+> [!motive] Motivo
+> I PG hanno un motivo pratico per accettare questa quest: seguire il gancio descritto sotto, ottenere la ricompensa o il favore previsto, e capire come la pressione locale di [[Day 05]] sta toccando il quartiere. Questa sezione orienta la gestione al tavolo senza sostituire il testo giocabile già presente.
+
+> [!summary] Riassunto
+> Quest di [[Day 05]] centrata su **A Room for Those Who Cannot Return**. Il contenuto sotto mantiene gancio, scene, indizi, prove e conseguenze già scritte; questa apertura serve a renderla leggibile secondo [[quest_markdown_rules]].
+
+> [!success] Esiti possibili
+> - **Successo pieno:** i PG risolvono la richiesta principale, ottengono la ricompensa prevista e lasciano PNG o quartiere in posizione migliore.
+> - **Successo parziale:** i PG completano solo parte dell'obiettivo, ottengono meno fiducia o meno informazioni, ma mantengono una pista giocabile.
+> - **Fallimento:** la situazione peggiora, la ricompensa si riduce o sparisce, e la pressione della città avanza.
+> - **Conseguenza futura:** indizi, reputazione e reazioni dei PNG vanno riportati nelle sessioni successive se emergono al tavolo.
+
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 05]] |
+| Luogo | Vedi testo |
+| PNG coinvolti | [[Corda]], [[Er Trace]], [[Marcia]] |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#3f8f4c"><strong>COS</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Vedi testo: nessuno, possibile, probabile o boss secondo le sezioni sotto |
+| Ricompensa | Vedi testo |
+
+## PNG e Colori
+
+| PNG | Colore dialogo |
+| --- | --- |
+| <span style="color:#3366cc"><strong>[[Corda]]</strong></span> | `#3366cc` |
+| <span style="color:#7f5f2a"><strong>[[Er Trace]]</strong></span> | `#7f5f2a` |
+| <span style="color:#4f6f52"><strong>[[Marcia]]</strong></span> | `#4f6f52` |
+
 ## Festival Calendar Context
 
 ## Deeper Investigation Clues
@@ -127,15 +156,15 @@ Celso:
 
 "Una notte. Niente rumore. Niente nomi. All’alba fuori."
 
-Diplomacy CD 15: convincerlo a prezzo ridotto o con promessa di favore.
+<span style="color:#d6a500"><strong>Diplomacy CD 15</strong></span>: convincerlo a prezzo ridotto o con promessa di favore.
 
 "Va bene. Ma se mi chiudono la taverna, la prossima canzone di Marcia la canto io. E non sarà gentile."
 
-Intimidation CD 14: funziona, ma Marcia non approva.
+<span style="color:#d6a500"><strong>Intimidation CD 14</strong></span>: funziona, ma Marcia non approva.
 
 "Se li fai entrare per paura, domani caccerà altri per sentirsi di nuovo forte."
 
-Bluff CD 15: farli passare come parenti, lavoratori pagati o gente di passaggio.
+<span style="color:#d6a500"><strong>Bluff CD 15</strong></span>: farli passare come parenti, lavoratori pagati o gente di passaggio.
 
 Fallimento: Celso urla abbastanza da attirare una guardia o un vicino curioso.
 
@@ -167,13 +196,13 @@ Se vedono il gruppo:
 
 Possibili approcci
 
-Stealth CD 14: entrare senza essere visti.
+<span style="color:#e68632"><strong>Stealth CD 14</strong></span>: entrare senza essere visti.
 
-Disable Device CD 14: aprire una porta laterale senza rompere la serratura.
+<span style="color:#e68632"><strong>Disable Device CD 14</strong></span>: aprire una porta laterale senza rompere la serratura.
 
-Sleight of Hand CD 15: far passare una chiave o un sigillo falso abbastanza velocemente da non essere controllato.
+<span style="color:#e68632"><strong>Sleight of Hand CD 15</strong></span>: far passare una chiave o un sigillo falso abbastanza velocemente da non essere controllato.
 
-Bluff CD 16: fingere che siano lavoratori convocati per turno anticipato.
+<span style="color:#d6a500"><strong>Bluff CD 16</strong></span>: fingere che siano lavoratori convocati per turno anticipato.
 
 Bribery: 5–10 monete d’argento.
 
@@ -187,7 +216,7 @@ Guardia più giovane:
 
 "Io non posso farli entrare."
 
-Se insistono con Diplomacy CD 16:
+Se insistono con <span style="color:#d6a500"><strong>Diplomacy CD 16</strong></span>:
 
 "Posso… posso non passare da questa porta per un’ora. Non di più."
 
@@ -223,9 +252,9 @@ Er Trace:
 
 Possibili approcci
 
-Appello personale dei player: se hanno buon rapporto con Er Trace, può funzionare senza tiro o con Diplomacy CD 14.
+Appello personale dei player: se hanno buon rapporto con Er Trace, può funzionare senza tiro o con <span style="color:#d6a500"><strong>Diplomacy CD 14</strong></span>.
 
-Diplomacy CD 16: convincerlo con garanzie: niente sala comune, niente nomi, entrata dal retro, uscita all’alba.
+<span style="color:#d6a500"><strong>Diplomacy CD 16</strong></span>: convincerlo con garanzie: niente sala comune, niente nomi, entrata dal retro, uscita all’alba.
 
 Pagare di tasca propria: coprire il rischio con 10–15 monete d’argento. Er Trace potrebbe accettare, ma non per avidità.
 
@@ -283,9 +312,9 @@ Chierico:
 
 "Possiamo offrire cibo, acqua e preghiera. Per ospitalità notturna servono nomi e provenienza."
 
-Se i player mentono: Bluff CD 15 per inventare una storia credibile.
+Se i player mentono: <span style="color:#d6a500"><strong>Bluff CD 15</strong></span> per inventare una storia credibile.
 
-Se i player chiedono eccezione: Diplomacy CD 17 per ottenere una stanza laterale senza registrazione completa.
+Se i player chiedono eccezione: <span style="color:#d6a500"><strong>Diplomacy CD 17</strong></span> per ottenere una stanza laterale senza registrazione completa.
 
 Se falliscono:
 
@@ -305,7 +334,7 @@ Se sono in taverna minore
 
 Una guardia passa chiedendo se sono arrivati “ospiti nuovi”.
 
-Bluff CD 14 o Diplomacy CD 15 per deviare.
+<span style="color:#d6a500"><strong>Bluff CD 14</strong></span> o <span style="color:#d6a500"><strong>Diplomacy CD 15</strong></span> per deviare.
 
 Fallimento: la guardia chiede una tangente o vuole vedere le stanze.
 
@@ -313,19 +342,19 @@ Se sono in magazzino
 
 Una ronda si avvicina prima del previsto.
 
-Stealth CD 14 per far stare tutti zitti.
+<span style="color:#e68632"><strong>Stealth CD 14</strong></span> per far stare tutti zitti.
 
-Perception CD 13 per sentirli arrivare.
+<span style="color:#8b5cf6"><strong>Perception CD 13</strong></span> per sentirli arrivare.
 
-Disable Device CD 13 per richiudere in fretta una porta o una finestra laterale.
+<span style="color:#e68632"><strong>Disable Device CD 13</strong></span> per richiudere in fretta una porta o una finestra laterale.
 
 Se sono al Veliero
 
 Un cliente ubriaco vede entrare qualcuno dal retro.
 
-Intimidation CD 13 per zittirlo.
+<span style="color:#d6a500"><strong>Intimidation CD 13</strong></span> per zittirlo.
 
-Diplomacy CD 14 per convincerlo che ha visto male.
+<span style="color:#d6a500"><strong>Diplomacy CD 14</strong></span> per convincerlo che ha visto male.
 
 Bribery: una bevuta o poche monete.
 
@@ -333,11 +362,11 @@ Se sono al tempio
 
 Un accolito troppo zelante chiede nomi per regolarizzare la presenza.
 
-Diplomacy CD 15 per convincerlo a rimandare all’alba.
+<span style="color:#d6a500"><strong>Diplomacy CD 15</strong></span> per convincerlo a rimandare all’alba.
 
-Bluff CD 16 per dare nomi falsi credibili.
+<span style="color:#d6a500"><strong>Bluff CD 16</strong></span> per dare nomi falsi credibili.
 
-Sense Motive CD 13: l’accolito non è cattivo, ma potrebbe causare guai.
+<span style="color:#8b5cf6"><strong>Sense Motive CD 13</strong></span>: l’accolito non è cattivo, ma potrebbe causare guai.
 
 Fase 4 – Mattina dopo
 
@@ -405,7 +434,7 @@ Esito E – Violenza inutile
 
 Se i player pestano guardie, osti o civili senza necessità, Marcia li giudica male. Non chiude per forza il rapporto, ma segna la cosa.
 
-Clues Summary
+## Riepilogo Indizi
 
 Indizio
 
@@ -471,7 +500,7 @@ controllo urbano
 
 aiutare diventa rischioso
 
-DM Notes
+> [!note] Note GM
 
 Questa quest deve essere intima e scomoda. Non deve trasformarsi in “troviamo un hotel”. Il punto è che nessun luogo sicuro è davvero gratuito: o si paga in monete, o in rischio, o in illegalità, o in fiducia.
 

@@ -16,6 +16,38 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day4/Day4_Farina_promessa_farin
 ---
 # Promised Flour Missing Flour
 
+> [!motive] Motivo
+> I PG hanno un motivo pratico per accettare questa quest: seguire il gancio descritto sotto, ottenere la ricompensa o il favore previsto, e capire come la pressione locale di [[Day 04]] sta toccando il quartiere. Questa sezione orienta la gestione al tavolo senza sostituire il testo giocabile già presente.
+
+> [!summary] Riassunto
+> Quest di [[Day 04]] centrata su **Promised Flour Missing Flour**. Il contenuto sotto mantiene gancio, scene, indizi, prove e conseguenze già scritte; questa apertura serve a renderla leggibile secondo [[quest_markdown_rules]].
+
+> [!success] Esiti possibili
+> - **Successo pieno:** i PG risolvono la richiesta principale, ottengono la ricompensa prevista e lasciano PNG o quartiere in posizione migliore.
+> - **Successo parziale:** i PG completano solo parte dell'obiettivo, ottengono meno fiducia o meno informazioni, ma mantengono una pista giocabile.
+> - **Fallimento:** la situazione peggiora, la ricompensa si riduce o sparisce, e la pressione della città avanza.
+> - **Conseguenza futura:** indizi, reputazione e reazioni dei PNG vanno riportati nelle sessioni successive se emergono al tavolo.
+
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 04]] |
+| Luogo | Vedi testo |
+| PNG coinvolti | [[Brutus Verro]], [[Corda]], [[Larto Vero]], [[Livia Cornelia Frizzapunto]], [[Marcia]], [[Ratto]] |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#3f8f4c"><strong>COS</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Vedi testo: nessuno, possibile, probabile o boss secondo le sezioni sotto |
+| Ricompensa | Vedi testo |
+
+## PNG e Colori
+
+| PNG | Colore dialogo |
+| --- | --- |
+| <span style="color:#3366cc"><strong>[[Brutus Verro]]</strong></span> | `#3366cc` |
+| <span style="color:#7f5f2a"><strong>[[Corda]]</strong></span> | `#7f5f2a` |
+| <span style="color:#4f6f52"><strong>[[Larto Vero]]</strong></span> | `#4f6f52` |
+| <span style="color:#2f7fb8"><strong>[[Livia Cornelia Frizzapunto]]</strong></span> | `#2f7fb8` |
+| <span style="color:#8b1e1e"><strong>[[Marcia]]</strong></span> | `#8b1e1e` |
+| <span style="color:#6f4a8e"><strong>[[Ratto]]</strong></span> | `#6f4a8e` |
+
 ## Festival Calendar Context
 
 ## Deeper Investigation Clues
@@ -106,7 +138,7 @@ Fase 1 – La bottega di Lartius
 
 I player trovano Larto nella sua bottega o al mercato. La quest deve iniziare con odore di pane, forno caldo e scarsità imminente. Non è ancora carestia piena, ma si sente che qualcosa sta cambiando.
 
-Descrizione da leggere
+> [!readaloud] Descrizione da leggere
 
 La bottega di Larto Vero dovrebbe profumare di pane. E in parte lo fa. Ma sotto l'odore caldo del forno c'è qualcosa di più secco: scaffali meno pieni, sacchi quasi vuoti, farina raschiata dal fondo di un contenitore. Un bambino aspetta davanti al banco con due monete in mano; Lartius gli dà una pagnotta più piccola del normale e finge che sia uguale alle altre.
 
@@ -174,7 +206,7 @@ Cosa scoprono
 
 Firma del magazzino
 
-Investigation CD 14
+<span style="color:#2f9ed8"><strong>Investigation CD 14</strong></span>
 
 La firma è autentica, ma è stata aggiunta una nota di riassegnazione successiva.
 
@@ -186,13 +218,13 @@ La merce è stata spostata a un 'deposito provvisorio' senza indicare una vera e
 
 Sigillo secondario
 
-Perception CD 15
+<span style="color:#8b5cf6"><strong>Perception CD 15</strong></span>
 
 Il sigillo non è di Brutus Verro, ma della stessa compagnia di facciata emersa nelle quest del giorno 3.
 
 Data e orario
 
-Investigation CD 16
+<span style="color:#2f9ed8"><strong>Investigation CD 16</strong></span>
 
 La riassegnazione è stata fatta dopo che la farina era già destinata alla bottega di Lartius.
 
@@ -206,13 +238,13 @@ Fase 3 – Magazzini: la fila dei piccoli
 
 Larto accompagna i player ai magazzini. Qui si vede la differenza tra piccoli operatori e mercanti protetti. La scena deve essere viva: persone che aspettano, facchini stanchi, impiegati irritati, voci che rimbalzano.
 
-Descrizione da leggere
+> [!readaloud] Descrizione da leggere
 
 Davanti agli uffici dei magazzini non c'è una rivolta, ma c'è qualcosa che le somiglia da lontano: gente in fila, braccia incrociate, ricevute strette in mano, sguardi duri. Nessuno urla davvero. Urlare qui significa essere segnati come problema. Ma ogni parola è più secca della precedente.
 
 Un facchino passa con un sacco sulle spalle e non guarda nessuno. Un impiegato ripete per la terza volta che bisogna attendere. Lartius stringe la ricevuta come se potesse trasformarla in pane con la forza.
 
-Rumore casuale
+> [!note] Rumore casuale
 
 Un uomo in fila continua a contare le stesse sei monete.
 
@@ -234,13 +266,13 @@ Risultato
 
 Raccogliere voci
 
-Diplomacy CD 14
+<span style="color:#d6a500"><strong>Diplomacy CD 14</strong></span>
 
 Altri piccoli venditori dicono che anche i loro carichi sono stati riassegnati o rallentati.
 
 Capire il pattern
 
-Sense Motive CD 16
+<span style="color:#8b5cf6"><strong>Sense Motive CD 16</strong></span>
 
 I piccoli mercanti sono arrabbiati; quelli legati a Brutus Verro sono stranamente tranquilli.
 
@@ -252,7 +284,7 @@ Almeno due ricevute hanno la stessa formula di riassegnazione.
 
 Cercare nomi ricorrenti
 
-Investigation CD 17
+<span style="color:#2f9ed8"><strong>Investigation CD 17</strong></span>
 
 Compare più volte un deposito collegato a Brutus Verro.
 
@@ -282,13 +314,13 @@ Risultato
 
 Diplomazia
 
-Diplomacy CD 15
+<span style="color:#d6a500"><strong>Diplomacy CD 15</strong></span>
 
 Livia ammette che il carico è stato spostato a un deposito privato.
 
 Pressione
 
-Intimidation CD 15
+<span style="color:#d6a500"><strong>Intimidation CD 15</strong></span>
 
 Parla, ma chiama un supervisore dopo la scena.
 
@@ -306,7 +338,7 @@ I player dimostrano che la riassegnazione non ha senso commerciale.
 
 Furto della nota
 
-Sleight of Hand CD 17
+<span style="color:#e68632"><strong>Sleight of Hand CD 17</strong></span>
 
 Ottengono una copia o frammento della nota di riassegnazione.
 
@@ -314,7 +346,7 @@ Fase 5 – Deposito sbagliato
 
 Il deposito non deve essere il grande covo di Brutus Verro. Deve essere un deposito provvisorio con abbastanza prove da far capire che il carico di Lartius non è semplicemente sparito. È stato assorbito da una rete più ampia.
 
-Descrizione da leggere
+> [!readaloud] Descrizione da leggere
 
 Il deposito indicato non ha nulla di memorabile: porta scura, serratura comune, odore di farina e legno secco. Proprio per questo sembra peggio. Non è una tana criminale. È una stanza normale, usata per fare una cosa sporca con la faccia pulita.
 
@@ -328,7 +360,7 @@ Risultato
 
 Sacchi di farina marcati
 
-Perception CD 13
+<span style="color:#8b5cf6"><strong>Perception CD 13</strong></span>
 
 Alcuni sacchi hanno segni compatibili con la consegna di Larto.
 
@@ -340,13 +372,13 @@ Il deposito contiene più farina di quanto indicato nella nota.
 
 Lista di riassegnazioni
 
-Investigation CD 17
+<span style="color:#2f9ed8"><strong>Investigation CD 17</strong></span>
 
 Lartius non è l'unico: altri piccoli venditori sono stati colpiti.
 
 Nome di Brutus Verro
 
-Investigation CD 18
+<span style="color:#2f9ed8"><strong>Investigation CD 18</strong></span>
 
 Il nome non appare come proprietario diretto, ma come destinatario finale tramite intermediario.
 
@@ -366,11 +398,11 @@ Bracciante:
 
 Gestione
 
-Diplomacy CD 15: i braccianti esitano, soprattutto se Lartius parla di famiglie e pane.
+<span style="color:#d6a500"><strong>Diplomacy CD 15</strong></span>: i braccianti esitano, soprattutto se Lartius parla di famiglie e pane.
 
-Intimidation CD 16: si tirano indietro, ma avvisano chi li paga.
+<span style="color:#d6a500"><strong>Intimidation CD 16</strong></span>: si tirano indietro, ma avvisano chi li paga.
 
-Bluff CD 16: i player fingono di essere autorizzati dalla Gilda.
+<span style="color:#d6a500"><strong>Bluff CD 16</strong></span>: i player fingono di essere autorizzati dalla Gilda.
 
 Fight possibile ma evitabile. Se parte, deve essere breve e non letale.
 
@@ -420,6 +452,6 @@ I player spaventano un impiegato o rubano carte
 
 Giorno 6: Protezione per testimonianza riservata, da Servius Atranus
 
-DM Notes
+> [!note] Note GM
 
 Questa quest deve far sembrare Brutus Verro sempre più centrale. Non far comparire Varro, Cassian o Aulus. Se i player chiedono chi guadagna da tutto questo, la risposta superficiale è Brutus. La risposta vera arriverà più avanti.

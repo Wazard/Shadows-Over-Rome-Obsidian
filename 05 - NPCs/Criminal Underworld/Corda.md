@@ -6,11 +6,12 @@ tags:
   - npc/tertiary
   - source/npc-terziari-csv
   - faction/criminals
-Faction: "Banditi di Aulus"
-race: "Umano"
-role: "Estorsore"
-source_csv: "NPC_terziari.csv"
-source: "Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs/NPC_terziari.csv"
+  - linker-exclude
+Faction: Banditi di Aulus
+race: Umano
+role: Estorsore
+source_csv: NPC_terziari.csv
+source: Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs/NPC_terziari.csv
 ---
 # Corda
 

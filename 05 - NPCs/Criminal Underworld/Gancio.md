@@ -6,11 +6,12 @@ tags:
   - npc/tertiary
   - source/npc-terziari-csv
   - faction/criminals
-Faction: "Banditi normali"
-race: "Umano"
-role: "Aggressore da vicolo"
-source_csv: "NPC_terziari.csv"
-source: "Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs/NPC_terziari.csv"
+  - linker-exclude
+Faction: Banditi normali
+race: Umano
+role: Aggressore da vicolo
+source_csv: NPC_terziari.csv
+source: Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs/NPC_terziari.csv
 ---
 # Gancio
 

@@ -14,9 +14,36 @@ source:
 
 # Wolves Outside the Walls
 
+> [!motive] Motivo
+> I PG hanno un motivo pratico per accettare questa quest: seguire il gancio descritto sotto, ottenere la ricompensa o il favore previsto, e capire come la pressione locale di [[Day 01]] sta toccando il quartiere. Questa sezione orienta la gestione al tavolo senza sostituire il testo giocabile già presente.
+
+> [!summary] Riassunto
+> Quest di [[Day 01]] centrata su **Wolves Outside the Walls**. Il contenuto sotto mantiene gancio, scene, indizi, prove e conseguenze già scritte; questa apertura serve a renderla leggibile secondo [[quest_markdown_rules]].
+
+> [!success] Esiti possibili
+> - **Successo pieno:** i PG risolvono la richiesta principale, ottengono la ricompensa prevista e lasciano PNG o quartiere in posizione migliore.
+> - **Successo parziale:** i PG completano solo parte dell'obiettivo, ottengono meno fiducia o meno informazioni, ma mantengono una pista giocabile.
+> - **Fallimento:** la situazione peggiora, la ricompensa si riduce o sparisce, e la pressione della città avanza.
+> - **Conseguenza futura:** indizi, reputazione e reazioni dei PNG vanno riportati nelle sessioni successive se emergono al tavolo.
+
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 01]] |
+| Luogo | Vedi testo |
+| PNG coinvolti | [[Faustus]] |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#3f8f4c"><strong>COS</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Vedi testo: nessuno, possibile, probabile o boss secondo le sezioni sotto |
+| Ricompensa | Vedi testo |
+
+## PNG e Colori
+
+| PNG | Colore dialogo |
+| --- | --- |
+| <span style="color:#3366cc"><strong>[</strong></span> | `#3366cc` |
+
 ## Contesto di Calendario e Festival
 
-[[Day 01]] e Desnus 1, 3608. Mentre dentro Roma si preparano canti, cena speciale e fuochi d'artificio, fuori dalle mura il festival ha un altro significato: piu carovane, piu animali, piu parenti in viaggio, piu merci da proteggere. Se la strada non e sicura, la festa costa di piu a chi e gia povero.
+[[Day 01]] è Desnus 1, 3608. Mentre dentro Roma si preparano canti, cena speciale e fuochi d'artificio, fuori dalle mura il festival ha un altro significato: più carovane, più animali, più parenti in viaggio, più merci da proteggere. Se la strada non è sicura, la festa costa di più a chi è già povero.
 
 Questa quest deve restare normale. Non ci sono cultisti, non ci sono sigilli di Varro, non ci sono indizi nascosti da trasformare in cospirazione. Il suo scopo e dare contrasto: a volte il problema e davvero che i lupi hanno fame.
 
@@ -37,68 +64,68 @@ Rischio: animale, fisico, contenuto.
 
 Faustus non cerca eroi. Cerca persone abbastanza forti o intelligenti da evitare che il suo gregge venga ridotto prima della settimana di mercati. Vuole scacciare i lupi, non sterminarli. Questo dettaglio lo rende umano e impedisce alla quest di diventare solo un combattimento.
 
-La quest puo essere usata come pausa dopo un'indagine urbana o come incarico semplice per mostrare cosa esiste oltre le mura.
+La quest può essere usata come pausa dopo un'indagine urbana o come incarico semplice per mostrare cosa esiste oltre le mura.
 
 ## Scena di Apertura
 
-Faustus aspetta presso una porta secondaria della citta, con un bastone da pastore, un mantello vecchio e fango secco sugli stivali. Dietro di lui entrano carri decorati per il festival. Lui non guarda le decorazioni: guarda il sole, perche il tramonto si avvicina.
+Faustus aspetta presso una porta secondaria della città, con un bastone da pastore, un mantello vecchio e fango secco sugli stivali. Dietro di lui entrano carri decorati per il festival. Lui non guarda le decorazioni: guarda il sole, perché il tramonto si avvicina.
 
 Leggi o parafrasa:
 
-> Appena fuori dal rumore della citta, l'aria cambia. Si sente ancora la musica lontana, ma qui domina l'odore di terra, lana e fumo di campi. Un uomo con un bastone consumato vi fa cenno senza teatralita. Sembra troppo stanco per vendere la propria paura come una storia.
+> Appena fuori dal rumore della città, l'aria cambia. Si sente ancora la musica lontana, ma qui domina l'odore di terra, lana e fumo di campi. Un uomo con un bastone consumato vi fa cenno senza teatralita. Sembra troppo stanco per vendere la propria paura come una storia.
 
 Frasi di Faustus:
 
 - "Non mi servono eroi. Mi servono persone abbastanza rumorose da convincere i lupi a cenare altrove."
 - "Ne hanno presa una ieri notte. Giovane. Se tornano stasera, ne prendono un'altra."
-- "Le guardie mi hanno detto che fuori dalle mura non e problema loro. Quindi eccomi qui."
+- "Le guardie mi hanno detto che fuori dalle mura non è problema loro. Quindi eccomi qui."
 - "Preferirei scacciarli. Non odio le bestie affamate."
 
 ## Punti di Interesse
 
 ### Porta Secondaria
 
-La porta non e una grande entrata trionfale. E un arco pratico, con pietre consumate dalle ruote, guardie annoiate e un banco laterale dove si controllano permessi, sacchi e animali. Durante il festival, questa porta e diventata piu importante: parenti, venditori minori e piccoli contadini la usano per evitare il traffico delle porte principali.
+La porta non è una grande entrata trionfale. È un arco pratico, con pietre consumate dalle ruote, guardie annoiate è un banco laterale dove si controllano permessi, sacchi e animali. Durante il festival, questa porta è diventata più importante: parenti, venditori minori e piccoli contadini la usano per evitare il traffico delle porte principali.
 
 Dettagli utili:
 
 - una guardia che lascia passare una famiglia senza controllare tutti i documenti;
-- un carro di candele votive diretto verso la citta;
+- un carro di candele votive diretto verso la città;
 - due capre legate male che bloccano il passaggio;
 - una fila di contadini con merci piccole, troppo povere per interessare ai grandi mercanti;
 - Faustus che aspetta fuori dalla fila per non pagare una tassa di stallo.
 
-Uso al tavolo: la porta deve far capire che "fuori Roma" non e vuoto. E una cintura di campi, strade, famiglie e piccoli lavori che dipendono dalla citta ma non ricevono la sua protezione piena.
+Uso al tavolo: la porta deve far capire che "fuori Roma" non è vuoto. È una cintura di campi, strade, famiglie e piccoli lavori che dipendono dalla città ma non ricevono la sua protezione piena.
 
 ### Strada di Terra Verso il Gregge
 
-La strada lascia la pietra cittadina e diventa terra battuta. Le ruote hanno scavato due solchi paralleli, pieni di polvere se e secco o fango se ha piovuto. Ai lati crescono erba bassa, cardi, cespugli secchi e piccoli altari di strada con fiori gia appassiti.
+La strada lascia la pietra cittadina e diventa terra battuta. Le ruote hanno scavato due solchi paralleli, pieni di polvere se e secco o fango se ha piovuto. Ai lati crescono erba bassa, cardi, cespugli secchi e piccoli altari di strada con fiori già appassiti.
 
 Dettagli utili:
 
-- tracce di carri festivalieri piu numerose del normale;
+- tracce di carri festivalieri più numerose del normale;
 - impronte di cane vicino a impronte di lupo;
 - un pezzo di stoffa colorata perso da una carovana;
 - una pietra votiva con una candela spenta;
 - campi con contadini che guardano i PG senza salutare subito.
 
-Uso al tavolo: qui si puo inserire conversazione, orientamento, prime tracce o un piccolo incontro casuale prima del recinto.
+Uso al tavolo: qui si può inserire conversazione, orientamento, prime tracce o un piccolo incontro casuale prima del recinto.
 
 ### Muretto Crollato
 
-Il muretto divide due campi e offre ai lupi copertura bassa. Non e una rovina misteriosa: e solo pietra vecchia, mai riparata bene, con erbacce tra le fessure. Per Faustus, pero, e un problema concreto: da quel punto i lupi possono osservare il gregge senza esporsi.
+Il muretto divide due campi e offre ai lupi copertura bassa. Non è una rovina misteriosa: e solo pietra vecchia, mai riparata bene, con erbacce tra le fessure. Per Faustus, però, è un problema concreto: da quel punto i lupi possono osservare il gregge senza esporsi.
 
 Dettagli utili:
 
 - lana impigliata in una pietra;
 - tracce di zampe che salgono e scendono dal lato esterno;
-- un varco dove una pecora puo passare ma un uomo deve chinarsi;
+- un varco dove una pecora può passare ma un uomo deve chinarsi;
 - segni di vecchie riparazioni fatte con fretta;
 - un punto rialzato perfetto per un PG di guardia.
 
 ### Boschetto Basso
 
-Il boschetto e formato da alberi giovani, cespugli spinosi e ombra irregolare. Non e una foresta profonda. E abbastanza grande da nascondere l'arrivo dei lupi, ma abbastanza piccolo da essere controllabile con attenzione.
+Il boschetto e formato da alberi giovani, cespugli spinosi e ombra irregolare. Non è una foresta profonda. E abbastanza grande da nascondere l'arrivo dei lupi, ma abbastanza piccolo da essere controllabile con attenzione.
 
 Dettagli utili:
 
@@ -128,23 +155,23 @@ Uso al tavolo: qui la quest diventa concreta. Ogni preparazione dei PG deve camb
 
 - Ci sono almeno tre lupi.
 - Si muovono vicino a un boschetto e a un vecchio muro crollato.
-- Hanno gia preso una pecora.
+- Hanno già preso una pecora.
 - Tornano quando il rumore umano cala.
 - Non sembrano mostri.
-- Il cane del gregge e troppo vecchio per inseguirli ma abbastanza sveglio da sentirli.
+- Il cane del gregge è troppo vecchio per inseguirli ma abbastanza sveglio da sentirli.
 
 ## Verso il Gregge
 
-Uscendo da Roma, il rumore del festival diventa piu basso. La strada si restringe, la pietra lascia spazio a terra battuta, i campi sono tagliati da muretti bassi e fossi asciutti.
+Uscendo da Roma, il rumore del festival diventa più basso. La strada si restringe, la pietra lascia spazio a terra battuta, i campi sono tagliati da muretti bassi e fossi asciutti.
 
 Dettagli normali da usare:
 
 - una ruota rotta abbandonata;
 - un contadino che litiga con un mulo;
-- una striscia rossa su una pietra che e solo terra ferrosa;
+- una striscia rossa su una pietra che è solo terra ferrosa;
 - un corvo nel fango;
 - una bottiglia vuota che rotola nel vento;
-- un carro di parenti diretto verso la citta per il festival.
+- un carro di parenti diretto verso la città per il festival.
 
 Se i giocatori cercano misteri, rispondi con chiarezza: sono dettagli normali.
 
@@ -154,7 +181,7 @@ Tira 1d6 o scegli uno o due incontri durante il tragitto. Servono a rendere viva
 
 | d6 | Incontro | Uso |
 | --- | --- | --- |
-| 1 | Una famiglia diretta al festival chiede se la strada sia sicura. Ha due bambini, una cesta di candele e un mulo ostinato. | Mostra il rischio civile dei lupi senza creare combattimento. |
+| 1 | Una famiglia diretta al festival chiede se la strada sia sicura. Ha due bambini, una cesta di candele è un mulo ostinato. | Mostra il rischio civile dei lupi senza creare combattimento. |
 | 2 | Un carrettiere con ruota incrinata offre una moneta se qualcuno lo aiuta a spostare il carro fuori dal solco. | Collega festival, povertà e logistica. |
 | 3 | Un contadino dice che i lupi sono peggiorati da quando le carovane lasciano scarti lungo la strada. | Spiega perché animali normali si avvicinano agli uomini. |
 | 4 | Due ragazzi cercano lana persa tra i rovi e fingono di non avere paura. | Piccola scena di protezione o avvertimento. |
@@ -179,8 +206,8 @@ Il gregge sta in un recinto debole fatto di legno, corda e pietre basse. Il vecc
 
 | Indizio | Prova | Risultato |
 | --- | --- | --- |
-| Tracce presso gli alberi | Sopravvivenza CD 11 | Movimento normale di lupi |
-| Punto debole nella recinzione | Percezione CD 12 | La corda e stata tirata e allentata |
+| Tracce presso gli alberi | <span style="color:#8b5cf6"><strong>Sopravvivenza CD 11</strong></span> | Movimento normale di lupi |
+| Punto debole nella recinzione | Percezione CD 12 | La corda è stata tirata e allentata |
 | Gregge agitato | Addestrare Animali o Natura CD 12 | Paura naturale |
 | Lana strappata su pietra | Indagare CD 13 | Compatibile con pecora trascinata |
 | Orario di ritorno | Conoscenze natura CD 13 | Probabile ritorno al tramonto |
@@ -191,12 +218,12 @@ Premia soluzioni pratiche. Non serve che tutto finisca in combattimento.
 
 | Azione | Prova | Effetto |
 | --- | --- | --- |
-| Preparare torce e rumore | Sopravvivenza CD 12 | Bonus al tentativo di scacciare |
-| Rinforzare la recinzione | Artigianato o Professione CD 12 | I lupi hanno meno accessi |
+| Preparare torce e rumore | <span style="color:#8b5cf6"><strong>Sopravvivenza CD 12</strong></span> | Bonus al tentativo di scacciare |
+| Rinforzare la recinzione | Artigianato o <span style="color:#2f9ed8"><strong>Professione CD 12</strong></span> | I lupi hanno meno accessi |
 | Usare il cane | Addestrare Animali CD 13 | Avviso anticipato |
 | Nascondersi vicino al muro | Furtivita CD 13 | Possibile sorpresa |
 | Scegliere punto di guardia | Percezione CD 13 | I PG vedono i lupi prima |
-| Lasciare esca lontano | Sopravvivenza CD 12 | Evita il gregge per una notte, non risolve per sempre |
+| Lasciare esca lontano | <span style="color:#8b5cf6"><strong>Sopravvivenza CD 12</strong></span> | Evita il gregge per una notte, non risolve per sempre |
 
 ## Preparazioni Avanzate
 
@@ -204,10 +231,10 @@ Se i giocatori investono tempo e idee, dai vantaggi concreti. La quest deve prem
 
 | Preparazione | Prova | Beneficio |
 | --- | --- | --- |
-| Linea di campanacci con corda | Artigianato CD 12 | +2 alla prima prova per spaventare il branco |
-| Piccolo fuoco controllato sopravento | Sopravvivenza CD 13 | I lupi esitano un round prima di avvicinarsi |
+| Linea di campanacci con corda | <span style="color:#2f9ed8"><strong>Artigianato CD 12</strong></span> | +2 alla prima prova per spaventare il branco |
+| Piccolo fuoco controllato sopravento | <span style="color:#8b5cf6"><strong>Sopravvivenza CD 13</strong></span> | I lupi esitano un round prima di avvicinarsi |
 | Spostare le pecore più giovani al centro | Addestrare Animali CD 12 | Riduce rischio che una pecora venga presa durante il caos |
-| Usare il muretto come imbuto | Sopravvivenza CD 14 | I lupi arrivano da una direzione prevedibile |
+| Usare il muretto come imbuto | <span style="color:#8b5cf6"><strong>Sopravvivenza CD 14</strong></span> | I lupi arrivano da una direzione prevedibile |
 | Dare compito al cane vecchio | Addestrare Animali CD 13 | Il cane avvisa prima e non si lancia da solo |
 
 Fallimento su una preparazione non deve bloccare la quest. Deve creare un dettaglio complicante: corda che si spezza, pecore che si spostano male, fumo che gira, cane che abbaia troppo presto.
@@ -224,9 +251,9 @@ Soluzione senza combattimento:
 
 | Metodo | Prova | Esito |
 | --- | --- | --- |
-| Torce e rumore coordinato | Sopravvivenza CD 13 | I lupi arretrano |
+| Torce e rumore coordinato | <span style="color:#8b5cf6"><strong>Sopravvivenza CD 13</strong></span> | I lupi arretrano |
 | Comportamento animale corretto | Addestrare Animali o Natura CD 14 | I lupi evitano lo scontro |
-| Intimidazione con fuoco | Intimidire CD 15 | Fuga rapida |
+| Intimidazione con fuoco | <span style="color:#d6a500"><strong>Intimidire CD 15</strong></span> | Fuga rapida |
 | Recinto rinforzato | Nessuna o CD ridotta | I lupi non trovano apertura facile |
 
 Combattimento:
@@ -254,27 +281,27 @@ Questa quest e intenzionalmente povera di cospirazione.
 
 | Oggetto o Pista | CD | Luogo | Presenza di Scontro | PNG Coinvolti | Implicazione | Rischio |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tensione sulla strada delle carovane | Sopravvivenza CD 13; Diplomazia CD 14 | Fuori dalle mura | Solo lupi | [[Faustus]], carrettieri | Le carovane del festival rendono le strade piu importanti e vulnerabili | Non trasformarla in prova contro Varro |
-| Recinto riparato male | Artigianato CD 12; Percezione CD 12 | Campo di Faustus | No | [[Faustus]] | I poveri risparmiano su tutto, anche sulla sicurezza | Se i PG lo umiliano, Faustus si chiude |
-| Carrettiere nervoso | Diplomazia CD 13 | Strada fuori citta | No | Carrettieri anonimi | I viaggiatori temono ritardi e rincari | Voce generica, non indagine principale |
+| Tensione sulla strada delle carovane | <span style="color:#8b5cf6"><strong>Sopravvivenza CD 13</strong></span>; <span style="color:#d6a500"><strong>Diplomazia CD 14</strong></span> | Fuori dalle mura | Solo lupi | [[Faustus]], carrettieri | Le carovane del festival rendono le strade più importanti e vulnerabili | Non trasformarla in prova contro Varro |
+| Recinto riparato male | <span style="color:#2f9ed8"><strong>Artigianato CD 12</strong></span>; Percezione CD 12 | Campo di Faustus | No | [[Faustus]] | I poveri risparmiano su tutto, anche sulla sicurezza | Se i PG lo umiliano, Faustus si chiude |
+| Carrettiere nervoso | <span style="color:#d6a500"><strong>Diplomazia CD 13</strong></span> | Strada fuori città | No | Carrettieri anonimi | I viaggiatori temono ritardi e rincari | Voce generica, non indagine principale |
 
 ## Scene Opzionali
 
 ### Il Carro dei Parenti
 
-Una famiglia passa verso Roma per il festival e chiede se la strada e sicura. Se i PG hanno gia visto tracce di lupi, possono avvertirli o accompagnarli per un tratto.
+Una famiglia passa verso Roma per il festival e chiede se la strada e sicura. Se i PG hanno già visto tracce di lupi, possono avvertirli o accompagnarli per un tratto.
 
 ### Il Cane Vecchio
 
-Il cane di Faustus non puo vincere una lotta, ma puo salvare una pecora abbaiando al momento giusto. Se i PG lo aiutano, Faustus si commuove piu che per la paga.
+Il cane di Faustus non può vincere una lotta, ma può salvare una pecora abbaiando al momento giusto. Se i PG lo aiutano, Faustus si commuove più che per la paga.
 
 ### Il Vicino Avaro
 
-Un vicino rifiuta di prestare pali o corda, dicendo che durante la festa "ognuno pensa al suo". I PG possono convincerlo con Diplomazia CD 14 o pagarlo poco. Questa scena mostra tensione economica senza cospirazione.
+Un vicino rifiuta di prestare pali o corda, dicendo che durante la festa "ognuno pensa al suo". I PG possono convincerlo con <span style="color:#d6a500"><strong>Diplomazia CD 14</strong></span> o pagarlo poco. Questa scena mostra tensione economica senza cospirazione.
 
 ### La Pecora Ferita
 
-Una pecora e ferita ma viva. Guarire CD 12 o Addestrare Animali CD 13 evita che Faustus perda altro denaro. E una piccola vittoria concreta.
+Una pecora e ferita ma viva. <span style="color:#8b5cf6"><strong>Guarire CD 12</strong></span> o Addestrare Animali CD 13 evita che Faustus perda altro denaro. È una piccola vittoria concreta.
 
 ### Il Campo del Vicino
 
@@ -282,8 +309,8 @@ Il vicino di Faustus ha un campo meglio recintato e guarda la scena da lontano. 
 
 Opzioni:
 
-- Diplomazia CD 14: presta due pali e una corda.
-- Intimidire CD 13: presta materiale, ma parlerà male dei PG.
+- <span style="color:#d6a500"><strong>Diplomazia CD 14</strong></span>: presta due pali è una corda.
+- <span style="color:#d6a500"><strong>Intimidire CD 13</strong></span>: presta materiale, ma parlerà male dei PG.
 - Pagare poche monete: accetta subito e si vergogna un po'.
 
 ### La Carovana in Ritardo
@@ -292,7 +319,7 @@ Una piccola carovana arriva quando il sole sta calando. Se i lupi non sono stati
 
 ### La Notte Breve
 
-Se i PG decidono di restare oltre il primo assalto, mostra quanto costa proteggere davvero un luogo: freddo, sonno, pecore che si muovono, cane stanco, Faustus che cerca di non cedere. Non serve un secondo combattimento; basta una prova di Costituzione o Sopravvivenza CD 12 per evitare affaticamento leggero narrativo al mattino.
+Se i PG decidono di restare oltre il primo assalto, mostra quanto costa proteggere davvero un luogo: freddo, sonno, pecore che si muovono, cane stanco, Faustus che cerca di non cedere. Non serve un secondo combattimento; basta una prova di Costituzione o <span style="color:#8b5cf6"><strong>Sopravvivenza CD 12</strong></span> per evitare affaticamento leggero narrativo al mattino.
 
 ## Esiti
 
@@ -300,19 +327,19 @@ Se i PG decidono di restare oltre il primo assalto, mostra quanto costa protegge
 
 Faustus paga e ringrazia con sollievo.
 
-> "Bene. Meglio cosi. Non ho mai odiato le bestie affamate. Odio essere piu povero di loro."
+> "Bene. Meglio così. Non ho mai odiato le bestie affamate. Odio essere più povero di loro."
 
 ### Recinto Rinforzato
 
 Faustus aggiunge cibo, formaggio o una promessa di aiuto futuro.
 
-> "Questo regge qualche giorno. Piu di quanto speravo."
+> "Questo regge qualche giorno. Più di quanto speravo."
 
 ### Lupi Uccisi
 
-Faustus paga ma e piu silenzioso.
+Faustus paga ma e più silenzioso.
 
-> "Almeno stanotte non tornano. E una soluzione, anche se non quella che volevo."
+> "Almeno stanotte non tornano. È una soluzione, anche se non quella che volevo."
 
 ### Fallimento
 
@@ -327,6 +354,6 @@ Un'altra pecora viene presa. Faustus paga poco o nulla, ma non odia i PG se hann
 
 ## Note DM
 
-Questa quest serve a respirare. In una campagna piena di complotti, una scena normale rende i complotti piu credibili per contrasto.
+Questa quest serve a respirare. In una campagna piena di complotti, una scena normale rende i complotti più credibili per contrasto.
 
-Sensazione finale: "Fuori dalle mura, a volte il problema e solo che i lupi hanno fame."
+Sensazione finale: "Fuori dalle mura, a volte il problema è solo che i lupi hanno fame."

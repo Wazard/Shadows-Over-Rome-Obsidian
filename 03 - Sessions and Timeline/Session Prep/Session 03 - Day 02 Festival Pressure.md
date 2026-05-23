@@ -145,7 +145,7 @@ Dettagli serali:
 - Le lanterne principali si accendono.
 - Nei vicoli poveri alcune restano spente.
 - I musicisti suonano più forte, le guardie sono più lente, i venditori più stanchi.
-- Se hanno fatto domande su Naso Rotto o magazzino 7, qualcuno li osserva senza attaccare.
+- Se hanno fatto domande su [[Naso Rotto]] o magazzino 7, qualcuno li osserva senza attaccare.
 - Se hanno risolto una quest pubblicamente, il nome del gruppo circola.
 
 Chiusura ideale: tornano a [[Il Veliero]] o scelgono un posto dove dormire prima di oltrepassare la notte.
@@ -224,7 +224,7 @@ Uso: quando i PG attraversano una zona, tira 1d4 o scegli. In una giornata compl
 | 1 | Due guardie pulite fermano un venditore troppo vicino alla salita nobile e gli fanno spostare il banco. | Differenza di classe visibile. |
 | 2 | Un servitore chiede a un cambiavalute se abbia visto monete nuove "di taglio perfetto". | Cassian cerca tracce, senza sapere ancora chi. |
 | 3 | Una carrozza passa con tende chiuse; un passante sussurra il nome "Varro" ma non osa altro. | Ricorda il contatto visivo di Auris. |
-| 4 | Un bambino prova a seguire la carrozza e viene scacciato. Lascia cadere un nastrino con cera di sigillo. | Colore e possibile micro-indizio. |
+| 4 | Un bambino prova a seguire la carrozza e viene scacciato. Lascia cadere un nastrino con cera di sigillo. | Colore è possibile micro-indizio. |
 
 ## Quest Scelte Probabili
 
@@ -395,7 +395,7 @@ Errore da evitare: non dire "avete sbagliato tutto". Le loro conclusioni sono in
 
 ### Chiusura Pulita
 
-I PG completano una quest principale e un incontro minore. Finiscono la sera a [[Il Veliero]] con una nuova parola chiave: priorità, qualità, produzione o monete.
+I PG completano una quest principale è un incontro minore. Finiscono la sera a [[Il Veliero]] con una nuova parola chiave: priorità, qualità, produzione o monete.
 
 ### Chiusura con Pressione
 

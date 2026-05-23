@@ -16,215 +16,243 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day2/Day2_Rumore_Consegna_conte
 ---
 # Consegna Contesa al Mercato
 
-## Contesto di Calendario e Festival
+> [!motive] Motivo
+> Un venditore del mercato cerca testimoni neutrali per una consegna incompleta durante il Breaching Festival. I PG possono accettare per una paga rapida, per guadagnare fiducia in piazza o per seguire le piccole anomalie logistiche che stanno emergendo dal porto ai magazzini.
 
-- Calendario: [[Day 02]] è Desnus 2, 3608.
-- Stato della città: il Breaching Festival riempie il mercato di clienti, forestieri, musicisti, venditori temporanei e merci arrivate di fretta.
-- Uso al tavolo: la consegna serve a rifornire un banco festivaliero, quindi i passanti si interessano più del normale.
-- Tono: quotidiano e rumoroso. Questa quest deve respirare mercato, ma ora può contenere una traccia leggera di manipolazione logistica.
+> [!summary] Riassunto
+> Due anfore risultano mancanti da una consegna di olive, formaggi salati e conserve. La soluzione immediata è quasi ridicola: le anfore sono state spostate dietro un banco vicino. La parte utile per l'indagine è una ricevuta temporanea con marchio di fornitore sbagliato, segno che il festival sta creando copertura perfetta per errori, sostituzioni e responsabilità confuse.
 
-## Testo per la Bacheca degli Incarichi
+> [!success] Esiti possibili
+> - **Successo pieno:** i PG recuperano le anfore, evitano la rissa e copiano o riconoscono la ricevuta sbagliata.
+> - **Successo parziale:** trovano le anfore ma non capiscono il problema documentale.
+> - **Fallimento:** la guardia multa venditore e carrettiere, la folla ride dei PG o li considera violenti.
+> - **Conseguenza futura:** [[Cesta]], [[Nessa Briciole]] o [[Pietro Dueprezzi]] possono diventare piccole fonti di voci di mercato.
 
-**Consegna contesa al mercato - testimoni richiesti**
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 02]] |
+| Luogo | Piazza del mercato, banco delle olive, carro della consegna, banco dal telo verde |
+| PNG coinvolti | [[Pietro Dueprezzi]], [[Nessa Briciole]], [[Cesta]], [[Diego]] opzionale |
+| Tipi di CD principali | <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | No; rischio sociale e folla |
+| Ricompensa | Pagamento basso, sconti su cibo, voci di mercato, indizio documentale |
 
-Un venditore del mercato richiede persone neutrali per assistere a una disputa su una consegna alimentare destinata agli stand del festival. Pagamento modesto a chiarimento concluso.
+## PNG e Colori
 
-Postata da: un venditore della Piazza del Mercato.  
+| PNG | Colore dialogo | Ruolo |
+| --- | --- | --- |
+| <span style="color:#6f4a8e"><strong>[[Pietro Dueprezzi]]</strong></span> | `#6f4a8e` | Venditore o rivenditore opportunista |
+| <span style="color:#2f7fb8"><strong>[[Nessa Briciole]]</strong></span> | `#2f7fb8` | Venditrice di pane, testimone pragmatica |
+| <span style="color:#3366cc"><strong>[[Cesta]]</strong></span> | `#3366cc` | Bambina dei vicoli, testimone minuta |
+| <span style="color:#4f6f52"><strong>[[Diego]]</strong></span> | `#4f6f52` | Presenza opzionale caotica |
+| <span style="color:#8b1e1e"><strong>Carrettiere</strong></span> | `#8b1e1e` | Uomo accusato, irritato ma non colpevole |
+| <span style="color:#7f5f2a"><strong>Guardia del mercato</strong></span> | `#7f5f2a` | Vuole chiudere la faccenda in fretta |
+
+## Contesto di Calendario
+
+> [!note] Festival in corso
+> [[Day 02]] è Desnus 2, 3608. Il mercato è più grande di ieri: banchi provvisori, carovane, clienti forestieri, musicisti, cibo da strada e lanterne ancora spente. La città sta festeggiando, ma ogni minuto perso costa denaro.
+
+## Testo per la Bacheca
+
+> [!readaloud] Bacheca degli incarichi
+> **Consegna contesa al mercato - testimoni richiesti**
+>
+> Un venditore del mercato richiede persone neutrali per assistere a una disputa su una consegna alimentare destinata agli stand del festival. Pagamento modesto a chiarimento concluso.
+
 Pagamento: basso.  
 Durata prevista: 1-2 ore.
 
-## Riassunto per il DM
+## Verità per il GM
 
-Una consegna di anfore, olive, formaggi salati e conserve risulta incompleta. All'inizio sembra davvero una quest minore: un venditore accusa un carrettiere, il carrettiere accusa il punto di carico, i clienti accusano entrambi di far perdere tempo. La soluzione semplice è che due anfore sono state spostate dietro un banco vicino.
-
-La versione più profonda, però, aggiunge un piccolo segnale: una ricevuta temporanea porta un marchio di fornitore sbagliato. Non prova Varro, non prova Aulus, non prova la Gilda. Mostra solo che la carta del festival è abbastanza caotica da far sparire responsabilità.
+> [!summary] Premessa reale
+> Le due anfore non sono state rubate per profitto. Sono state spostate dietro un banco vicino, abbastanza da creare lite ma non abbastanza da sembrare un colpo organizzato. Il premio dell'indagine è la ricevuta temporanea con marchio fornitore sbagliato: prova debole, ma utile da confrontare con altre anomalie del Giorno 2.
 
 ## Apertura della Scena
 
-Leggi o parafrasa:
-
+> [!readaloud] Piazza del mercato
 > Il mercato sembra più grande di ieri. Dove prima c'erano passaggi liberi ora ci sono tavoli provvisori, corde, ceste, panni colorati, lanterne ancora spente e bambini che corrono sotto le braccia dei facchini. Da qualche parte un flauto prova la stessa melodia tre volte. Davanti a un banco di olive e formaggi, due uomini discutono abbastanza forte da attirare clienti, curiosi e almeno una guardia molto stanca.
+
+> [!description] Tono
+> Questa non deve sembrare una cospirazione. Deve sembrare una lite da mercato che, se guardata bene, contiene una crepa nel sistema.
 
 ## Punti di Interesse
 
 ### Banco delle Olive e dei Formaggi
 
-Il banco è stretto, rumoroso e troppo vicino al passaggio principale. Le olive stanno in ciotole di terracotta, i formaggi salati sono coperti da panni umidi e le anfore vuote vengono usate come pesi per tenere giù il telo. Il venditore ha disposto la merce come se fosse abbondante, ma ogni spazio vuoto è coperto con troppa cura.
-
-Questo punto serve a far vedere la disputa al livello più concreto: la gente non litiga per "logistica", litiga per anfore che dovevano essere lì e non ci sono.
+> [!description] Banco principale
+> Olive in ciotole di terracotta, formaggi salati sotto panni umidi e anfore vuote usate come pesi. Il venditore ha disposto la merce per sembrare abbondante, ma ogni spazio vuoto è coperto con troppa cura.
 
 Dettagli utili:
 
-- due cerchi di polvere sul retro del banco, dove avrebbero potuto stare le anfore mancanti;
-- una ciotola di olive offerte ai clienti per farli restare calmi;
+- due cerchi di polvere sul retro del banco;
+- una ciotola di olive offerta ai clienti per tenerli calmi;
 - una corda nuova legata a una cassa vecchia;
 - prezzi corretti in fretta su una tavoletta;
-- un cliente che insiste di aver visto dodici anfore al mattino.
+- un cliente convinto di aver visto dodici anfore al mattino.
 
 ### Carro della Consegna
 
-Il carro è fermo di traverso e blocca mezzo passaggio. Non è un carro elegante: ha ruote consumate, asse rinforzato con ferro economico e paglia attaccata alle fessure. La polvere sul pianale conserva il segno rotondo delle anfore spostate.
-
-Usalo per distinguere furto, errore e manipolazione. Il carrettiere può essere innocente anche se il carro mostra che qualcosa è cambiato.
-
-Possibili prove:
+> [!description] Carro
+> Il carro è fermo di traverso e blocca mezzo passaggio. Le ruote sono consumate, l'asse è rinforzato con ferro economico e la polvere sul pianale conserva segni rotondi dove c'erano anfore.
 
 | Azione | CD | Risultato |
 | --- | --- | --- |
-| Controllare la polvere sul pianale | Percezione CD 12 | C'erano due anfore in più |
-| Guardare i legacci | Sopravvivenza o Artigianato CD 13 | Le anfore sono state sciolte, non cadute |
-| Confrontare peso dichiarato e carico | Professione mercante CD 14 | La ricevuta non combacia con il carro attuale |
+| Controllare la polvere sul pianale | <span style="color:#8b5cf6"><strong>Percezione CD 12</strong></span> | C'erano due anfore in più |
+| Guardare i legacci | <span style="color:#8b5cf6"><strong>Sopravvivenza CD 13</strong></span> o <span style="color:#2f9ed8"><strong>Artigianato CD 13</strong></span> | Le anfore sono state sciolte, non cadute |
+| Confrontare peso dichiarato e carico | <span style="color:#2f9ed8"><strong>Professione mercante CD 14</strong></span> | La ricevuta non combacia con il carro attuale |
 
 ### Banco dal Telo Verde
 
-Il banco vicino ha un telo verde scuro, scolorito dal sole, e vende salse, frutta secca e conserve piccanti. Dietro il telo, dove la folla non guarda, c'è spazio per nascondere due anfore senza aprirle.
-
-Questo punto deve sembrare ridicolo e sospetto insieme. Le anfore sono quasi a portata di mano, ma il mercato è così pieno che nessuno guarda dietro il banco sbagliato.
+> [!description] Banco vicino
+> Il banco vicino vende salse, frutta secca e conserve piccanti. Il telo verde scuro è tirato troppo in basso e l'odore di peperoncino copre quello delle olive. Dietro il telo c'è spazio per due anfore non aperte.
 
 Dettagli utili:
 
-- odore forte di peperoncino che copre quello delle olive;
-- telo tirato troppo in basso;
 - impronte piccole di un garzone;
-- una cassa spostata apposta per bloccare la vista;
-- il proprietario che parla troppo prima ancora di essere accusato.
+- una cassa spostata per bloccare la vista;
+- il proprietario che parla troppo prima di essere accusato;
+- due anfore quasi a portata di mano, ma nel punto sbagliato.
 
-### Fontana Piccola della Piazza
+### Fontana Piccola
 
-Vicino alla disputa c'è una fontana bassa, usata per lavare mani, coltelli e ciotole. I bambini si radunano qui per bere e scambiarsi voci. [[Cesta]] può essere trovata su questo bordo, con i piedi penzoloni e un pezzo di pane in mano.
-
-Usala come punto di raccolta per testimoni minori. Gli adulti vedono contratti; i bambini vedono movimenti.
-
-## PNG di Scena
-
-### Pietro Dueprezzi
-
-Può essere il venditore coinvolto oppure il rivenditore vicino che approfitta della confusione. È utile se vuoi un volto ricorrente del mercato.
-
-Frasi:
-
-- "Io so contare. Lui forse no."
-- "Dodici anfore pagate, dieci anfore consegnate. Se le altre due sono invisibili, voglio pagare con monete invisibili."
-- "Durante il festival ogni minuto è vendita persa."
-
-### Nessa Briciole
-
-Venditrice di pane. Non è direttamente colpevole, ma ha visto passare il carico.
-
-Frasi:
-
-- "Io guardo il mio pane. Però due anfore le ho viste spostare, sì."
-- "Non rubate. Spostate. C'è differenza, anche se chi paga urla uguale."
-
-### Cesta
-
-Bambina dei vicoli, piccola testimone. Ha visto più di quanto capisca.
-
-Frasi:
-
-- "Le anfore pesavano troppo per giocare."
-- "Uno le ha messe dietro il banco grosso, quello con il telo verde."
+> [!description] Fontana
+> La fontana bassa è usata per lavare mani, coltelli e ciotole. I bambini si radunano qui per bere, scambiarsi voci e guardare gli adulti litigare. [[Cesta]] può essere trovata seduta sul bordo, con i piedi penzoloni e pane in mano.
 
 ## Fase 1 - Il Litigio
 
-Il venditore sostiene che mancano due anfore. Il carrettiere sostiene di aver consegnato tutto ciò che gli è stato dato. I clienti vogliono comprare e si irritano perché la discussione blocca il banco.
+<span style="color:#6f4a8e"><strong>[[Pietro Dueprezzi]]</strong></span>: "Io so contare. Lui forse no."
+
+<span style="color:#6f4a8e"><strong>[[Pietro Dueprezzi]]</strong></span>: "Dodici anfore pagate, dieci anfore consegnate. Se le altre due sono invisibili, voglio pagare con monete invisibili."
+
+<span style="color:#8b1e1e"><strong>Carrettiere</strong></span>: "Io ho consegnato quello che mi hanno caricato. Se al mercato le anfore imparano a camminare, non è colpa mia."
+
+<span style="color:#2f7fb8"><strong>[[Nessa Briciole]]</strong></span>: "Io guardo il mio pane. Però due anfore le ho viste spostare, sì."
+
+<span style="color:#3366cc"><strong>[[Cesta]]</strong></span>: "Le anfore pesavano troppo per giocare."
 
 Prove iniziali:
 
-- Investigazione CD 11: le anfore presenti sono dieci, non dodici.
-- Percezione CD 12: sul carro ci sono segni circolari nella polvere dove potevano stare altre due anfore.
-- Intuizione CD 13 sul carrettiere: è irritato, ma non sembra mentire.
-- Intuizione CD 13 sul venditore: è convinto di avere ragione, ma sta anche cercando di ottenere uno sconto.
-
-## Fase 2 - Capire Il Percorso
-
-La consegna ha fatto tre passaggi:
-
-1. Punto di carico vicino al magazzino.
-2. Carro attraverso una strada festivaliera.
-3. Banco del mercato.
-
-Chiedi ai giocatori dove controllano. Ogni scelta dà un pezzo.
-
-| Punto | Prova | Risultato |
+| Azione | CD | Risultato |
 | --- | --- | --- |
-| Punto di carico | Professione mercante CD 12 | La ricevuta parla di dodici anfore |
-| Carro | Percezione CD 12 | Due posti vuoti nella polvere |
-| Banco vicino | Percezione CD 14 | Due anfore sono dietro un telo verde |
-| Clienti | Diplomazia CD 12 | Qualcuno ricorda un ragazzo che spostava merce |
-| Bambini | Moneta/cibo o Diplomazia CD 11 | [[Cesta]] indica il banco giusto |
+| Contare le anfore presenti | <span style="color:#2f9ed8"><strong>Investigazione CD 11</strong></span> | Sono dieci, non dodici |
+| Guardare il carro | <span style="color:#8b5cf6"><strong>Percezione CD 12</strong></span> | C'erano due anfore in più |
+| Leggere il carrettiere | <span style="color:#8b5cf6"><strong>Intuizione CD 13</strong></span> | È irritato, ma non sembra mentire |
+| Leggere il venditore | <span style="color:#8b5cf6"><strong>Intuizione CD 13</strong></span> | È convinto, ma vuole anche uno sconto |
 
-## Indagine Profonda
+## Fase 2 - Capire il Percorso
 
-| Oggetto o Traccia | CD | Luogo | Presenza di Scontro | PNG Coinvolti | Implicazione | Rischio |
+> [!summary] Struttura
+> La consegna ha tre punti: punto di carico, carro, banco. Ogni punto offre un pezzo diverso.
+
+| Punto | CD | Risultato |
+| --- | --- | --- |
+| Punto di carico | <span style="color:#2f9ed8"><strong>Professione mercante CD 12</strong></span> | La ricevuta parla di dodici anfore |
+| Carro | <span style="color:#8b5cf6"><strong>Percezione CD 12</strong></span> | Due posti vuoti nella polvere |
+| Banco vicino | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | Due anfore sono dietro il telo verde |
+| Clienti | <span style="color:#d6a500"><strong>Diplomazia CD 12</strong></span> | Qualcuno ricorda un ragazzo che spostava merce |
+| Bambini | Cibo, moneta o <span style="color:#d6a500"><strong>Diplomazia CD 11</strong></span> | [[Cesta]] indica il banco giusto |
+
+## Fase 3 - Folla e Reputazione
+
+> [!warning] La folla si schiera
+> Se i PG trattano la disputa come una truffa evidente, la folla prende posizione. Alcuni difendono il carrettiere, altri il venditore, altri vogliono solo che il banco riapra.
+
+| Approccio | CD | Effetto |
+| --- | --- | --- |
+| Chiedere silenzio e procedere | <span style="color:#d6a500"><strong>Diplomazia CD 13</strong></span> | La folla lascia lavorare i PG |
+| Trasformare la tensione in scena comica | <span style="color:#d6a500"><strong>Intrattenere CD 13</strong></span> | Si abbassa il rischio di rissa |
+| Disperdere i curiosi | <span style="color:#d6a500"><strong>Intimidire CD 14</strong></span> | Funziona, ma peggiora la reputazione |
+| Notare chi ascolta la parola "ricevuta" | <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> | Qualcuno si allontana appena il discorso diventa documentale |
+
+## Indizi
+
+| Indizio | CD | Dove | PNG coinvolti | Cosa sembra | Cosa significa | Rischio |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ricevuta da banco temporaneo con marchio fornitore sbagliato | Linguistica CD 14; Valutare CD 15 | Bancarelle festivaliere in [[Market Square]] | No | [[Pietro Dueprezzi]], [[Nessa Briciole]] | La carta del festival confonde le responsabilità | È prova di schema, non di colpevole |
-| Due anfore spostate ma non aperte | Percezione CD 14 | Banco vicino con telo verde | No | [[Cesta]] | Qualcuno ha creato il litigio senza rubare davvero | Il venditore può sentirsi ridicolizzato |
-| Marchio raschiato sul collo di un'anfora | Artigianato o Percezione CD 15 | Una delle anfore recuperate | No | Carrettiere, venditori | Le anfore potrebbero essere state riassegnate prima della consegna | Il marchio è troppo rovinato per accusare qualcuno |
+| Ricevuta temporanea con marchio fornitore sbagliato | <span style="color:#2f9ed8"><strong>Linguistica CD 14</strong></span> o <span style="color:#2f9ed8"><strong>Valutare CD 15</strong></span> | Bancarelle festivalieri | [[Pietro Dueprezzi]], [[Nessa Briciole]] | Errore da mercato affollato | La carta del festival confonde le responsabilità | È prova di schema, non di colpevole |
+| Due anfore spostate ma non aperte | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | Banco dal telo verde | [[Cesta]] | Errore stupido | Qualcuno ha creato litigio senza rubare davvero | Il venditore può sentirsi ridicolizzato |
+| Marchio raschiato sul collo di un'anfora | <span style="color:#2f9ed8"><strong>Artigianato CD 15</strong></span> o <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> | Anfore recuperate | Carrettiere, venditori | Danno da trasporto | Le anfore potrebbero essere state riassegnate prima della consegna | Il marchio è troppo rovinato per accusare qualcuno |
 
 ## Tracce Cultuali Molto Sottili
 
-Questi elementi devono sembrare folklore del festival, sporcizia di mercato o coincidenze. Non usare parole come culto, simbolo o rituale al tavolo.
+> [!clue] Rumore occulto minimo
+> Questi elementi devono sembrare folklore del festival, sporcizia di mercato o coincidenze. Non usare parole come culto, simbolo o rituale al tavolo.
 
-| Dettaglio | Dove Appare | Prova | Lettura Immediata | Verità Lontana |
+| Dettaglio | Dove appare | Prova | Lettura immediata | Verità lontana |
 | --- | --- | --- | --- | --- |
-| Un filo di alghe secche legato sotto il collo di una delle anfore | Anfora recuperata dietro il telo verde | Percezione CD 15; Natura CD 14 | Portafortuna da marinaio o decorazione sporca | Piccola offerta marina usata come segno tra iniziati minori |
-| Un bambino canta "la luna beve il sale" senza sapere da chi l'ha sentito | Fontana piccola | Diplomazia CD 12 con bambini | Filastrocca nuova e senza senso | Frammento di canto rituale diluito dalla strada |
-| Una ciotola di olive nere disposte in cerchio perfetto, poi subito rimescolate dal venditore | Banco vicino | Percezione CD 16 | Nervosismo, superstizione o gesto casuale | Immagine lunare involontariamente ripetuta |
+| Filo di alghe secche sotto il collo di un'anfora | Anfora recuperata | <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> o <span style="color:#2f9ed8"><strong>Natura CD 14</strong></span> | Portafortuna da marinaio | Piccola offerta marina usata come segno minore |
+| Bambino che canta "la luna beve il sale" | Fontana piccola | <span style="color:#d6a500"><strong>Diplomazia CD 12</strong></span> | Filastrocca nuova | Frammento rituale diluito dalla strada |
+| Olive nere disposte in cerchio perfetto | Banco vicino | <span style="color:#8b5cf6"><strong>Percezione CD 16</strong></span> | Nervosismo o superstizione | Immagine lunare ripetuta senza consapevolezza |
 
-Direzione DM: nessuno deve reagire con paura. La città è piena di superstizioni durante la Remembrance Moon.
+## Diego Opzionale
 
-## Complicazione: Folla e Reputazione
+> [!note] Uso di Diego
+> Se vuoi inserire [[Diego]], fallo passare sul bordo della scena. Deve disturbare, non spiegare.
 
-Se i giocatori trattano la disputa come una truffa evidente, la folla prende posizione. Alcuni difendono il carrettiere, altri il venditore, altri vogliono solo che il banco riapra.
+<span style="color:#4f6f52"><strong>[[Diego]]</strong></span>: "Anfore che spariscono. Classico. Prima le anfore, poi i palazzi."
 
-Prove:
+<span style="color:#4f6f52"><strong>[[Diego]]</strong></span>: "Il marchio sbagliato è sempre il marchio giusto se sapete leggerlo male."
 
-- Diplomazia CD 13 per chiedere silenzio e procedere.
-- Intrattenere CD 13 per trasformare la tensione in piccola scena comica.
-- Intimidire CD 14 per disperdere i curiosi, con malus reputazionale.
-- Percezione CD 15 per notare qualcuno che ascolta la parola "ricevuta" e se ne va.
+<span style="color:#4f6f52"><strong>[[Diego]]</strong></span>: "Io non compro olive da gente con troppi documenti."
 
-## Possibile Presenza di Diego
+## Scene Opzionali
 
-Se vuoi inserire [[Diego]], fallo passare sul bordo della scena. Non deve spiegare nulla. Deve disturbare.
+### La Guardia che non vuole scrivere
 
-Frasi:
+<span style="color:#7f5f2a"><strong>Guardia del mercato</strong></span>: "Se scrivo furto, devo cercare un ladro. Se scrivo disturbo, tutti tornano al lavoro."
 
-- "Anfore che sparisconoa Classico. Prima le anfore, poi i palazzi."
-- "Il marchio sbagliato è sempre il marchio giusto se sapete leggerlo male."
-- "Io non compro olive da gente con troppi documenti."
+<span style="color:#7f5f2a"><strong>Guardia del mercato</strong></span>: "Durante il festival non abbiamo uomini per due anfore."
 
-Diego può rendere il tono più caotico, ma non deve trasformare la quest in una pista cultuale.
+| Approccio | CD | Effetto |
+| --- | --- | --- |
+| Convincerla ad aspettare | <span style="color:#d6a500"><strong>Diplomazia CD 14</strong></span> | Dieci minuti prima della multa |
+| Spiegare il peso della ricevuta | <span style="color:#2f9ed8"><strong>Professione mercante CD 13</strong></span> | La guardia accetta che non sia solo lite |
+| Bloccarla con tono duro | <span style="color:#d6a500"><strong>Intimidire CD 15</strong></span> | Funziona, ma ricorderà i PG |
+
+### Il ragazzo della bottega
+
+> [!description] Testimone minore
+> Il ragazzo che ha spostato le anfore è terrorizzato. Non ha rubato: voleva liberare spazio e poi è stato mandato al banco dei fichi.
+
+<span style="color:#a0522d"><strong>Garzone</strong></span>: "Mi hanno detto: sposta quelle, passa il carro, torna subito. Poi mi hanno mandato al banco dei fichi."
+
+<span style="color:#a0522d"><strong>Garzone</strong></span>: "Se dico che è colpa mia mi buttano fuori."
 
 ## Risoluzioni
 
 ### Soluzione semplice
 
-I giocatori trovano le due anfore dietro il banco sbagliato. Il venditore paga poco, il carrettiere si sente vendicato, la folla ride.
+> [!success] Anfore recuperate
+> I PG trovano le due anfore dietro il banco sbagliato. Il venditore paga poco, il carrettiere si sente vendicato e la folla ride.
 
 ### Soluzione completa
 
-I giocatori trovano le anfore e notano il marchio fornitore sbagliato sulla ricevuta. Capiscono che il festival crea perfetta copertura per errori, sostituzioni e responsabilità confuse.
+> [!success] Anfore e documento
+> I PG trovano le anfore e notano il marchio fornitore sbagliato sulla ricevuta. Capiscono che il festival crea copertura per errori, sostituzioni e responsabilità confuse.
 
 ### Fallimento
 
-La lite continua finché una guardia multa entrambi per disturbo. I giocatori non vengono pagati o ricevono solo una parte.
+> [!warning] Esito negativo
+> La lite continua finché una guardia multa entrambi per disturbo. I PG non vengono pagati o ricevono solo una parte.
 
 ### Soluzione violenta
 
-Pessima idea. Il mercato li considera pericolosi. Anche se hanno ragione, la città ricorda la rissa più della verità.
+> [!danger] Pessima scelta
+> Il mercato li considera pericolosi. Anche se hanno ragione, la città ricorda la rissa più della verità.
 
 ## Ricompense
 
-- Pagamento basso.
-- Piccolo sconto su conserve, olive o pane.
-- Se trattano bene [[Nessa Briciole]] e [[Cesta]], ottengono due voci di mercato per future indagini.
-- Se copiano la ricevuta sbagliata, guadagnano un indizio utile da confrontare con altri documenti del Giorno 2.
+| Esito | Ricompensa |
+| --- | --- |
+| Anfore trovate | Pagamento basso |
+| Folla gestita bene | Piccolo sconto su conserve, olive o pane |
+| [[Nessa Briciole]] e [[Cesta]] trattate bene | Due voci di mercato future |
+| Ricevuta sbagliata copiata | Indizio utile da confrontare con [[Delayed Shipment Mediation Needed]] |
 
 ## Rumore Casuale Senza Significato
 
-Usa questi dettagli per rendere vivo il mercato:
+> [!note] Colore di mercato
+> Usa questi dettagli per rendere vivo il mercato senza trasformare ogni elemento in indizio.
 
 - Una cipolla rotola sotto il banco.
 - Una gallina attraversa la piazza e viene inseguita da tre persone diverse.
@@ -233,62 +261,12 @@ Usa questi dettagli per rendere vivo il mercato:
 - Un bambino canta male una canzone di [[Marcia]].
 - Un vecchio insiste che il festival era migliore vent'anni fa.
 
-## Note DM
+## Note GM
 
-Questa quest non deve diventare "la prova". Deve diventare "una cosa piccola che non torna". Il mercato è pieno di errori veri, errori utili e persone che approfittano del rumore. I giocatori devono poter chiudere il caso in modo soddisfacente, ma se guardano più a fondo devono ottenere un altro tassello: durante il festival, la carta vale solo se qualcuno la difende.
+> [!note] Funzione della quest
+> Questa quest non deve diventare "la prova". Deve diventare "una cosa piccola che non torna". Il mercato è pieno di errori veri, errori utili e persone che approfittano del rumore.
 
-## Scene Opzionali Per Allungare La Quest
+Frase finale ideale:
 
-Usa una o più di queste scene se vuoi far durare la quest più di una semplice disputa.
-
-### La Guardia Che Non Vuole Scrivere
-
-Una guardia del mercato arriva con una tavoletta cerata e poca voglia di usarla. Vuole chiudere la questione come "lite fra venditori" e multare entrambi.
-
-Frasi:
-
-- "Se scrivo furto, devo cercare un ladro. Se scrivo disturbo, tutti tornano al lavoro."
-- "Durante il festival non abbiamo uomini per due anfore."
-
-Prove:
-
-- Diplomazia CD 14 per convincerla ad aspettare dieci minuti.
-- Professione mercante CD 13 per spiegare che una ricevuta sbagliata può pesare più di due anfore.
-- Intimidire CD 15 per bloccarla, ma la guardia ricorderà il tono.
-
-### Il Banco Sbagliato
-
-Le due anfore sono finite dietro un banco che vende salse piccanti e frutta secca. Il proprietario sostiene di non averle viste, ma è impossibile.
-
-Verità: le ha viste, ma pensava fossero state lasciate lì per errore e aspettava di capire se poteva tenerle.
-
-Prove:
-
-- Intuizione CD 13: il venditore non è criminale, solo opportunista.
-- Valutare CD 12: le anfore valgono abbastanza da tentarlo.
-- Diplomazia CD 12: le restituisce se nessuno lo umilia.
-
-### Il Ragazzo Della Bottega
-
-Il ragazzo che ha spostato le anfore è terrorizzato. Non ha rubato; voleva liberare spazio e poi è stato mandato a portare messaggi.
-
-Frasi:
-
-- "Mi hanno detto: sposta quelle, passa il carro, torna subito. Poi mi hanno mandato al banco dei fichi."
-- "Se dico che è colpa mia mi buttano fuori."
-
-Può diventare un piccolo contatto futuro se i giocatori lo proteggono invece di usarlo come colpevole.
-
-## Varianti Di Tono
-
-- Comica: il mercato ride quando le anfore vengono trovate a tre passi dal banco.
-- Tesa: la guardia arriva prima della soluzione e minaccia multe.
-- Investigativa: la ricevuta sbagliata diventa il vero premio.
-- Sociale: i giocatori devono decidere se salvare la faccia al venditore, al carrettiere o al ragazzo.
-
-## Agganci Futuri
-
-- [[Pietro Dueprezzi]] può offrire "informazioni di mercato" a pagamento.
-- [[Nessa Briciole]] può segnalare altre discrepanze nel pane.
-- [[Cesta]] può riconoscere un ragazzo o un carrettiere in una scena successiva.
-- La ricevuta sbagliata può essere confrontata con quelle di [[Delayed Shipment Mediation Needed]].
+> [!summary] Feeling finale
+> Durante il festival, la carta vale solo se qualcuno la difende.

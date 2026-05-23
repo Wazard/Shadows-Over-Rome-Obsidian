@@ -6,401 +6,260 @@ tags:
   - source/phase-1-quests
 Day: "[[Day 07]]"
 NPCs:
-  - "[[Cesta]]"
-  - "[[Corda]]"
-  - "[[Marcia]]"
+  - "[[Madre Elenia]]"
+  - "[[Orenzio]]"
+  - "[[Veltharuun]]"
+  - "[[Serena Valeria]]"
 source: "Wazard/Shadows-over-Rome/phase 1/quests/Day7_Candele_per_la_cappella_vecchia.docx"
 ---
-# Candles for the Old Chapel
+# Candele per la Cappella Vecchia
 
-## Festival Calendar Context
+> [!motive] Motivo
+> Madre Elenia chiede mani disponibili per pulire una cappella vecchia e preparare una veglia povera. I PG possono accettare per una ricompensa modesta, per rispetto religioso, per aiutare il quartiere o perché la Remembrance Moon rende ogni lutto pubblico più carico di significato.
 
-## Deeper Investigation Clues
+> [!summary] Riassunto
+> Questa è la prima tappa della sottotrama di Vaeltharuun. Deve sembrare una quest triste e cittadina, non horror: una cappella dimenticata da ripulire, nove candele da mettere vicino all'altare, ragazzi poveri da trattare con dignità, fiori freschi troppo costosi e tracce fatate quasi invisibili. Non devono comparire non morti, rituali espliciti o il necromante.
 
-| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
-| --- | --- | --- | --- | --- | --- | --- |
-| Aulus men shadow the party near slum shrines | Perception DC 15; Sense Motive DC 16 | Slums, shrine roads, old chapel approach | Yes if confronted: 2-3 Aulus men | [[Naso Rotto]], [[Muto]], [[Spago]] | Investigation is visible to organized muscle | If one escapes, Aulus changes meeting locations |
+> [!success] Esiti possibili
+> - **Successo pieno:** la veglia si svolge con dignità, Madre Elenia si fida dei PG, la cappella viene introdotta e Serena Valeria viene nominata.
+> - **Successo parziale:** la cappella viene preparata male o in ritardo; la veglia avviene comunque, ma con disagio.
+> - **Fallimento:** i PG creano tensione, vengono cacciati o non completano il lavoro.
+> - **Conseguenza futura:** Rugo, Mila o Orenzio possono diventare testimoni per il Giorno 11; il numero nove e la traccia fatata restano semi sottili.
 
-- Calendar: [[Day 07]] is Desnus 7, 3608.
-- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
-- Festival use: remembrance candles and festival lights let ordinary devotion blur with darker symbolism.
-- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 07]] |
+| Luogo | Cappella vecchia tra quartiere medio-basso e margine dei [[Slums]] |
+| PNG coinvolti | Madre Elenia, [[Orenzio]], Rugo, Mila, [[Serena Valeria]] indiretta, [[Veltharuun]] indiretto |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | No; possibile tensione sociale con ragazzi o parenti |
+| Ricompensa | Paga bassa, candela benedetta minore, fiducia di Madre Elenia, contatto con Orenzio |
 
+## PNG e Colori
 
-## Source Migration
+| PNG | Colore dialogo | Ruolo |
+| --- | --- | --- |
+| <span style="color:#3c6e71"><strong>Madre Elenia</strong></span> | `#3c6e71` | Devota anziana, guida della veglia |
+| <span style="color:#4f6f52"><strong>[[Orenzio]]</strong></span> | `#4f6f52` | Custode informale della cappella |
+| <span style="color:#85586f"><strong>Rugo</strong></span> | `#85586f` | Ragazzo dei bassifondi, possibile testimone |
+| <span style="color:#a0522d"><strong>Mila</strong></span> | `#a0522d` | Ragazza diffidente, usa la cappella come riparo |
+| <span style="color:#7f5f2a"><strong>Parenti della veglia</strong></span> | `#7f5f2a` | Presenza silenziosa del quartiere |
 
-Source file: `phase 1/quests/Day7_Candele_per_la_cappella_vecchia.docx`
+## Contesto di Calendario
 
-Giorno 7 – Quest secondaria: Candele per la cappella vecchia
+> [!note] Festival e Remembrance Moon
+> [[Day 07]] è Desnus 7, 3608. Il Breaching Festival continua nelle strade grandi, ma la Remembrance Moon rende il lutto più visibile: candele, nomi, nastri grigi, veglie povere. Qui le luci della festa arrivano solo come riflesso lontano.
 
-Funzione della quest: questa è la prima quest della sottotrama del necromante. Deve sembrare una quest di rumore triste, normale, quasi dimenticabile: una cappella abbandonata da sistemare per una veglia povera. L’obiettivo reale è introdurre il luogo, il nome di Serena Valeria, e l’idea che qualcuno ricco o nobile visiti ancora quella cappella. Non devono comparire non morti, rituali, necromanzia esplicita o prove forti. Il feeling corretto è: “questo posto è triste e qualcuno ci tiene ancora”, non “qui c’è il dungeon del necromante”.
+## Testo per la Bacheca
 
-Hook sulla Quest Board
+> [!readaloud] Bacheca degli incarichi
+> **Candele per la cappella vecchia - aiuto richiesto per veglia**
+>
+> Si cercano mani disponibili per pulire e preparare la cappella vecchia nel quartiere medio-basso. Servono candele, panche sistemate e pavimento ripulito prima della veglia serale. Pagamento modesto, rispetto richiesto.
+>
+> Postata da: Madre Elenia.
 
-Candele per la cappella vecchia – aiuto richiesto per veglia
-
-Si cercano mani disponibili per pulire e preparare la cappella vecchia nel quartiere medio-basso. Servono candele, panche sistemate e pavimento ripulito prima della veglia serale. Pagamento modesto, rispetto richiesto.
-
-Postata da: Madre Elenia, vecchia devota del quartiere.
-
-Pagamento: basso.
-
-Durata: 2–3 ore.
-
+Pagamento: basso.  
+Durata: 2-3 ore.  
 Tono: triste, cittadino, religioso, apparentemente minore.
 
-Premessa reale per il DM
+## Verità per il GM
 
-La cappella è stata usata anni prima per il funerale di Serena Valeria, una donna del ceto medio nota per la sua carità verso i bassifondi. Al suo funerale era presente un uomo dall’aspetto nobile ma profondamente sbagliato: Vaeltharuun il Senza Eco, chiamato da Serena semplicemente Vael. Da allora, lui ha continuato a visitare la cappella in segreto. Nei sotterranei o nell’ossario vecchio, non ancora accessibile in questa quest, ha iniziato i suoi primi esperimenti.
+> [!summary] Premessa reale
+> La cappella fu usata anni prima per il funerale di [[Serena Valeria]], una donna amata nei bassifondi per carità concreta e non ostentata. Al funerale era presente Vaeltharuun il Senza Eco, chiamato da Serena semplicemente Vael. Da allora, Vaeltharuun visita la cappella in segreto e ha iniziato a usarne l'ossario o i sotterranei per i primi esperimenti, non ancora accessibili.
 
-Per ora i player devono trovare solo tracce deboli: fiori freschi, cera strana, graffi sotto l’altare, un odore fuori posto. Nulla basta a capire la verità.
+> [!warning] Limite della quest
+> Non farla diventare horror. Non aprire il laboratorio. Non mostrare Vaeltharuun. I PG devono uscire pensando: "questo posto è triste e qualcuno ci tiene ancora", non "abbiamo trovato il dungeon del necromante".
 
-Fase 1 – Incontro con Madre Elenia
+## Fase 1 - Incontro con Madre Elenia
 
-Scena
+> [!readaloud] Madre Elenia
+> La donna tiene la cesta con entrambe le mani, come se pesasse più per il significato che per il contenuto. Le candele sono economiche, alcune storte, altre già consumate a metà. Quando vi vede, non sorride davvero: vi misura con lo sguardo di chi ha chiesto aiuto a molta gente prima di voi.
 
-Madre Elenia aspetta vicino al mercato o davanti a una piccola bottega di candele. È anziana, vestita in modo semplice, con un mazzo di chiavi vecchie e una cesta piena di stracci, candele povere e una piccola icona di Sarenrae.
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Non vi chiedo di combattere. Vi chiedo di spazzare, accendere candele e non fare i pagliacci davanti ai morti."
 
-Descrizione: la donna tiene la cesta con entrambe le mani, come se pesasse più per il significato che per il contenuto. Le candele sono economiche, alcune storte, altre già consumate a metà. Quando vi vede, non sorride davvero: vi misura con lo sguardo di chi ha chiesto aiuto a molta gente prima di voi.
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "La cappella non è bella. Ma per certe famiglie è tutto quello che resta."
 
-NPC – Madre Elenia
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Una veglia povera non vale meno di una ricca. Solo che fa meno rumore."
 
-Anziana devota di Sarenrae, non chierica importante. Pratica, malinconica, testarda.
+Se chiedono perché la cappella è abbandonata:
 
-Dialoghi:
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Troppo piccola, troppo vecchia, troppo lontana dai soldi. Le cose sacre invecchiano in fretta quando nessuno le mantiene."
 
-"Non vi chiedo di combattere. Vi chiedo di spazzare, accendere candele e non fare i pagliacci davanti ai morti."
+### Le Nove Candele
 
-"La cappella non è bella. Ma per certe famiglie è tutto quello che resta."
+> [!clue] Dettaglio obbligatorio
+> Madre Elenia porta esattamente **nove candele** più una decima di scorta, rotta e non destinata al rito.
 
-"Una veglia povera non vale meno di una ricca. Solo che fa meno rumore."
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Ci servono nove candele vicino all'altare."
 
-Se i player chiedono perché la cappella è abbandonata:
+Se chiedono perché:
 
-"Troppo piccola, troppo vecchia, troppo lontana dai soldi. Le cose sacre invecchiano in fretta quando nessuno le mantiene."
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Aveva una specie di malattia. È morta dopo nove giorni da quando si è ammalata. Ne accendiamo una per ogni giorno in cui ha sofferto, sperando che finalmente possa riposare in pace."
 
-Cosa chiede
+Uso per [[Massimiliano]]:
 
-- accompagnarla alla cappella;- pulire la navata;- sistemare alcune panche;- scacciare animali o persone che si sono rifugiate dentro;- preparare candele per una veglia serale;- evitare di rompere ciò che resta.
+- non chiedere subito un tiro sulla sua paura;
+- lascia che il numero sia umano, pietoso e plausibile;
+- se chiede altro, Madre Elenia non conosce campane o vittime;
+- <span style="color:#8b5cf6"><strong>Intuizione CD 13</strong></span> conferma che non sta manipolando nessuno;
+- <span style="color:#2f9ed8"><strong>Religioni CD 13</strong></span> conferma che è coerente con una veglia povera, non un rito maligno.
 
-Fase 2 – Arrivo alla cappella vecchia
+## Fase 2 - Arrivo alla Cappella
 
-Luogo
+> [!readaloud] Cappella vecchia
+> La cappella vecchia appare quasi incastrata tra gli edifici decadenti attorno, come se la città l'avesse dimenticata senza avere il coraggio di demolirla. La facciata è di pietra scura, consumata dal sale e dal fumo. Sopra la porta, un piccolo sole scolpito di Sarenrae è ancora visibile, ma metà dei raggi sono scheggiati. L'aria sa di polvere, cera vecchia e legno umido. Non c'è paura qui. Solo abbandono.
 
-La cappella si trova tra ceto medio povero e margine dei bassifondi, in una zona che non è ancora degradata del tutto ma chiaramente dimenticata. Non è una grande chiesa: è piccola, storta, annerita dal tempo, schiacciata tra case più nuove e muri riparati male.
+> [!note] Rumore senza significato
+> Un piccione esce dal tetto rotto. Una bottiglia vuota rotola sotto una panca. Una ragnatela pende davanti a una statua. Una lucertola scappa dietro l'altare. Su una panca c'è inciso "MARIO AMA LIA". Nessuno di questi dettagli significa nulla.
 
-Descrizione da leggere
+## Fase 3 - Pulizia e Sistemazione
 
-La cappella vecchia appare quasi incastrata tra gli edifici decadenti attorno, come se la città l’avesse completamente dimenticata. La facciata è di pietra scura, consumata dal sale e dal fumo. Sopra la porta, un piccolo sole scolpito di Sarenrae è ancora visibile, ma metà dei raggi sono scheggiati. L’aria sa di polvere, cera vecchia e legno umido. Non c’è paura qui. Solo abbandono.
+> [!description] Lavoro fisico
+> I PG devono interagire fisicamente col luogo: spostare panche, pulire pavimento, sistemare candele, controllare chiodi, non rompere ciò che resta.
 
-Rumore casuale senza significato
+| Azione | CD | Effetto |
+| --- | --- | --- |
+| Spostare panche pesanti | <span style="color:#d64545"><strong>Atletica CD 11</strong></span> | La navata diventa praticabile |
+| Riparare una panca | <span style="color:#2f9ed8"><strong>Artigianato/Falegnameria CD 12</strong></span> | La panca regge la veglia |
+| Liberare cardine o serratura | <span style="color:#e68632"><strong>Disattivare Congegni CD 12</strong></span> | Non rompono la porta |
+| Notare punti pericolanti | <span style="color:#8b5cf6"><strong>Percezione CD 12</strong></span> | Evitano incidenti |
+| Sistemare icone e candele correttamente | <span style="color:#2f9ed8"><strong>Religioni CD 12</strong></span> | La veglia resta rispettosa |
 
-- Un piccione esce dal tetto rotto e fa cadere polvere.- Una bottiglia vuota rotola sotto una panca.- Una ragnatela pende davanti a una piccola statua.- Un pezzo di intonaco cade senza motivo importante.- Una lucertola scappa dietro l’altare.- Su una panca c’è inciso “MARIO AMA LIA”, vecchio di anni.
+### Rugo, Mila e Orenzio
 
-Nessuno di questi dettagli significa nulla.
+> [!description] Persone nella cappella
+> Dietro alcune panche ci sono due ragazzi dei bassifondi che usano la cappella come riparo. Orenzio, uomo di mezz'età dall'aspetto pulito nonostante gli stracci, si presenta come custode informale.
 
-Fase 3 – Pulizia e sistemazione
+<span style="color:#4f6f52"><strong>[[Orenzio]]</strong></span>: "Oh, Elenia... salve. Vedo che hai trovato gente, fanno comodo delle braccia forti."
 
-Obiettivo pratico
+<span style="color:#4f6f52"><strong>[[Orenzio]]</strong></span>: "Io sono Orenzio. Praticamente il custode di questa cappella abbandonata. Per qualsiasi cosa chiedete a me."
 
-I player devono preparare la cappella alla veglia. Questa parte serve a farli interagire fisicamente col luogo.
+<span style="color:#85586f"><strong>Rugo</strong></span>: "Non stavamo rubando. Non c'è niente da rubare."
 
-Azioni possibili
+<span style="color:#a0522d"><strong>Mila</strong></span>: "Se è per la veglia, ce ne andiamo. Non serve urlare."
 
-Athletics CD 11: spostare panche pesanti o raddrizzare quelle cadute.
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Non vi sto cacciando dalla città. Vorrei invitarvi a restare per la veglia. E chiedervi un po' di aiuto, se volete."
 
-Craft / Professione falegname CD 12: riparare una panca abbastanza da renderla sicura.
+| Approccio | CD | Esito |
+| --- | --- | --- |
+| Convincerli ad aiutare | <span style="color:#d6a500"><strong>Diplomazia CD 12</strong></span> | Aiutano e parlano |
+| Offrire cibo o monete | Nessuna | Diventano più disponibili |
+| Intimidirli | <span style="color:#d6a500"><strong>Intimidire CD 12</strong></span> | Si allontanano, Madre Elenia disapprova |
+| Violenza | Nessuna | Pessima scelta, rovina tono e reputazione |
 
-Disable Device CD 12: sistemare una serratura vecchia o liberare un cardine bloccato senza rompere la porta.
+Se trattato bene:
 
-Perception CD 12: notare punti pericolanti o chiodi scoperti.
-
-Religion CD 12: sistemare correttamente piccole icone e candele senza offendere il rito.
-
-Prestidigitation / magia minore: utile per pulire, ma non rivela nulla.
-
-Piccolo problema
-
-Dietro alcune panche ci sono due senzatetto o ragazzi dei bassifondi che usano la cappella come riparo.
-
-NPC – Rugo, Mila e Orenzio
-
-Rugo è un ragazzo magro, sui diciassette anni. Mila è più giovane, diffidente, con una coperta strappata. Non sono criminali importanti. Hanno dormito lì perché fuori faceva freddo.Orenzio è un uomo di mezz’eta`, dall’aspetto pulito nonostante sia vestito di stracci. Ha un’aria calma ma triste. Orenzio: “Oh, Elenia... salve. Vedo che hai trovato gente, fanno comodo delle braccia forti.”verso i player - “Io sono Orenzio, sono praticamente il custode di questa cappella abbandonata. Per qualsiasi cosa chiedete a me.”
-
-Rugo:
-
-"Non stavamo rubando. Non c’è niente da rubare."
-
-Mila:
-
-"Se è per la veglia, ce ne andiamo. Non serve urlare."
-
-Madre Elenia:
-
-"Non vi sto cacciando dalla città, vorrei invitarvi a restare per la veglia. E chiedervi un po’ di aiuto se volete."
-
-Possibili risoluzioni
-
-Diplomacy CD 12: li convincono ad aiutare senza problemi.
-
-Offrire cibo o monete: accettano e diventano più disponibili.
-
-Intimidation CD 12: li allontana, ma Madre Elenia guarda male i player.
-
-Violenza: pessima scelta; rovina il tono e abbassa la reputazione con Elenia/Marcia se lo viene a sapere.
-
-Informazione possibile dai ragazzi
-
-Se trattati bene, Rugo dice:
-
-"C’è uno che viene ogni tanto. Vestito bene. Non prega. Sta qui fermo e guarda il pavimento."
+<span style="color:#85586f"><strong>Rugo</strong></span>: "C'è uno che viene ogni tanto. Vestito bene. Non prega. Sta qui fermo e guarda il pavimento."
 
 Se chiedono altro:
 
-"Non lo so. Non parla con noi. Una volta ha lasciato fiori veri. Non fiori da poveri."
+<span style="color:#85586f"><strong>Rugo</strong></span>: "Non lo so. Non parla con noi. Una volta ha lasciato fiori veri. Non fiori da poveri."
 
-Questa è la prima traccia di Vaeltharuun, ma deve sembrare solo un ricco eccentrico o un parente in lutto.
+## Fase 4 - Indizi Deboli
 
-Fase 4 – Indizi deboli nella cappella
+> [!warning] Nessuna prova completa
+> Questi indizi non devono comporre una rivelazione. Devono essere pezzi slegati, tutti con spiegazioni plausibili.
 
-Questi indizi non devono comporre una prova. Devono essere pezzi slegati.
+| Indizio | CD | Dove | PNG coinvolti | Cosa sembra | Cosa significa dopo | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fiori freschi costosi | <span style="color:#8b5cf6"><strong>Percezione CD 12</strong></span> o <span style="color:#2f9ed8"><strong>Conoscenze locali/Erboristeria CD 14</strong></span> | Nicchia laterale | Vael indiretto | Devoto ricco | Vael visita Serena | Accusare troppo presto normalizza tutto |
+| Nove candele | <span style="color:#8b5cf6"><strong>Percezione CD 10</strong></span>, <span style="color:#8b5cf6"><strong>Intuizione CD 13</strong></span>, <span style="color:#2f9ed8"><strong>Religioni CD 13</strong></span> | Altare | Madre Elenia | Rito funebre povero | Primo eco del trauma di Massimiliano | Deve restare plausibile |
+| Cera nera | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> o <span style="color:#2f9ed8"><strong>Alchimia CD 15</strong></span> | Resti di candele | Vael indiretto | Candela costosa o strana | Uso rituale/alchemico | Non dire "rituale" |
+| Traccia fatata nella cera | <span style="color:#8b5cf6"><strong>Percezione CD 18</strong></span>, <span style="color:#2f9ed8"><strong>Sapienza Magica CD 19</strong></span> o <span style="color:#2f9ed8"><strong>Natura CD 17</strong></span> | Pavimento e panche | Vael indiretto | Sensazione che evita lo sguardo | Vaeltharuun ha usato magia fatata per non essere notato | Filippo può sentirsi sfiorato, non smascherato |
+| Graffi sotto l'altare | <span style="color:#2f9ed8"><strong>Investigazione CD 15</strong></span> o <span style="color:#2f9ed8"><strong>Ingegneria CD 17</strong></span> | Altare | Nessuno | Danno strutturale | Altare mosso più volte | Non aprire passaggio ora |
+| Odore medico | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> o <span style="color:#8b5cf6"><strong>Guarire/Medicine CD 15</strong></span> | Sacrestia | Nessuno | Cure povere | Conservanti o preparati medici | Troppo poco per esperimenti |
+| Targa di Serena Valeria | <span style="color:#2f9ed8"><strong>Religioni/Conoscenze locali CD 13</strong></span> | Parete interna | Serena indiretta | Benefattrice morta | Centro emotivo della sottotrama | Non trasformarla in "PNG plot" |
 
-1. Fiori freschi
+### Uso per Filippo
 
-Perception CD 12:
+> [!clue] Traccia fatata
+> Se [[Filippo]] è vicino alla cera o usa magia, può sentire pelle che pizzica, odore di fiori troppo dolce e istinto di guardare altrove. Non dire "è come te". Non accusarlo. Deve essere riconoscimento fisico, non rivelazione.
 
-Vicino a una nicchia laterale trovate un piccolo mazzo di fiori freschi. Non sono fiori di campo: sono troppo curati, troppo puliti, troppo costosi per questa cappella.
+### Serena Valeria
 
-Knowledge Local / Professione erborista CD 14:
+La targa dice:
 
-Sono fiori comprati da un venditore del quartiere alto o nobiliare, non raccolti nei dintorni.
+> [!readaloud] Targa interna
+> A Serena Valeria, che portò luce dove il sole non arrivava.
 
-Interpretazione: qualcuno ricco visita ancora la cappella.
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Una brava donna. Troppo brava per questa città, forse."
 
-2. Cera nera mescolata a cera normale
+Se chiedono di più:
 
-Perception CD 14:
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Aiutava i poveri. Portava pane, medicine, vestiti. Non faceva prediche. Questo la rendeva più rara."
 
-Tra i resti di vecchie candele, alcune colature sono più scure, quasi nere.
+Se chiedono se Serena fosse la donna delle nove candele:
 
-Craft / Alchemy CD 15:
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "No. Serena Valeria è morta anni fa. La veglia di stasera è per un'altra povera anima. Ma questa cappella ricorda molti dolori, e alcuni numeri restano addosso alla gente."
 
-Non sembra solo fuliggine. Potrebbe essere cera mescolata con resine o pigmenti.
+## Fase 5 - La Veglia
 
-Non dire “rituale”. Può sembrare una candela votiva costosa, una miscela strana, un oggetto portato da qualcuno.
+> [!readaloud] Veglia povera
+> Quando arrivano i primi parenti, non c'è processione, non c'è coro, non c'è marmo. Solo passi bassi, mani screpolate e candele economiche. Qualcuno si siede senza parlare. Qualcuno guarda il pavimento, non il corpo. La cappella sembra piccola, ma per un momento basta.
 
-3. Graffi sotto l’altare
+I PG possono:
 
-Investigation CD 15:
+- distribuire candele;
+- tenere lontani curiosi;
+- riparare un ultimo banco;
+- accompagnare fuori i ragazzi senza umiliarli;
+- restare in silenzio.
 
-Sotto l’altare, vicino al pavimento, ci sono graffi lunghi e sottili. Sembrano segni lasciati da qualcosa di trascinato.
+| Azione | CD | Esito |
+| --- | --- | --- |
+| Partecipare rispettosamente | <span style="color:#2f9ed8"><strong>Religioni CD 12</strong></span> | I parenti li accettano |
+| Dire poche parole adatte | <span style="color:#d6a500"><strong>Oratoria CD 14</strong></span> | La veglia guadagna dignità |
+| Notare un parente troppo debole | <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> | Piccolo aiuto umano |
 
-Disable Device / Knowledge Engineering CD 17:
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Non avete fatto un miracolo. Avete solo impedito che un funerale povero sembrasse una discarica. A volte basta."
 
-L’altare potrebbe essere stato spostato più di una volta, ma è troppo pesante perché lo faccia una persona normale da sola.
+## Chiusura
 
-Non aprire qui un passaggio. Anche se i player insistono, l’altare non si muove facilmente, Madre Elenia si oppone, e la veglia sta arrivando. Il payoff è per il giorno 11/16.
+Se hanno trattato bene Rugo e Mila:
 
-4. Odore fuori posto
+<span style="color:#85586f"><strong>Rugo</strong></span>: "Se torna l'uomo elegante, ve lo dico. Ma non gratis. Cioè... magari per pane."
 
-Perception CD 14:
+Se chiedono spiegazioni sugli indizi, Madre Elenia normalizza:
 
-In un angolo vicino alla sacrestia, sotto la polvere e la cera, sentite un odore più acre: erbe medicinali, alcool, qualcosa usato per conservare o pulire ferite.
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Qualcuno si ricorda ancora di lei. Non è un crimine."
 
-Heal / Medicine CD 15:
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "La gente porta quello che può. Alcune candele costano più della cena di una famiglia."
 
-L’odore ricorda conservanti o preparati medici, non decomposizione.
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Questa cappella cade a pezzi da prima che voi nasceste."
 
-Interpretazione: qualcuno ha portato materiali medici o alchemici. Non abbastanza per parlare di esperimenti.
+### Se cercano di forzare cripta o altare
 
-5. Nome di Serena Valeria
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Questa è una veglia, non una caccia al tesoro."
 
-Religion / Knowledge Local CD 13:
+Se insistono:
 
-Vicino a una piccola lapide commemorativa o targa interna si legge:
+- arrivano parenti o guardie del quartiere;
+- la quest si chiude male;
+- non scoprono il laboratorio.
 
-"A Serena Valeria, che portò luce dove il sole non arrivava."
+## Esiti
 
-Madre Elenia, se interrogata:
+| Esito | Conseguenza |
+| --- | --- |
+| Successo pieno | Cappella introdotta, Serena nominata, Madre Elenia e Orenzio ricordano i PG |
+| Successo parziale | Veglia fatta con disagio, paga ridotta, meno fiducia |
+| Fallimento | Madre Elenia non si fida; la cappella torna più avanti senza contatti amichevoli |
+| Forzatura del sotterraneo | Nessun laboratorio rivelato, reputazione peggiorata |
 
-"Una brava donna. Troppo brava per questa città, forse."
+Ricompensa opzionale: candela benedetta minore. Può dare luce normale e +1 a una singola prova di Religioni legata a riti funebri.
 
-Se i player chiedono di più:
+## Rumore Casuale Obbligatorio
 
-"Aiutava i poveri. Portava pane, medicine, vestiti. Non faceva prediche. Questo la rendeva più rara."
+> [!note] Dettagli senza significato
+> Piccioni nel tetto, bottiglia vuota dietro una panca, scritta stupida, gatto sull'altare, lucertola dietro la sacrestia, intonaco che cade, stoppino umido, vecchia moneta di rame, ragno grosso, scarpa rotta dietro la porta. Se i PG indagano troppo, normalizza.
 
-Fase 5 – La veglia
+## Note GM
 
-Scena
+> [!note] Funzione della quest
+> Serena Valeria deve sembrare una persona realmente buona, non "la donna importante del plot". Meglio farla emergere da targa, memoria di Elenia, fiori freschi e rispetto dei poveri.
 
-La veglia non è per Serena, ma per una persona povera del quartiere. Serve a mostrare che la cappella viene ancora usata da chi non ha alternative.
+Vaeltharuun non deve apparire. Non deve mandare servitori. Non deve lasciare minacce.
 
-Descrizione: quando arrivano i primi parenti, non c’è processione, non c’è coro, non c’è marmo. Solo passi bassi, mani screpolate e candele economiche. Qualcuno si siede senza parlare. Qualcuno guarda il pavimento, non il corpo. La cappella sembra piccola, ma per un momento basta.
-
-Possibile intervento dei player
-
-Possono:- aiutare a distribuire candele;- tenere lontani curiosi;- riparare un ultimo banco;- accompagnare fuori i ragazzi senza umiliarli;- restare in silenzio.
-
-Religion CD 12: partecipano rispettosamente.
-
-Performance / Oratory CD 14: possono dire poche parole adatte, se richiesto.
-
-Fallimento sociale grave: non succede disastro, ma vengono guardati male.
-
-Madre Elenia alla fine
-
-"Non avete fatto un miracolo. Avete solo impedito che un funerale povero sembrasse una discarica. A volte basta."
-
-Fase 6 – Chiusura
-
-Ricompensa
-
-Pagamento basso. Possibile piccola candela benedetta o favore di Madre Elenia.
-
-Candela benedetta minore, opzionale: non è un oggetto potente. Può dare luce normale e vantaggio narrativo in una scena religiosa, oppure +1 a una singola prova di Religion legata a riti funebri, se vuoi.
-
-Se i player hanno trattato bene Rugo e Mila
-
-Rugo può dire prima di andarsene:
-
-"Se torna l’uomo elegante, ve lo dico. Ma non gratis. Cioè… magari per pane."
-
-Questo crea un possibile contatto per giorno 11.
-
-Se i player hanno trovato molti indizi
-
-Non dare conclusioni. Madre Elenia può normalizzare tutto.
-
-Fiori:
-
-"Qualcuno si ricorda ancora di lei. Non è un crimine."
-
-Cera nera:
-
-"La gente porta quello che può. Alcune candele costano più della cena di una famiglia."
-
-Graffi:
-
-"Questa cappella cade a pezzi da prima che voi nasceste."
-
-Odore medico:
-
-"I poveri si curano dove possono. Anche qui."
-
-Tutte spiegazioni plausibili. Non bugie complete.
-
-Esiti
-
-Successo pieno
-
-La cappella viene preparata, la veglia si svolge con dignità, i player vengono ricordati da Madre Elenia e da alcuni poveri del quartiere.
-
-Effetto:- la cappella è introdotta;- Serena Valeria viene nominata;- Rugo/Mila possono diventare testimoni futuri;- i player hanno visto indizi, ma senza quadro.
-
-Successo parziale
-
-La cappella viene preparata male o in ritardo. La veglia si fa comunque, ma con disagio.
-
-Effetto:- Madre Elenia paga meno;- il luogo resta introdotto;- meno fiducia da NPC locali.
-
-Fallimento
-
-I player non completano il lavoro, creano tensione o vengono cacciati.
-
-Effetto:- la veglia si svolge male;- Madre Elenia non si fida;- la cappella può comunque tornare più avanti, ma senza contatti amichevoli.
-
-Se cercano di forzare la cripta o spostare l’altare
-
-Madre Elenia si oppone duramente.
-
-"Questa è una veglia, non una caccia al tesoro."
-
-Se insistono:- arrivano parenti o guardie del quartiere;- la quest si chiude male;- non scoprono il laboratorio.
-
-Questo è importante: non anticipare la sottotrama. Giorno 7 deve solo piantare il seme.
-
-Clues Summary
-
-Indizio
-
-CD
-
-Cosa sembra
-
-Cosa significa dopo
-
-Fiori freschi costosi
-
-12–14
-
-devoto ricco
-
-Vael visita Serena
-
-Cera nera
-
-14–15
-
-candela strana
-
-uso rituale/alchemico
-
-Graffi sotto altare
-
-15–17
-
-cappella vecchia danneggiata
-
-accesso/uso nascosto
-
-Odore medico
-
-14–15
-
-cura povera o medicina
-
-esperimenti conservativi
-
-Nome Serena Valeria
-
-13
-
-benefattrice morta
-
-centro emotivo della sottotrama
-
-Uomo elegante visto dai ragazzi
-
-social
-
-parente o ricco devoto
-
-primo accenno a Vael
-
-Cappella ancora usata dai poveri
-
-nessuna
-
-normalità triste
-
-Vael tradisce ciò che Serena amava
-
-Rumore casuale obbligatorio
-
-Questi dettagli non significano nulla:
-
-- piccioni nel tetto;- bottiglia vuota dietro una panca;- scritta stupida su una panca;- gatto che dorme sull’altare;- lucertola dietro la sacrestia;- intonaco che cade;- una candela che non si accende perché lo stoppino è umido;- una vecchia moneta di rame sotto una panca;- un ragno grosso in una nicchia;- una scarpa rotta dietro la porta.
-
-Se i player indagano troppo, normalizza. Questa quest deve insegnare che alcuni dettagli sono solo degrado.
-
-DM Notes
-
-Non farla diventare horror. Non ancora. È una quest triste, cittadina e religiosa. Il necromante è solo un’ombra indiretta. I player devono poter ignorare quasi tutto e comunque completare la quest.
-
-Serena Valeria deve essere presentata come una persona realmente buona, non come “la donna importante del plot”. Meglio farla emergere da piccoli dettagli: la targa, la memoria di Elenia, i fiori freschi, il rispetto dei poveri.
-
-Vaeltharuun non deve apparire. Non deve mandare servitori. Non deve lasciare minacce. Se appare già, la sottotrama accelera troppo.
-
-Feeling finale:
-
-"Era solo una cappella vecchia preparata per un funerale povero. Però qualcuno, da qualche parte, non ha mai smesso di portarci fiori."
+> [!summary] Sensazione finale
+> Era solo una cappella vecchia preparata per un funerale povero. Però qualcuno, da qualche parte, non ha mai smesso di portarci fiori.

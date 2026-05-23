@@ -69,13 +69,6 @@
         "a": 1,
         "rgb": 14701233
       }
-    },
-    {
-      "query": "[\"faction\":Guardie di Varro",
-      "color": {
-        "a": 1,
-        "rgb": 3170560
-      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +81,6 @@
   "repelStrength": 16.09375,
   "linkStrength": 1,
   "linkDistance": 266,
-  "scale": 0.08317427835927532,
+  "scale": 0.05932617187499983,
   "close": false
 }

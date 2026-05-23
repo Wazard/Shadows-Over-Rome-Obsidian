@@ -16,14 +16,46 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day5_Diego_Quest_1_Tutto_Strano
 ---
 # Diego Quest 1
 
+> [!motive] Motivo
+> I PG hanno un motivo pratico per accettare questa quest: seguire il gancio descritto sotto, ottenere la ricompensa o il favore previsto, e capire come la pressione locale di [[Day 05]] sta toccando il quartiere. Questa sezione orienta la gestione al tavolo senza sostituire il testo giocabile già presente.
+
+> [!summary] Riassunto
+> Quest di [[Day 05]] centrata su **Diego Quest 1**. Il contenuto sotto mantiene gancio, scene, indizi, prove e conseguenze già scritte; questa apertura serve a renderla leggibile secondo [[quest_markdown_rules]].
+
+> [!success] Esiti possibili
+> - **Successo pieno:** i PG risolvono la richiesta principale, ottengono la ricompensa prevista e lasciano PNG o quartiere in posizione migliore.
+> - **Successo parziale:** i PG completano solo parte dell'obiettivo, ottengono meno fiducia o meno informazioni, ma mantengono una pista giocabile.
+> - **Fallimento:** la situazione peggiora, la ricompensa si riduce o sparisce, e la pressione della città avanza.
+> - **Conseguenza futura:** indizi, reputazione e reazioni dei PNG vanno riportati nelle sessioni successive se emergono al tavolo.
+
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 05]] |
+| Luogo | Vedi testo |
+| PNG coinvolti | [[Corda]], [[Diego]], [[Er Trace]], [[Marcia]], [[Mazza]], [[Ratto]] |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#3f8f4c"><strong>COS</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Vedi testo: nessuno, possibile, probabile o boss secondo le sezioni sotto |
+| Ricompensa | Vedi testo |
+
+## PNG e Colori
+
+| PNG | Colore dialogo |
+| --- | --- |
+| <span style="color:#3366cc"><strong>[[Corda]]</strong></span> | `#3366cc` |
+| <span style="color:#7f5f2a"><strong>[[Diego]]</strong></span> | `#7f5f2a` |
+| <span style="color:#4f6f52"><strong>[[Er Trace]]</strong></span> | `#4f6f52` |
+| <span style="color:#2f7fb8"><strong>[[Marcia]]</strong></span> | `#2f7fb8` |
+| <span style="color:#8b1e1e"><strong>[[Mazza]]</strong></span> | `#8b1e1e` |
+| <span style="color:#6f4a8e"><strong>[[Ratto]]</strong></span> | `#6f4a8e` |
+
 ## Festival Calendar Context
 
 ## Deeper Investigation Clues
 
 | Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
 | --- | --- | --- | --- | --- | --- | --- |
-| Black market access lead | Diplomacy DC 15 with street contacts; Knowledge Local DC 15 | Slums, old well, night-market edges | Possible Aulus-men pressure | [[Diego]], [[Nico Lanterna]], [[Mira dei Sussurri]] | Day 5 can open purchasable information: names, locations, routines, uniforms, tokens | Buying information marks the party as serious investigators |
-| Common bandit names a man of Aulus | Intimidate DC 16 or Diplomacy DC 17 | Slums or abandoned festival stall | Possible fight with 2-4 normal bandits | [[Cencio]], [[Muto]], [[Spago]] | Bandits know a payer connected to Aulus' men, not Aulus himself | If released, one bandit disappears or is beaten next day |
+| Black market access lead | <span style="color:#d6a500"><strong>Diplomacy DC 15</strong></span> with street contacts; <span style="color:#2f9ed8"><strong>Knowledge Local DC 15</strong></span> | Slums, old well, night-market edges | Possible Aulus-men pressure | [[Diego]], [[Nico Lanterna]], [[Mira dei Sussurri]] | Day 5 can open purchasable information: names, locations, routines, uniforms, tokens | Buying information marks the party as serious investigators |
+| Common bandit names a man of Aulus | Intimidate DC 16 or <span style="color:#d6a500"><strong>Diplomacy DC 17</strong></span> | Slums or abandoned festival stall | Possible fight with 2-4 normal bandits | [[Cencio]], [[Muto]], [[Spago]] | Bandits know a payer connected to Aulus' men, not Aulus himself | If released, one bandit disappears or is beaten next day |
 
 - Calendar: [[Day 05]] is Desnus 5, 3608.
 - Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
@@ -57,7 +89,7 @@ Tono: delirante, irritante, comico, occasionalmente pericoloso.
 
 Fase 1 – Cena al Veliero
 
-Scena
+> [!description] Scena
 
 Diego è già seduto a un tavolo del Veliero prima ancora che i player accettino ufficialmente. Ha ordinato qualcosa “perché tanto arrivavate”. Non ha soldi. Sta mangiando pane, pesce povero e bevendo vino annacquato.
 
@@ -75,7 +107,7 @@ Se i player rifiutano di pagare:
 
 "Ah quindi volete scoprire il complotto a stomaco vuoto. Professionisti proprio."
 
-Rumore casuale senza significato
+> [!note] Rumore casuale senza significato
 
 - Un bicchiere cade da un tavolo vicino e si rompe.- Un gatto passa sotto una panca con una lisca in bocca.- Un marinaio ride fortissimo senza motivo chiaro.- Sul tavolo c’è una vecchia bruciatura circolare che Diego indica come “segno”, ma è solo una bruciatura.
 
@@ -93,7 +125,7 @@ Diego:
 
 Fase 2 – Il porto: “il mare è strano”
 
-Scena
+> [!description] Scena
 
 Diego trascina i player al porto. È sera tarda. C’è meno traffico, ma non silenzio: corde, acqua contro la pietra, legno che scricchiola, marinai che finiscono lavori, gabbiani lontani.
 
@@ -103,11 +135,11 @@ Diego si ferma davanti al mare come un profeta ubriaco.
 
 Prove
 
-Perception CD 18:
+<span style="color:#8b5cf6"><strong>Perception CD 18</strong></span>:
 
 Il mare sembra leggermente più quieto del normale per qualche secondo, ma potrebbe essere solo una pausa tra le onde.
 
-Perception CD 22:
+<span style="color:#8b5cf6"><strong>Perception CD 22</strong></span>:
 
 Per un istante le increspature vicino a un pilone sembrano muoversi in direzione strana. Poi il movimento torna normale.
 
@@ -139,7 +171,7 @@ Marinaio irritato
 
 "Se mi fai perdere un’altra corda, ti lego al molo."
 
-Rumore casuale senza significato
+> [!note] Rumore casuale senza significato
 
 - Una corda sbatte tre volte contro un palo.- Un topo corre lungo il bordo del molo e cade in un secchio vuoto.- Qualcuno ha lasciato una scarpa spaiata vicino a una cassa.- Una lanterna tremola perché lo stoppino è consumato.
 
@@ -151,7 +183,7 @@ In realtà non significa nulla.
 
 Fase 3 – I “simboli ovunque”
 
-Scena
+> [!description] Scena
 
 Diego porta i player tra casse, travi e zone di scarico. Indica segni veri, segni falsi, marchi normali e sporco.
 
@@ -167,15 +199,15 @@ Knowledge Local / Professione mercante CD 12:
 
 La maggior parte dei marchi sono normali sigilli mercantili. Servono a identificare proprietà, destinazione o tipo di carico.
 
-Investigation CD 15:
+<span style="color:#2f9ed8"><strong>Investigation CD 15</strong></span>:
 
 Molti segni a terra sono solo residui di carbone, cenere, sporco o marchiature fatte male.
 
-Perception CD 20:
+<span style="color:#8b5cf6"><strong>Perception CD 20</strong></span>:
 
 Uno dei segni sul pavimento sembra fatto con carboncino, non derivato dalla marchiatura a caldo.
 
-Investigation CD 22:
+<span style="color:#2f9ed8"><strong>Investigation CD 22</strong></span>:
 
 Potrebbe essere stato disegnato a mano, ma è troppo parziale per capire cosa rappresentasse. Potrebbe anche essere solo uno scarabocchio o una traccia da lavoro.
 
@@ -209,7 +241,7 @@ Diego:
 
 Fase 4 – Distretto dei magazzini: tentativo goffo di intrusione
 
-Scena
+> [!description] Scena
 
 Diego decide che “la verità sta nei magazzini” e si dirige verso un magazzino chiuso. Non ha un piano. Prova letteralmente a tirare una maniglia, poi cerca di guardare da una fessura.
 
@@ -249,7 +281,7 @@ Diego:
 
 Evitare la perquisizione
 
-Diplomacy CD 16:
+<span style="color:#d6a500"><strong>Diplomacy CD 16</strong></span>:
 
 Successo: le guardie li lasciano andare con ammonimento.
 
@@ -257,7 +289,7 @@ Guardia:
 
 "Portatevelo via. Se lo rivedo vicino a una serratura, lo chiudo dentro davvero."
 
-Bluff CD 17:
+<span style="color:#d6a500"><strong>Bluff CD 17</strong></span>:
 
 I player convincono le guardie che Diego è ubriaco e loro lo stanno solo riportando via.
 
@@ -267,11 +299,11 @@ Perquisizione obbligatoria. Se resistono fisicamente, la situazione può degener
 
 Rumori dal magazzino
 
-Perception CD 21:
+<span style="color:#8b5cf6"><strong>Perception CD 21</strong></span>:
 
 Dal magazzino arriva un rumore basso, come qualcosa che gratta legno o pietra.
 
-Perception CD 25:
+<span style="color:#8b5cf6"><strong>Perception CD 25</strong></span>:
 
 Sembra quasi un sussurro o uno sfregamento ritmico, ma potrebbe tranquillamente essere un animale, una corda mossa dal vento o topi tra le casse.
 
@@ -295,7 +327,7 @@ Guardia:
 
 Fase 5 – Tentativo di entrare nel distretto nobiliare
 
-Scena
+> [!description] Scena
 
 Diego cambia bersaglio senza transizione logica.
 
@@ -305,7 +337,7 @@ Si dirige verso il distretto nobiliare.
 
 I player devono fermarlo
 
-Diplomacy CD 14:
+<span style="color:#d6a500"><strong>Diplomacy CD 14</strong></span>:
 
 Successo: Diego accetta di non provare a entrare, ma brontola.
 
@@ -313,7 +345,7 @@ Diego:
 
 "Va bene. Ma lo scrivo che mi avete ostacolato nell’indagine."
 
-Intimidation CD 13:
+<span style="color:#d6a500"><strong>Intimidation CD 13</strong></span>:
 
 Successo: si ferma, offeso.
 
@@ -343,11 +375,11 @@ Perquisizione / ammonimento
 
 Se i player sono con Diego, le guardie li considerano complici o accompagnatori irresponsabili.
 
-Diplomacy CD 16:
+<span style="color:#d6a500"><strong>Diplomacy CD 16</strong></span>:
 
 Riescono a evitare la perquisizione e vengono mandati via.
 
-Diplomacy CD 20:
+<span style="color:#d6a500"><strong>Diplomacy CD 20</strong></span>:
 
 Le guardie li lasciano andare senza nota ufficiale e senza trattarli troppo male.
 
@@ -361,7 +393,7 @@ Guardia:
 
 Non deve diventare fight, salvo suicidio sociale dei player. Le guardie nobiliari sono troppe e in territorio controllato.
 
-Rumore casuale senza significato
+> [!note] Rumore casuale senza significato
 
 - Una finestra lontana si chiude.- Una statua ha una macchia sul basamento.- Da una villa arriva musica molto bassa.- Un cane nobile abbaia una sola volta e poi smette.
 
@@ -373,7 +405,7 @@ No. Non significa nulla.
 
 Fase 6 – Piazza del mercato centrale
 
-Scena
+> [!description] Scena
 
 Diego trascina i player al mercato centrale. È notte. Gli stand sono chiusi, coperti da teli. Alcuni rifiuti sono ammassati ai lati. C’è odore di frutta marcia, pesce vecchio e cenere.
 
@@ -399,15 +431,15 @@ Il cultista/fuggitivo:- si irrigidisce;- lascia cadere qualcosa di piccolo, fors
 
 Prove
 
-Perception CD 15:
+<span style="color:#8b5cf6"><strong>Perception CD 15</strong></span>:
 
 Uno dei ladri scappa prima degli altri, senza cercare di prendere nulla.
 
-Perception CD 19:
+<span style="color:#8b5cf6"><strong>Perception CD 19</strong></span>:
 
 Mentre scappa, gli cade un piccolo pezzo di carboncino.
 
-Investigation CD 20 sul punto in cui era accucciato:
+<span style="color:#2f9ed8"><strong>Investigation CD 20</strong></span> sul punto in cui era accucciato:
 
 A terra c’è una macchia nera incompleta, ma sembra solo sporco o carbone schiacciato.
 
@@ -439,7 +471,7 @@ Diego durante il fight:
 
 "Ve l’avevo detto che c’era il culto!"
 
-Rumore casuale senza significato durante il fight
+> [!note] Rumore casuale senza significato durante il fight
 
 - Un cesto di cipolle si rovescia.- Una gallina scappata da chissà dove attraversa la piazza.- Un telo si stacca da uno stand.- Una bottiglia rotola per terra e si ferma contro il piede di un player.
 
@@ -459,7 +491,7 @@ Non utile.
 
 Fase 7 – Se continuano: bassifondi e vecchio pozzo
 
-Scena
+> [!description] Scena
 
 Dopo il fight, Diego è gasatissimo.
 
@@ -483,19 +515,19 @@ Verità: il mercato nero esiste davvero, ma non si entra da qui senza parola chi
 
 Prove
 
-Perception CD 13:
+<span style="color:#8b5cf6"><strong>Perception CD 13</strong></span>:
 
 Dal pozzo arriva un eco basso, probabilmente acqua o vento in una cavità.
 
-Perception CD 18:
+<span style="color:#8b5cf6"><strong>Perception CD 18</strong></span>:
 
 A volte il suono sembra quasi un colpo lontano, ma può essere secchio, pietra, tubo, animale o immaginazione.
 
-Knowledge Local CD 15:
+<span style="color:#2f9ed8"><strong>Knowledge Local CD 15</strong></span>:
 
 I bassifondi hanno vecchie cantine, cunicoli, magazzini murati e passaggi dimenticati. Le storie sulla “città sotto” sono comuni. Questa prova deve normalizzare in parte.
 
-Rumore casuale senza significato
+> [!note] Rumore casuale senza significato
 
 - Un ratto esce da una crepa, guarda i player e scappa.- Qualcuno tossisce dietro una finestra.- C’è una corda annodata a metà, ma è solo vecchia.- Sul bordo del pozzo ci sono graffi, ma sono segni d’uso vecchio.- Una moneta di rame piegata sta nel fango: nessun significato.
 
@@ -507,7 +539,7 @@ No. Non è un segnale.
 
 Fase 8 – Uomini di Aulus
 
-Scena
+> [!description] Scena
 
 Arrivano alcuni uomini di Aulus. Non sono lì per il culto. Sono lì perché il pozzo e la zona sono vicini a traffici e passaggi che non vogliono far osservare. Chiedono cosa stiano facendo e se sanno qualcosa.
 
@@ -551,7 +583,7 @@ Possibili risoluzioni
 
 Fermare Diego
 
-Diplomacy CD 13 su Diego:
+<span style="color:#d6a500"><strong>Diplomacy CD 13</strong></span> su Diego:
 
 Lo convincono a stare zitto abbastanza da evitare escalation.
 
@@ -561,7 +593,7 @@ Diego:
 
 Scusarsi e andare via
 
-Diplomacy CD 14 con uomini di Aulus:
+<span style="color:#d6a500"><strong>Diplomacy CD 14</strong></span> con uomini di Aulus:
 
 Li lasciano andare, ma li seguono per qualche minuto.
 
@@ -571,7 +603,7 @@ Capo:
 
 Mentire
 
-Bluff CD 15:
+<span style="color:#d6a500"><strong>Bluff CD 15</strong></span>:
 
 Dicono che stanno riportando Diego a casa, cercando un cane, inseguendo ladri, ecc.
 
@@ -597,7 +629,7 @@ Nemici:- 3 uomini di Aulus addestrati;- 1 capo più forte;- usano coltelli, bast
 
 Spiragli per scappare
 
-Dai più possibilità, non una sola.- Vicolo stretto: Acrobatics CD 12 per passare tra casse e panni stesi.- Porta mezza rotta: Strength CD 13 per sfondarla e tagliare attraverso una casa vuota.- Folla notturna: Stealth CD 14 per perdersi tra vicoli e ombre.- Pozzo/corde: Athletics CD 14 per buttare giù un secchio e creare ostacolo.- Intimidire dopo aver ferito il capo: Intimidation CD 16 per aprire una finestra di fuga.
+Dai più possibilità, non una sola.- Vicolo stretto: <span style="color:#e68632"><strong>Acrobatics CD 12</strong></span> per passare tra casse e panni stesi.- Porta mezza rotta: <span style="color:#d64545"><strong>Strength CD 13</strong></span> per sfondarla e tagliare attraverso una casa vuota.- Folla notturna: <span style="color:#e68632"><strong>Stealth CD 14</strong></span> per perdersi tra vicoli e ombre.- Pozzo/corde: <span style="color:#d64545"><strong>Athletics CD 14</strong></span> per buttare giù un secchio e creare ostacolo.- Intimidire dopo aver ferito il capo: <span style="color:#d6a500"><strong>Intimidation CD 16</strong></span> per aprire una finestra di fuga.
 
 Diego durante la fuga:
 
@@ -687,7 +719,7 @@ Diego:
 
 I player devono pensare che sia colpa sua per aver provocato gente pericolosa.
 
-Clues Summary
+## Riepilogo Indizi
 
 Evento
 
@@ -761,7 +793,7 @@ delirio
 
 deve sembrare solo delirio
 
-Rumore casuale obbligatorio
+> [!note] Rumore casuale obbligatorio
 
 Usa questi dettagli durante la sessione. Non significano nulla.
 
@@ -769,7 +801,7 @@ Usa questi dettagli durante la sessione. Non significano nulla.
 
 Se i player indagano troppo su uno di questi, dai una risposta normale. Non tutto ha un significato.
 
-DM Notes
+> [!note] Note GM
 
 Questa quest deve sembrare una notte stupida diventata pericolosa perché Diego non sa stare zitto. I player non devono sentirsi premiati con verità chiare. Devono sentirsi trascinati in luoghi dove la città è strana, ma non abbastanza da dimostrare nulla.
 

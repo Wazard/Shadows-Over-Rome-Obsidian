@@ -11,438 +11,271 @@ NPCs:
   - "[[Marcia]]"
 source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Pane_prima_del_tramonto.docx"
 ---
-# Bread Before Sunset
+# Pane Prima del Tramonto
 
-## Festival Calendar Context
+> [!motive] Motivo
+> [[Marcia]] chiede ai PG un favore senza paga vera: portare pane e cibo nei bassifondi prima del tramonto. La quest serve a guadagnare la sua fiducia, mostrare che la crisi economica tocca persone reali e mettere i PG davanti a una scelta pratica: legge, corruzione o fame.
 
-## Deeper Investigation Clues
+> [!summary] Riassunto
+> Marcia ha raccolto pane raffermo, focacce secche, legumi, formaggi poveri e medicine base da botteghe amiche. Una pattuglia corrotta blocca la strada con la scusa dell'ordine pubblico e chiede monete, cibo o nomi dei donatori. I PG possono pagare, discutere, mentire, aggirare il blocco o combattere. Il successo non salva Roma: fa cenare una corte dei bassifondi.
 
-| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bread order copied under two merchant ledgers | Linguistics DC 14; Sense Motive DC 15 | Bakery or guild desk | No | [[Larto Vero]], junior guild clerks | Duplicate orders are not mistakes; scarcity is being manufactured | Clerks report the questions to superiors |
+> [!success] Esiti possibili
+> - **Successo pieno:** il carico arriva quasi integro, Marcia si fida di più e i bassifondi riconoscono i PG come persone utili.
+> - **Successo sporco:** il pane arriva, ma tramite tangente, perdita parziale o minacce; le guardie ricordano i PG.
+> - **Fallimento:** il carico viene sequestrato, disperso o arriva troppo tardi.
+> - **Fallimento violento:** ferire gravemente le guardie o creare scandalo trasforma la carità in pretesto per repressione.
 
-- Calendar: [[Day 03]] is Desnus 3, 3608.
-- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
-- Festival use: festival crowds turn bread into both food and symbol; running out before sunset feels like public humiliation.
-- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 03]] |
+| Luogo | Mercato, vie verso i [[Slums]], corte interna dei bassifondi |
+| PNG coinvolti | [[Marcia]], Capoguardia Rutilio, bambini e famiglie dei bassifondi, osservatore anonimo |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Possibile, evitabile, socialmente costoso |
+| Ricompensa | Fiducia di Marcia, favore dei bassifondi, possibile contatto futuro |
 
+## PNG e Colori
 
-## Source Migration
+| PNG | Colore dialogo | Ruolo |
+| --- | --- | --- |
+| <span style="color:#4f6f52"><strong>[[Marcia]]</strong></span> | `#4f6f52` | Guida della distribuzione |
+| <span style="color:#7f5f2a"><strong>Capoguardia Rutilio</strong></span> | `#7f5f2a` | Guardia corrotta, pratica e cinica |
+| <span style="color:#3366cc"><strong>Bambino affamato</strong></span> | `#3366cc` | Pressione morale lungo il tragitto |
+| <span style="color:#6f4a8e"><strong>Bottegaio nervoso</strong></span> | `#6f4a8e` | Donatore spaventato |
+| <span style="color:#8b1e1e"><strong>Guardia corrotta</strong></span> | `#8b1e1e` | Braccio del blocco |
 
-Source file: `phase 1/quests/Day3/Day3_Pane_prima_del_tramonto.docx`
+## Contesto di Calendario
 
-Giorno 3 Quest – Pane prima del tramonto
+> [!note] Festival e fame
+> [[Day 03]] è Desnus 3, 3608. Il Breaching Festival riempie le strade di musica, mercati provvisori e cibo venduto a prezzo alto. Proprio per questo il pane distribuito da Marcia diventa simbolo: chi può comprare festeggia, chi non può comprare guarda gli altri mangiare.
 
-Funzione della quest: questa è una quest di Marcia, quindi non deve avere paga. Serve a far guadagnare fiducia con lei e a mostrare che la crisi economica sta già colpendo persone reali. Non è una quest contro Varro in modo diretto: è una buona azione, leggermente illegale o comunque scomoda, che mette i player davanti a una scelta morale pratica.
+## Aggancio
 
-Il punto è semplice: Marcia ha raccolto pane, focacce secche, legumi e scarti buoni da alcune botteghe amiche. Vuole distribuirli nei bassifondi prima del tramonto, ma alcune guardie corrotte stanno bloccando il passaggio con la scusa dell’ordine pubblico. Lo scontro può avvenire, ma deve essere evitabile tramite dialogo, furbizia o bribery.
+> [!readaloud] Marcia dietro la bottega
+> Marcia sta caricando sacchi di pane e ceste coperte su un piccolo carretto. Non canta. Non sorride. Discute con un garzone che continua a guardarsi alle spalle. Quando vi vede, vi misura in fretta e fa un cenno verso il carico.
 
-Hook
-
-Questa non dovrebbe stare sulla quest board principale. Meglio farla partire da Marcia direttamente, dopo che i player la incontrano in piazza o vicino al mercato.
-
-Possibile aggancio:
-
-Marcia sta caricando sacchi di pane e ceste coperte su un piccolo carretto. Non canta. Non sorride. Sta discutendo con un garzone che continua a guardarsi alle spalle.
-
-Se i player si avvicinano:
-
-"Ah, i milanesi. Perfetto. Avete braccia, gambe e abbastanza faccia da non sembrare subito dei ladri. Mi serve un favore prima del tramonto."
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Ah, i milanesi. Perfetto. Avete braccia, gambe e abbastanza faccia da non sembrare subito dei ladri. Mi serve un favore prima del tramonto."
 
 Se chiedono la paga:
 
-"Paga? Certo. Il sorriso di gente che oggi non andrà a dormire col vuoto nello stomaco. Lo so, pessima moneta. Ma non si svaluta mai."
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Paga? Certo. Il sorriso di gente che oggi non andrà a dormire col vuoto nello stomaco. Lo so, pessima moneta. Ma non si svaluta mai."
 
-Obiettivo percepito
+## Verità per il GM
 
-Portare il carico di pane e cibo raccolto da Marcia fino a una corte nei bassifondi prima del tramonto.
+> [!summary] Premessa reale
+> La carità sta diventando sospetta. Le guardie non sono necessariamente al servizio diretto di [[Gaius Varro]], ma alcune sono già comprate, orientate o abituate a monetizzare ogni passaggio. Il punto della quest non è scoprire un colpevole: è vedere che il controllo sul cibo è diventato controllo sulle persone.
 
-Obiettivo reale
+## Fase 1 - Preparazione con Marcia
 
-Mostrare che la carità sta già diventando un atto sospetto. La città non sta solo diventando più povera: sta diventando più controllata. Le guardie non sono ancora apertamente al servizio di Varro, ma alcune sono già comprate o indirizzate da interessi mercantili.
+> [!description] Carico
+> Il carico è modesto: pane raffermo ma buono, focacce dure, legumi, piccole forme di formaggio economico, due otri d'acqua pulita e una coperta con alcune medicine base. Non basta a risolvere la fame. Basta ad attirare attenzione.
 
-Fase 1 – Preparazione con Marcia
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Non è molto. Ma per chi non ha niente, 'non molto' è ancora una festa."
 
-Scena
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Dobbiamo arrivare prima del tramonto. Dopo, certe strade cambiano proprietario."
 
-Marcia si trova dietro una bottega di pane o in una via laterale del mercato. Il carico è modesto: non abbastanza per risolvere la fame, ma abbastanza da attirare attenzione.
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "E no, non chiedetemi se è tutto autorizzato. Se aspettassi autorizzazioni per fare la cosa giusta, saremmo tutti morti educatamente."
 
-Contenuto:- pane raffermo ma buono;- focacce dure;- sacchetti di legumi;- piccole forme di formaggio economico;- acqua pulita in due otri;- una coperta con dentro alcune medicine base.
+>[!summary] Marcia sa:
+>
+>- alcune famiglie nei bassifondi non mangiano bene da giorni;
+>- una pattuglia ha già bloccato una distribuzione simile;
+>- le guardie chiedono permessi mai richiesti prima;
+>- probabilmente vogliono soldi o parte del carico.
 
-Dialogo di Marcia
+>[!summary] Marcia non sa:
+>
+>- chi abbia ordinato il blocco;
+>- se le guardie lavorino per Aulus, per interessi mercantili o solo per sé stesse;
+>- se qualcuno stia osservando la distribuzione.
 
-"Non è molto. Ma per chi non ha niente, ‘non molto’ è ancora una festa."
+## Fase 2 - Tragitto verso i Bassifondi
 
-"Dobbiamo arrivare prima del tramonto. Dopo, certe strade cambiano proprietario."
+> [!readaloud] Carretto in strada
+> Il carretto cigola tra le strade del mercato. Intorno a voi il festival vende pane speziato, vino dolce e focacce ancora calde. Il vostro carico, invece, è coperto da teli ruvidi. Alcune persone capiscono cosa contiene, ma nessuno lo dice ad alta voce.
 
-"E no, non chiedetemi se è tutto autorizzato. Se aspettassi autorizzazioni per fare la cosa giusta, saremmo tutti morti educatamente."
+Usa 1-2 incontri, non tutti.
 
-Informazioni che può dare
+### Bambino che segue il carretto
 
-Marcia sa:- alcune famiglie nei bassifondi non hanno mangiato bene da giorni;- una pattuglia ha già bloccato una distribuzione simile;- le guardie chiedono permessi che nessuno ha mai chiesto prima;- probabilmente vogliono soldi o una parte del carico.
+<span style="color:#3366cc"><strong>Bambino affamato</strong></span>: "Non sto chiedendo niente. Sto solo andando nella stessa direzione."
 
-Marcia non sa:- chi abbia ordinato il blocco;- se le guardie lavorino per Varro, Aulus o solo per sé stesse;- se qualcuno stia osservando la distribuzione.
+Se i PG danno qualcosa subito:
 
-Fase 2 – Tragitto verso i bassifondi
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Buono. Ma se lo apriamo qui, tra cinque minuti non resterà niente per chi non può correre."
 
-Scena
+### Bottegaio nervoso
 
-Il percorso passa dal mercato verso vicoli più stretti. I player spingono o scortano il carretto. La gente guarda. Alcuni capiscono cosa contiene il carico, ma nessuno lo dice ad alta voce.
+<span style="color:#6f4a8e"><strong>Bottegaio nervoso</strong></span>: "Non davanti alla mia porta. Vi prego. Non oggi."
 
-Piccoli incontri lungo la strada
+<span style="color:#8b5cf6"><strong>Intuizione CD 13</strong></span>: non è crudele. Ha paura di essere associato alla distribuzione.
 
-Usane 1–2, non tutti.
+### Uomo che osserva
 
-1. Bambino che segue il carretto
+> [!clue] Osservatore
+> Un uomo appoggiato a un muro guarda il carretto e poi Marcia, non il pane. Quando capisce di essere stato notato, si allontana.
 
-Un bambino cammina dietro al carro, fingendo di non guardare.
+| Prova | Risultato |
+| --- | --- |
+| <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | Non guarda il pane, guarda Marcia |
+| <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Sembra riconoscerla e voler riferire a qualcuno |
 
-"Non sto chiedendo niente. Sto solo andando nella stessa direzione."
+Non deve diventare inseguimento principale. Serve a far capire che Marcia è già notata.
 
-Se i player gli danno qualcosa subito, Marcia non li ferma, ma dice:
+## Fase 3 - Blocco delle Guardie Corrotte
 
-"Buono. Ma se lo apriamo qui, tra cinque minuti non resterà niente per chi non può correre."
+> [!readaloud] Incrocio bloccato
+> A un incrocio stretto prima dei bassifondi, due guardie tengono il centro della strada e una terza resta vicino al muro, abbastanza lontana da sembrare casuale. Non hanno l'aria di eroi della legge. Hanno l'aria di uomini che sanno quanto può valere un passaggio quando qualcuno ha fretta.
 
-2. Bottegaio nervoso
+<span style="color:#7f5f2a"><strong>Capoguardia Rutilio</strong></span>: "Fermi. Distribuzione non autorizzata."
 
-Un bottegaio abbassa la serranda quando vede il carretto.
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "È pane, Rutilio."
 
-"Non davanti alla mia porta. Vi prego. Non oggi."
+<span style="color:#7f5f2a"><strong>Capoguardia Rutilio</strong></span>: "Appunto. Merce alimentare in movimento. Serve autorizzazione."
 
-Sense Motive CD 13: non è crudele. Ha paura di essere associato alla distribuzione.
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Da quando?"
 
-3. Uomo che osserva
+<span style="color:#7f5f2a"><strong>Capoguardia Rutilio</strong></span>: "Da quando la città ha iniziato ad andare a pezzi."
 
-Un uomo appoggiato a un muro guarda il carretto e poi si allontana.
+>[!summary] Le guardie vogliono una di queste cose:
+>
+>- 5-10 monete d'argento;
+>- una parte del carico;
+>- il nome delle botteghe che hanno donato il cibo.
 
-Perception CD 14: non guarda il pane, guarda Marcia.
+Il terzo punto è il più pericoloso.
 
-Sense Motive CD 15: sembra riconoscerla e voler riferire a qualcuno.
+<span style="color:#8b1e1e"><strong>Guardia corrotta</strong></span>: "Nessuno vi impedisce di fare carità. Vi chiediamo solo di farla in modo ordinato."
 
-Non deve diventare inseguimento principale. Serve solo a far capire che Marcia è già notata.
+<span style="color:#8b1e1e"><strong>Guardia corrotta</strong></span>: "Lasciate due sacchi e passate. Così siamo tutti contenti."
 
-Fase 3 – Blocco delle guardie corrotte
+<span style="color:#8b1e1e"><strong>Guardia corrotta</strong></span>: "Oppure torniamo al mercato e chiediamo bottega per bottega chi vi ha dato questa roba."
 
-Scena
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Io posso cantare contro un uomo corrotto. Ma non posso sfamare la gente con una canzone se voi vi fate arrestare."
 
-A un incrocio prima dei bassifondi, due o tre guardie bloccano la strada. Non sono guardie d’élite: sono guardie cittadine comuni, stanche, ciniche e abituate a piccoli abusi. Hanno scelto un punto stretto dove il carretto non può passare facilmente.
+## Soluzioni al Blocco
 
-NPC – Capoguardia Rutilio
+| Approccio | CD | Esito |
+| --- | --- | --- |
+| Tangente normale | <span style="color:#d6a500"><strong>Diplomazia CD 12</strong></span> + 5-10 ma | Passano senza problemi |
+| Tangente bassa | <span style="color:#d6a500"><strong>Diplomazia CD 15</strong></span> | Passano, ma vengono insultati |
+| Sacchetto rumoroso con poche monete | <span style="color:#e68632"><strong>Rapidità di Mano CD 14</strong></span> | Sembra una tangente migliore |
+| Convincere senza pagare | <span style="color:#d6a500"><strong>Diplomazia CD 17</strong></span> | Passano, ma Rutilio li ricorderà |
+| Intimidire | <span style="color:#d6a500"><strong>Intimidire CD 15</strong></span> | Le guardie si spostano, rapporti peggiori |
+| Fingere consegna privata o offerta religiosa | <span style="color:#d6a500"><strong>Raggirare CD 15</strong></span> | Le guardie esitano e lasciano passare |
+| Nota improvvisata | <span style="color:#2f9ed8"><strong>Linguistica CD 14</strong></span> | Il falso documento regge a una lettura rapida |
+| Passaggio alternativo | <span style="color:#2f9ed8"><strong>Conoscenze locali CD 13</strong></span> | Trovano un vicolo utile |
+| Sollevare il carretto in un passaggio rotto | <span style="color:#d64545"><strong>Atletica CD 12</strong></span> | Arrivano più tardi ma senza pagare |
+| Passare senza farsi notare | <span style="color:#e68632"><strong>Furtività CD 14</strong></span> | Evitano il blocco; fallire li mette in posizione peggiore |
 
-Uomo sulla quarantina, pancia leggera, barba corta, aria da “ho visto troppo e mi sono venduto per poco”. Non è un mostro. È corrotto, pratico e convinto che tutti lo siano.
+Se i PG pagano:
 
-Dialogo iniziale:
+<span style="color:#7f5f2a"><strong>Capoguardia Rutilio</strong></span>: "Vedete? La legge funziona meglio quando tutti collaborano."
 
-"Fermi. Distribuzione non autorizzata."
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "A volte per fare passare il pane devi ungere la porta. Non significa che la porta sia giusta."
 
-Marcia:
+## Combattimento Possibile
 
-"È pane, Rutilio."
+> [!danger] Rissa sporca
+> Lo scontro parte solo se i PG attaccano, falliscono intimidazione in modo aggressivo, le guardie cercano di sequestrare tutto o Marcia viene afferrata.
 
-Rutilio:
+Nemici: 2 guardie corrotte + Capoguardia Rutilio; possibile rinforzo dopo 3 round se fanno troppo rumore.
 
-"Appunto. Merce alimentare in movimento. Serve autorizzazione."
+>[!summary] Tono:
+>
+>- non è eroico;
+>- la gente guarda dalle finestre;
+>- le guardie non vogliono morire per pane;
+>- se i PG massacrano le guardie, Marcia prende le distanze.
 
-Marcia:
+<span style="color:#8b1e1e"><strong>Guardia corrotta</strong></span>: "È solo pane, idioti!"
 
-"Da quando?"
+<span style="color:#7f5f2a"><strong>Capoguardia Rutilio</strong></span>: "Prendete il carretto!"
 
-Rutilio:
+Se una guardia sta perdendo:
 
-"Da quando la città ha iniziato ad andare a pezzi."
+<span style="color:#8b1e1e"><strong>Guardia corrotta</strong></span>: "Ci avevano detto solo di fermarla, non di morire!"
 
-Richiesta reale
+> [!clue] Indizio in combattimento
+> Questa frase indica che qualcuno voleva bloccare Marcia o controllare la distribuzione. Non dice chi.
 
-Le guardie vogliono:- una tangente in monete;- oppure una parte del carico;- oppure il nome di chi ha donato il pane.
+## Fase 4 - Arrivo nei Bassifondi
 
-Il terzo punto è il più pericoloso, perché mette pressione sui bottegai che aiutano Marcia.
+> [!readaloud] Corte interna
+> Quando il carretto entra nella corte, nessuno applaude. Nessuno urla. Le persone guardano prima Marcia, poi voi, poi il pane. Come se avessero paura che guardarlo troppo lo faccia sparire.
 
-Frasi delle guardie
+>[!summary] Marcia distribuisce con ordine:
+>
+>- prima bambini;
+>- poi anziani;
+>- poi famiglie;
+>- poi lavoratori.
 
-"Nessuno vi impedisce di fare carità. Vi chiediamo solo di farla in modo ordinato."
+| Azione | CD | Effetto |
+| --- | --- | --- |
+| Tenere ordine nella fila | <span style="color:#d6a500"><strong>Diplomazia CD 12</strong></span> | Nessuno viene schiacciato o scavalcato |
+| Notare chi è troppo debole per mettersi in fila | <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> | Il cibo arriva a chi ne ha più bisogno |
+| Individuare urgenze mediche | <span style="color:#8b5cf6"><strong>Guarire/Medicine CD 12</strong></span> | Le medicine vengono usate bene |
 
-"Lasciate due sacchi e passate. Così siamo tutti contenti."
+Momento umano:
 
-"Oppure torniamo al mercato e chiediamo bottega per bottega chi vi ha dato questa roba."
+<span style="color:#6f4a8e"><strong>Donna anziana</strong></span>: "Dite alla cantante che oggi il piccolo dorme."
 
-Reazione di Marcia
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "No. Ditegli che domani canterà lui."
 
-Marcia vorrebbe sfidarli, ma sa che una rissa può rovinare tutto.
+## Indizi
 
-"Io posso cantare contro un uomo corrotto. Ma non posso sfamare la gente con una canzone se voi vi fate arrestare."
+| Indizio | CD | Dove | PNG coinvolti | Cosa sembra | Cosa implica | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bottegaio spaventato | <span style="color:#8b5cf6"><strong>Intuizione CD 13</strong></span> | Tragitto dal mercato | Bottegaio nervoso | Paura privata | Aiutare Marcia è già rischioso | Nominarlo mette a rischio i donatori |
+| Uomo che osserva Marcia | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> o <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Via laterale | Osservatore anonimo | Curioso | Qualcuno tiene d'occhio le distribuzioni | Seguirlo può far perdere tempo |
+| Permesso nuovo richiesto | Nessuna | Blocco guardie | Rutilio | Burocrazia | Controllo informale sul cibo | Accettarlo normalizza l'abuso |
+| Tangente richiesta | Nessuna | Blocco guardie | Rutilio | Corruzione comune | Accesso al cibo monetizzato | Pagare risolve ma sporca |
+| "Ci avevano detto di fermarla" | Fight | Blocco guardie | Guardia corrotta | Panico | Marcia è già considerata scomoda | Farlo pubblico attira attenzioni |
+| Folla ordinata nei bassifondi | Nessuna | Corte interna | Marcia, famiglie | Rispetto locale | Marcia ha influenza reale | Può renderla bersaglio |
 
-Questo è importante: non deve spingere i player al fight. Deve lasciare scelta.
+## Esiti
 
-Fase 4 – Soluzioni possibili
+### Successo pieno
 
-1. Bribery
+> [!success] Pane arrivato
+> Il pane arriva quasi tutto. Marcia guadagna fiducia nei PG. I bassifondi li riconoscono come quelli che hanno aiutato col carretto.
 
-La soluzione più pragmatica. Non è moralmente pulita, ma funziona.
+### Successo sporco
 
-Costo consigliato: 5–10 monete d’argento, oppure una piccola parte del carico. Abbastanza da essere fastidioso, non devastante.
+> [!warning] Pane a prezzo morale
+> Il pane arriva, ma con tangente, minacce o perdita parziale. Marcia apprezza il risultato ma nota il metodo. Rutilio può tornare come fastidio o informatore comprabile.
 
-Diplomacy CD 12 + tangente: passano senza problemi.
+### Fallimento
 
-Diplomacy CD 15 + tangente bassa: passano, ma le guardie li insultano.
+> [!warning] Fame invariata
+> Il pane non arriva o arriva troppo poco. Se i PG hanno provato davvero, Marcia rispetta il tentativo. Se hanno mollato presto, non li considera adatti alle strade dove la gente ha bisogno.
 
-Sleight of Hand CD 14: possono far sembrare la tangente più alta di quanto sia, usando un sacchetto rumoroso ma con poche monete.
+### Fallimento violento
 
-Rutilio, prendendo la tangente:
+> [!danger] Repressione futura
+> Guardie ferite gravemente, morti o scandalo pubblico permettono alla città di parlare dei PG come agitatori e della carità non autorizzata come disordine.
 
-"Vedete? La legge funziona meglio quando tutti collaborano."
+## Chiusura con Marcia
 
-Marcia dopo:
+Se i PG hanno aiutato senza chiedere ricompensa:
 
-"A volte per fare passare il pane devi ungere la porta. Non significa che la porta sia giusta."
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Non siete venuti qui per sembrare buoni. Questa è una differenza che noto."
 
-2. Diplomazia senza pagare
+Se hanno pagato una tangente:
 
-Difficile, ma possibile.
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Non mi piace pagare uomini così. Ma stasera il pane è arrivato. Domani penseremo a chi ha messo il prezzo sulla strada."
 
-Diplomacy CD 17:
+Se hanno ferito gravemente le guardie:
 
-Successo: convincono le guardie che fermare il pane davanti a testimoni creerebbe più problemi che lasciarlo passare.
+<span style="color:#4f6f52"><strong>[[Marcia]]</strong></span>: "Non confondete giustizia e sfogo. Una serve agli affamati. L'altro serve a voi."
 
-Argomenti utili:- la folla potrebbe arrabbiarsi;- non è vendita, è carità;- bloccare cibo farà cattiva impressione;- Marcia può cantare la storia in piazza.
+## Note GM
 
-Rutilio:
+> [!note] Funzione della quest
+> Non rendere questa quest epica. È pane che deve arrivare prima del tramonto. Proprio per questo funziona: porta la crisi su scala umana.
 
-"Passate. Ma oggi ho memoria corta. Domani potrei averla lunga."
+La tangente è una soluzione valida, non un fallimento morale totale. In una città corrotta, a volte pagare una guardia è il modo più rapido per salvare chi ha fame. Però deve lasciare un sapore brutto.
 
-3. Intimidazione
-
-Funziona, ma peggiora il rapporto con le guardie.
-
-Intimidation CD 15:
-
-Successo: le guardie si fanno da parte, ma si ricordano dei player.
-
-Fallimento: le guardie chiamano rinforzi o mettono mano alle armi.
-
-Marcia non approva del tutto:
-
-"Spaventare uomini corrotti è facile. Il difficile è non diventare la cosa che li sostituisce."
-
-4. Inganno
-
-I player possono far passare il carico come:- consegna privata;- offerta religiosa;- scarti non commerciabili;- materiale per una taverna.
-
-Bluff/Deception CD 15:
-
-Successo: le guardie esitano e lasciano passare.
-
-Con prova creativa o documenti falsi:
-
-Linguistics CD 14 per improvvisare una nota credibile.
-
-Sleight of Hand CD 13 per mostrare un sigillo o una carta senza farla leggere davvero.
-
-5. Passaggio alternativo
-
-I player possono evitare il blocco passando da un vicolo stretto.
-
-Knowledge Local CD 13 o chiedere a un bambino dei vicoli.
-
-Athletics CD 12 per sollevare il carretto su un gradino o passaggio rotto.
-
-Stealth CD 14 per non attirare le guardie.
-
-Conseguenza: arrivano più tardi, ma senza pagare.
-
-Se falliscono: le guardie li intercettano in posizione peggiore.
-
-6. Combattimento
-
-Il fight parte se:- i player attaccano;- falliscono intimidazione in modo aggressivo;- le guardie cercano di sequestrare tutto;- Marcia viene afferrata o insultata pesantemente.
-
-Nemici:- 2 guardie corrotte;- 1 capoguardia Rutilio;- possibile rinforzo dopo 3 round se fanno troppo rumore.
-
-Tono:- non è eroico;- è una rissa sporca in strada;- la gente guarda dalle finestre;- se i player massacrano le guardie, Marcia si preoccupa.
-
-Dialoghi durante il fight:
-
-"È solo pane, idioti!"
-
-"Prendete il carretto!"
-
-"Non valgono una denuncia!"
-
-Se le guardie stanno perdendo, una può gridare:
-
-"Ci avevano detto solo di fermarla, non di morire!"
-
-Questo è un indizio utile: qualcuno voleva bloccare Marcia o controllare la distribuzione.
-
-Fase 5 – Arrivo nei bassifondi
-
-Scena
-
-Se superano il blocco, arrivano in una corte interna dei bassifondi. Le case sono strette, umide, troppo vicine. La gente non si ammassa subito: aspetta il cenno di Marcia. Questo mostra che lei è rispettata.
-
-Descrizione: quando il carretto entra nella corte, nessuno applaude. Nessuno urla. Le persone guardano prima Marcia, poi voi, poi il pane. Come se avessero paura che guardarlo troppo lo faccia sparire.
-
-Distribuzione
-
-Marcia organizza la distribuzione con calma:- prima bambini;- poi anziani;- poi famiglie;- poi lavoratori.
-
-Se i player aiutano bene:
-
-Diplomacy CD 12 per tenere ordine.
-
-Perception CD 13 per notare qualcuno troppo debole per mettersi in fila.
-
-Heal/Medicine CD 12 per individuare chi ha bisogno più urgente.
-
-Momento umano
-
-Una donna anziana prende mezza pagnotta e dice:
-
-"Dite alla cantante che oggi il piccolo dorme."
-
-Marcia risponde piano:
-
-"No. Ditegli che domani canterà lui."
-
-Questo deve essere il premio emotivo della quest.
-
-Fase 6 – Chiusura con Marcia
-
-Se i player hanno aiutato senza chiedere ricompensa
-
-Marcia li guarda diversamente. Meno ironia, più fiducia.
-
-"Non siete venuti qui per sembrare buoni. Questa è una differenza che noto."
-
-Oppure:
-
-"Molti aiutano quando la folla guarda. Voi avete aiutato quando la folla aveva fame. Vale di più."
-
-Se hanno pagato la tangente
-
-Marcia non li giudica troppo, se l’hanno fatto per far passare il cibo.
-
-"Non mi piace pagare uomini così. Ma stasera il pane è arrivato. Domani penseremo a chi ha messo il prezzo sulla strada."
-
-Se hanno combattuto
-
-Valuta come hanno combattuto.
-
-Se hanno usato forza moderata:
-
-"Avete fatto rumore. Ma almeno il pane è arrivato."
-
-Se hanno ferito gravemente o umiliato le guardie:
-
-"Non confondete giustizia e sfogo. Una serve agli affamati. L’altro serve a voi."
-
-Se hanno fallito
-
-Se il carico viene sequestrato o disperso, Marcia è delusa ma non teatrale.
-
-"La fame non aspetta il nostro prossimo tentativo."
-
-Se i player hanno provato davvero:
-
-"Avete fatto quello che potevate. Non sempre basta. Ricordatevelo."
-
-Se hanno mollato presto:
-
-"Non tutti sono fatti per le strade dove la gente ha bisogno."
-
-Esiti
-
-Successo pieno
-
-Il pane arriva quasi tutto. Marcia guadagna fiducia nei player. I bassifondi li riconoscono come quelli che hanno aiutato col carretto.
-
-Effetto:- + fiducia Marcia;- piccoli NPC dei bassifondi più disponibili;- una futura testimonianza può arrivare più facilmente.
-
-Successo sporco
-
-Il pane arriva, ma con tangente, minacce o perdita parziale.
-
-Effetto:- + fiducia Marcia moderata;- le guardie corrotte ricordano i player;- Rutilio può tornare come fastidio o informatore comprabile.
-
-Fallimento
-
-Il pane non arriva o arriva troppo poco.
-
-Effetto:- Marcia non si fida di più, ma può rispettare il tentativo;- la situazione nei bassifondi peggiora leggermente;- se i player hanno peggiorato la scena, Marcia li giudica.
-
-Fallimento violento
-
-Le guardie vengono ferite gravemente, muore qualcuno o la scena diventa pubblica.
-
-Effetto:- Marcia prende distanza;- la città può iniziare a parlare dei player come agitatori;- il governo può usare l’episodio come prova che la carità non autorizzata crea disordine.
-
-Clues Summary
-
-Indizio
-
-CD
-
-Cosa sembra
-
-Cosa implica
-
-Bottegaio spaventato
-
-13
-
-paura di problemi
-
-aiutare Marcia è già rischioso
-
-Uomo che osserva Marcia
-
-14–15
-
-curioso
-
-qualcuno tiene d’occhio le distribuzioni
-
-Guardie chiedono permesso nuovo
-
-nessuna
-
-burocrazia
-
-controllo informale sul cibo
-
-Tangente richiesta
-
-nessuna
-
-corruzione comune
-
-accesso al cibo monetizzato
-
-Ci avevano detto di fermarla
-
-fight
-
-guardie comprate
-
-Marcia è già considerata scomoda
-
-Folla ordinata nei bassifondi
-
-nessuna
-
-rispetto per Marcia
-
-lei ha influenza reale
-
-DM Notes
-
-Non rendere questa quest troppo epica. È pane che deve arrivare prima del tramonto. Proprio per questo funziona: porta la crisi su scala umana. Il player non sta salvando Roma, sta aiutando una corte a cenare.
-
-Le guardie corrotte non devono sembrare boss. Sono sintomo del sistema: gente mediocre che usa una crisi per guadagnare o obbedisce a chi paga meglio.
-
-La bribery deve essere una soluzione valida, non un fallimento morale totale. In una città corrotta, a volte pagare una guardia è il modo più rapido per salvare chi ha fame. Però deve lasciare un sapore brutto.
-
-Marcia deve giudicare soprattutto l’intenzione e il metodo. Non pretende purezza. Pretende che i player non si divertano a schiacciare chi è più debole.
-
-Feeling finale:
-
-"Non abbiamo cambiato Roma. Ma stasera qualcuno mangia."
+> [!summary] Sensazione finale
+> Non abbiamo cambiato Roma. Ma stasera qualcuno mangia.

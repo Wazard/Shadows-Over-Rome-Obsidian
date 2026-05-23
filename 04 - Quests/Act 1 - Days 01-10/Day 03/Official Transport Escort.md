@@ -12,594 +12,326 @@ NPCs:
   - "[[Tarlo]]"
 source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Escort_Required_Official_Transport.docx"
 ---
-# Official Transport Escort
+# Scorta a Trasporto Ufficiale
 
-## Festival Calendar Context
+> [!motive] Motivo
+> [[Marcus Livius]] offre una paga alta per scortare un trasporto mercantile autorizzato attraverso più distretti e oltre il Cancello Nord. Per i PG è un lavoro redditizio, apparentemente legale e abbastanza importante da introdurli a circuiti di potere che normalmente non vedrebbero.
 
-## Deeper Investigation Clues
+> [!summary] Riassunto
+> Questa è la quest principale del Giorno 3 e la prima apparizione diretta di [[Gaius Varro]]. Deve sembrare una scorta amministrativa noiosa ma ben pagata: dentro la città tutto fila troppo liscio, fuori dalle mura arriva un assalto simulato. Il vero scopo di Varro è introdurre monete false, consegnare documenti al governo, muovere merci extra e far perdere una parte selezionata del carico fuori città.
 
-| Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
-| --- | --- | --- | --- | --- | --- | --- |
-| Unregistered delivery permit with blurred noble-house seal | Perception DC 15; Knowledge Nobility DC 18 | Caravan staging lane | No at first; guards intervene if stolen | [[Erca Corrivia]], gate clerks, merchant porters | A noble patron benefits from temporary festival permits | A bad copy points to the wrong noble house |
+> [!success] Esiti possibili
+> - **Successo pieno apparente:** il trasporto si completa, Marcus paga e i PG vedono Varro come figura potente e ragionevole.
+> - **Successo investigativo:** i PG notano monete false, passaggi troppo facili, cassa governativa e assalto selettivo.
+> - **Fallimento controllato:** parte del carico viene persa come previsto dal piano.
+> - **Fallimento imprevisto per Varro:** i PG salvano il carico, intercettano briganti o impediscono la diffusione delle monete false; Aulus dovrà compensare più avanti.
 
-- Calendar: [[Day 03]] is Desnus 3, 3608.
-- Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
-- Festival use: official traffic competes with processions, performers, pilgrims, and caravan wagons.
-- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 03]] |
+| Luogo | Distretto mercantile, distretto nobiliare, magione di Varro, tempio di Sarenrae, palazzo governativo, Cancello Nord, campo fuori mura |
+| PNG coinvolti | [[Marcus Livius]], [[Gaius Varro]], [[Lucius Livius]] indiretto, guardie, folla, chierici, briganti pagati |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Probabile fuori mura; evitabile o breve in città |
+| Ricompensa | Paga alta, possibile benedizione, molti indizi sulla rete di Varro |
 
+## PNG e Colori
 
-## Source Migration
+| PNG | Colore dialogo | Ruolo |
+| --- | --- | --- |
+| <span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span> | `#b08900` | Incaricato del carico |
+| <span style="color:#4f6f52"><strong>[[Gaius Varro]]</strong></span> | `#4f6f52` | Potere dietro il trasporto |
+| <span style="color:#7f5f2a"><strong>Guardia</strong></span> | `#7f5f2a` | Controlli cittadini già allineati |
+| <span style="color:#6f4a8e"><strong>Folla</strong></span> | `#6f4a8e` | Rabbia sociale fuori dal distretto nobiliare |
+| <span style="color:#2f7fb8"><strong>Oracolo di Sarenrae</strong></span> | `#2f7fb8` | Pressione sacra/sociale al tempio |
+| <span style="color:#8b1e1e"><strong>Capo brigante</strong></span> | `#8b1e1e` | Assalto simulato fuori mura |
 
-Source file: `phase 1/quests/Day3/Day3_Escort_Required_Official_Transport.docx`
+## Contesto di Calendario
 
-Giorno 3 Quest – Escort Required: Official Transport
+> [!note] Festival e traffico ufficiale
+> [[Day 03]] è Desnus 3, 3608. Processioni, performer, pellegrini, carri di carovane e mercanti temporanei intasano la città. Un trasporto ufficiale che passa senza ostacoli in mezzo a questo caos deve sembrare comodo, poi sospetto.
 
-Funzione della quest: questa è la quest principale del Giorno 3 e la prima apparizione diretta di [[Gaius Varro|Varro]]. Deve sembrare una scorta amministrativa noiosa ma ben pagata, con un tragitto stranamente agevole dentro la città e un assalto casuale fuori dalle mura. Il vero obiettivo di Varro è triplo: introdurre monete false nel mercato, far arrivare documenti al palazzo governativo, caricare merci extra nei magazzini e far perdere parte del carico fuori città tramite un assalto simulato. I player devono chiedersi: “Perché ci hanno assunti dall’inizio se in città tutto fila così liscio?”
+## Testo per la Bacheca
 
-Hook sulla Quest Board
+> [!readaloud] Bacheca degli incarichi
+> **Scorta richiesta - trasporto ufficiale**
+>
+> Si richiedono guardie affidabili per accompagnare un trasporto mercantile autorizzato attraverso più distretti cittadini e oltre il Cancello Nord. Pagamento alto a consegna completata. Discrezione richiesta.
+>
+> Postata da: [[Marcus Livius]], incaricato del carico.
 
-Escort required – official transport
-
-Si richiedono guardie affidabili per accompagnare un trasporto mercantile autorizzato attraverso più distretti cittadini e oltre il Cancello Nord. Pagamento alto a consegna completata. Discrezione richiesta.
-
-Postata da: [[Marcus Livius]], incaricato del carico.
-
-Pagamento: alto.
-
-Durata: giornata intera + notte fuori mura.
-
+Pagamento: alto.  
+Durata: giornata intera + notte fuori mura.  
 Tono: formale, ordinato, troppo liscio.
 
-Fase 1 – Presa in carico nel distretto mercantile
+## Verità per il GM
 
-Scena iniziale
+> [!summary] Piano reale
+> Varro usa una scorta esterna per dare credibilità a un trasporto già protetto. In città nessuno lo ostacolerà davvero; la scorta serve a testimoniare normalità e a rendere plausibile l'assalto fuori mura. Le monete false devono entrare in circolo, i documenti arrivare al governo e alcuni sacchi sparire nel posto giusto.
 
-I player arrivano nel distretto mercantile. Qui tutto è più controllato rispetto al porto: meno caos, più registri, più facchini autorizzati, più gente che guarda le mani degli altri. Marcus Livius li aspetta con una lista cerata e una tavoletta di carico.
+> [!warning] Domanda da far nascere
+> Perché li hanno assunti dall'inizio se dentro la città tutto fila così liscio?
 
-NPC – Marcus Livius
+## Fase 1 - Presa in Carico
 
-Fratello di Lucius Livius, mercante comune ma ben inserito. È educato, nervoso in modo controllato, molto attento ai dettagli. Non sembra un criminale: sembra uno che ha paura di sbagliare davanti a persone più importanti.
+> [!readaloud] Distretto mercantile
+> Il distretto mercantile è più controllato del porto: meno urla, più registri, più facchini autorizzati, più persone che guardano le mani degli altri. Marcus Livius vi aspetta con una lista cerata e una tavoletta di carico. Non sembra un criminale. Sembra uno che teme di sbagliare davanti a persone più importanti.
 
-Dialoghi:
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Il lavoro è semplice: accompagnare il carro, aiutare con i carichi, non fare domande inutili."
 
-"Il lavoro è semplice: accompagnare il carro, aiutare con i carichi, non fare domande inutili."
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Attraverseremo zone dove un trasporto senza guardie farebbe cattiva impressione."
 
-"Attraverseremo zone dove un trasporto senza guardie farebbe cattiva impressione."
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Non siete qui per combattere. Siete qui perché tutto resti ordinato."
 
-"Non siete qui per combattere. Siete qui perché tutto resti ordinato."
+>[!summary] Carico previsto:
+>
+>- grano, leggermente più del solito;
+>- attrezzi da giardino per il tempio di Sarenrae;
+>- metalli lavorati per il tempio;
+>- riso, ufficialmente destinato a scorte extra fuori città;
+>- una cassa già caricata, chiusa e marchiata;
+>- più avanti, una cassa sigillata di Varro per il palazzo governativo;
+>- più avanti, un sacchetto di monete d'oro false.
 
-Lista del carico
+| Indizio | CD | Risultato |
+| --- | --- | --- |
+| Lista troppo precisa | <span style="color:#2f9ed8"><strong>Linguistica o Conoscenze locali CD 13</strong></span> | Sembra una sequenza di autorizzazioni |
+| Grano e riso anomali | <span style="color:#2f9ed8"><strong>Professione mercante CD 14</strong></span> | Quantità perfette da perdere in modo utile |
+| Cassa già caricata | <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> | Marcus non chiede mai ai PG di toccarla |
+| Carboncino sotto la cassa | <span style="color:#8b5cf6"><strong>Percezione CD 17</strong></span> o <span style="color:#2f9ed8"><strong>Investigazione CD 19</strong></span> | Traccia parziale, forse solo sporco o segno da magazzino |
+| Magazzino già preparato | <span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span> | Parte del carico era pronta prima del loro arrivo |
+| Marcus troppo attento alla lista | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | È preoccupato che l'ordine venga rispettato |
 
-Marcus consegna ai player una lista. Devono aiutarlo a trovare e caricare le merci corrette nei magazzini.
+## Fase 2 - Attraversare la Città
 
-Carico previsto:- grano, leggermente più del solito;- attrezzi da giardino, destinati al tempio di Sarenrae;- metalli lavorati, destinati al tempio;- riso, ufficialmente destinato a scorte extra fuori città;- una cassa già caricata prima del loro arrivo, chiusa e marchiata con sigillo mercantile; sotto la cassa, se spostata o controllata con attenzione, c’è un segno a carboncino molto debole.
+> [!description] Tragitto liscio
+> La carovana parte dai magazzini. I facchini si spostano, i carri fanno spazio, le guardie guardano i sigilli e lasciano passare. Il festival è caotico per tutti, tranne che per questo carro.
 
-Indizi nella fase di carico
+Al distretto nobiliare:
 
-1. Lista troppo precisa
+<span style="color:#7f5f2a"><strong>Guardia</strong></span>: "Sigillo visto. Proseguite."
 
-Linguistics / Professione mercante / Knowledge local CD 13:
+Se chiedono perché non controlla:
 
-La lista non è scritta come una normale lista di consegna. È più simile a una sequenza di autorizzazioni: ogni carico ha una destinazione e un ordine preciso.
-
-2. Grano e riso in quantità anomala
-
-Professione mercante / Knowledge local CD 14:
-
-La quantità di grano è leggermente superiore a quella che servirebbe per una consegna ordinaria. Il riso, invece, è abbastanza raro da non essere un carico casuale da perdere lungo strada.
-
-3. Cassa già caricata
-
-Perception CD 13:
-
-Una cassa è già sul carro prima che i player inizino il lavoro. Marcus la tratta come se fosse parte normale della consegna, ma non chiede mai ai player di toccarla.
-
-4. Sigillo mercantile e carboncino
-
-Perception CD 17:
-
-Il sigillo sulla cassa è marchiato a fuoco, normale. Però sotto un bordo, quasi nascosto dal legno del carro, c’è una traccia debole di carboncino.
-
-Investigation CD 19:
-
-La traccia potrebbe essere ciò che resta di un simbolo disegnato, ma è troppo parziale per capirlo.
-
-Importante: Qui deve sembrare sporco, nota di scarico o segno da magazzino.
-
-5. Magazzino corretto
-
-Per ogni carico, i player possono usare prove per trovare il magazzino corretto.
-
-Knowledge local / Diplomacy con facchini CD 12: trovano il magazzino giusto.
-
-Investigation CD 14: capiscono se il carico è già stato preparato prima del loro arrivo.
-
-Sense Motive CD 15 su Marcus: è sinceramente preoccupato che la lista venga rispettata, non improvvisa.
-
-Fase 2 – Partenza verso il distretto nobiliare
-
-Tragitto: distretto dei magazzini → distretto nobiliare
-
-La carovana parte dai magazzini. Durante il tragitto tutto fila stranamente bene: i facchini si spostano, i carri fanno spazio, le guardie guardano i sigilli e lasciano passare.
-
-Controllo al distretto nobiliare
-
-Per entrare nel distretto nobiliare, solitamente i carichi vengono controllati. Questa volta no. Basta mostrare il sigillo.
-
-Personaggio con background nobiliare: sa automaticamente che questo è insolito.
-
-Knowledge Nobility / Local CD 14: normalmente i carichi vengono almeno ispezionati superficialmente.
-
-Sense Motive CD 15 su una guardia: la guardia non è rilassata; sta seguendo un ordine già ricevuto.
-
-Dialogo guardia:
-
-"Sigillo visto. Proseguite."
-
-Se i player chiedono perché non controlla:
-
-"Non serve."
+<span style="color:#7f5f2a"><strong>Guardia</strong></span>: "Non serve."
 
 Se insistono:
 
-"Ho detto che non serve."
+<span style="color:#7f5f2a"><strong>Guardia</strong></span>: "Ho detto che non serve."
 
-Descrizione del distretto nobiliare
+| Prova | CD | Risultato |
+| --- | --- | --- |
+| Conoscere controlli nobiliari | <span style="color:#2f9ed8"><strong>Conoscenze nobiliari/locali CD 14</strong></span> | Normalmente almeno un controllo superficiale avviene |
+| Leggere la guardia | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Sta seguendo un ordine già ricevuto |
 
-Appena superate il varco, Roma cambia volto. Le strade sono più larghe, pulite, lastricate con pietra chiara. L’acqua scorre in canali ordinati, piccole fontane decorano gli incroci e gli alberi gettano ombra su muri alti e ville in pietra. Vedete pozzi privati, giardini interni, statue lucidate e perfino un piccolo teatro con colonne chiare. Qui il rumore del porto sembra lontano, quasi volgare. La città che fuori suda e contratta, qui respira piano.
+## Fase 3 - Prima Apparizione di Varro
 
-Fase 3 – Prima apparizione di Varro
+> [!readaloud] Magione di Varro
+> La casa non è solo ricca: è controllata. Le siepi sono tagliate alla stessa altezza, la ghiaia è rastrellata, le guardie non parlano tra loro. Alle finestre vedete vetro vero, spesso e leggermente ondulato, un lusso che molti templi non potrebbero permettersi. Nulla è fuori posto.
 
-Magione di Varro
+> [!description] Varro
+> L'uomo che vi raggiunge è vestito con sobrietà costosa. Nessun gioiello inutile, nessun colore urlato. Ogni dettaglio sembra scelto per dire la stessa cosa: controllo. Ha lo sguardo di qualcuno abituato a essere ascoltato senza alzare la voce.
 
-La carovana si ferma davanti a una magione ampia, in pietra chiara, con dettagli in metallo lucidato e vetri alle finestre. Il vetro deve colpire: è raro, costoso, quasi arrogante.
+<span style="color:#4f6f52"><strong>[[Gaius Varro]]</strong></span>: "Marcus. Puntuale. Apprezzo la puntualità quando il resto della città sembra averla dimenticata."
 
-Descrizione: la casa non è solo ricca: è controllata. Le siepi sono tagliate alla stessa altezza, la ghiaia è rastrellata, le guardie non parlano tra loro. Alle finestre vedete vetro vero, spesso e leggermente ondulato, un lusso che molti templi non potrebbero permettersi. Nulla è fuori posto.
+<span style="color:#4f6f52"><strong>[[Gaius Varro]]</strong></span>: "Venite da Milano, mi dicono. Una città che comprende il valore delle rotte, almeno quando non si perde nella propria superbia."
 
-Varro
+Se rispondono bene:
 
-Varro esce o riceve Marcus nel cortile. Non deve sembrare villain. Deve sembrare una risposta alla crisi.
-
-Descrizione: l’uomo che vi raggiunge è vestito con sobrietà costosa. Nessun gioiello inutile, nessun colore urlato. Ogni dettaglio sembra scelto per dire la stessa cosa: controllo. Ha lo sguardo di qualcuno abituato a essere ascoltato senza alzare la voce.
-
-Conversazione breve
-
-Varro parla prima a Marcus, poi nota i player.
-
-Varro:
-
-"Marcus. Puntuale. Apprezzo la puntualità quando il resto della città sembra averla dimenticata."
-
-A uno dei player:
-
-"Venite da Milano, mi dicono. Una città che comprende il valore delle rotte, almeno quando non si perde nella propria superbia."
-
-Se i player rispondono bene:
-
-"Bene. Allora sapete che una città non muore quando perde oro. Muore quando perde ordine."
+<span style="color:#4f6f52"><strong>[[Gaius Varro]]</strong></span>: "Bene. Allora sapete che una città non muore quando perde oro. Muore quando perde ordine."
 
 A Marcus:
 
-"Il pacco per il palazzo. E il sacchetto per le spese lungo il tragitto. Non voglio ritardi."
+<span style="color:#4f6f52"><strong>[[Gaius Varro]]</strong></span>: "Il pacco per il palazzo. E il sacchetto per le spese lungo il tragitto. Non voglio ritardi."
 
-Carico affidato da Varro
+### Monete false
 
-Vengono aggiunti:- una piccola cassa sigillata, destinata al palazzo governativo;- un sacchetto di monete d’oro lasciato sul carro, ufficialmente per spese, donazioni o pedaggi.
+> [!clue] Sacchetto di monete
+> Il sacchetto contiene monete d'oro contraffatte: pirite e piombo, abbastanza ben fatte da ingannare un controllo superficiale.
 
-Le monete sono contraffatte: pirite e piombo, ben fatte abbastanza da ingannare un controllo superficiale.
+| Azione | CD | Risultato |
+| --- | --- | --- |
+| Rubare alcune monete | <span style="color:#e68632"><strong>Rapidità di Mano CD 14</strong></span> | I PG ne prendono alcune |
+| Rubare il sacchetto intero | <span style="color:#e68632"><strong>Rapidità di Mano CD 17</strong></span> | Non vengono notati subito |
+| Valutare peso e lucentezza | <span style="color:#2f9ed8"><strong>Valutare/Professione mercante CD 18</strong></span> | Qualcosa non torna |
 
-Possibilità di rubare il sacchetto
+Detect Magic: nessuna aura. Sono falsi materiali, non magia.
 
-Il sacchetto viene lasciato incustodito per brevi momenti.
+## Fase 4 - Folla fuori dal Distretto Nobiliare
 
-Sleight of Hand CD 14: rubarne alcune monete.
+> [!readaloud] Folla
+> Appena il carro esce dal distretto nobiliare, una piccola folla blocca la strada. Non sono briganti. Sono cittadini, lavoratori, piccoli venditori, poveri urbani. Guardano il carro, poi il cancello nobiliare alle vostre spalle. La rabbia non è grande, ma è compatta.
 
-Sleight of Hand CD 17: rubare l’intero sacchetto senza essere notati subito.
+<span style="color:#6f4a8e"><strong>Folla</strong></span>: "Se avete così tanto da portare ai ricchi, potete lasciare qualcosa anche qui."
 
-Appraise CD 18 / Professione mercante CD 18: qualcosa nel peso è leggermente sbagliato.
+<span style="color:#6f4a8e"><strong>Folla</strong></span>: "Pane o monete. Altrimenti il carro resta fermo."
 
-Detect Magic: nessuna aura. Sono falsi materiali, non magici.
+<span style="color:#6f4a8e"><strong>Folla</strong></span>: "Là dentro hanno fontane. Qui contiamo le croste."
 
-Se i player rubano le monete, aiutano involontariamente a metterle in circolo.
+| Soluzione | CD | Effetto |
+| --- | --- | --- |
+| Dare il sacchetto di monete false | Nessuna | La folla accetta; le monete false circolano |
+| Dare cibo | Nessuna | Marcus protesta e registra mentalmente |
+| Intimidire | <span style="color:#d6a500"><strong>Intimidire CD 14</strong></span> | La folla si apre ma odia i PG |
+| Parlare o tenere un discorso | <span style="color:#d6a500"><strong>Diplomazia/Oratoria CD 15</strong></span> | Passano con piccola offerta o promessa |
+| Leggere Marcus | <span style="color:#8b5cf6"><strong>Intuizione CD 14</strong></span> | Se usano le monete, è teso ma non protesta troppo |
 
-Fase 4 – Uscita dal distretto nobiliare: piccola folla
+## Fase 5 - Tempio di Sarenrae
 
-Scena
+> [!readaloud] Tempio
+> Il tempio di Sarenrae domina la piazza con pietra chiara, archi alti e simboli solari scolpiti sopra le porte. La luce del pomeriggio si posa sulle pareti come se il tempio la trattenesse più a lungo del resto della città. Qui la ricchezza non è ostentata come nel distretto nobiliare: è trasformata in maestosità e fede.
 
-Appena la carovana esce dal distretto nobiliare, una piccola folla blocca la strada. Non sono briganti. Sono cittadini, lavoratori, piccoli venditori, poveri urbani. Sono arrabbiati per la disparità evidente.
+<span style="color:#2f7fb8"><strong>Oracolo di Sarenrae</strong></span>: "Ogni carico che arriva a questo tempio non appartiene solo al tempio. Appartiene a chi verrà qui affamato, malato o perduto."
 
-Descrizione: `la folla non è grande, ma è compatta. Non hanno armi vere, solo bastoni, ceste, mani vuote e facce stanche. Guardano il carro, poi guardano il cancello nobiliare alle vostre spalle.`
+<span style="color:#2f7fb8"><strong>Oracolo di Sarenrae</strong></span>: "Chi porta, può anche offrire. Chi offre, viene ricordato dalla luce."
 
-Richiesta della folla
+### Pressione alla donazione
 
-"Se avete così tanto da portare ai ricchi, potete lasciare qualcosa anche qui."
+> [!warning] Non farlo sembrare truffa malvagia
+> Se usi la pressione mistica, descrivila come atmosfera sacra, senso di colpa e carisma dell'oracolo, non come magia cattiva evidente.
 
-"Pane o monete. Altrimenti il carro resta fermo."
+| Tiro salvezza | Effetto |
+| --- | --- |
+| <span style="color:#8b5cf6"><strong>Volontà CD 18</strong></span> | Resistono completamente |
+| <span style="color:#8b5cf6"><strong>Volontà CD 15</strong></span> | Sentono pressione ma scelgono una donazione simbolica |
+| <span style="color:#8b5cf6"><strong>Volontà CD 12</strong></span> | Forte senso di colpa; tendono a donare circa il 10% dei beni liquidi o del cibo trasportabile |
 
-"Là dentro hanno fontane. Qui contiamo le croste."
+Marcus dona un sacchetto da 500 monete d'oro contraffatte e una cassa di grano.
 
-Possibili risoluzioni
+| Prova | CD | Risultato |
+| --- | --- | --- |
+| Valutare le monete donate | <span style="color:#2f9ed8"><strong>Valutare CD 18</strong></span> | Peso o lucentezza non tornano |
+| Leggere Marcus | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Non sembra religioso; esegue una tappa prevista |
 
-Dare il sacchetto di monete false
+<span style="color:#2f7fb8"><strong>Oracolo di Sarenrae</strong></span>: "Che la luce illumini la strada che non vedete e vi trattenga dal diventare ciò che temete."
 
-I player possono usare il sacchetto di Varro. La folla lo accetta, almeno inizialmente.
+## Fase 6 - Palazzo Governativo
 
-Effetto nascosto: le monete false iniziano a circolare più facilmente.
+> [!readaloud] Palazzo
+> Il palazzo governativo si alza sopra la strada come qualcosa costruito per essere guardato dal basso. Il marmo è chiaro, quasi innaturale rispetto alla pietra comune della città. Colonne alte sorreggono un portico ampio, e le guardie davanti all'ingresso restano immobili come statue.
 
-Sense Motive CD 14 su Marcus: se i player propongono di usare quel sacchetto, Marcus è teso ma non protesta troppo.
-
-Questo deve essere sospetto solo dopo.
-
-Dare cibo
-
-Possono dare parte del grano o del riso. Marcus protesta:
-
-"Quel carico ha destinazione registrata."
-
-Se insistono, lui cede ma annota mentalmente.
-
-Intimidire
-
-Intimidation CD 14: la folla si apre, ma li odia.
-
-Fallimento: tensione, spintoni, possibile danno minore al carro.
-
-Diplomacy / Perform
-
-Diplomacy CD 15 o Perform/Oratory CD 15: convincono la folla a lasciar passare con promessa o piccola offerta.
-
-Combattimento
-
-Da evitare se possibile. Se parte, deve essere breve e sgradevole. La folla non vuole uccidere, vuole prendere qualcosa.
-
-Fase 5 – Tempio di Sarenrae
-
-Descrizione
-
-Il tempio di Sarenrae domina la piazza con pietra chiara, archi alti e simboli solari scolpiti sopra le porte. La luce del pomeriggio si posa sulle pareti come se il tempio la trattenesse più a lungo del resto della città. Ci sono giardini interni, vasche d’acqua pulita, bracieri profumati e fedeli in silenzio. Qui la ricchezza non è ostentata come nel distretto nobiliare: è trasformata in maestosità e fede.
-
-Accoglienza
-
-I chierici accolgono la carovana. Ringraziano per:- attrezzi da giardino;- metalli per manutenzione/ornamenti/lavori sacri;- razioni alimentari.
-
-Alto chierico / Oracolo
-
-È una figura importante. Non deve sembrare malvagio. Deve sembrare carismatico, spirituale, abituato a ricevere donazioni.
-
-Dialogo:
-
-"Ogni carico che arriva a questo tempio non appartiene solo al tempio. Appartiene a chi verrà qui affamato, malato o perduto."
-
-"Chi porta, può anche offrire. Chi offre, viene ricordato dalla luce."
-
-Carità mistica
-
-Qui la meccanica non deve sembrare un furto automatico ai player. Rendila una pressione sacra/sociale con possibile effetto mentale leggero. I player devono poter resistere o accorgersi che qualcosa li sta spingendo.
-
-L’oracolo pronuncia una benedizione-orazione. Chi ascolta sente un impulso a donare.
-
-Will Save CD 18: resistono completamente.
-
-Will Save CD 15: sentono pressione, ma possono scegliere di donare solo una piccola parte simbolica.
-
-Will Save CD 12: forte senso di colpa; tendono a donare circa il 10% dei beni liquidi o del cibo trasportabile.
-
-Fallimento grave / fallimento critico: sono spinti a donare di più, fino al 25%, ma un altro player può interromperli con Diplomacy, scossa fisica o richiamo personale.
-
-Non usare 50–75% dei possedimenti: per un party di livello 2 è troppo punitivo e rischia di trasformare il tempio in un antagonista immediato. Se vuoi mantenere il rischio alto, applicalo solo al cibo o alle monete facilmente accessibili, non a tutto l’equipaggiamento.
-
-Marcus dona
-
-Marcus lascia:- un sacchetto da 500 monete d’oro contraffatte;- una cassa di grano.
-
-Questo è importante: sembra generoso, ma introduce monete false nel circuito del tempio.
-
-Appraise CD 18 sulle monete: qualcosa non torna nel peso o nella lucentezza.
-
-Sense Motive CD 15 su Marcus: non sembra particolarmente religioso; sta eseguendo una parte prevista del tragitto.
-
-Benedizione
-
-L’alto chierico ringrazia e concede una benedizione.
-
-Effetto consigliato:- +1 morale ai tiri per colpire e ai TS contro paura per una durata breve;- oppure una benedizione narrativa per il viaggio, se vuoi evitare boost meccanici lunghi.
-
-Dialogo:
-
-"Che la luce illumini la strada che non vedete e vi trattenga dal diventare ciò che temete."
-
-Fase 6 – Palazzo governativo
-
-Tragitto
-
-La carovana si dirige verso il palazzo governativo. La città cambia di nuovo: meno fede, più potere. Più marmo, meno colore.
-
-Descrizione del palazzo
-
-Il palazzo governativo si alza sopra la strada come qualcosa costruito per essere guardato dal basso. Il marmo è chiaro, quasi innaturale rispetto alla pietra comune della città. Colonne alte sorreggono un portico ampio, e le guardie davanti all’ingresso restano immobili come statue. Se il tempio dava l’idea della fede, questo posto dà l’idea della legge: fredda, costosa, pesante.
-
-Le guardie reali
-
-Fermano la carovana. Marcus scende, prende la piccola cassa di Varro o la fa consegnare da un servitore autorizzato. I player non possono entrare facilmente.
-
-Dialogo guardia:
-
-"Il mercante entra. Le guardie restano fuori."
+<span style="color:#7f5f2a"><strong>Guardia</strong></span>: "Il mercante entra. Le guardie restano fuori."
 
 Se insistono:
 
-"Non è una richiesta."
+<span style="color:#7f5f2a"><strong>Guardia</strong></span>: "Non è una richiesta."
 
-Marcus entra da solo
+Marcus entra con la piccola cassa di Varro e torna dopo poco.
 
-Resta dentro poco tempo. Quando torna, la carovana riparte.
+| Prova | CD | Risultato |
+| --- | --- | --- |
+| Notare cassa mancante | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | Una piccola cassa non è più sul carro |
+| Controllare la lista | <span style="color:#2f9ed8"><strong>Investigazione CD 16</strong></span> | Era registrata solo come "documenti sigillati" |
+| Leggere Marcus | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Risponde troppo velocemente |
 
-Indizio: cassa mancante
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Documenti consegnati. Non riguardano voi."
 
-Perception CD 14:
+## Fase 7 - Cancello Nord e Campo
 
-Notate che una delle casse piccole non è più sul carro.
+> [!description] Verso fuori mura
+> La luce cala. Le strade interne si svuotano e la carovana prende la via del Cancello Nord. Le guardie guardano il sigillo, parlano con Marcus e lasciano passare.
 
-Investigation CD 16 sulla lista:
+| Prova | CD | Risultato |
+| --- | --- | --- |
+| Capire legalità dell'uscita | <span style="color:#2f9ed8"><strong>Conoscenze locali CD 13</strong></span> | Uscire con cibo verso sera è scomodo ma non illegale |
+| Leggere la guardia | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Sa già che deve lasciarli passare |
 
-La cassa non era indicata con una merce specifica. Era registrata solo come “documenti sigillati”.
+Al campo:
 
-Sense Motive CD 15 su Marcus:
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Proseguire al buio sarebbe stupido. Montiamo campo e ripartiamo all'alba."
 
-Se gli chiedete della cassa, risponde troppo velocemente.
+Chiedi chiaramente i turni di guardia.
 
-Dialogo Marcus:
+## Fase 8 - Assalto Simulato
 
-"Documenti consegnati. Non riguardano voi."
+> [!danger] Verità dell'assalto
+> I briganti sono bande pagate o uomini collegati ad Aulus. Devono rubare o far perdere carico selezionato, non massacrare i PG.
 
-Fase 7 – Cancello Nord e uscita fuori mura
+Se nessuno fa turni:
 
-Verso il cancello
+| Prova | CD | Risultato |
+| --- | --- | --- |
+| Svegliarsi | <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> | Sentono ruote, corde o passi |
+| Capire il furto selettivo | <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> | Prendono solo certe casse |
 
-Si sta facendo sera. La luce cala, le strade interne si svuotano e la carovana prende la via del Cancello Nord.
+Se ci sono turni:
 
-Controllo al cancello
+| Prova | CD | Risultato |
+| --- | --- | --- |
+| Sentire movimento | <span style="color:#8b5cf6"><strong>Percezione CD 9</strong></span> | Qualcuno è al carro |
+| Vedere figure | <span style="color:#8b5cf6"><strong>Percezione CD 11</strong></span> | Sono organizzati |
+| Capire l'obiettivo | <span style="color:#8b5cf6"><strong>Intuizione CD 14</strong></span> | Vogliono il carico, non uccidere |
 
-A differenza del distretto nobiliare, qui le guardie sono più pratiche e meno eleganti. Guardano il sigillo, parlano con Marcus, lasciano passare.
+> [!readaloud] Inizio assalto
+> Nel buio, sentite un colpo secco contro il legno del carro. Poi una corda che scivola. Poi una voce bassa: "Solo quelle. Muoviti."
 
-Knowledge local CD 13: uscire con carichi alimentari verso sera è scomodo ma non illegale.
+Nemici: 4-5 briganti + 1 capo brigante; morale media; fuggono se messi male.
 
-Sense Motive CD 15 su una guardia: sa già che deve lasciarli passare.
+<span style="color:#8b1e1e"><strong>Capo brigante</strong></span>: "Solo i sacchi segnati. Non fate gli eroi."
 
-Domanda implicita
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Il carro, non loro!"
 
-A questo punto i player dovrebbero chiedersi: “Perché ci hanno fatto scortare tutto il tragitto cittadino se nessuno ha davvero controllato o ostacolato il carro?” Non rispondere.
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Non era parte del lavoro!"
 
-Fase 8 – Accampamento fuori mura
+Se catturati:
 
-Scena
+<span style="color:#8b1e1e"><strong>Capo brigante</strong></span>: "Ci hanno pagati per prendere certi sacchi. Fine."
 
-La carovana si ferma fuori dalle mura, lungo una strada secondaria o vicino a un campo asciutto. È quasi notte.
+Con <span style="color:#d6a500"><strong>Intimidire CD 16</strong></span>:
 
-Marcus propone una sosta.
-
-"Proseguire al buio sarebbe stupido. Montiamo campo e ripartiamo all’alba."
-
-I player dovrebbero avere giacigli, a meno che non li abbiano donati o persi.
-
-Cosa resta sul carro
-
-Dovrebbero restare:- parte del grano;- riso;- eventuali carichi non consegnati;- merci che Varro vuole far perdere fuori città.
-
-Turni di guardia
-
-Chiedi chiaramente se fanno turni di guardia.
-
-Se nessuno fa turni, i briganti agiscono silenziosamente.
-
-Se fanno turni, è molto più facile accorgersi dell’assalto.
-
-Fase 9 – Assalto simulato dei briganti
-
-Verità
-
-I briganti sono uomini collegati ad Aulus o bande pagate. L’assalto è simulato: devono rubare/perdere il carico selezionato, non massacrare i player.
-
-Se i player dormono
-
-Perception CD 13 per svegliarsi al rumore di ruote, corde o passi.
-
-Perception CD 15 per capire subito che stanno prendendo solo certe casse.
-
-Se falliscono:
-
-Al mattino, parte del carico è sparita. Non tutto. Solo grano e riso in quantità precise.
-
-Se ci sono turni di guardia
-
-Perception CD 9 per sentire movimento.
-
-Perception CD 11 per vedere figure vicino al carro.
-
-Sense Motive CD 14 durante lo scontro: non sembrano interessati a uccidere; vogliono il carico.
-
-Inizio scena
-
-Nel buio, sentite un colpo secco contro il legno del carro. Poi una corda che scivola. Poi una voce bassa: “Solo quelle. Muoviti.”
-
-Combattimento possibile
-
-Nemici:- 4–5 briganti;- 1 capo brigante più competente;- morale media;- se messi male, fuggono con ciò che possono.
-
-Comportamento:- prendono grano e riso;- evitano la cassa già consegnata perché non c’è più;- non cercano il sacchetto di monete se è ancora presente;- non combattono fino alla morte.
-
-Dialoghi:
-
-"Il carro, non loro!"
-
-"Prendete i sacchi segnati!"
-
-"Non era parte del lavoro!"
-
-Queste frasi sono indizi, ma in combattimento possono passare come caos.
-
-Se catturati
-
-Non sanno tutto.
-
-"Ci hanno pagati per prendere certi sacchi. Fine."
-
-Se chiedono chi:
-
-"Uno che non dà il nome a gente come noi."
-
-Intimidation CD 16:
-
-"Il lavoro veniva dai bassifondi. Gente di Aulus, forse. Non so altro."
+<span style="color:#8b1e1e"><strong>Capo brigante</strong></span>: "Il lavoro veniva dai bassifondi. Gente di Aulus, forse. Non so altro."
 
 Non nominare Varro.
 
-Fase 10 – Conclusione
+## Indizi
 
-Se il carico viene rubato
+| Indizio | CD | Dove | PNG coinvolti | Cosa sembra | Cosa implica | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Permesso non registrato con sigillo nobiliare sfocato | <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> o <span style="color:#2f9ed8"><strong>Conoscenze nobiliari CD 18</strong></span> | Corsia di partenza | Impiegati, facchini | Permesso temporaneo | Un patrono nobile beneficia della logistica festivaliera | Copia sbagliata punta alla casata sbagliata |
+| Lista troppo precisa | <span style="color:#2f9ed8"><strong>INT CD 13</strong></span> | Carico iniziale | Marcus | Efficienza | Percorso già pianificato |
+| Monete troppo leggere/pesanti | <span style="color:#2f9ed8"><strong>Valutare CD 18</strong></span> | Sacchetto di Varro | Varro, Marcus | Oro strano | Contraffazione |
+| Nessuna perquisizione dai nobili | Auto o <span style="color:#2f9ed8"><strong>Conoscenze locali CD 14</strong></span> | Distretto nobiliare | Guardie | Favore nobiliare | Accesso privilegiato |
+| Cassa mancante al governo | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> o <span style="color:#2f9ed8"><strong>Investigazione CD 16</strong></span> | Palazzo governativo | Marcus | Documenti | Varro comunica col governo |
+| Assalto prende solo certi sacchi | <span style="color:#8b5cf6"><strong>Percezione CD 13-15</strong></span> | Campo fuori mura | Briganti | Briganti organizzati | Perdita programmata |
+| Marcus non è abbastanza turbato | <span style="color:#8b5cf6"><strong>Intuizione CD 15-16</strong></span> | Dopo l'assalto | Marcus | Sangue freddo | Sapeva del rischio |
 
-Marcus è agitato, ma non disperato quanto dovrebbe.
+## Tracce Cultuali Molto Sottili
 
-Sense Motive CD 15:
+| Dettaglio | Dove appare | Prova | Lettura immediata | Verità lontana |
+| --- | --- | --- | --- | --- |
+| Carboncino sotto cassa già caricata | Carro iniziale | <span style="color:#8b5cf6"><strong>Percezione CD 17</strong></span> | Sporco da magazzino | Segno parziale copiato o cancellato |
+| Cera grigio-bluastra su tubo documenti | Palazzo governativo | <span style="color:#2f9ed8"><strong>Artigianato CD 16</strong></span> | Cera economica | Materiale ricorrente in offerte marine |
+| Sale nero in una cucitura di sacco | Campo fuori mura | <span style="color:#8b5cf6"><strong>Percezione CD 16</strong></span> | Sporcizia da strada | Traccia minima di canali non dichiarati |
 
-Marcus sembra più preoccupato di come scrivere il rapporto che della perdita reale.
+## Conclusione
 
-Dialogo:
+Se il carico viene rubato:
 
-"Un incidente spiacevole. La strada non è sicura, ormai."
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Un incidente spiacevole. La strada non è sicura, ormai."
 
-Se i player impediscono il furto
+Con <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span>: Marcus sembra più preoccupato di come scrivere il rapporto che della perdita reale.
 
-Marcus è più nervoso del previsto.
+Se i PG impediscono il furto:
 
-"Bene. Ottimo. Avete... fatto il vostro lavoro."
+<span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Bene. Ottimo. Avete... fatto il vostro lavoro."
 
-Sense Motive CD 16:
+Con <span style="color:#8b5cf6"><strong>Intuizione CD 16</strong></span>: sembra contrariato che qualcosa non sia andato secondo previsione.
 
-Non sembra solo soddisfatto. Sembra contrariato che qualcosa non sia andato secondo una previsione.
+## Conseguenze
 
-Ricompensa
+| Evento | Conseguenza |
+| --- | --- |
+| Monete false donate a folla o tempio | Circolano prima; il Giorno 5 può avere più casi |
+| Grano/riso perso | La scarsità cresce e i mercanti accusano banditi |
+| Carico salvato | Varro deve compensare; Aulus può colpire più duramente |
+| Brigante interrogato | Nome di Aulus come pista criminale minore |
 
-Marcus paga comunque, ma:- pagamento pieno se completano il viaggio;- bonus minimo se salvano il carico;- nessun ringraziamento emotivo.
+## Note GM
 
-Conseguenze leggere
+> [!note] Tono
+> Dentro la città deve essere tutto troppo facile. Fuori città il pericolo deve sembrare aspettarli nel punto giusto.
 
-Se le monete false vengono donate alla folla o al tempio:- iniziano a circolare prima;- Giorno 5 la quest Counterfeit Coins può avere più casi.
+Varro deve uscire benissimo dalla scena: educato, intelligente, potente, quasi ragionevole. Non farlo minacciare. Non farlo mentire in modo ovvio.
 
-Se il grano/riso viene perso:- scarsità cresce;- alcuni mercanti accusano banditi e insicurezza stradale.
-
-Se il carico viene salvato:- Varro deve compensare in altro modo;- Aulus potrebbe essere incaricato di colpire più duramente nei giorni successivi.
-
-Clues Summary
-
-Indizio
-
-CD
-
-Cosa sembra
-
-Cosa implica
-
-Lista troppo precisa
-
-13
-
-buona organizzazione
-
-percorso già pianificato
-
-Grano/riso anomali
-
-14
-
-consegna abbondante
-
-merci da perdere
-
-Cassa già caricata
-
-13
-
-carico normale
-
-elemento sensibile
-
-Carboncino sotto cassa
-
-17–19
-
-sporco/segno
-
-traccia cultuale minima
-
-Nessuna perquisizione dai nobili
-
-auto / 14
-
-favore nobiliare
-
-accesso privilegiato
-
-Monete troppo leggere/pesanti
-
-18
-
-oro strano
-
-contraffazione
-
-Folla fuori dal distretto
-
-nessuna
-
-rabbia sociale
-
-occasione per diffondere falsi
-
-Marcus dona 500 monete
-
-15–18
-
-generosità
-
-immissione monete false
-
-Cassa mancante al governo
-
-14–16
-
-consegna documenti
-
-Varro contatta governo
-
-Assalto prende solo certi sacchi
-
-13–15
-
-briganti organizzati
-
-perdita programmata
-
-Marcus non è abbastanza turbato
-
-15–16
-
-sangue freddo
-
-sapeva del rischio
-
-DM Notes
-
-Questa quest deve sembrare troppo liscia dentro la città e pericolosa solo fuori. È quello il contrasto importante. I player devono chiedersi perché servisse una scorta se tutti i cancelli si aprono e nessuno controlla davvero.
-
-Varro deve uscire benissimo dalla scena: educato, intelligente, potente, quasi ragionevole. Non farlo minacciare. Non farlo mentire in modo ovvio. Deve sembrare uno che potrebbe davvero salvare la città.
-
-Non rendere Marcus troppo sospetto. È il tipo di uomo che segue istruzioni e si convince che tutto sia normale perché il sistema lo premia.
-
-La folla fuori dal distretto nobiliare è importante: non è nemica. È la città che reagisce alla disuguaglianza. Se i player la trattano come banditi, segna mentalmente la cosa.
-
-La scena del tempio è potente, ma non deve sembrare che Sarenrae stia truffando i player. Se usi la pressione mistica, descrivila come atmosfera sacra, senso di colpa, carisma dell’oracolo. Non come magia cattiva evidente.
-
-Feeling finale:
-
-"In città tutto era troppo facile. Fuori città, il pericolo sembrava aspettarci esattamente nel punto giusto."
+> [!summary] Sensazione finale
+> In città tutto era troppo facile. Fuori città, il pericolo sembrava aspettarci esattamente nel punto giusto.

@@ -6,931 +6,395 @@ tags:
   - source/reference-doc
 Day: "[[Day 16]]"
 NPCs:
-  - "[[Corda]]"
-  - "[[Marcia]]"
-  - "[[Pezza]]"
+  - "[[Madre Elenia]]"
+  - "[[Orenzio]]"
+  - "[[Veltharuun]]"
+  - "[[Serena Valeria]]"
 source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/quests/Day16_Persone_scomparse_dopo_la_veglia.docx"
 ---
-# Day 16 - Persone scomparse dopo la veglia
+# Day 16 - Persone Scomparse dopo la Veglia
 
-## Festival Calendar Context
+> [!motive] Motivo
+> Quattro persone non sono tornate dopo una veglia privata alla cappella vecchia. [[Orenzio]] e Madre Elenia chiedono aiuto prima che la sparizione diventi scandalo pubblico. I PG hanno già visto la cappella, i corpi mancanti, Arthemol e le tracce di Vaeltharuun: questa è la convergenza della sottotrama.
 
-- Calendar: [[Day 16]] is Desnus 16, 3608.
-- Remembrance Moon deepens: festival brightness gives way to vigils, memorial processions, family gatherings, and public grief that Marcia can shape without calling for open rebellion.
-- Festival use: vigils create dense, emotional crowds where disappearances can be mistaken for grief, drunkenness, or private mourning.
-- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+> [!summary] Riassunto
+> La quest chiude la serie di Vaeltharuun il Senza Eco. I PG tornano alla cappella, scoprono che i simboli a carboncino non sono tutti del culto, scendono nell'ossario-laboratorio e trovano quattro volontari disposti a morire per riportare in vita [[Serena Valeria]]. [[Veltharuun|Vaeltharuun]] offre una scelta moralmente sporca: lasciar completare il rituale e ricevere una ricompensa necromantica, oppure fermarlo e salvare vite che non chiedono tutte di essere salvate.
 
+> [!success] Esiti possibili
+> - **Lasciano completare il rituale:** i volontari muoiono, Serena torna e condanna Vaeltharuun; i PG ricevono le Lacrime di Ritorno.
+> - **Uccidono Vaeltharuun:** il rituale collassa, Serena resta morta, i volontari sopravvivono se salvati in tempo; restano due sfere di energia.
+> - **Lo fermano senza ucciderlo:** i volontari vivono, Serena resta morta, Vaeltharuun può essere consegnato, imprigionato o lasciato fuggire.
+> - **Distruggono il corpo di Serena:** il rituale si spezza brutalmente; scelta efficace ma crudele.
+> - **Falliscono:** uno o più volontari muoiono, Serena può tornare incompleta o Vaeltharuun può fuggire col corpo.
 
-## Source Migration
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 16]] |
+| Luogo | Cappella vecchia, botola sotto l'altare, ossario, laboratorio di Vaeltharuun, camera di Serena |
+| PNG coinvolti | [[Orenzio]], Madre Elenia, [[Veltharuun|Vaeltharuun]], [[Serena Valeria]], Livia Drusa, Marius Lentulo, Cinna, Flavia |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Bossfight difficile, non mortale quanto Arthemol; timer rituale |
+| Ricompensa | Lacrime di Ritorno oppure due sfere di energia rituale; conseguenze morali pesanti |
 
-Source file: `phase 2/quests/Day16_Persone_scomparse_dopo_la_veglia.docx`
+## PNG e Colori
 
-Giorno 16 – Quest finale necromante: Persone scomparse dopo la veglia
+| PNG | Colore dialogo | Ruolo |
+| --- | --- | --- |
+| <span style="color:#4f6f52"><strong>[[Orenzio]]</strong></span> | `#4f6f52` | Custode informale, testimone |
+| <span style="color:#3c6e71"><strong>Madre Elenia</strong></span> | `#3c6e71` | Devota, colpevole involontaria |
+| <span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span> | `#8b1e1e` | Necromante, antagonista tragico |
+| <span style="color:#d6a500"><strong>[[Serena Valeria]]</strong></span> | `#d6a500` | Corpo conservato, centro morale |
+| <span style="color:#6f4a8e"><strong>Livia Drusa</strong></span> | `#6f4a8e` | Madre in lutto |
+| <span style="color:#7f5f2a"><strong>Marius Lentulo</strong></span> | `#7f5f2a` | Vecchio malato |
+| <span style="color:#2f7fb8"><strong>Cinna</strong></span> | `#2f7fb8` | Ex ladro |
+| <span style="color:#a0522d"><strong>Flavia</strong></span> | `#a0522d` | Giovane devota di Serena |
 
-Funzione della quest
+## Contesto di Calendario
 
-Questa è la conclusione della sottotrama di Vaeltharuun il Senza Eco. Deve iniziare facendo credere ai player di essere arrivati al centro di una piaga enorme: simboli, corpi mancanti, cappella vecchia, non morti, Arthemol, esperimenti. Tutto sembra portare qui. In parte è vero, ma non è la soluzione al culto né la soluzione alla città. È una tragedia privata che ha prodotto orrore pubblico.
+> [!note] Remembrance Moon avanzata
+> [[Day 16]] è Desnus 16, 3608. La luminosità del festival sta lasciando spazio a veglie, processioni memoriali, famiglie in lutto e dolore pubblico. In questo clima, quattro persone scomparse dopo una veglia possono sembrare ubriache, disperse, in lutto privato o semplicemente invisibili.
 
-I player devono avere due grandi scelte: lasciare morire i volontari e permettere il rituale, venendo ricompensati dal necromante; oppure fermare/uccidere Vaeltharuun, salvando i volontari e ottenendo due sfere di energia. Entrambe le scelte devono sembrare sbagliate per ragioni diverse.
+## Testo per la Bacheca
 
-Feeling finale desiderato:
+> [!readaloud] Bacheca degli incarichi
+> **Persone scomparse dopo veglia privata - ricerca urgente**
+>
+> Quattro persone non sono tornate dopo una veglia tenuta presso la cappella vecchia del quartiere medio-basso. Si richiede aiuto discreto per ritrovarle prima che la questione diventi di dominio pubblico. Chiunque abbia informazioni si presenti al custode Orenzio o a Madre Elenia.
 
-"Abbiamo scelto. Non sono sicuro che abbiamo scelto bene."
-
-Hook sulla Quest Board
-
-Persone scomparse dopo veglia privata – ricerca urgente
-
-Quattro persone non sono tornate dopo una veglia tenuta presso la cappella vecchia del quartiere medio-basso. Si richiede aiuto discreto per ritrovarle prima che la questione diventi di dominio pubblico. Chiunque abbia informazioni si presenti al custode Orenzio o a Madre Elenia.
-
-Postata da: Orenzio e Madre Elenia, con timbro minore del quartiere.
-
-Pagamento ufficiale: basso/medio, quasi simbolico.
-
-Vera ricompensa: dipende dalla scelta finale.
-
-Durata: mezza giornata o più.
-
+Pagamento ufficiale: basso/medio, quasi simbolico.  
+Vera ricompensa: dipende dalla scelta finale.  
+Durata: mezza giornata o più.  
 Tono: gotico, morale, investigativo, bossfight difficile.
 
-Premessa reale per il DM
+## Verità per il GM
 
-Vaeltharuun ha finalmente trovato ciò che crede necessario per riportare in vita Serena Valeria: non semplici corpi, non sangue, non necromanzia grezza, ma quattro anime offerte volontariamente.
+> [!summary] Premessa reale
+> Vaeltharuun ha trovato ciò che crede necessario per riportare in vita Serena Valeria: quattro anime offerte volontariamente. I quattro volontari non sono stati rapiti in senso semplice. Sono stati cercati, ascoltati, spezzati e convinti. Alcuni sono manipolati. Alcuni credono davvero nella scelta. Nessuno è completamente libero. Nessuno è completamente costretto.
 
-I quattro volontari non sono stati rapiti nel senso classico. Sono stati cercati, ascoltati, spezzati e convinti. Alcuni sono stati manipolati. Alcuni credono davvero nella scelta. Alcuni hanno paura ma non vogliono tornare indietro. Nessuno di loro è completamente libero. Nessuno di loro è completamente costretto.
+> [!warning] Centro morale
+> Non rendere Vaeltharuun innocente. Ha profanato morti poveri, creato orrori e manipolato disperati. Non rendere nemmeno i volontari semplici vittime senza voce. Devono difendere la loro scelta e incrinarsi.
 
-Vaeltharuun non vuole distruggere la città. Non vuole potere politico. Non vuole un esercito. Vuole riportare indietro l’unica persona che lo abbia mai trattato come una creatura degna di essere chiamata per nome. Però, per farlo, ha profanato morti poveri, creato orrori, manipolato disperati e tradito tutto ciò che Serena amava.
+Sensazione desiderata:
 
-Fase 1 – Ritorno alla cappella vecchia
+> [!summary] Sensazione
+> Abbiamo scelto. Non sono sicuro che abbiamo scelto bene.
 
-Scena
+## Fase 1 - Ritorno alla Cappella
 
-I player arrivano alla cappella nel giorno 16. Deve sembrare che finalmente tutto stia convergendo. La cappella non appare più solo abbandonata: sembra un luogo consumato da troppe storie.
+> [!readaloud] Cappella nel giorno 16
+> La cappella vecchia è ancora lì, schiacciata tra le case come una cosa che la città non ha mai avuto il coraggio di demolire. Il piccolo sole di Sarenrae sopra la porta è quasi invisibile sotto polvere, sale e fumo. Ma oggi c'è altro. Sul legno basso della porta, sulle pietre vicino alla soglia, su una panca rotta all'interno, vedete segni tracciati a carboncino: linee, curve, forme quasi familiari. Alcuni ricordano la bilancia vista altrove in città. Altri sembrano solo graffi.
 
-Descrizione da leggere
+> [!warning] Falsa convergenza
+> Qui i PG devono poter credere di essere arrivati al centro della piaga dei simboli. Non confermare. Vaeltharuun ha copiato e reinterpretato alcuni segni, ma non è il culto.
 
-La cappella vecchia è ancora lì, schiacciata tra le case come una cosa che la città non ha mai avuto il coraggio di demolire. Il piccolo sole di Sarenrae sopra la porta è quasi invisibile sotto polvere, sale e fumo. Ma oggi c’è altro. Sul legno basso della porta, sulle pietre vicino alla soglia, su una panca rotta all’interno, vedete segni tracciati a carboncino: linee, curve, forme quasi familiari. Alcuni ricordano la bilancia vista altrove in città. Altri sembrano solo graffi.
+| Indizio | CD | Risultato |
+| --- | --- | --- |
+| Porta laterale aperta di recente | <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> | I cardini sono stati oliati, non forzati |
+| Segni recenti e vecchi mescolati | <span style="color:#2f9ed8"><strong>Investigazione CD 15</strong></span> | Non tutti hanno la stessa mano |
+| Simboli incoerenti | <span style="color:#2f9ed8"><strong>Occulto/Religioni CD 17</strong></span> | Non formano un rito unico |
+| Copie e reinterpretazioni | <span style="color:#2f9ed8"><strong>Occulto CD 21</strong></span> | Alcuni segni sembrano copiati da chi non li capiva |
 
-Importante: qui devi farli pensare che stanno per risolvere la grande piaga dei simboli. Non confermare. Lasciali credere.
+## Fase 2 - I Quattro Scomparsi
 
-Indizi iniziali
+> [!description] Persone, non componenti
+> Prima di scendere, i PG devono capire chi cercano. Non sono "quattro sacrifici". Sono quattro vite già consumate dalla città.
 
-Perception CD 13:
+| Volontario | Ferita | Frase utile |
+| --- | --- | --- |
+| Livia Drusa | Madre che ha perso un figlio per fame e febbre | <span style="color:#6f4a8e"><strong>Livia Drusa</strong></span>: "Se lei tornasse, forse altre madri non dovrebbero seppellire figli piccoli." |
+| Marius Lentulo | Vecchio malato terminale | <span style="color:#7f5f2a"><strong>Marius Lentulo</strong></span>: "Almeno così la mia morte avrebbe peso." |
+| Cinna | Ex ladro che ha derubato poveri e pellegrini | <span style="color:#2f7fb8"><strong>Cinna</strong></span>: "Ho preso abbastanza. Una volta posso pagare." |
+| Flavia | Giovane devota cresciuta nel mito di Serena | <span style="color:#a0522d"><strong>Flavia</strong></span>: "Roma ha più bisogno di lei che di me." |
 
-La porta laterale è stata aperta di recente. I cardini sono stati oliati, non forzati.
+Madre Elenia:
 
-Investigation CD 15:
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Pensavo volessero pregare. Pensavo che una veglia fosse solo una veglia. Ho aperto io la porta."
 
-Alcuni segni a carboncino sono recenti. Altri sono solo sporco, cera o graffi vecchi. Non tutti hanno la stessa mano.
+Se accusata:
 
-Occult / Religion CD 17:
+<span style="color:#3c6e71"><strong>Madre Elenia</strong></span>: "Sì. Ho sbagliato. Ma non sono stata io a insegnare ai disperati che la loro vita vale meno di quella di una morta amata."
 
-I segni non formano un rito coerente. Alcuni sembrano legati a equilibrio, giudizio o transizione. Altri sembrano imitazioni, forse copiati da qualcuno che non li capiva.
+Orenzio:
 
-Questa prova è importante: il necromante non è il culto. Però i player non devono capirlo del tutto. Devono solo sentire che qualcosa non torna.
+<span style="color:#4f6f52"><strong>[[Orenzio]]</strong></span>: "Non sembravano rapiti... sembravano decisi... Non è da loro."
 
-Rumore casuale senza significato
+## Fase 3 - Apertura della Botola
 
-Una candela vecchia è piegata in modo strano perché il calore l’ha ammorbidita.
+> [!description] Altare
+> I graffi sotto l'altare, già suggeriti nelle tappe precedenti, sono più profondi. Qualcuno lo ha mosso più volte e poi rimesso in posizione con cura.
 
-Un topo corre dietro l’altare e sparisce.
+| Azione | CD | Effetto |
+| --- | --- | --- |
+| Capire il movimento dell'altare | <span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span> | L'altare è stato spostato di recente |
+| Sbloccare il contrappeso | <span style="color:#e68632"><strong>Disattivare Congegni CD 16</strong></span> | Apertura silenziosa |
+| Forzare la lastra | <span style="color:#d64545"><strong>Forza CD 18</strong></span> | Funziona, ma fa rumore |
+| Leggere la profanazione | <span style="color:#2f9ed8"><strong>Religioni CD 15</strong></span> | Non è odio: per Vaeltharuun l'altare è solo una porta |
 
-Un pezzo di stoffa verde è impigliato a una scheggia della porta.
+Se aprono con delicatezza, sentono voci prima di scendere. Se aprono con forza, i non morti sotto sono già allertati.
 
-Una macchia d’umidità sul muro sembra una mano aperta.
+## Fase 4 - Discesa nell'Ossario
 
-Una panca ha tre chiodi disposti quasi a triangolo. Non significa nulla.
+> [!readaloud] Scala sotto l'altare
+> La scala sotto l'altare non è stata costruita per essere vista. Scende stretta, umida, con pietra antica e odore di alcool, calce, carne fredda e cera consumata. Più in basso, il rumore della città sparisce. Non perché sia lontana. Perché qui sotto sembra non avere diritto di entrare.
 
-Una bottiglia vuota è nascosta dietro una statua rotta.
+| Indizio | CD | Risultato |
+| --- | --- | --- |
+| Simboli simili a quelli cittadini | <span style="color:#2f9ed8"><strong>Occulto CD 17</strong></span> | Troppo simili per ignorarli |
+| Simboli non coerenti | <span style="color:#2f9ed8"><strong>Occulto CD 21</strong></span> | Alcuni sono copiati o reinterpretati |
+| Intenzione degli appunti | <span style="color:#8b5cf6"><strong>Intuizione CD 16</strong></span> | Chi li ha tracciati sembra ossessionato, non parte di un culto organizzato |
 
-Se i player si fissano, normalizza.
+> [!clue] Verità sottile
+> Vaeltharuun ha copiato alcuni segni del culto perché li ha interpretati come equilibrio vita/morte, perdita/restituzione, giorno/notte. I PG possono crederlo responsabile dei simboli. Questo aiuta a tenere il culto nascosto.
 
-Fase 2 – I quattro scomparsi
+## Fase 5 - Primo Laboratorio
 
-Prima di scendere, i player devono capire chi stanno cercando. Non sono quattro componenti rituali. Sono persone.
+> [!readaloud] Laboratorio nella cripta
+> La stanza oltre la scala non è una cripta. È un laboratorio costruito dentro una cripta. Tavoli di pietra, ferri chirurgici, candele basse, bacinelle di calce, fiale scure, aghi, filo nero, pergamene macchiate. Alcuni corpi sono coperti. Altri no. La cosa peggiore non è la violenza. È la cura. Ogni taglio sembra fatto da mani che credevano di lavorare con amore.
 
-I quattro volontari
+| Indizio | CD | Risultato |
+| --- | --- | --- |
+| Corpi studiati | <span style="color:#8b5cf6"><strong>Medicine CD 14</strong></span> | Non sono solo mutilazioni |
+| Obiettivo degli esperimenti | <span style="color:#8b5cf6"><strong>Medicine CD 18</strong></span> | Preservare identità, memoria e struttura |
+| Necromanzia mista | <span style="color:#2f9ed8"><strong>Arcana/Occulto CD 17</strong></span> | Necromanzia, guarigione imitata, trasmutazione disperata |
+| Preghiera sbagliata | <span style="color:#2f9ed8"><strong>Religioni CD 16</strong></span> | Non odio sacrilego: devozione diventata macelleria |
 
-1. Livia Drusa, madre in lutto
+Voce da più avanti:
 
-Ha perso un figlio per fame e febbre. Serena Valeria, anni prima, aveva aiutato la sua famiglia.
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Non toccate ciò che non capite."
 
-Frase trovata in una lettera:
+Se rispondono:
 
-"Se lei tornasse, forse altre madri non dovrebbero seppellire figli piccoli."
-
-2. Marius Lentulo, vecchio malato
-
-Malato terminale. Crede di non avere più valore per nessuno.
-
-Frase riferita da un vicino:
-
-"Diceva che almeno così la sua morte avrebbe avuto peso."
-
-3. Cinna, ex ladro
-
-Ha derubato poveri e pellegrini per anni. Serena lo aveva difeso una volta da un linciaggio.
-
-Frase scritta su un pezzo di pergamena:
-
-"Ho preso abbastanza. Una volta posso pagare."
-
-4. Flavia, giovane devota di Serena
-
-Non ha mai conosciuto Serena direttamente, ma è cresciuta ascoltando storie su di lei. La vede come una santa popolare, non ufficiale.
-
-Frase lasciata a Madre Elenia:
-
-"Roma ha più bisogno di lei che di me."
-
-Testimoni
-
-Madre Elenia
-
-È sconvolta. Si sente colpevole.
-
-"Pensavo volessero pregare. Pensavo che una veglia fosse solo una veglia. Ho aperto io la porta."
-
-Se i player la accusano:
-
-"Sì. Ho sbagliato. Ma non sono stata io a insegnare ai disperati che la loro vita vale meno di quella di una morta amata."
-
-Orenzio
-
-Ha visto due dei volontari nei giorni precedenti vicino alle fosse.
-
-"Non sembravano rapiti... sembravano decisi... Non è da loro."
-
-Fase 3 – Apertura della botola
-
-I player devono tornare all’altare e aprire il passaggio visto o intuito nel giorno 11.
-
-Prove
-
-Investigation CD 14:
-
-I graffi sotto l’altare sono più profondi. È stato spostato più volte di recente.
-
-Disable Device CD 16:
-
-Il meccanismo non è una trappola complessa, ma è stato bloccato dall’interno con un contrappeso improvvisato.
-
-Strength CD 18:
-
-Possono forzare l’altare o la lastra, facendo molto rumore.
-
-Religion CD 15:
-
-L’altare è stato desacralizzato non con odio, ma con indifferenza. Come se per Vaeltharuun fosse solo una porta.
-
-Se aprono con delicatezza, ottengono vantaggio narrativo: possono sentire voci prima di scendere. Se aprono con forza, i non morti sotto sono già allertati.
-
-Fase 4 – Discesa nell’ossario
-
-Descrizione
-
-La scala sotto l’altare non è stata costruita per essere vista. Scende stretta, umida, con pietra antica e odore di alcool, calce, carne fredda e cera consumata. Più in basso, il rumore della città sparisce. Non perché sia lontana. Perché qui sotto sembra non avere diritto di entrare.
-
-Segni che fanno pensare al culto
-
-Lungo il passaggio ci sono altri simboli: bilance, linee, carboncino, graffi. Ma molti sono copiati male.
-
-Occult CD 17:
-
-Alcuni simboli sono troppo simili a quelli visti in città per essere ignorati.
-
-Occult CD 21:
-
-Però non sembrano tutti parte dello stesso rito. Alcuni sembrano copiati, reinterpretati o usati come appunti personali.
-
-Sense Motive CD 16, osservando gli appunti sui muri:
-
-Chi li ha tracciati non sembra un cultista organizzato. Sembra qualcuno che ha visto simboli altrove e li ha piegati alla propria ossessione.
-
-Questo è fondamentale: Vaeltharuun può aver copiato alcuni segni del culto perché li ha interpretati come simboli di bilanciamento vita/morte, perdita/restituzione, giorno/notte. I player possono crederlo responsabile dei simboli, ma in realtà lui è solo un altro uomo che ha visto pattern e li ha usati.
-
-Rumore casuale senza significato
-
-Una goccia cade ogni dieci secondi circa, poi smette.
-
-Un vecchio bottone è incastrato tra due pietre.
-
-Un teschio ha una crepa a forma di sorriso.
-
-Un filo rosso pende da una trave.
-
-Un insetto bianco attraversa una mandibola.
-
-Una piccola campanella rotta è appesa a un chiodo, ma non suona.
-
-Fase 5 – Primo laboratorio
-
-Prima del confronto, i player devono vedere l’orrore.
-
-Descrizione
-
-La stanza oltre la scala non è una cripta. È un laboratorio costruito dentro una cripta. Tavoli di pietra, ferri chirurgici, candele basse, bacinelle di calce, fiale scure, aghi, filo nero, pergamene macchiate. Alcuni corpi sono coperti. Altri no. La cosa peggiore non è la violenza. È la cura. Ogni taglio sembra fatto da mani che credevano di lavorare con amore.
-
-Indizi
-
-Medicine CD 14:
-
-Molti corpi sono stati studiati, non solo mutilati.
-
-Medicine CD 18:
-
-Gli esperimenti non puntavano a creare zombie. Puntavano a capire come preservare identità, memoria, struttura del corpo.
-
-Arcana / Occult CD 17:
-
-C’è necromanzia, ma mescolata a tentativi quasi disperati di imitare guarigione, resurrezione o trasmutazione.
-
-Religion CD 16:
-
-Questo posto non è un tempio profanato per odio. È una preghiera sbagliata diventata macelleria.
-
-Dialogo a distanza di Vaeltharuun
-
-Mentre esplorano, sentono la voce da più avanti. Non urla.
-
-"Non toccate ciò che non capite."
-
-Se i player rispondono:
-
-"Avete visto gli scarti. Non il lavoro."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Avete visto gli scarti. Non il lavoro."
 
 Se lo accusano:
 
-"Sì. Ho rubato ai morti. Ho spezzato corpi già spezzati. Non vi offrirò una menzogna più comoda."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Sì. Ho rubato ai morti. Ho spezzato corpi già spezzati. Non vi offrirò una menzogna più comoda."
 
-Fase 6 – La camera di Serena
+## Fase 6 - La Camera di Serena
 
-Prima del primo fight, devono vedere il motivo.
-
-Descrizione
-
-La stanza successiva è diversa. Pulita. Troppo pulita. Al centro, su un letto basso circondato da vetro, rame e candele bianche, giace il corpo di una donna. Non sembra viva. Non sembra marcia. Sembra trattenuta in un istante che il mondo ha dimenticato di concludere.
-
-È Serena Valeria.
+> [!readaloud] Serena
+> La stanza successiva è diversa. Pulita. Troppo pulita. Al centro, su un letto basso circondato da vetro, rame e candele bianche, giace il corpo di una donna. Non sembra viva. Non sembra marcia. Sembra trattenuta in un istante che il mondo ha dimenticato di concludere.
 
 Attorno:
 
-lettere di poveri;
+- lettere di poveri;
+- piccoli giocattoli donati da bambini;
+- pezzi di stoffa cuciti;
+- medicine vecchie;
+- una ciotola da minestra scheggiata;
+- fiori freschi;
+- una frase scritta da Serena a Vael.
 
-piccoli giocattoli donati da bambini;
+> [!readaloud] Frase di Serena
+> Non sei ciò che il mondo teme.
 
-pezzi di stoffa cuciti;
+| Prova | CD | Risultato |
+| --- | --- | --- |
+| Conoscere Serena | <span style="color:#2f9ed8"><strong>Conoscenze locali CD 14</strong></span> | Era amata davvero nei bassifondi |
+| Leggere la stanza | <span style="color:#2f9ed8"><strong>Religioni CD 15</strong></span> | È blasfema e devota insieme |
+| Capire il gesto | <span style="color:#8b5cf6"><strong>Intuizione CD 16</strong></span> | Non è possesso: è memoria trasformata in ossessione |
 
-medicine vecchie;
+## Fase 7 - Primo Confronto
 
-una ciotola da minestra scheggiata;
+> [!readaloud] Vaeltharuun
+> L'uomo che esce dall'ombra ha abiti nobili ma vecchi, curati più del suo corpo. È pallido in un modo che non appartiene alla malattia. Sembra che la luce fatichi a decidere dove finisca il suo contorno. Quando vi guarda, avete l'impressione assurda che per un istante contiate meno nella stanza. Non perché vi disprezzi. Perché la sua esistenza pesa male sul mondo.
 
-fiori freschi;
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Siete arrivati tardi per fermare il dolore. Ma forse in tempo per giudicare cosa ne ho fatto."
 
-una frase scritta da Serena a Vael.
+Se lo chiamano mostro:
 
-Frase:
-
-"Non sei ciò che il mondo teme."
-
-Prove
-
-Knowledge Local CD 14:
-
-Serena era davvero amata nei bassifondi. Non era una nobile che faceva carità per reputazione.
-
-Religion CD 15:
-
-La stanza è blasfema e devota allo stesso tempo. È amore trasformato in sacrilegio.
-
-Sense Motive CD 16:
-
-Tutto qui è disposto non per possesso, ma per memoria. Questo non lo rende giusto.
-
-Fase 7 – Primo confronto con Vaeltharuun
-
-Apparizione
-
-Vaeltharuun non deve apparire come un necromante urlante. Deve essere elegante, quasi consumato, con una presenza sbagliata.
-
-L’uomo che esce dall’ombra ha abiti nobili ma vecchi, curati più del suo corpo. È pallido in un modo che non appartiene alla malattia. Sembra che la luce fatichi a decidere dove finisca il suo contorno. Quando vi guarda, avete l’impressione assurda che per un istante contiate meno nella stanza. Non perché vi disprezzi. Perché la sua esistenza pesa male sul mondo.
-
-Dialogo iniziale
-
-"Siete arrivati tardi per fermare il dolore. Ma forse in tempo per giudicare cosa ne ho fatto."
-
-Se i player lo chiamano mostro:
-
-"Sì."
-
-Pausa.
-
-"La differenza tra noi è che io so da quanto tempo."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Sì. La differenza tra noi è che io so da quanto tempo."
 
 Se parlano di Serena:
 
-"Lei mi chiamava Vael. Non il Senza Eco. Non abominio. Non errore. Vael."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Lei mi chiamava Vael. Non il Senza Eco. Non abominio. Non errore. Vael."
 
-I quattro volontari sono presenti
+I quattro volontari sono in cerchi rituali, coscienti, pallidi e vivi.
 
-Sono disposti in quattro cerchi attorno alla camera rituale, coscienti, pallidi, deboli ma vivi. Legati non solo fisicamente: ci sono rune, fili d’argento, candele basse.
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Non li ho rapiti."
 
-Vaeltharuun:
+<span style="color:#6f4a8e"><strong>Livia Drusa</strong></span>: "È vero."
 
-"Non li ho rapiti."
+<span style="color:#7f5f2a"><strong>Marius Lentulo</strong></span>: "Sono venuto io."
 
-Livia:
+<span style="color:#2f7fb8"><strong>Cinna</strong></span>: "Ho firmato. Non con inchiostro, ma ho firmato."
 
-"È vero."
+<span style="color:#a0522d"><strong>Flavia</strong></span>: "Se lei torna, noi non siamo morti. Siamo stati usati bene."
 
-Marius:
+## Fase 8 - La Scelta
 
-"Sono venuto io."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Lasciatemi terminare. Nessun altro morirà stanotte. Quattro anime, offerte. Una vita restituita. Una donna che ha salvato più persone di quante voi ne abbiate mai incontrate."
 
-Cinna:
+Se dicono che è omicidio:
 
-"Ho firmato. Non con inchiostro, ma ho firmato."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Sì. E anche la guerra. Anche la fame. Anche lasciare un malato a marcire perché non ha abbastanza monete per un chierico. Ma quelle morti hanno firme più rispettabili."
 
-Flavia:
+Se vogliono fermarlo:
 
-"Se lei torna, noi non siamo morti. Siamo stati usati bene."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Fermatemi, allora. Salvate quattro persone che hanno scelto di morire. Lasciate morta l'unica che avrebbe saputo cosa fare di questa città."
 
-Questa frase deve fare male.
+Volontari:
 
-Fase 8 – La scelta viene proposta
+<span style="color:#6f4a8e"><strong>Livia Drusa</strong></span>: "Mio figlio è morto chiamandomi. Serena dava pane prima che la gente chiedesse."
 
-Vaeltharuun non attacca subito. Offre una scelta.
+<span style="color:#7f5f2a"><strong>Marius Lentulo</strong></span>: "Io non arrivo all'inverno. Lui mi ha dato una fine che serve."
 
-Scelta 1 – Lasciare completare il rituale
+<span style="color:#2f7fb8"><strong>Cinna</strong></span>: "Voi salvate gente e vi chiamano eroi. Io provo a salvare qualcuno morendo e mi chiamate vittima?"
 
-Vaeltharuun:
+<span style="color:#a0522d"><strong>Flavia</strong></span>: "La città consuma poveri ogni giorno. Almeno questa volta qualcuno importante torna indietro."
 
-"Lasciatemi terminare. Nessun altro morirà stanotte. Quattro anime, offerte. Una vita restituita. Una donna che ha salvato più persone di quante voi ne abbiate mai incontrate."
+## Fase 9A - Lasciano Completare il Rituale
 
-Se i player dicono che è omicidio:
+> [!danger] I volontari muoiono davvero
+> Non rendere il rituale pulito. La scelta deve pesare.
 
-"Sì. E anche la guerra. Anche la fame. Anche lasciare un malato a marcire perché non ha abbastanza monete per un chierico. Ma quelle morti hanno firme più rispettabili."
+> [!readaloud] Rituale
+> Le quattro candele basse iniziano a bruciare verso il basso, come se la fiamma stesse scavando nella cera. I volontari non urlano subito. Prima tremano. Poi piangono. Poi, uno alla volta, sembrano perdere peso nel mondo. Sul letto di vetro, Serena inspira.
 
-Scelta 2 – Fermarlo
+Serena torna, ma non trionfalmente.
 
-Vaeltharuun:
+<span style="color:#d6a500"><strong>[[Serena Valeria]]</strong></span>: "Vael..."
 
-"Fermatemi, allora. Salvate quattro persone che hanno scelto di morire. Lasciate morta l’unica che avrebbe saputo cosa fare di questa città."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Sei tornata."
 
-Se i player dicono che Serena non vorrebbe:
+<span style="color:#d6a500"><strong>[[Serena Valeria]]</strong></span>: "Cosa hai fatto con le mani che io avevo tenuto?"
 
-Vaeltharuun si incrina.
+### Lacrime di Ritorno
 
-"Non usate la sua voce. Non vi appartiene."
+> [!clue] Ricompensa necromantica
+> Vaeltharuun mantiene la promessa, ma la ricompensa è potente e sporca.
 
-Dialoghi dei volontari
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Non è una benedizione. Non chiamatela così. È un debito che ho imparato a comprimere nel vetro."
 
-Livia
+Effetto consigliato: una volta, quando un personaggio dovrebbe morire o fallire un TS contro morte, energia negativa o paura estrema, può rompere l'ampolla per stabilizzarsi, curare una quantità moderata o ritirare il TS. Dopo l'uso, sente per una notte le ultime parole di uno dei volontari.
 
-"Mio figlio è morto chiamandomi. Serena dava pane prima che la gente chiedesse. Se torna, forse altre madri non sentiranno quel suono."
+## Fase 9B - Fermarlo
 
-Marius
+> [!danger] Bossfight difficile
+> Il combattimento deve atterrare 1-2 PG se giocano male, ma non deve essere mortale quanto Arthemol. Vaeltharuun combatte soprattutto per guadagnare tempo.
 
-"Io non arrivo all’inverno. Lui mi ha dato una fine che serve."
+### Primo scontro - Vaeltharuun controllato
 
-Cinna
+Usa controllo, paura, muri, mani necromantiche, gelo e ossa. Non spreca azioni in danni inutili se può rallentare.
 
-"Voi salvate gente e vi chiamano eroi. Io provo a salvare qualcuno morendo e mi chiamate vittima?"
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Non state salvando loro. State salvando la vostra immagine di voi stessi."
 
-Flavia
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Chiedete a Livia se vuole vivere. Guardatela. Chiedeteglielo."
 
-"La città consuma poveri ogni giorno. Almeno questa volta qualcuno importante torna indietro."
+Sotto il 50% PF:
 
-Nessuna risposta deve essere comoda.
+> [!readaloud] Fuga d'ombra
+> Il colpo lo piega. Per la prima volta, Vaeltharuun sembra davvero presente, davvero feribile. Poi il suo volto si indurisce. "No. Non ora." La sua ombra si stacca dal corpo prima di lui. Quando il corpo la raggiunge, non è più lì.
 
-Fase 9 – Se i player scelgono di lasciar morire i volontari
+### Fase zombie
 
-Il rituale procede. Non c’è fight con Vaeltharuun, ma ci può essere tensione: i volontari soffrono, Serena respira, la stanza si altera.
+Vaeltharuun libera 8 zombie/scheletri. Il pericolo è numero + timer.
 
-Descrizione rituale
+| Round | Effetto rituale |
+| --- | --- |
+| 3 | Un volontario inizia a morire |
+| 5 | Il primo volontario muore |
+| 7 | Il secondo volontario muore |
+| 9 | Il rituale è quasi irreversibile |
 
-Le quattro candele basse iniziano a bruciare verso il basso, come se la fiamma stesse scavando nella cera. I volontari non urlano subito. Prima tremano. Poi piangono. Poi, uno alla volta, sembrano perdere peso nel mondo. Sul letto di vetro, Serena inspira.
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Ogni secondo che perdete qui è una scelta. Non fingete che sia solo colpa mia."
 
-I volontari muoiono davvero.
+<span style="color:#a0522d"><strong>Flavia</strong></span>: "Non fermatelo! Non adesso!"
 
-Non renderlo pulito.
+<span style="color:#2f7fb8"><strong>Cinna</strong></span>: "Se dovete salvarmi, almeno guardatemi in faccia mentre mi rubate la morte."
 
-Quando l’ultima anima lascia il cerchio, la stanza non si illumina. Si svuota. Come se qualcosa avesse preso quattro vite e, per un istante, non sapesse ancora se restituirne una.
+<span style="color:#6f4a8e"><strong>Livia Drusa</strong></span>: "Io non so più cosa voglio."
 
-Serena torna?
+### Secondo scontro - Vaeltharuun furioso
 
-Sì, ma non trionfalmente.
+Ora prova a uccidere almeno un PG se gliene danno occasione.
 
-Serena apre gli occhi. È viva, o abbastanza viva da parlare. La prima cosa che vede sono i corpi dei volontari.
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Mi avete seguito nella tomba e ora vi stupite che io sappia seppellire."
 
-Serena:
+Contro un paladino:
 
-"Vael…"
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "La tua luce arriva sempre dopo. È questo il problema della luce."
 
-Lui crolla quasi.
+Contro magia distruttiva:
 
-"Sei tornata."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "Sì. Bruciate pure. È quello che fanno i vivi quando non sanno guarire."
 
-Serena:
+### Parlare durante lo scontro
 
-"Cosa hai fatto con le mani che io avevo tenuto?"
+| Argomento forte | CD | Effetto |
+| --- | --- | --- |
+| Serena proteggeva i poveri; tu li hai usati | <span style="color:#d6a500"><strong>Diplomazia CD 20</strong></span> | Vaeltharuun esita 1 round |
+| Lei ti chiamava Vael; non ti avrebbe chiesto questo | <span style="color:#d6a500"><strong>Diplomazia CD 20</strong></span> | Perde un'azione offensiva |
+| Se torna e vede il prezzo, ti odierà | <span style="color:#d6a500"><strong>Diplomazia CD 20</strong></span> | Il timer può rallentare di 1 round |
 
-Questa frase è la condanna morale.
+## Fermare il Rituale
 
-Ricompensa del necromante
+| Opzione | Requisiti | Esito |
+| --- | --- | --- |
+| Uccidere Vaeltharuun | Combattimento | Rituale collassa; volontari sopravvivono se in tempo |
+| Spezzare senza ucciderlo | <span style="color:#2f9ed8"><strong>Religioni CD 18</strong></span>, <span style="color:#2f9ed8"><strong>Arcana/Occulto CD 19</strong></span>, <span style="color:#8b5cf6"><strong>Medicine CD 15</strong></span>, qualcuno lo tiene occupato | Vaeltharuun sopravvive, Serena resta morta, volontari vivono |
+| Distruggere il corpo di Serena | Scelta brutale | Rituale spezzato; Vaeltharuun perde lucidità e attacca con tutto |
 
-Vaeltharuun mantiene la promessa, ma la ricompensa deve essere potente e sporca.
+Se distruggono Serena:
 
-Ricompensa: Quattro Lacrime di Ritorno
-
-In realtà ne consegna una per ogni player, o due se vuoi tenerla più controllata.
-
-Descrizione:
-
-Vaeltharuun vi consegna piccole ampolle di vetro scuro, fredde all’esterno e tiepide al centro. Dentro non c’è liquido. C’è qualcosa che si muove come un respiro.
-
-Effetto consigliato:
-
-Una volta, quando un personaggio dovrebbe morire o fallire un TS contro morte/energia negativa/paura estrema, può rompere l’ampolla.
-
-L’effetto stabilizza immediatamente, cura una quantità moderata, o permette di ritirare il TS.
-
-Dopo l’uso, chi l’ha usata sente per una notte le ultime parole di uno dei volontari.
-
-Alternativa più semplice:
-
-Ogni ampolla funziona come una pozione superiore/effetto di revivify narrativo limitato: se usata entro 1 round dalla morte, riporta il bersaglio a 1 PF, ma lascia una cicatrice necromantica.
-
-Vaeltharuun:
-
-"Non è una benedizione. Non chiamatela così. È un debito che ho imparato a comprimere nel vetro."
-
-Conseguenze morali
-
-I quattro volontari sono morti.
-
-Serena è tornata e odia ciò che è stato fatto.
-
-Vaeltharuun è spezzato, non felice.
-
-I player hanno permesso un miracolo mostruoso.
-
-Se Marcia o il tempio lo scoprono, la reazione può essere durissima.
-
-Feeling:
-
-"Avete lasciato morire quattro persone che avevano scelto di morire. Avete riportato indietro una donna che non voleva essere comprata così."
-
-Fase 10 – Se i player scelgono di fermarlo
-
-Il combattimento parte. Non deve essere mortale quanto Arthemol, ma deve essere difficile. Obiettivo di design: atterrare 1–2 player, forse ucciderne uno se giocano male o se Vaeltharuun arriva alla fase finale molto forte. Non TPK.
-
-Primo fight: Vaeltharuun controllato
-
-Vaeltharuun non combatte subito per uccidere. Combatte per guadagnare tempo e completare il rituale.
-
-Tono
-
-Usa controllo, paura, muri, mani necromantiche, gelo, ossa.
-
-Non spreca azioni in danni inutili se può rallentare.
-
-Parla molto.
-
-I volontari parlano durante il fight.
-
-Vaeltharuun:
-
-"Non state salvando loro. State salvando la vostra immagine di voi stessi."
-
-"Chiedete a Livia se vuole vivere. Guardatela. Chiedeteglielo."
-
-Livia, debole:
-
-"Non decidete per me…"
-
-Marius:
-
-"Lasciatemi finire almeno una cosa."
-
-Quando Vaeltharuun scende sotto il 50%
-
-Si teletrasporta lontano, verso la camera rituale o dietro una barriera di ossa, e interrompe il combattimento diretto.
-
-Descrizione:
-
-Il colpo lo piega. Per la prima volta, Vaeltharuun sembra davvero presente, davvero feribile. Poi il suo volto si indurisce. "No. Non ora." La sua ombra si stacca dal corpo prima di lui. Quando il corpo la raggiunge, non è più lì.
-
-Evocazione degli 8 zombie
-
-Vaeltharuun evoca o libera 8 zombie/scheletri. Non devono essere fortissimi singolarmente; il pericolo è il numero, il blocco, il tempo che passa.
-
-Descrizione:
-
-Le pareti dell’ossario rispondono prima del pavimento. Nicchie, teli, mucchi di ossa: tutto si muove. Otto corpi si sollevano insieme, alcuni con pelle, altri solo con ossa e brandelli di stoffa. Non avanzano come soldati. Avanzano come porte che si chiudono.
-
-Obiettivo della fase zombie
-
-Non è solo uccidere zombie. È raggiungere Vaeltharuun prima che il rituale completi una soglia.
-
-Usa un timer semplice:
-
-dopo 3 round, un volontario inizia a morire;
-
-dopo 5 round, il primo volontario muore;
-
-dopo 7 round, il secondo muore;
-
-dopo 9 round, il rituale è quasi irreversibile.
-
-Puoi modificare in base al tavolo.
-
-Dialoghi durante la fase zombie
-
-Vaeltharuun, da lontano:
-
-"Ogni secondo che perdete qui è una scelta. Non fingete che sia solo colpa mia."
-
-Flavia:
-
-"Non fermatelo! Non adesso!"
-
-Cinna:
-
-"Se dovete salvarmi, almeno guardatemi in faccia mentre mi rubate la morte."
-
-Livia, piangendo:
-
-"Io non so più cosa voglio."
-
-Questa frase è importante: incrina la certezza dei volontari.
-
-Fase 11 – Secondo fight: Vaeltharuun furioso
-
-Quando i player superano gli zombie/scheletri e arrivano a lui, parte il secondo fight. Ora Vaeltharuun non è più controllato. È arrabbiato, ferito e disperato.
-
-Tono
-
-Ora punta a uccidere almeno un player, se non lo ha già fatto. Non perché sia tatticamente ottimale soltanto, ma perché sente che gli stanno togliendo Serena una seconda volta.
-
-Vaeltharuun:
-
-"Mi avete seguito nella tomba e ora vi stupite che io sappia seppellire."
-
-Se il paladino lo affronta:
-
-"La tua luce arriva sempre dopo. È questo il problema della luce."
-
-Se lo stregone usa magia distruttiva:
-
-"Sì. Bruciate pure. È quello che fanno i vivi quando non sanno guarire."
-
-Se il ladro/stregone lo colpisce alle spalle:
-
-"Almeno tu non fingi che questo sia giustizia."
-
-Se il bardo/guerriero prova a parlare:
-
-"Le parole sono state il primo rituale. Non credere che le tue siano più pure delle mie."
-
-I volontari durante il secondo fight
-
-I volontari possono implorare di non interrompere, chiedere aiuto, cambiare idea o morire se il rituale è avanzato.
-
-Possibili battute
-
-Livia:
-
-"Voglio mio figlio… ma non così… non lo so… non lo so…"
-
-Marius:
-
-"Non fatemi tornare inutile."
-
-Cinna:
-
-"Se mi salvate, poi cosa? Mi perdonate anche voi?"
-
-Flavia:
-
-"Serena avrebbe scelto noi. Serena avrebbe scelto Roma."
-
-Possibile svolta
-
-Se i player riescono a parlare mentre combattono, possono incrinare Vaeltharuun.
-
-Diplomacy CD 20 durante il fight, solo con argomento forte legato a Serena.
-
-Successo:
-
-Vaeltharuun perde un’azione offensiva o esita per un round.
-
-Frasi efficaci:
-
-Serena proteggeva i poveri. Tu li hai usati.
-
-Lei ti chiamava Vael. Non ti avrebbe chiesto questo.
-
-Se torna e vede il prezzo, ti odierà.
-
-Non stai riportando lei. Stai riportando il tuo bisogno.
-
-Non deve fermarsi completamente, ma può esitare. Questo premia roleplay.
-
-Fase 12 – Fermare o uccidere Vaeltharuun
-
-I player possono fermarlo in vari modi.
-
-Opzione A – Ucciderlo
-
-Il rituale collassa. I volontari sopravvivono se non sono già morti nel timer.
-
-Descrizione:
-
-Quando Vaeltharuun cade, il laboratorio non esplode. Peggio. Si spegne. Le candele diventano fumo. I fili d’argento cadono senza peso. Per un istante, il corpo di Serena sembra quasi inspirare. Poi torna immobile.
-
-Opzione B – Spezzare il rituale senza ucciderlo
-
-Serve una combinazione difficile:
-
-Religion CD 18;
-
-Arcana / Occult CD 19;
-
-Medicine CD 15 per stabilizzare i volontari;
-
-qualcuno deve tenere Vaeltharuun occupato;
-
-eventualmente sacrificare oggetti, componenti o una ricompensa.
-
-Esito:
-
-Vaeltharuun sopravvive ma è sconfitto;
-
-Serena non torna;
-
-i volontari vivono;
-
-Vaeltharuun può essere consegnato, imprigionato, lasciato fuggire o finito.
-
-Opzione C – Distruggere il corpo di Serena
-
-È la scelta più brutale e più efficace.
-
-Se lo fanno, Vaeltharuun perde lucidità.
-
-"No."
+<span style="color:#8b1e1e"><strong>[[Veltharuun|Vaeltharuun]]</strong></span>: "No."
 
 Non urlato. Detto come se il mondo fosse appena finito.
 
-Poi attacca con tutto.
+## Sfere di Energia
 
-Questa scelta ferma il rituale, ma deve sembrare moralmente sporca. Hanno distrutto un corpo amato, forse l’unica cosa che teneva Vaeltharuun ancora ragionevole.
+> [!readaloud] Sfere
+> Quando l'ultimo filo rituale si spezza, l'energia non esplode. Si raccoglie. Due sfere grandi quanto un cuore umano restano sospese sopra il pavimento. Non fanno luce come fuoco. Fanno luce come memoria. Dentro ognuna si vedono frammenti impossibili: una mano che offre pane, un bambino che ride, una tomba richiusa, un volto che quasi prende forma e poi svanisce.
 
-Ricompensa se fermano/uccidono il necromante: le due sfere di energia
+Effetto: ogni sfera può essere assorbita da un personaggio consenziente. Quel personaggio guadagna immediatamente 1 livello. Funziona una sola volta per personaggio. Ci sono solo due sfere.
 
-Quando Vaeltharuun viene fermato o ucciso, il rituale collassa. Non tutta l’energia si disperde. Due nuclei restano sospesi nell’aria.
+| Prova | CD | Risultato |
+| --- | --- | --- |
+| Arcana | <span style="color:#2f9ed8"><strong>Arcana CD 16</strong></span> | Energia rituale condensata |
+| Religioni | <span style="color:#2f9ed8"><strong>Religioni CD 17</strong></span> | Non sono benedizioni divine |
+| Occulto | <span style="color:#2f9ed8"><strong>Occulto CD 18</strong></span> | Residuo di rito di passaggio incompleto |
+| Sapienza Magica | <span style="color:#2f9ed8"><strong>Sapienza Magica CD 19</strong></span> | Una sola sfera può legarsi a una singola anima |
+| Intuizione | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Non sono pure, ma non sono malvagie |
 
-Descrizione delle sfere
+Se lo stesso PG prova ad assorbirne due: la seconda non funziona e non viene consumata.
 
-Quando l’ultimo filo rituale si spezza, l’energia non esplode. Si raccoglie. Due sfere grandi quanto un cuore umano restano sospese sopra il pavimento. Non fanno luce come fuoco. Fanno luce come memoria. Dentro ognuna si vedono frammenti impossibili: una mano che offre pane, un bambino che ride, una tomba richiusa, un volto che quasi prende forma e poi svanisce. Il colore cambia lentamente dal bianco caldo al grigio, poi all’oro pallido.
+## Indizi
 
-Non sembrano monete, gemme o oggetti comuni. Sembrano vite non spese.
+| Indizio | CD | Dove | PNG coinvolti | Cosa sembra | Cosa significa davvero | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Simboli a carboncino | <span style="color:#2f9ed8"><strong>INT CD 15-21</strong></span> | Cappella e ossario | Vaeltharuun indiretto | Culto o necromante collegati | Vael ha copiato o reinterpretato simboli esterni | Può creare falsa spiegazione sul culto |
+| Quattro volontari coscienti | Nessuna | Camera rituale | Livia, Marius, Cinna, Flavia | Sacrificio volontario | Consenso manipolato dalla disperazione | Scelta morale sporca |
+| Corpo di Serena conservato | Nessuna | Camera di Serena | Serena, Vael | Ossessione romantica | Centro emotivo e morale del necromante | Distruggerlo funziona ma pesa |
+| Laboratorio curato | <span style="color:#8b5cf6"><strong>SAG CD 14-18</strong></span> | Laboratorio | Vael | Necromanzia | Tentativo di resurrezione, non zombie | Sottovalutare l'orrore |
+| Frase di Serena | Nessuna | Camera di Serena | Serena, Vael | Ricordo personale | Serena vedeva Vael come persona | Può incrinarlo |
+| Rituale con quattro anime | <span style="color:#2f9ed8"><strong>INT CD 17-19</strong></span> | Camera rituale | Volontari | Resurrezione proibita | Può funzionare a prezzo reale | Timer mortale |
+| Sfere di energia | <span style="color:#2f9ed8"><strong>INT CD 16-19</strong></span> | Collasso rituale | Nessuno | Residuo magico | Vite/memorie condensate | Ricompensa potente e sporca |
+| Lacrime di Ritorno | <span style="color:#2f9ed8"><strong>INT CD 17-19</strong></span> | Esito rituale completato | Vael | Ricompensa necromantica | Debito di morte compresso in vetro | Conseguenze morali |
 
-Cosa fanno
+## Esiti Finali
 
-Ogni sfera può essere assorbita da un personaggio consenziente.
+| Esito | Conseguenza | Sensazione |
+| --- | --- | --- |
+| Lasciano completare | I volontari muoiono, Serena torna e condanna Vaeltharuun | "Non li avete uccisi voi. Ma siete rimasti a guardare." |
+| Uccidono Vaeltharuun | Il rituale collassa, volontari salvi se in tempo, Serena resta morta | "Avete salvato quattro vite. Non avete chiesto se volevano ancora essere salvate." |
+| Lo fermano senza ucciderlo | Volontari vivi, Serena morta, Vaeltharuun giudicabile | "Avete fermato il rituale. Non avete chiuso il dolore." |
+| Distruggono Serena | Rituale spezzato, Vaeltharuun crolla o impazzisce | "Avete impedito il miracolo distruggendo ciò che ne restava." |
+| Falliscono | Uno o più volontari muoiono; possibile Serena incompleta o fuga di Vael | "Il rituale non vi ha aspettato." |
 
-Effetto:
+## Rumore Casuale Obbligatorio
 
-quel personaggio guadagna immediatamente 1 livello;
+> [!note] Dettagli senza significato
+> Un topo dietro l'altare, una candela piegata dal calore, una macchia d'umidità a forma di mano, tre chiodi su una panca, una bottiglia vuota dietro una statua, un bottone tra le pietre, un teschio con crepa simile a sorriso, un insetto bianco su una mandibola, una campanella rotta che non suona, un filo rosso appeso a una trave.
 
-l’effetto funziona una sola volta per personaggio;
+Normalizza se i PG si fissano. In questa quest ci sono simboli veri, simboli copiati, simboli falsi e rumore.
 
-ci sono solo due sfere.
+## Note GM
 
-Quando un personaggio la assorbe:
+> [!danger] Gestione dello scontro
+> Lo scontro deve essere difficile, non mortale come Arthemol. Se i PG giocano bene, vincono con paura e ferite. Se giocano male, almeno uno può morire o due possono cadere. Vaeltharuun è pericoloso soprattutto perché il rituale continua mentre lui li rallenta.
 
-La sfera entra nel petto senza ferire. Per un istante, il personaggio sente ricordi che non sono suoi: fame, mani calde, una porta aperta, il nome Serena pronunciato da voci diverse. Poi tutto si comprime in forza, esperienza, istinto. Non è addestramento. È vita vissuta da altri che diventa vostra.
+> [!note] Funzione della falsa pista
+> La falsa associazione con il culto è utile. I PG possono uscire pensando che forse molti simboli visti finora fossero del necromante. Questo mantiene il culto nascosto ancora per un po'.
 
-Quando provano a usarne una seconda
-
-Se lo stesso personaggio prova ad assorbire una seconda sfera:
-
-La seconda sfera si avvicina al petto, poi si ferma. Per un istante vibra, come se cercasse una porta già chiusa. La luce si spegne quasi del tutto, poi torna a galleggiare lontano da voi. Non c’è dolore. Solo una certezza improvvisa: qualunque cosa sia, non può riempire due volte lo stesso vuoto.
-
-Effetto:
-
-non funziona;
-
-la sfera non viene consumata;
-
-un altro personaggio può usarla.
-
-Prove per capire cosa sono
-
-Arcana CD 16:
-
-Non sono oggetti magici comuni. Sono energia rituale condensata, stabilizzata dal collasso del rito.
-
-Religion CD 17:
-
-Non sembrano benedizioni divine. Non provengono direttamente da Sarenrae. Sono più simili a vite, memorie e sacrifici trattenuti.
-
-Occult CD 18:
-
-Le sfere sono il residuo di un rito di passaggio non completato. Dovevano alimentare una resurrezione, ma senza destinazione finale sono diventate potenziale grezzo.
-
-Spellcraft CD 19:
-
-Ogni sfera può legarsi a una sola anima vivente, espandendone capacità, memoria corporea e potere. Forzarne due nello stesso corpo fallirebbe o rischierebbe danni gravi.
-
-Sense Motive CD 15, osservandole:
-
-Non sono pure. Ma non sono malvagie. Sono il risultato di una cosa sbagliata che non è arrivata fino in fondo.
-
-Reazione morale
-
-Questa ricompensa deve essere potente, ma sporca. Chi assorbe una sfera può avere per una notte sogni dei volontari o di Serena. Non penalità meccanica obbligatoria, ma peso narrativo.
-
-Esempi:
-
-sente Livia chiamare il figlio;
-
-sogna Marius che ride da giovane;
-
-sente Cinna sussurrare “almeno tu usala bene”;
-
-vede Flavia inginocchiata davanti a una targa di Serena.
-
-Esiti finali
-
-Esito A – Lasciano completare il rituale
-
-I volontari muoiono. Serena torna, ma condanna Vaeltharuun. Il necromante ricompensa i player con le Lacrime di Ritorno.
-
-Moralità: hanno rispettato la volontà dei volontari, ma hanno permesso un sacrificio costruito su disperazione e manipolazione.
-
-Feeling:
-
-"Non li avete uccisi voi. Ma siete rimasti a guardare mentre morivano."
-
-Esito B – Uccidono Vaeltharuun
-
-Il rituale collassa. I volontari sopravvivono se salvati in tempo. Serena resta morta. I player ottengono due sfere di energia.
-
-Moralità: hanno fermato un mostro, ma hanno negato ai volontari la loro scelta e forse l’unico ritorno possibile di Serena.
-
-Feeling:
-
-"Avete salvato quattro vite. Non avete chiesto se volevano ancora essere salvate."
-
-Esito C – Fermano Vaeltharuun senza ucciderlo
-
-Il rituale collassa. I volontari sopravvivono. Serena resta morta. Vaeltharuun può essere consegnato, imprigionato o lasciato andare.
-
-Moralità: scelta più compassionevole, ma anche più instabile. Vaeltharuun potrebbe tornare. Le vittime delle sue profanazioni potrebbero non accettare misericordia.
-
-Feeling:
-
-"Avete fermato il rituale. Non avete chiuso il dolore che l’ha creato."
-
-Esito D – Distruggono il corpo di Serena
-
-Il rituale viene spezzato brutalmente. Vaeltharuun crolla o impazzisce. I volontari sopravvivono, ma alcuni li odieranno.
-
-Moralità: scelta efficace, ma crudele. Hanno distrutto il centro emotivo di una tragedia.
-
-Feeling:
-
-"Avete impedito il miracolo distruggendo ciò che ne restava."
-
-Esito E – Falliscono durante il fight
-
-Vaeltharuun completa parte del rituale. Uno o più volontari muoiono. Serena potrebbe tornare incompleta, o il rituale potrebbe produrre un risultato peggiore.
-
-Possibili conseguenze:
-
-Serena torna per pochi minuti;
-
-Serena torna viva ma fragile;
-
-Serena non torna, ma i volontari muoiono;
-
-Vaeltharuun fugge con il corpo;
-
-nasce una nuova creatura incompleta.
-
-Clues Summary
-
-Indizio
-
-CD
-
-Cosa sembra
-
-Cosa significa davvero
-
-Simboli a carboncino nella cappella
-
-15–21
-
-culto/necromante collegati
-
-Vael ha copiato o reinterpretato simboli esterni
-
-Quattro volontari coscienti
-
-nessuna
-
-sacrificio volontario
-
-consenso manipolato dalla disperazione
-
-Corpo di Serena conservato
-
-nessuna
-
-ossessione romantica
-
-centro emotivo e morale del necromante
-
-Laboratorio curato
-
-14–18
-
-necromanzia
-
-tentativo di resurrezione umana, non zombie
-
-Frase “Non sei ciò che il mondo teme”
-
-nessuna
-
-ricordo personale
-
-Serena vedeva Vael come persona
-
-Rituale con quattro anime
-
-17–19
-
-resurrezione proibita
-
-può funzionare, ma a prezzo reale
-
-Sfere di energia
-
-16–19
-
-residuo magico
-
-vite/memorie condensate dal rito collassato
-
-Lacrime di Ritorno
-
-17–19
-
-ricompensa necromantica
-
-debito di morte compresso in vetro
-
-Rumore casuale obbligatorio
-
-Dettagli senza significato:
-
-un topo dietro l’altare;
-
-una candela piegata dal calore;
-
-una macchia d’umidità a forma di mano;
-
-tre chiodi su una panca;
-
-una bottiglia vuota dietro una statua;
-
-un bottone tra le pietre della scala;
-
-un teschio con una crepa simile a sorriso;
-
-un insetto bianco su una mandibola;
-
-una campanella rotta che non suona;
-
-un filo rosso appeso a una trave.
-
-Normalizza se i player si fissano. In questa quest ci sono simboli veri, simboli copiati, simboli falsi e rumore. Questo deve aumentare la confusione, non chiarirla tutta.
-
-DM Notes
-
-Questa quest deve essere moralmente scomoda. Non rendere Vaeltharuun innocente. Ha fatto cose orribili. Non rendere neanche i volontari semplici vittime senza voce. Devono parlare, difendere la loro scelta, incrinarsi, contraddirsi. Il centro della quest è proprio questo: nessuno è abbastanza puro da rendere la decisione facile.
-
-Il fight deve essere difficile, non mortale come Arthemol. Se i player giocano bene, devono vincere con paura e ferite. Se giocano male, almeno uno può morire o due possono cadere. Vaeltharuun deve essere pericoloso soprattutto perché il rituale continua mentre lui li rallenta.
-
-Non dare ai player una soluzione pulita a meno che non se la costruiscano con roleplay molto forte, sacrifici, prove alte e scelte creative. Anche in quel caso, la soluzione deve lasciare conseguenze.
-
-La falsa associazione con il culto è utile: i player possono uscire pensando che forse molti simboli visti finora erano del necromante. Questo aiuta a mantenere il culto nascosto ancora per un po’.
-
-Feeling finale generale:
-
-"Avete fermato qualcosa. O avete permesso qualcosa. In entrambi i casi, sotto la cappella vecchia, qualcuno ha perso il diritto di sentirsi innocente."
+> [!summary] Sensazione finale generale
+> Avete fermato qualcosa. O avete permesso qualcosa. In entrambi i casi, sotto la cappella vecchia, qualcuno ha perso il diritto di sentirsi innocente.

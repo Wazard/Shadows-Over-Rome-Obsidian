@@ -15,13 +15,44 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day4/Day4_Guardie_richieste_per
 ---
 # Guards Needed for Short Transport
 
+> [!motive] Motivo
+> I PG hanno un motivo pratico per accettare questa quest: seguire il gancio descritto sotto, ottenere la ricompensa o il favore previsto, e capire come la pressione locale di [[Day 04]] sta toccando il quartiere. Questa sezione orienta la gestione al tavolo senza sostituire il testo giocabile già presente.
+
+> [!summary] Riassunto
+> Quest di [[Day 04]] centrata su **Guards Needed for Short Transport**. Il contenuto sotto mantiene gancio, scene, indizi, prove e conseguenze già scritte; questa apertura serve a renderla leggibile secondo [[quest_markdown_rules]].
+
+> [!success] Esiti possibili
+> - **Successo pieno:** i PG risolvono la richiesta principale, ottengono la ricompensa prevista e lasciano PNG o quartiere in posizione migliore.
+> - **Successo parziale:** i PG completano solo parte dell'obiettivo, ottengono meno fiducia o meno informazioni, ma mantengono una pista giocabile.
+> - **Fallimento:** la situazione peggiora, la ricompensa si riduce o sparisce, e la pressione della città avanza.
+> - **Conseguenza futura:** indizi, reputazione e reazioni dei PNG vanno riportati nelle sessioni successive se emergono al tavolo.
+
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 04]] |
+| Luogo | Vedi testo |
+| PNG coinvolti | [[Borin Martelferro]], [[Brutus Verro]], [[Cesta]], [[Corda]], [[Marcia]] |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#3f8f4c"><strong>COS</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Vedi testo: nessuno, possibile, probabile o boss secondo le sezioni sotto |
+| Ricompensa | Vedi testo |
+
+## PNG e Colori
+
+| PNG | Colore dialogo |
+| --- | --- |
+| <span style="color:#3366cc"><strong>[[Borin Martelferro]]</strong></span> | `#3366cc` |
+| <span style="color:#7f5f2a"><strong>[[Brutus Verro]]</strong></span> | `#7f5f2a` |
+| <span style="color:#4f6f52"><strong>[[Cesta]]</strong></span> | `#4f6f52` |
+| <span style="color:#2f7fb8"><strong>[[Corda]]</strong></span> | `#2f7fb8` |
+| <span style="color:#8b1e1e"><strong>[[Marcia]]</strong></span> | `#8b1e1e` |
+
 ## Festival Calendar Context
 
 ## Deeper Investigation Clues
 
 | Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
 | --- | --- | --- | --- | --- | --- | --- |
-| Guard patrol gap during short transport | Perception DC 14; Knowledge Local DC 15 | Market-to-warehouse route | Possible bandit pressure | [[Flavia Ronda]], [[Cotta]] | Some patrol gaps are convenient rather than accidental | Direct accusation alerts corrupt guard contacts |
+| Guard patrol gap during short transport | <span style="color:#8b5cf6"><strong>Perception DC 14</strong></span>; <span style="color:#2f9ed8"><strong>Knowledge Local DC 15</strong></span> | Market-to-warehouse route | Possible bandit pressure | [[Flavia Ronda]], [[Cotta]] | Some patrol gaps are convenient rather than accidental | Direct accusation alerts corrupt guard contacts |
 
 - Calendar: [[Day 04]] is Desnus 4, 3608.
 - Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.
@@ -101,7 +132,7 @@ Fase 1 – Alla ferramenta di Borin
 
 La quest parte dalla bottega di Borin. La scena deve mostrare un artigiano sotto pressione, ma ancora orgoglioso. Non vuole protezione per paura: la vuole perché qualcuno sta iniziando a trasformare le strade in proprietà private.
 
-Descrizione da leggere
+> [!readaloud] Descrizione da leggere
 
 La ferramenta di Borin è calda, rumorosa e troppo ordinata per essere davvero tranquilla. Armi, chiodi, ferri, cerniere e strumenti pendono da pareti annerite. Il nano non vi saluta subito: finisce di martellare un pezzo di metallo, lo immerge nell'acqua e solo quando il vapore si alza vi guarda.
 
@@ -193,25 +224,25 @@ Risultato
 
 Controllare il carro
 
-Perception CD 14
+<span style="color:#8b5cf6"><strong>Perception CD 14</strong></span>
 
 Notano che una ruota è stata allentata leggermente durante la notte.
 
 Riparare/preparare il carro
 
-Craft CD 14
+<span style="color:#2f9ed8"><strong>Craft CD 14</strong></span>
 
 Evitano che la ruota dia problemi durante il confronto.
 
 Organizzare formazione
 
-Knowledge Tactics o Perception CD 15
+Knowledge Tactics o <span style="color:#8b5cf6"><strong>Perception CD 15</strong></span>
 
 Ottengono vantaggio narrativo se parte un fight o un blocco.
 
 Parlare con Doria
 
-Diplomacy CD 13
+<span style="color:#d6a500"><strong>Diplomacy CD 13</strong></span>
 
 Doria avvisa che la strada dei depositi è diventata 'stranamente stretta' negli ultimi giorni.
 
@@ -219,11 +250,11 @@ Fase 3 – Il tragitto
 
 Durante il tragitto, mostra la città che continua a funzionare ma con attrito crescente. Non è ancora caos aperto, ma ogni passaggio sembra più complicato del necessario.
 
-Descrizione da leggere
+> [!readaloud] Descrizione da leggere
 
 Il carro avanza lentamente tra pietre sconnesse, facchini, animali nervosi e gente che si sposta solo all'ultimo momento. Doria tiene le redini corte. Borin cammina accanto al carico, una mano vicino al martello. Sopra le ruote, il ferro batte piano contro il legno, come una piccola campana stonata.
 
-Rumore casuale
+> [!note] Rumore casuale
 
 Una gallina scappa da una cesta e attraversa la strada davanti al carro.
 
@@ -239,7 +270,7 @@ Fase 4 – Il blocco vicino ai depositi
 
 Due o tre braccianti pagati bloccano la strada. Non estraggono subito armi. Cercano di far deviare il carro con la scusa di lavori, controlli o pericolo. Devono sembrare abbastanza sospetti da creare tensione, ma non abbastanza organizzati da ricordare Aulus.
 
-Descrizione da leggere
+> [!readaloud] Descrizione da leggere
 
 Davanti a uno dei depositi, tre uomini stanno spostando casse vuote con molta lentezza e poca convinzione. Uno di loro alza una mano quando il carro si avvicina. Non ha uniforme, non ha stemma, non ha autorità. Ha solo spalle larghe e il tono di chi è stato pagato per non spostarsi.
 
@@ -273,19 +304,19 @@ Risultato
 
 Diplomazia
 
-Diplomacy CD 16
+<span style="color:#d6a500"><strong>Diplomacy CD 16</strong></span>
 
 I braccianti si spostano dopo aver ottenuto promessa di non creare problemi, ma qualcuno corre ad avvisare il deposito.
 
 Intimidazione
 
-Intimidation CD 15
+<span style="color:#d6a500"><strong>Intimidation CD 15</strong></span>
 
 Si spostano, ma ricordano i player. Se li incontrano dopo, saranno ostili.
 
 Bluff autorità della Gilda
 
-Bluff CD 16
+<span style="color:#d6a500"><strong>Bluff CD 16</strong></span>
 
 Credono che Borin abbia mandato formale e lasciano passare.
 
@@ -411,6 +442,6 @@ Il carico viene danneggiato o rubato
 
 Quest opzionale: Attrezzi e ferri da recuperare, postabile giorno 5 o 6.
 
-DM Notes
+> [!note] Note GM
 
 Questa quest deve differenziarsi da Aulus. I braccianti non sono criminali professionisti: sono uomini pagati, poveri o corrotti, disposti a fare pressione per conto di qualcuno più ricco. Questo mantiene Brutus Verro come falsa pista commerciale, senza anticipare troppo la rete violenta.

@@ -12,605 +12,371 @@ NPCs:
   - "[[Sabina]]"
   - "[[Tullio]]"
 source: "Wazard/Shadows-over-Rome@gpt-main/phase 2/quests/Day13_14_Bestia_nei_bassifondi.docx"
+merged_from:
+  - "Wazard/Shadows-over-Rome@gpt-main/phase 2/quests/Day13_14_Arthemol_Coro_di_Carne_Quest.docx"
 ---
 # Day 13 - 14 Bestia nei bassifondi
 
-## Festival Calendar Context
+> [!motive] Motivo
+> Il Governo Centrale paga una ricompensa eccezionale perché qualcosa sta uccidendo nei bassifondi e le guardie ordinarie non riescono a gestire la minaccia. I PG hanno una ragione concreta per accettare: denaro alto, pressione pubblica, indizi già raccolti su cadaveri manipolati e possibilità di collegare la bestia alla cappella vecchia.
 
-- Calendar: [[Day 13]] is Desnus 13, 3608.
-- Remembrance Moon deepens: festival brightness gives way to vigils, memorial processions, family gatherings, and public grief that Marcia can shape without calling for open rebellion.
-- Festival use: masks, music, and crowded alleys make sightings easier to dismiss until blood appears.
-- Table direction: keep the original quest spine, but describe streets, NPC motives, witnesses, delays, prices, and crowd reactions through the festival or Remembrance Moon lens.
+> [!summary] Riassunto
+> I PG vengono mandati nei [[Slums]] con [[Tullio]] e [[Sabina]] per abbattere una creatura nata dagli esperimenti falliti di [[Veltharuun]]. La bestia è Arthemol, il Coro di Carne: un corpo assemblato da cadaveri, alchimia, necromanzia instabile e residui di magia fatata. La caccia deve sembrare urbana, sporca e mortale, con possibilità reali di preparazione, fuga, perdita di PNG o morte di un PG se il gruppo affronta male lo scontro.
 
+> [!success] Esiti possibili
+> - **Successo pieno:** [[Arthemol]] viene ucciso, almeno una guardia sopravvive, il governo paga bene e i PG ottengono materiali grezzi e prove forti sugli esperimenti.
+> - **Successo amaro:** [[Arthemol]] muore ma [[Tullio]], [[Sabina]] o un altro PNG muore; la paga resta alta ma il governo prova a scaricare responsabilità.
+> - **Successo parziale:** [[Arthemol]] viene scacciato; il governo paga meno e la creatura può tornare o essere ritrovata vicino alla cappella.
+> - **Fallimento:** i PG fuggono senza prova, ignorano la quest o causano panico; aumentano morti, sospetto istituzionale e pressione sul giorno 16.
 
-## Source Migration
+| Campo | Dettaglio |
+| --- | --- |
+| Giorno | [[Day 13]] o [[Day 14]] |
+| Luogo | [[Slums]], vicoli bassi, cortili chiusi, tetti poveri, canali di scolo |
+| PNG coinvolti | [[Tullio]], [[Sabina]], Decimo Varo, testimoni dei bassifondi, Arthemol |
+| Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Bossfight molto difficile / mortale se senza preparazione |
+| Ricompensa | 120-180 mo totali, bonus per guardie salvate, materiali grezzi da rifinire, reputazione nei bassifondi |
 
-Source file: `phase 2/quests/Day13_14_Bestia_nei_bassifondi.docx`
+## PNG e Colori
 
-Giorni 13–14 – Quest opzionale: Bestia nei bassifondi – abbattimento richiesto
+| PNG                                                                    | Colore dialogo | Ruolo                                |
+| ---------------------------------------------------------------------- | -------------- | ------------------------------------ |
+| <span style="color:#4f6f52"><strong>[[Tullio]]</strong></span>         | `#4f6f52`      | Guardia veterana, linea difensiva    |
+| <span style="color:#2f7fb8"><strong>[[Sabina]]</strong></span>         | `#2f7fb8`      | Guardia giovane, balestra e supporto |
+| <span style="color:#7f5f2a"><strong>[[Decimus Varian]]</strong></span> | `#7f5f2a`      | Funzionario del Governo Centrale     |
+| <span style="color:#8b1e1e"><strong>[[Arthemol]]</strong></span>       | `#8b1e1e`      | Esperimento fallito, boss            |
+| <span style="color:#6f4a8e"><strong>Testimoni</strong></span>          | `#6f4a8e`      | Voci dei bassifondi                  |
 
-Funzione della quest: questa è la quest opzionale di mezzo della sottotrama di Vaeltharuun. Serve a mostrare che gli esperimenti non sono solo cadaveri rianimati: qualcosa è uscito dal controllo del necromante. La creatura deve essere grottesca, ripugnante, tragica e pericolosissima. Non è un mostro casuale: è un errore vivente, nato da corpi assemblati male, alchimia, necromanzia instabile e disperazione.
+## Contesto di Calendario
 
-La quest è prendibile sia il giorno 13 che il giorno 14. Se i player aspettano fino al giorno 14, la situazione peggiora: più vittime, più paura, più pressione del governo. Il fight è pensato per essere mortale per un party di livello 4 se affrontato frontalmente senza preparazione. I player sono affiancati da 2 guardie, ma le guardie non devono vincere al posto loro: devono dare supporto, assorbire rischio e mostrare quanto la cosa sia seria.
+> [!note] Breaching Festival e Remembrance Moon
+> [[Day 13]] è Desnus 13, 3608. La città è ancora piena di musica, mercati, maschere e veglie, ma la Remembrance Moon sta rendendo il lutto più pubblico. Nei bassifondi, i festeggiamenti arrivano come rumore lontano: lanterne sporche, canti spezzati, processioni povere e finestre chiuse in fretta.
 
-Hook sulla Quest Board
+## Premessa Reale per il GM
 
-Bestia nei bassifondi – abbattimento richiesto
+> [!summary] Verità dietro la quest
+> Arthemol è un esperimento fallito di Vaeltharuun. Non era pensato come arma. È nato dal tentativo di unire carne morta, memoria residua e impulso vitale. Vaeltharuun non lo controlla più e probabilmente lo crede morto o perduto.
 
-Il Governo Centrale richiede l’intervento di persone armate e capaci per eliminare una creatura pericolosa avvistata nei bassifondi. La bestia ha già causato feriti, morti e panico tra i residenti. Due guardie cittadine accompagneranno gli incaricati. Pagamento eccezionale a minaccia neutralizzata.
+Arthemol conserva una memoria rotta della magia fatata del suo creatore. Non legge pensieri in modo pulito, ma percepisce paura, vergogna, identità ferite e sangue fatato. Questo permette di colpire le paure di [[Massimiliano]], [[Filippo]], [[Auris Mantopietra]] e [[Apollodoro]] durante lo scontro.
 
-Postata da: Ufficio di sicurezza del Governo Centrale.
+> [!warning] Non rivelare troppo
+> Non deve esserci una prova diretta che porti subito a Vaeltharuun. I PG possono collegare Arthemol al giorno 11 tramite odore di conservanti, cuciture, filo nero, cadaveri assemblati e reazione alla luce sacra, ma non devono ancora chiudere la sottotrama.
 
-Pagamento: eccezionale, con possibilità di bonus.
+## La Creatura
 
-Durata: 4–6 ore.
+Nome dato da [[Veltharuun]]: **Arthemol, Primo Ricordo Incompleto**.
 
-Disponibile: giorno 13 e giorno 14.
+Nomi comuni nei bassifondi:
 
-Tono: caccia urbana, horror corporeo, pericolo reale.
+- la Bestia Cucita;
+- il Cane dei Morti;
+- la Cosa che Striscia;
+- la Viverna dei Vicoli;
+- quella roba.
 
-Premessa reale per il DM
+> [!description] Aspetto
+> Arthemol non sembra nato. Sembra assemblato contro la volontà della carne. Ha massa da bestia da tiro, ma proporzioni sbagliate: costole troppo larghe, zampe piegate al contrario, una spalla quasi umana, una coda di vertebre esposte e una testa vagamente simile a quella di una viverna. La pelle non lo copre: trattiene a fatica ciò che c'è sotto. Alcuni punti sono chiusi con filo nero, altri con graffe metalliche, altri con strisce di cuoio funebre. Quando respira, sembra che molte persone stiano morendo insieme.
 
-La creatura è un esperimento fallito di Vaeltharuun. Non era pensata come arma. È nata da tentativi di capire come unire carne morta, memoria residua e impulso vitale. Il risultato è una cosa che non dovrebbe poter vivere, ma vive abbastanza da soffrire, nutrirsi, muoversi e terrorizzare.
+> [!readaloud] Prima visione delle nove facce
+> La creatura entra nella luce e il numero diventa impossibile da ignorare: nove facce. Otto sono cucite nella carne, contorte dal dolore e dalla paura. La nona, quella davanti, è peggiore: non ha più abbastanza volto per soffrire in modo umano.
 
-Vaeltharuun non la controlla più. Probabilmente l’ha abbandonata o creduta morta. Ora la creatura si nasconde nei bassifondi, attratta da calore, carne, rumore e luoghi umidi.
+> [!note] Progressione del numero nove
+> Se il gruppo ha seguito la pista: nove candele nel giorno 7, nove corpi nel giorno 11, nove facce nel giorno 13/14.
 
-Non deve esserci prova diretta che porta immediatamente a Vaeltharuun, ma i player devono poter collegare questa cosa alla quest del giorno 11: cuciture, conservanti, pezzi anatomici non compatibili, odore alchemico, carne ricostruita male.
+## Fase 1 - Presa in Carico
 
-La creatura
+> [!description] Presidio del Governo
+> I PG vengono mandati a un piccolo ufficio di sicurezza vicino ai bassifondi, non al palazzo principale. Dentro ci sono mappe sporche, odore di sudore, guardie stanche e cittadini arrabbiati fuori dalla porta. La burocrazia prova a sembrare controllo; non ci riesce.
 
-Nome usato dalla gente
+<span style="color:#7f5f2a"><strong>Decimus Varian</strong></span>: "Non ci interessa da dove venga. Ci interessa che smetta di uccidere persone nei vicoli."
 
-La chiamano in modi diversi:- la Bestia Cucita;- il Cane dei Morti;- la Cosa del Pozzo;- la Viverna dei Vicoli;- quella roba.
+<span style="color:#7f5f2a"><strong>Decimus Varian</strong></span>: "La paga è alta perché il lavoro è brutto, non perché siamo generosi."
 
-Il governo la chiama semplicemente creatura ostile non identificata, perché ammettere altro causerebbe panico.
+<span style="color:#7f5f2a"><strong>Decimus Varian</strong></span>: "Due guardie vi accompagneranno. Non per controllarvi. Per evitare che, se morite, nessuno sappia dove recuperarvi."
 
-Aspetto
+Se chiedono descrizioni precise:
 
-La creatura ha la massa di una grossa bestia da tiro, ma non la forma. Il corpo sembra costruito con pezzi che non si sono mai appartenuti: costole troppo larghe, zampe piegate al contrario, una coda ossea che si trascina sul selciato, lembi di pelle cuciti male e una testa che ricorda vagamente quella di una viverna, ma senza la pulizia naturale di un predatore. Ogni movimento fa tirare punti metallici e carne morta. Quando respira, non sembra inspirare: sembra che qualcosa dentro di lei si sgonfi e si riempia a fatica.
+<span style="color:#7f5f2a"><strong>Decimo Varo</strong></span>: "Chi l'ha vista parla di ali, corna, zampe, braccia, facce. Nessuno concorda. Questo di solito significa panico. O qualcosa di peggio."
 
-Tono corretto
+## Fase 2 - Le Guardie
 
-Non deve sembrare cool. Deve fare schifo. Deve essere pietosa e orrenda insieme. Se i player la uccidono, deve sembrare necessario, ma non glorioso.
-
-Fase 1 – Presa in carico dal governo
-
-Scena
-
-I player vengono mandati a un piccolo presidio o ufficio di sicurezza vicino ai bassifondi. Non al palazzo governativo principale: sarebbe troppo importante. Qui ci sono mappe sporche, guardie stanche e cittadini arrabbiati fuori dalla porta.
-
-NPC – Funzionario Decimo Varo
-
-Funzionario basso del governo, non nobile. Vuole chiudere la faccenda prima che diventi un problema politico.
-
-Dialoghi:
-
-"Non ci interessa da dove venga. Ci interessa che smetta di uccidere persone nei vicoli."
-
-"La paga è alta perché il lavoro è brutto, non perché siamo generosi."
-
-"Due guardie vi accompagneranno. Non per controllarvi. Per evitare che, se morite, nessuno sappia dove recuperarvi."
-
-Se i player chiedono descrizioni precise:
-
-"Chi l’ha vista parla di ali, corna, zampe, braccia, facce. Nessuno concorda. Questo di solito significa panico. O qualcosa di peggio."
-
-Fase 2 – Le due guardie
-
-Guardia 1 – Tullio
+### [[Tullio]]
 
 Veterano pratico, armatura consumata, lancia corta e scudo. Non è codardo, ma non vuole morire per i bassifondi.
 
-Dialoghi:
+<span style="color:#4f6f52"><strong>[[Tullio]]</strong></span>: "Se vedete qualcosa che riempie tutto il vicolo, non fate gli eroi. Fate spazio."
 
-"Se vedete qualcosa che riempie tutto il vicolo, non fate gli eroi. Fate spazio."
+<span style="color:#4f6f52"><strong>[[Tullio]]</strong></span>: "Io posso tenere una linea. Non posso tenere un miracolo."
 
-"Io posso tenere una linea. Non posso tenere un miracolo."
+### [[Sabina]]
 
-Guardia 2 – Sabina
+Più giovane, nervosa ma competente. Balestra, coltello, piccola lanterna schermata. Ha paura, ma non scappa subito.
 
-Più giovane, nervosa ma competente. Balestra, coltello, piccola lanterna schermata. Ha paura ma non scappa subito.
+<span style="color:#2f7fb8"><strong>[[Sabina]]</strong></span>: "Dicono che abbia preso un uomo dal tetto. Non so se crederci. Vorrei non doverlo scoprire."
 
-Dialoghi:
+<span style="color:#2f7fb8"><strong>[[Sabina]]</strong></span>: "Se urlo 'indietro', indietro vuol dire indietro. Non vuol dire discutiamo."
 
-"Dicono che abbia preso un uomo dal tetto. Non so se crederci. Vorrei non doverlo scoprire."
+> [!note] Uso meccanico delle guardie
+> [[Tullio]] può usare Aid Another, attirare un attacco, dare copertura o bloccare una carica rompendo lo scudo. [[Sabina]] può sparare, stabilizzare feriti, aiutare civili o trascinare via un PG incosciente una volta, se la scena lo permette. Le guardie non devono vincere al posto dei PG.
 
-"Se urlo ‘indietro’, indietro vuol dire indietro. Non vuol dire discutiamo."
+## Tabella PNG e CD
 
-Uso meccanico delle guardie
+| Scena | PNG | CD / Approccio | Risultato |
+| --- | --- | --- | --- |
+| Contrattare condizioni prima dell'uscita | Decimo Varo | <span style="color:#d6a500"><strong>Diplomacy CD 15</strong></span> | Ottengono equipaggiamento base, olio o una lanterna schermata extra |
+| Coordinare le guardie | [[Tullio]], [[Sabina]] | <span style="color:#d6a500"><strong>Diplomacy CD 12</strong></span> | Le guardie partono coordinate e agiscono meglio nel primo round |
+| Studiare le ferite | Ragazzo ferito | <span style="color:#8b5cf6"><strong>Medicine/Heal CD 14</strong></span> | Capiscono che artigli e ossa non sono naturali |
+| Seguire tracce nei vicoli | Testimoni / strada | <span style="color:#8b5cf6"><strong>Survival CD 13</strong></span> | Seguono impronte irregolari e trascinamento |
+| Capire l'origine artificiale | Resti, sangue, cuciture | <span style="color:#2f9ed8"><strong>Knowledge Arcana o Alchemy CD 15</strong></span> | Collegano conservanti e alchimia alla cappella |
+| Bloccare un vicolo | Ambiente | <span style="color:#d64545"><strong>Athletics CD 14</strong></span> o <span style="color:#2f9ed8"><strong>Craft/Engineering CD 15</strong></span> | Preparano un punto dove Arthemol può restare incastrato |
+| Evacuare civili | Residenti | <span style="color:#d6a500"><strong>Diplomacy CD 13</strong></span> | Riduce complicazioni durante il fight |
+| Notare un punto stretto | Ambiente | <span style="color:#8b5cf6"><strong>Perception CD 14</strong></span> | Individuano una strozzatura tattica |
+| Evitare crolli o ostacoli | Vicoli | <span style="color:#e68632"><strong>Acrobatics CD 13</strong></span> | Riorganizzano il gruppo senza perdere terreno |
 
-Le guardie servono a:- dare supporto;- aiutare civili;- distrarre la creatura;- morire o ferirsi se i player sbagliano;- permettere al fight di sembrare più grande.
+## Fase 3 - Indagine nei Bassifondi
 
-Non devono essere fortissime. Se il fight va male, Tullio può bloccare la creatura per un round sacrificando lo scudo, Sabina può trascinare via un player caduto, oppure una delle due può venire ferita gravemente per mostrare il rischio.
+> [!description] I bassifondi in attesa
+> I bassifondi non sono silenziosi, ma il rumore qui è diverso. Non è mercato, non è porto, non è vita piena. È tosse dietro le finestre, passi che si fermano quando girate l'angolo, porte chiuse con fretta. Ogni tanto qualcuno guarda le due guardie e poi voi, come se non sapesse quale presenza lo spaventi di più.
 
-Fase 3 – Indagine nei bassifondi
+### Testimoni
 
-Scena
+<span style="color:#6f4a8e"><strong>Vecchia dalla finestra</strong></span>: "Non camminava. Si tirava dietro il corpo."
 
-La bestia non è ferma in una stanza. I player devono seguirne tracce tra vicoli, cortili, tetti bassi e canali di scolo.
+Con <span style="color:#d6a500"><strong>Diplomacy CD 12</strong></span>:
 
-I bassifondi non sono silenziosi, ma il rumore qui è diverso. Non è mercato, non è porto, non è vita piena. È tosse dietro le finestre, passi che si fermano quando girate l’angolo, porte chiuse con fretta. Ogni tanto qualcuno guarda le due guardie e poi voi, come se non sapesse quale presenza lo spaventi di più.
+<span style="color:#6f4a8e"><strong>Vecchia dalla finestra</strong></span>: "Ho sentito ossa. Non rotte. Ossa che battevano sulla pietra."
 
-Testimoni
+<span style="color:#6f4a8e"><strong>Ragazzo ferito</strong></span>: "Pensavo fosse un cane grosso. Poi il cane ha aperto troppe bocche."
 
-Vecchia dalla finestra
+<span style="color:#8b5cf6"><strong>Medicine/Heal CD 14</strong></span>: la ferita è irregolare, fatta da osso o artiglio non naturale.
 
-"Non camminava. Si tirava dietro il corpo."
+<span style="color:#6f4a8e"><strong>Venditore di stracci</strong></span>: "È passata sopra i tetti bassi. O sotto. Non lo so. La casa tremava."
 
-Diplomacy CD 12: parla di più.
+<span style="color:#8b5cf6"><strong>Sense Motive CD 13</strong></span>: è terrorizzato ma non sta inventando.
 
-"Ho sentito ossa. Non rotte. Ossa che battevano sulla pietra."
+### Indizi
 
-Ragazzo ferito
+| Indizio | CD | Dove | PNG coinvolti | Cosa sembra | Cosa significa | Rischio |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tracce di trascinamento | <span style="color:#8b5cf6"><strong>Survival CD 13</strong></span> | Vicoli umidi | Nessuno | Grossa bestia ferita | Corpo instabile che non cammina in modo naturale | Seguire in fretta può portare a un vicolo sfavorevole |
+| Sangue scuro oleoso | <span style="color:#8b5cf6"><strong>Perception CD 14</strong></span> | Muro basso | Nessuno | Sangue vecchio | Conservanti e fluidi alchemici | Toccarlo senza cautela può dare nausea |
+| Ferite irregolari | <span style="color:#8b5cf6"><strong>Medicine/Heal CD 14</strong></span> | Ragazzo ferito | Ragazzo ferito | Artiglio animale | Osso o parte anatomica non naturale | Il ragazzo peggiora se ignorato |
+| Odore di conservanti | <span style="color:#2f9ed8"><strong>Alchemy CD 15</strong></span> | Tracce, sangue, brandelli | Nessuno | Carne trattata | Collegamento alla cappella e alle fosse | Spinge i PG verso la pista Vaeltharuun |
+| Movimento non animale | <span style="color:#2f9ed8"><strong>Knowledge Nature CD 16</strong></span> | Tracce complessive | Nessuno | Predatore urbano | Costruzione artificiale e panico residuo | Sottovalutarla porta a preparazione sbagliata |
 
-Ha un graffio lungo sul fianco. Non è velenoso, ma brutto.
+## Fase 4 - Preparazione
 
-"Pensavo fosse un cane grosso. Poi il cane ha aperto troppe bocche."
+> [!warning] Preparazione reale
+> Questa fase deve contare. Se i PG preparano terreno, fuoco, vie di fuga e civili, Arthemol resta mortale ma gestibile. Se corrono nel primo vicolo, devono pagare il prezzo.
 
-Heal/Medicine CD 14: la ferita è irregolare, fatta da osso o artiglio non naturale.
+| Preparazione | CD | Effetto |
+| --- | --- | --- |
+| Tendere una trappola con carne o sangue | <span style="color:#8b5cf6"><strong>Survival CD 14</strong></span> | Arthemol arriva in una zona scelta dai PG |
+| Preparare fuoco o olio | <span style="color:#2f9ed8"><strong>Craft/Alchemy CD 14</strong></span> | Crea una barriera o danno extra |
+| Bloccare un vicolo con carri o tavole | <span style="color:#d64545"><strong>Athletics CD 14</strong></span> | Riduce carica e mobilità |
+| Rendere instabile una tettoia | <span style="color:#2f9ed8"><strong>Engineering CD 15</strong></span> | Può bloccare Arthemol 1-2 round |
+| Mettere civili al sicuro | <span style="color:#d6a500"><strong>Diplomacy CD 13</strong></span> | Evita ostaggi e panico in fight |
+| Studiare il terreno | <span style="color:#8b5cf6"><strong>Perception CD 13</strong></span> | Trova coperture, strozzature e fuga |
+| Coordinare Tullio e Sabina | <span style="color:#d6a500"><strong>Diplomacy CD 12</strong></span> | Le guardie iniziano con ruoli chiari |
 
-Venditore di stracci
+## Fase 5 - Primo Contatto
 
-"È passata sopra i tetti bassi. O sotto. Non lo so. La casa tremava."
+> [!readaloud]
+> Il primo rumore non è un ruggito. È un colpo umido contro pietra. Poi un raschiare lungo, come un sacco pieno di ossa trascinato sul selciato. [[Sabina]] alza la balestra prima ancora di vedere qualcosa. [[Tullio]] stringe lo scudo. Da un vicolo laterale arriva un respiro spezzato, troppo grande per appartenere a un uomo.
 
-Sense Motive CD 13: è terrorizzato ma non sta inventando.
+> [!readaloud]
+> Poi appare. La bestia si piega per passare tra due muri e per un momento sembra incastrarsi nel mondo. Poi la carne cede, le ossa scattano, e passa.
 
-Tracce
+## Fase 6 - Bossfight Mortale
 
-Survival CD 13: tracce di trascinamento, impronte irregolari, graffi sui muri.
+> [!danger] Difficoltà
+> Party previsto: livello 4 + [[Tullio]] e [[Sabina]]. Arthemol ha GS nominale 9, ma funziona come GS effettivo 7-8 se i PG preparano bene terreno, fuoco, luce sacra, trappole e guardie. Senza preparazione, lo scontro deve risultare mortale.
 
-Perception CD 14: su una parete c’è sangue scuro misto a qualcosa di oleoso.
+### Debolezze
 
-Medicine / Alchemy CD 15: l’odore ricorda conservanti, calce e carne vecchia, simile a quello trovato alla cappella.
+- **Fuoco x1.5:** cuciture, conservanti e fluidi reagiscono male al calore.
+- **Bene / energia positiva x1.5:** Arthemol non è un non morto puro, ma è costruito su morte e anima residua.
+- **Blocco ambientale:** può restare incastrato per 2 round tra due case strette, carri, tettoia crollata o passaggio murato.
 
-Knowledge Nature CD 16: non c’è logica animale pulita nel movimento. Non caccia come un lupo o un grande rettile. Sembra attirata da rumori, carne e panico.
+### Arthemol bloccato
 
-Fase 4 – Preparazione prima del fight
+Condizione: i PG preparano o sfruttano il terreno con una prova riuscita.
 
-Questa fase è importante perché il fight è mortale. Dai ai player possibilità reali di prepararsi.
+Prove possibili: <span style="color:#2f9ed8"><strong>Knowledge Local CD 14</strong></span>, <span style="color:#8b5cf6"><strong>Perception CD 14</strong></span>, <span style="color:#d64545"><strong>Athletics CD 15</strong></span>, <span style="color:#2f9ed8"><strong>Engineering CD 15</strong></span>, <span style="color:#8b5cf6"><strong>Survival CD 14</strong></span>.
 
-Possibili preparazioni
+Effetto: Arthemol resta bloccato 2 round, subisce -2 CA, non può caricare, non può usare pieno attacco e può usare solo morso o coda. Può tentare <span style="color:#d64545"><strong>Forza CD 18</strong></span> alla fine del secondo round per liberarsi.
 
-Tendere una trappola con carne o sangue – Survival CD 14: la creatura arriva in una zona scelta dai player invece che in un vicolo pessimo.
+### Capacità da usare
 
-Preparare fuoco o olio – Craft / Alchemy CD 14: crea una zona pericolosa che rallenta la creatura o le infligge danno.
+| Capacità | Uso |
+| --- | --- |
+| Carica scomposta | Se ha almeno 6 metri liberi, carica e colpisce forte. Dopo la carica: -2 CA e niente attacchi di opportunità fino al suo turno successivo. |
+| Trascinamento della carne | Se colpisce con morso o artiglio, può provare a trascinare. Usalo per separare, non per uccidere gratis. |
+| Coda vertebrale | Una volta ogni 1d4 round colpisce ad arco. Non può usarla se è bloccato. |
+| Coro di gola morta | Sotto il 50% PF, tutte le bocche secondarie urlano. Effetti contro paura, performance bardiche o luce sacra possono mitigare. |
+| Carne che ricorda | Se subisce abbastanza danno da fuoco, bene o energia positiva in un round, perde velocità e non può caricare nel turno successivo. |
 
-Bloccare un vicolo con carri o tavole – Athletics CD 14 o Craft CD 13: riduce la mobilità della creatura o le impedisce di caricare.
+### Paure che Parlano
 
-Mettere civili al sicuro – Diplomacy CD 13: riduce complicazioni durante il fight.
+> [!warning] Lettura imperfetta
+> Arthemol non legge la mente in modo pulito. Sente paura, vergogna, identità spezzate e tracce di magia fatata. Usa al massimo due frasi mirate per PG durante il combattimento.
 
-Studiare il terreno – Perception CD 13: permette di scegliere un punto con vie di fuga e copertura.
+Tiro consigliato: <span style="color:#8b5cf6"><strong>Volontà CD 17</strong></span>. Se il PG è già sotto forte pressione narrativa, CD 19.
 
-Chiedere alle guardie di coordinarsi – Diplomacy CD 12 con Tullio/Sabina: le guardie agiscono meglio; una tiene linea, l’altra copre con balestra o aiuta feriti.
+<span style="color:#2f9ed8"><strong>Knowledge Arcana CD 18</strong></span> o <span style="color:#8b5cf6"><strong>Sense Motive CD 18</strong></span>: non è vera lettura del pensiero; è memoria necromantica contaminata da magia fatata.
 
-Se non preparano nulla
+| PG | Trigger | Frase / Effetto |
+| --- | --- | --- |
+| [[Massimiliano]] | Colpisce con spadalunga, energia positiva o tenta di salvare un innocente | <span style="color:#8b1e1e"><strong>Arthemol</strong></span>: "Nove campane, nove rintocchi, nove vittime, un solo sopravvissuto codardo." |
+| [[Filippo]] | Primo colpo con furtivo o magia | <span style="color:#8b1e1e"><strong>Arthemol</strong></span>: "Padrone, ne abbiamo trovato un altro." |
+| [[Filippo]] | Secondo colpo o altra magia | <span style="color:#8b1e1e"><strong>Arthemol</strong></span>: "Amico fatato, non senti la nostra sofferenza? Perché nascondi la tua identità?" |
+| [[Auris Mantopietra]] | Magia di terra/metallo, monete false o orgoglio nanico | <span style="color:#8b1e1e"><strong>Arthemol</strong></span>: "Piccolo minatore senza montagna." oppure "Non è oro. Non sei ferro. Non sei nano." |
+| [[Apollodoro]] | Prima linea, buio, elmo minacciato | <span style="color:#8b1e1e"><strong>Arthemol</strong></span>: "Togli il ferro. Mostra il volto che brucia." oppure "Sotto l'elmo c'è ancora il buio." |
 
-Il fight parte in condizioni peggiori:- vicolo stretto;- civili vicini;- poca luce;- creatura con sorpresa parziale;- guardie meno coordinate.
+### Carcasse che si Staccano
 
-Questo deve essere duro.
+Arthemol è composto da corpi cuciti insieme. Quando raggiunge certe soglie di PF, pezzi cadono e si rialzano.
 
-Fase 5 – Primo contatto
+| Soglia | Effetto |
+| --- | --- |
+| 75% PF | Cade 1 carcassa minore |
+| 50% PF | Cadono 2 carcasse minori |
+| 25% PF | Cade 1 carcassa maggiore oppure 2 carcasse minori, se il party regge |
 
-Scena
+Limite: massimo 4 carcasse totali.
 
-La creatura non appare subito in piena vista. Prima si sente.
+> [!readaloud] Prima carcassa
+> Il colpo apre una cucitura enorme. Un torso scivola fuori dalla massa principale, cade sul selciato... poi le dita si piegano contro la pietra. Non era morto abbastanza.
 
-Il primo rumore non è un ruggito. È un colpo umido contro pietra. Poi un raschiare lungo, come un sacco pieno di ossa trascinato sul selciato. Sabina alza la balestra prima ancora di vedere qualcosa. Tullio stringe lo scudo. Da un vicolo laterale arriva un respiro spezzato, troppo grande per appartenere a un uomo.
+### Rischio Atteso
 
-Poi appare.
+> [!danger] Esito atteso del rischio
+> - Con buona preparazione: una guardia o un PNG può finire a terra, ma i PG hanno strumenti per salvarlo.
+> - Senza preparazione: una morte PNG è probabile.
+> - Con approccio frontale in vicolo aperto: una morte PNG più un PG a rischio morte è coerente con il tono della quest.
 
-La bestia si piega per passare tra due muri e per un momento sembra incastrarsi nel mondo. Poi la carne cede, le ossa scattano, e passa.
+Non forzare la morte. Forza scelte con tempo limitato: salvare [[Sabina]] o colpire Arthemol, recuperare l'elmo o fermare una carica, proteggere un civile o inseguire la creatura ferita.
 
-Fase 6 – Bossfight mortale
+## Fase 7 - Guardie in Pericolo
 
-Difficoltà
+> [!warning] Dai una scelta chiara
+> Se [[Tullio]] o [[Sabina]] stanno per morire, i PG devono vedere l'occasione di salvarli prima del colpo finale.
 
-Party livello 4 + 2 guardie. La creatura è GS 8. Il fight deve essere molto alto/mortale, ma con vie di fuga, vantaggi ambientali e preparazione possibile.
+Esempi:
 
-Non usarlo come arena vuota. Il pericolo deve venire da spazio stretto, carica improvvisa, artigli/osso/coda, trascinamento, panico dei civili, guardie che possono cadere, possibilità di far crollare, bruciare, bloccare o fuggire.
+- [[Tullio]] viene schiacciato contro un muro e Arthemol sta per finirlo.
+- [[Sabina]] viene afferrata da una carcassa maggiore e trascinata verso la bestia.
+- Una guardia cade sotto una tettoia instabile mentre Arthemol carica.
 
-Profilo meccanico consigliato
+Azioni possibili:
 
-Costruiscila come creatura circa GS 6. Deve avere danni forti, buona resistenza, ma debolezze leggibili a fuoco, energia positiva/luce sacra e controllo ambientale. Non deve essere intelligente come un boss tattico: è brutale, istintiva, instabile.
+- <span style="color:#8b5cf6"><strong>Medicine/Heal CD 14</strong></span> per stabilizzare.
+- <span style="color:#d64545"><strong>Athletics CD 15</strong></span> per trascinare fuori portata.
+- Attacco mirato o magia per forzare Arthemol a mollare.
+- <span style="color:#d6a500"><strong>Diplomacy/Intimidation CD 14</strong></span> per coordinare civili o l'altra guardia.
 
-Capacità suggerite
+## Fase 8 - Dopo il Fight
 
-1. Carica scomposta
+> [!readaloud] Se Arthemol muore
+> Quando cade, non cade come un animale. Cede a pezzi. Una zampa smette prima, poi la schiena si piega, poi la testa batte contro la pietra con un suono troppo umano. Per qualche secondo continua a respirare, o qualcosa dentro di lui continua a farlo. Poi le cuciture mollano e l'odore vi raggiunge tutto insieme.
 
-Se ha linea retta, carica e colpisce forte, ma dopo la carica resta sbilanciata. Contromisure: bloccare vicolo, farla inciampare, attirarla contro muro/carretto, usare Ready Action.
+Se Arthemol fugge:
 
-2. Trascinamento
+- torna il giorno 14 se affrontato il giorno 13;
+- se è già giorno 14, viene trovato morto o quasi morto vicino alla cappella/ossario;
+- il governo riduce la paga ma riconosce il rischio.
 
-Può afferrare un bersaglio e trascinarlo di qualche metro. Non usarlo per uccidere istantaneamente. Usalo per creare panico.
+## Materiali Grezzi
 
-3. Coda ossea
+| Materiale | Prova | Uso possibile |
+| --- | --- | --- |
+| Placca sternale con frammento funebre | Nessuna o <span style="color:#8b5cf6"><strong>Religion CD 13</strong></span> | Sigillo solare da scudo per [[Massimiliano]] |
+| Ghiandola necrotica calda | <span style="color:#8b5cf6"><strong>Medicine CD 15</strong></span> o <span style="color:#2f9ed8"><strong>Alchemy CD 15</strong></span> | Anello di vetro caldo / reagente arcano per stregone |
+| Aculeo osseo instabile | <span style="color:#2f9ed8"><strong>Craft CD 14</strong></span> | Ago d'osso nero o punte speciali per [[Filippo]] |
+| Filo chirurgico nero | <span style="color:#2f9ed8"><strong>Craft CD 15</strong></span> | Fibula del comando cittadino o rinforzo per [[Apollodoro]] |
+| Targhetta funebre fusa nella carne | Nessuna | Prova morale da restituire a una famiglia |
+| Brandello di pergamena cerata | <span style="color:#8b5cf6"><strong>Perception CD 15</strong></span> | Ponte verso il giorno 16 |
 
-Attacco ad area piccola o colpo laterale. Può colpire guardie e player vicini.
+Testo possibile del brandello:
 
-4. Carne instabile
+> [!clue] Brandello di pergamena
+> "...reazione non stabile..."
+>
+> "...la forma animale rigetta..."
+>
+> "...non è Serena..."
 
-Quando subisce danno tagliente o contundente forte, perde pezzi, ma non sempre sembra indebolirsi subito.
+## Contrattazione col Governo
 
-Medicine CD 15 durante o dopo il fight:
+> [!description] Ritorno al presidio
+> Dopo l'orrore, il governo torna a parlare come se il problema fosse una ricevuta. Questo contrasto deve chiudere la quest con freddezza burocratica.
 
-Non è un corpo unico. È tenuto insieme da cuciture, chiodi, alchimia e necromanzia.
-
-5. Debolezza al fuoco
-
-Non deve essere “muore col fuoco”, ma il fuoco la spaventa e danneggia bene. Fuoco/olio la fa arretrare, può farle perdere un round se subisce abbastanza fuoco, e non entra volontariamente in una zona incendiata se non costretta.
-
-6. Reazione alla luce sacra
-
-Se qualcuno usa energia positiva, simboli sacri o luce benedetta, la creatura ha una reazione dolorosa ma non viene distrutta automaticamente. Questo collega a Sarenrae senza farla diventare una quest religiosa.
-
-Meccanica speciale – Carcasse che si staccano
-
-La mostruosità è composta da corpi cuciti insieme. Quando subisce un colpo molto forte o raggiunge certe soglie di danno, alcune parti si strappano e cadono a terra, ma non restano morte: si rialzano come resti autonomi, tremanti, incompleti.
-
-Metodo consigliato: soglie di PF
-
-- 75% PF: cade 1 carcassa minore.- 50% PF: cadono 2 carcasse minori.- 25% PF: cade 1 carcassa maggiore oppure 2 carcasse minori.
-
-Metodo alternativo: ogni volta che la creatura subisce 15+ danni da un singolo colpo, tira 1d6. Con 1–3 non succede nulla, con 4–5 cade 1 carcassa minore, con 6 cade 1 carcassa minore e la creatura perde una reazione/azione secondaria per quel round.
-
-Limite importante: massimo 4 carcasse totali durante tutto il fight. Altrimenti il GS esplode.
-
-Carcasse minori
-
-Devono essere fastidiose, non veri mostri forti. Bloccano movimento, danno flanking, afferrano caviglie, disturbano caster/ranged e obbligano il party a spendere azioni.
-
-Statisticamente falle come zombie molto deboli o resti rianimati: PF bassi, CA bassa, attacco modesto, movimento lento, vulnerabili a fuoco, energia positiva e danni sacri. Se ricevono un critico o danno da fuoco consistente, collassano subito.
-
-Carcassa maggiore
-
-Usala solo a 25% PF, se il party regge. Non fa danni enormi, ma prova a immobilizzare e a proteggere involontariamente la creatura principale.
-
-Descrizione: dal fianco della bestia si strappa un corpo quasi intero, cucito a metà con costole non sue. Cade, resta immobile un istante, poi si solleva sulle mani, senza gambe funzionanti, e inizia a trascinarsi verso di voi.
-
-Descrizione della prima carcassa
-
-Il colpo apre una cucitura enorme. Un torso scivola fuori dalla massa principale, cade sul selciato... poi le dita si piegano contro la pietra. Non era morto abbastanza.
-
-Fasi del fight
-
-Fase 1: 100%–75% PF
-
-La bestia è intera, pesante, aggressiva. Usa carica, coda e morso. Al 75% PF cade 1 carcassa minore.
-
-Fase 2: 75%–50% PF
-
-La creatura diventa più instabile. Perde fluidi, pezzi, equilibrio. I player capiscono che fuoco e luce sacra funzionano meglio. Al 50% PF cadono 2 carcasse minori. Se i player hanno preparato fuoco o ostacoli, questo è il momento buono per sfruttarli.
-
-Fase 3: 50%–25% PF
-
-Il fight diventa sporco. La bestia prova a trascinare qualcuno, fuggire o buttarsi verso una zona piena di civili. A 25% PF cade 1 carcassa maggiore, oppure solo 1 carcassa minore se il party è messo male.
-
-Fase 4: sotto 25% PF
-
-La bestia non combatte più in modo pulito. Si agita, sfonda muri leggeri, trascina pezzi, cerca carne o fuga. I player possono finirla, lasciarla fuggire ferita, intrappolarla e bruciarla, oppure usare energia sacra per collassare i resti.
-
-Uso delle guardie nel fight
-
-Tullio
-
-Può usare Aid Another, attirare un attacco, dare copertura a un alleato vicino, bloccare una carica una volta rompendo lo scudo, cadere a terra ma non morire subito.
-
-Momento possibile: Tullio pianta lo scudo a terra e la creatura lo colpisce come un carro. Il legno si spacca. Lui resta in piedi mezzo secondo, poi cade in ginocchio sputando sangue.
-
-Sabina
-
-Può sparare con balestra, aiutare civili, stabilizzare un ferito, gridare avvisi, trascinare via un player incosciente una volta, se ci sta narrativamente.
-
-Momento possibile: Sabina non mira alla testa. Mira ai punti cuciti. Quando il quadrello entra nella carne, qualcosa si strappa e la creatura urla con più di una voce.
-
-Vie di fuga e soluzioni ambientali
-
-Queste devono essere chiare. Il fight è mortale, quindi i player devono capire che possono vincere anche usando la città.
-
-Far crollare una tettoia – Athletics CD 15 o attacco mirato: la creatura resta bloccata o rallentata per 1–2 round.Attirarla in un vicolo stretto – Knowledge Local CD 13 o Perception CD 14: riduce i suoi attacchi laterali, ma aumenta rischio di blocco.Incendiare olio o rifiuti – Alchemy / Survival CD 14: crea barriera temporanea.Usare un carro come ostacolo – Athletics CD 14: blocca carica o forza la creatura a sprecare round.Fuggire verso una strada più larga – Acrobatics / Athletics CD 13: permette di riorganizzarsi.Lasciare che le guardie coprano la ritirata – scelta dura: una guardia può restare indietro e rischiare morte.
-
-Se una guardia sta per morire
-
-Questa scena è importante per l’ultima fase di contrattazione. Se Tullio o Sabina finiscono a terra, dai ai player un momento chiaro per salvarli.
-
-Esempi:- Tullio viene schiacciato contro un muro e la creatura sta per finirlo.- Sabina viene afferrata da una carcassa maggiore e trascinata verso la bestia.- Una guardia cade sotto una tettoia instabile mentre la creatura carica.
-
-Azioni possibili:- Heal/Medicine CD 14 per stabilizzare.- Athletics CD 15 per trascinarla fuori portata.- Attacco mirato o magia per forzare la creatura a mollare.- Diplomacy/Intimidation non serve sulla creatura, ma può coordinare civili o l’altra guardia.
-
-Se i player salvano una guardia che sarebbe morta, il governo può pagare extra nella fase finale, e la guardia sopravvissuta può testimoniare a loro favore.
-
-Fase 7 – Dopo il fight e drop grezzi
-
-Se la creatura muore
-
-Quando cade, non cade come un animale. Cede a pezzi. Una zampa smette prima, poi la schiena si piega, poi la testa batte contro la pietra con un suono troppo umano. Per qualche secondo continua a respirare, o qualcosa dentro di lei continua a farlo. Poi le cuciture mollano e l’odore vi raggiunge tutto insieme.
-
-Se i player la mettono in fuga
-
-Va bene. È una quest di abbattimento, quindi il governo paga meno o chiede prova. Ma narrativamente è accettabile se il fight era troppo pericoloso.
-
-Possibili conseguenze:- la creatura torna il giorno 14 se affrontata il 13;- se è già giorno 14, viene trovata morta o quasi morta vicino alla cappella/ossario, creando ponte verso giorno 16;- il governo riduce la paga ma riconosce il rischio.
-
-Drop grezzi della mostruosità
-
-I drop non devono essere oggetti già perfetti dentro il mostro. Devono essere materiali mostruosi, poi governo, Borin, un alchimista o il tempio potranno convertirli in oggetti utili. Questo rende il loot narrativo e credibile.
-
-1. Placca sternale con frammento funebre
-
-Una placca ossea o metallica incastrata nel petto della creatura, sporca di calce e carne morta. Ha un frammento di simbolo funebre o una vecchia incisione consumata.
-
-Uso possibile: se purificata dal tempio o lavorata da un artigiano, può diventare un Sigillo solare da scudo per il paladino.
-
-Effetto consigliato dopo rifinitura: 1 volta al giorno, il paladino può far brillare il sigillo. Per 1 minuto ottiene +1 ai TS contro paura e effetti di non morte, oppure concede +1 morale contro paura agli alleati entro 3 metri per 1 round/livello.
-
-2. Ghiandola necrotica calda
-
-Una massa scura, fredda all’esterno ma tiepida al centro, trovata sotto la gola o nel petto. Pulsa ancora per qualche secondo dopo l’estrazione.
-
-Medicine / Alchemy CD 15: estrarla senza romperla.
-
-Fallimento: nausea, danno lieve o contaminazione dell’area.
-
-Uso possibile: se stabilizzata da un alchimista, può diventare Anello di vetro caldo o reagente arcano per lo stregone.
-
-Effetto consigliato dopo rifinitura: 1 volta al giorno, quando lancia un incantesimo che infligge fuoco o luce, aggiunge un piccolo bonus al danno oppure aumenta di +1 la CD contro creature non morte o innaturali per quell’incantesimo. In alternativa, produce luce come light 1 volta al giorno.
-
-3. Aculeo osseo instabile
-
-Una spina della coda o un frammento d’osso nero, lungo e sottile, con venature scure come fili intrappolati.
-
-Uso possibile: Borin o un artigiano può trasformarlo in Ago d’osso nero per il ladro/stregone, oppure in 3 punte speciali per frecce o quadrelli.
-
-Effetto consigliato dopo rifinitura: 1 volta al giorno, dopo un colpo riuscito, infligge +1d4 danni alchemici/necrotici instabili. Contro creature rianimate, cucite o assemblate, il danno rappresenta disturbo delle cuciture necromantiche.
-
-4. Filo chirurgico nero
-
-Filo metallico o cerato trovato tra le cuciture della creatura. È abbastanza resistente da aver tenuto insieme carne morta e osso sotto stress impossibile.
-
-Uso possibile: se ripulito e lavorato, può diventare parte della Fibula del comando cittadino per il bardo/guerriero, o rinforzo per uno strumento/elsa/armatura leggera.
-
-Effetto consigliato dopo rifinitura: 1 volta al giorno, il bardo/guerriero può dare un ordine breve a un alleato entro 9 metri. L’alleato ottiene +1 al prossimo tiro per colpire, prova di abilità fisica o TS contro paura entro 1 round. Se usa ispirazione bardica, una volta al giorno può estendere un bonus minore a un alleato aggiuntivo.
-
-5. Targhetta funebre fusa nella carne
-
-Piccola targhetta o frammento con nome parziale di uno dei cadaveri usati. Questo non è loot da potenziare: è una prova morale.
-
-Uso possibile: restituirla a una famiglia dei bassifondi. Può dare un favore futuro, informazioni o fiducia da parte dei poveri.
-
-Esempi di testo parziale:
-
-"...LIA, figlia di..."
-
-"...NEREUS..."
-
-6. Brandello di pergamena cerata
-
-Infilato tra punti o dentro un tubo di metallo spezzato. Usalo solo se vuoi dare un chiaro ponte verso il giorno 16.
-
-Testo parziale:
-
-"...reazione non stabile..."
-
-"...la forma animale rigetta..."
-
-"...non è Serena..."
-
-Non deve contenere firma.
-
-Distribuzione consigliata per party
-
-- Paladino: Placca sternale con frammento funebre → Sigillo solare da scudo.- Stregone: Ghiandola necrotica calda → Anello di vetro caldo / reagente arcano.- Ladro/Stregone: Aculeo osseo instabile → Ago d’osso nero o punte speciali.- Bardo/Guerriero: Filo chirurgico nero → Fibula del comando cittadino o rinforzo tattico.- Party/ruolo sociale: Targhetta funebre → favore futuro nei bassifondi.
-
-Fase 8 – Contrattazione col governo
-
-Scena
-
-Dopo il fight, i player tornano al presidio o vengono raggiunti da Decimo Varo e da alcuni uomini del governo. Il tono deve essere freddo e burocratico, quasi offensivo dopo quello che hanno affrontato.
-
-Decimo Varo:
-
-"La creatura è morta?"
+<span style="color:#7f5f2a"><strong>Decimo Varo</strong></span>: "La creatura è morta?"
 
 Se mostrano i resti:
 
-"Bene. Allora possiamo iniziare a parlare di pagamento."
+<span style="color:#7f5f2a"><strong>Decimo Varo</strong></span>: "Bene. Allora possiamo iniziare a parlare di pagamento."
 
-Pagamento base
+### Pagamento
 
-Dato che la quest prometteva pagamento eccezionale, la paga deve sembrare alta, ma il governo proverà comunque a ridurre, ritardare o convertire parte della somma in dotazioni.
+| Esito | Pagamento |
+| --- | --- |
+| Arthemol ucciso, guardie vive | 120-180 mo totali |
+| Arthemol ucciso, danni gravi o guardia morta | 100-140 mo |
+| Arthemol scacciato ma non ucciso | 50-80 mo |
+| Prova fisica importante consegnata | +20-30 mo |
+| Guardia salvata da morte certa | +20-40 mo, lavorazione gratuita o favore futuro |
 
-Valori consigliati per economia normale:- successo pieno: 120–180 mo totali;- successo con danni gravi o guardia morta: 100–140 mo;- creatura scacciata ma non uccisa: 50–80 mo;- prova fisica importante consegnata: +20–30 mo.
+Prove di contrattazione:
 
-Se la tua economia è più stretta, dimezza tutto. Il punto è che deve sembrare una paga eccezionale rispetto alle quest normali.
+- <span style="color:#d6a500"><strong>Diplomacy CD 15</strong></span>: pagamento pieno senza ritardi.
+- <span style="color:#d6a500"><strong>Diplomacy CD 18</strong></span>: pagamento pieno + piccolo bonus o lavorazione gratuita.
+- <span style="color:#d6a500"><strong>Intimidation CD 16</strong></span>: il governo paga, ma prende nota.
+- <span style="color:#2f9ed8"><strong>Knowledge Local / Professione mercante CD 14</strong></span>: capiscono quando Decimo Varo sta tirando al ribasso.
 
-Contrattazione
+Se una guardia è stata salvata:
 
-I player possono contrattare. Il governo non è generoso, ma è sensibile a prove, testimoni, rischio pubblico, sopravvivenza delle guardie e panico evitato.
+<span style="color:#4f6f52"><strong>[[Tullio]]</strong></span>: "Scrivete pure che senza di loro adesso sarei dentro un sacco."
 
-Diplomacy CD 15: ottengono il pagamento pieno senza ritardi.
+<span style="color:#2f7fb8"><strong>[[Sabina]]</strong></span>: "Non hanno solo ucciso la bestia. Hanno riportato indietro anche noi."
 
-Diplomacy CD 18: ottengono pagamento pieno + piccolo bonus o lavorazione gratuita di un drop grezzo.
+<span style="color:#7f5f2a"><strong>Decimo Varo</strong></span>: "La testimonianza delle guardie verrà... considerata nella liquidazione."
 
-Intimidation CD 16: il governo paga, ma prende nota del comportamento dei player.
+## Riepilogo Indizi
 
-Professione mercante / Knowledge Local CD 14: capiscono quale cifra è ragionevole e quando il funzionario sta tirando al ribasso.
+| Indizio | CD | Cosa sembra | Cosa significa davvero |
+| --- | --- | --- | --- |
+| Odore di conservanti | <span style="color:#2f9ed8"><strong>Alchemy CD 15</strong></span> | Carne trattata | Collegamento agli esperimenti |
+| Cuciture e filo nero | <span style="color:#8b5cf6"><strong>Perception CD 14</strong></span> / <span style="color:#2f9ed8"><strong>Craft CD 16</strong></span> | Mostro assemblato | Stesso metodo delle fosse |
+| Parti anatomiche incompatibili | <span style="color:#8b5cf6"><strong>Medicine CD 15</strong></span> | Deformità | Costruzione artificiale |
+| Carcasse che si staccano | Osservabile | Corpi nella bestia | Arthemol è composto da cadaveri |
+| Reazione al fuoco | Osservabile | Paura animale | Corpo instabile |
+| Reazione alla luce sacra | Osservabile | Non morto o innaturale | Necromanzia impura |
+| Targhetta funebre | Nessuna / <span style="color:#8b5cf6"><strong>Perception CD 12</strong></span> | Vittima casuale | Corpo rubato dalle fosse |
+| Pergamena parziale | <span style="color:#8b5cf6"><strong>Perception CD 15</strong></span> | Appunto tecnico | Vael cercava una forma stabile |
+| Le nove facce | Osservabile | Mostruosità | Terzo eco del numero nove |
 
-Presentare prove fisiche chiare: +2 circostanziale alla contrattazione.
+## Rumori Senza Significato
 
-Avere una guardia sopravvissuta come testimone: +2 circostanziale alla contrattazione.
+> [!note] Da usare contro l'overthinking
+> Non tutto è un indizio. Questi dettagli servono a far vivere il quartiere e a impedire che ogni rumore sembri una chiave.
 
-Bonus per salvataggio di una guardia
+- Un bambino lascia cadere una trottola e la recupera senza parlare.
+- Una finestra si chiude appena passano le guardie.
+- Una campanella di bancarella rotta tintinna senza motivo importante.
+- Un uomo ubriaco dice di aver visto due bestie, ma era solo ubriaco.
+- Una macchia sul muro sembra una mano, ma è muffa.
+- Un vaso cade da una finestra molto lontana.
 
-Se i player salvano la vita a Tullio o Sabina quando stava per morire, il governo può pagare extra. Non per bontà: per evitare scandali, perché la guardia testimonia e perché una morte ufficiale costa politicamente.
+## Note GM
 
-Bonus consigliato:
+> [!danger] Tono finale
+> Arthemol non è lì per dare XP. È la prova vivente che qualcuno sta sperimentando sui corpi poveri e lasciando gli orrori ricadere sui bassifondi.
 
-- +20–40 mo totali;- oppure lavorazione gratuita di un drop grezzo;- oppure promessa scritta di accesso a un fabbro/alchimista governativo;- oppure favore futuro da Tullio/Sabina.
+Il fight deve essere mortale, ma non ingiusto. Dai segnali chiari: guardie spaventate, testimoni traumatizzati, tracce enormi, preparazione possibile, vie di fuga.
 
-Tullio, se salvato:
+Non rendere Arthemol malvagio in senso classico. È aggressivo, affamato e instabile, ma soprattutto è sbagliato. Ucciderlo deve sembrare anche un atto di misericordia.
 
-"Scrivete pure che senza di loro adesso sarei dentro un sacco."
-
-Sabina, se salvata:
-
-"Non hanno solo ucciso la bestia. Hanno riportato indietro anche noi."
-
-Decimo Varo, contrariato:
-
-"La testimonianza delle guardie verrà... considerata nella liquidazione."
-
-Se una guardia muore
-
-Il governo può provare a usare la morte per ridurre la paga o spostare colpa sui player.
-
-Decimo Varo:
-
-"Una guardia cittadina è morta sotto vostro incarico operativo. Questo complica la liquidazione."
-
-Risposta possibile dei player:
-
-Diplomacy CD 16: ricordano che le guardie erano state assegnate dal governo e che senza i player ci sarebbero state più vittime.Intimidation CD 15: il governo paga per evitare discussioni pubbliche.Presentare il corpo della creatura e testimoni dei bassifondi: +2 alla prova.
-
-Pagamento in dotazioni invece che monete
-
-Soluzione molto realistica: il governo paga parte in monete e parte in accesso a lavorazione dei materiali grezzi.
-
-Decimo Varo:
-
-"Una quota della ricompensa può essere convertita in dotazioni speciali per servizio straordinario. È più rapido della tesoreria."
-
-Traduzione pratica: i player ottengono meno monete, ma possono far rifinire i drop in oggetti personalizzati. Questo aiuta a non rompere l’economia.
-
-Esiti
-
-Esito A – Creatura uccisa, entrambe le guardie vive
-
-Successo pieno. Il governo paga bene, i bassifondi respirano, i player ottengono prove forti sugli esperimenti e materiali grezzi da rifinire.
-
-Esito B – Creatura uccisa, una guardia salvata da morte certa
-
-Successo eccellente. Il governo può pagare extra o offrire lavorazione gratuita di un drop. La guardia sopravvissuta diventa possibile contatto.
-
-Esito C – Creatura uccisa, una guardia morta
-
-Successo amaro. Il governo paga, ma può provare a ridurre la somma. L’altra guardia può testimoniare a favore dei player se il comportamento è stato corretto.
-
-Esito D – Creatura scacciata
-
-Successo parziale. Il governo paga meno. Se è giorno 13, la creatura può tornare il giorno 14. Se è giorno 14, può essere trovata morta o recuperata da altri.
-
-Esito E – Player fuggono
-
-Non è fallimento totale se il fight era ingestibile. Nessuna paga piena, guardie forse ferite o morte, governo irritato, paura nei bassifondi in aumento.
-
-Esito F – Player ignorano la quest fino a fine giorno 14
-
-La creatura viene abbattuta da altri con molte perdite, oppure sparisce. Meno informazioni sulla sottotrama, più morti nei bassifondi, Vaeltharuun ha tempo di ripulire tracce, giorno 16 più difficile o più cupo.
-
-Clues Summary
-
-Indizio
-
-CD
-
-Cosa sembra
-
-Cosa significa davvero
-
-Odore di conservanti
-
-15
-
-carne trattata
-
-collegamento agli esperimenti
-
-Cuciture e filo nero
-
-14–16
-
-mostro assemblato
-
-stesso metodo delle fosse
-
-Parti anatomiche incompatibili
-
-15
-
-deformità
-
-costruzione artificiale
-
-Carcasse che si staccano
-
-osservabile
-
-corpi nella bestia
-
-la creatura è composta da cadaveri
-
-Reazione al fuoco
-
-osservabile
-
-paura animale
-
-corpo instabile
-
-Reazione alla luce sacra
-
-osservabile
-
-non morto/innaturale
-
-necromanzia impura
-
-Targhetta funebre
-
-nessuna/12
-
-vittima casuale
-
-corpo rubato dalle fosse
-
-Pergamena parziale
-
-15
-
-appunto tecnico
-
-Vael cercava una forma stabile
-
-La creatura soffre
-
-nessuna
-
-mostro patetico
-
-esperimento fallito, non arma volontaria
-
-Rumore casuale obbligatorio
-
-Dettagli senza significato:
-
-- un bambino lascia cadere una trottola e la recupera senza parlare;- una finestra si chiude appena passano le guardie;- un cane abbaia a una botte vuota;- una vecchia lancia acqua sporca in strada e poi si scusa;- un pezzo di stoffa blu resta impigliato a un chiodo;- un topo enorme attraversa il vicolo e sparisce sotto una porta;- una campanella di una bancarella rotta tintinna senza motivo importante;- un uomo ubriaco dice di aver visto due bestie, ma era solo ubriaco;- una macchia sul muro sembra una mano, ma è muffa;- un vaso cade da una finestra molto lontana.
-
-Normalizza se i player si fissano. La quest ha già abbastanza indizi veri.
-
-DM Notes
-
-Questa quest deve far capire che la sottotrama necromantica è pericolosa anche fuori dalla cappella. Il mostro non è lì per dare XP: è la prova vivente che qualcuno sta sperimentando su corpi poveri e producendo orrori che poi ricadono sui bassifondi.
-
-Il fight deve essere mortale, ma non ingiusto. Dai ai player segnali chiari: guardie spaventate, testimoni traumatizzati, tracce enormi, preparazione possibile, vie di fuga. Se entrano frontalmente senza piano, devono rischiare grosso.
-
-La meccanica delle carcasse che si staccano è molto forte: non superare 4 carcasse totali. Il suo scopo è creare panico tattico e disgusto, non trasformare il fight in un massacro senza controllo.
-
-Non rendere la creatura malvagia in senso classico. È aggressiva, affamata e instabile, ma soprattutto è sbagliata. Ucciderla deve sembrare anche un atto di misericordia.
-
-Le guardie sono importanti. Se sopravvivono, umanizzano il governo. Se muoiono, mostrano che anche le istituzioni sono impreparate davanti agli orrori che la città sta producendo.
-
-L’ultima fase di contrattazione serve a chiudere con il tono giusto: dopo l’orrore, la burocrazia. Il governo può essere utile, ma resta freddo, contabile e interessato alla gestione pubblica del problema.
-
-Feeling finale:
-
-"Non era una bestia dei bassifondi. Era qualcosa che qualcuno aveva costruito, poi abbandonato a mangiare la città che l’aveva ignorata."
+> [!summary] Feeling finale
+> Non era una bestia dei bassifondi. Era qualcosa che qualcuno aveva costruito, poi abbandonato a mangiare la città che l'aveva ignorata.

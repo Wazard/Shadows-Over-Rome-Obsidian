@@ -6,13 +6,14 @@ tags:
   - npc/primary
   - source/npc-primari-csv
   - faction/marcia
+  - linker-exclude
 aliases:
-  - "Tiefling Bard"
-Faction: "Ribellione"
-race: "Tiefling - apparenza umana"
-role: "Barda / futura leader ribelle"
-source_csv: "NPC_primari.csv"
-source: "Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs/NPC_primari.csv"
+  - Tiefling Bard
+Faction: Ribellione
+race: Tiefling - apparenza umana
+role: Barda / futura leader ribelle
+source_csv: NPC_primari.csv
+source: Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs/NPC_primari.csv
 ---
 # Marcia
 

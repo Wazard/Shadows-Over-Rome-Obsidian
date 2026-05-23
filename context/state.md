@@ -1,6 +1,10 @@
+---
+tags:
+  - linker-exclude
+---
 # Migration State
 
-Last updated after applying the Breaching Festival and Remembrance Moon calendar premise to quests and Act 2 guidance.
+Last updated after expanding the player hub to all four repo-confirmed players from `main/players`.
 
 ## User Preference
 
@@ -285,6 +289,69 @@ The prep includes rollable d4 encounter tables with 4 encounters per zone for Il
 
 Session 03 prep now points the Marcia option toward the separate Day 02 quest `Marcia's Song in the Square 2`.
 
+### Player Hub And Player Dossiers
+
+Filled `00 - Campaign Hub/Players.md` in Italian and created individual player notes under `00 - Campaign Hub/Players`.
+
+After user correction, the player roster was rechecked against `Wazard/Shadows-over-Rome@main/players` rather than only local imported background notes.
+
+Confirmed player-character notes created:
+
+- `Auris Mantopietra`
+- `Apollodoro`
+- `Massimiliano`
+- `Filippo`
+
+Confirmed from existing background/session notes:
+
+- Auris Mantopietra is a halfling stregone livello 2, raised by dwarves in the Lombard Alps, with innate earth/metal affinity and a hammer-shaped birthmark interpreted as a possible sign of Torag.
+- Auris' current Session 02 hook is the six gold-looking false-coin prototypes taken from `Cassian Rulfo`; Auris failed Valutare/Appraise and believes they are pure gold.
+- Apollodoro is the public/stage identity of Aurelio, originally from Naples, whose family, home and face were destroyed by fire.
+- Apollodoro's background confirms exhibition combat, bardic arts, Tiberius as mentor, the gladiator helmet as a central identity object, class as guerriero with one bard level, and scizore as preferred weapon.
+- Apollodoro was wounded by `Naso Rotto` during Session 02, creating a direct hostile/rival contact.
+- Massimiliano is a noble human from Pienza, trained first in Desna's church, then drawn to Sarenrae, and later transformed by the nine-bells village massacre into a paladin-like protector. His source confirms paladino and spadalunga.
+- Filippo, also called Pippo, comes from a large family, fears discovery of his fae/sorcerous blood, and is a ladro/stregone described in source as a "mago che fa furtivi con magie".
+
+Repo files confirmed/read from `main/players`:
+
+- `Background Auris.txt`
+- `Background Apollodoro.txt`
+- `Background Massimiliano.txt`
+- `Background Filippo.txt`
+- `Auris.pdf`
+- `Apollodoro.pdf`
+- `Fabio.pdf` - this is Massimiliano's character sheet; the name stayed Fabio because in Session 01 the player/character switched to Massimiliano and the repo file was not renamed.
+- `Filippo.pdf`
+
+Massimiliano's PDF should be treated as `players/Fabio.pdf`, not as `players/Massimiliano.pdf`.
+
+Previously tested non-canonical paths that were not found:
+
+- `Massimiliano.pdf`
+- `massimiliano.pdf`
+- `Massimilliano.pdf`
+- `Padre_Massimiliano.pdf`
+- `Padre Massimiliano.pdf`
+- `Padre-Massimiliano.pdf`
+- `Aldebarand.pdf`
+
+The player hub now tracks:
+
+- party state after Session 02;
+- individual player links;
+- session action log;
+- NPC relationship snapshot;
+- player-specific fears/levers;
+- open inputs still needed.
+
+Important unresolved player inputs:
+
+- Whether Massimiliano and Filippo had individual Session 01-02 actions not captured by the session prep recap.
+- Full character sheet details beyond the repo background's class/weapon lines.
+- Auris' bloodline, spell list and current combat role.
+- Whether `Er Trace` is still active in current play or only a backstory bridge.
+- Any full Massimiliano sheet details not visible from the PDF filename/background summary.
+
 ### Day 1-2 NPC Cleanup
 
 Cleaned Day 1 and Day 2 quest/encounter NPC references against the authoritative NPC notes.
@@ -365,3 +432,123 @@ Then update `indexes/Act 1 - Migration Index.md` with an exact checklist.
 - Do not add NPC day/first-appearance fields back.
 - Do not assume raw source imports are sufficient; user is expecting actual migration quality.
 - Do not push or create backups; the user handles that.
+
+### Pulizia Accenti Italiani
+
+Eseguita una revisione degli accenti nei file markdown italiani attivi del vault.
+
+- Normalizzate forme frequenti senza accento, tra cui `perché`, `città`, `più`, `può`, `già`, `ciò`, `però`, `finché`, `attività`, `identità`, `possibilità`, `curiosità`, `schiavitù`, `furtività`, `criminalità`, `stabilità`, `comodità`, `personalità`, `avidità`, `vulnerabilità`, `affinità`, `adattabilità` e `mobilità`.
+- Corretti i file giocatore e il player hub con accenti mancanti e alcuni falsi positivi `e/è`.
+- Correzioni specifiche applicate a [[Auris Mantopietra]], [[Apollodoro]], [[Massimiliano]], [[Filippo]] e [[Players]].
+- Verifica finale: nessuna occorrenza residua trovata per le forme non accentate cercate nei file `.md` fuori da `.obsidian`.
+
+Nota operativa: da ora in avanti, ogni contenuto italiano scritto nel vault deve usare gli accenti corretti.
+
+### Vaeltharuun, Paure dei PG e Numero Nove
+
+Aggiornata la progressione della serie di Vaeltharuun per usare in modo crescente le paure di [[Massimiliano]] e [[Filippo]], con richiami anche a [[Auris Mantopietra]] e [[Apollodoro]].
+
+- In [[Candles for the Old Chapel]], giorno 7, Madre Elenia prepara **nove candele** vicino all'altare: una per ciascun giorno di sofferenza della defunta della veglia. Il dettaglio deve sembrare umano e religioso, non ancora minaccioso.
+- Nella stessa quest sono state aggiunte tracce fatate deboli nella cera e nel passaggio di Vaeltharuun, perché Vaeltharuun è uno stregone di stirpe fatata e ha usato magia fatata per non essere notato.
+- In [[Day 11 - Corpi mancanti dalle fosse comuni]], i corpi mancanti sono **esattamente nove**. La selezione è pratica per gli esperimenti di Vaeltharuun, ma al tavolo deve richiamare il trauma del numero nove di Massimiliano.
+- In quella quest, controlli alti di Perception/Investigation/Sapienza Magica o Knowledge Nature possono rivelare che le tracce non sono state cancellate fisicamente: sono state rese facili da ignorare tramite magia fatata.
+- In [[Day 13 - 14 Arthemol Coro di Carne Quest]] e nella nota parallela [[Day 13 - 14 Bestia nei bassifondi]], Arthemol ha **nove facce**: otto secondarie in dolore e paura, e una primaria completamente mutilata.
+- Arthemol può percepire paure e identità ferite tramite memoria necromantica contaminata da magia fatata. Non è lettura del pensiero pulita.
+- Frasi mirate confermate:
+  - Massimiliano: "Nove campane, nove rintocchi, nove vittime, un solo sopravvissuto codardo."
+  - Filippo, primo colpo: "Padrone, ne abbiamo trovato un altro."
+  - Filippo, secondo colpo o magia: "Amico fatato, non senti la nostra sofferenza? Perché nascondi la tua identità?"
+- Arthemol ora ha anche risposte per le paure di Auris e Apollodoro: identità nanica/oro falso per Auris, elmo/volto bruciato/buio per Apollodoro.
+- Il combattimento contro Arthemol deve essere molto difficile ma non arbitrario: con preparazione è vincibile e costoso; senza preparazione è probabile almeno una morte NPC, e con approccio frontale anche un PG può realisticamente morire.
+
+### Regole Markdown Quest
+
+Create regole di formattazione quest in [[quest_markdown_rules]].
+
+- Ogni quest deve aprire con callout `> [!motive]`, `> [!summary]` e `> [!success]`.
+- Subito dopo l'apertura deve esserci una tabella con giorno, luogo, PNG coinvolti, tipi di CD, combattimento e ricompensa.
+- Readaloud, descrizioni, note e avvertimenti devono usare callout evidenti, per esempio `> [!readaloud]`, `> [!description]`, `> [!note]`, `> [!warning]`, `> [!danger]`, `> [!clue]`.
+- I dialoghi devono essere colorati per PNG con colore coerente dentro la quest.
+- Le CD devono essere colorate per caratteristica: FOR rosso, DES arancione, COS verde, INT azzurro, SAG viola, CAR giallo.
+- Le quest investigative devono includere una tabella indizi con CD colorate.
+- Tutto il materiale di campagna in italiano deve mantenere accenti corretti.
+
+Applicazione di prova completata:
+
+- [[Day 13 - 14 Bestia nei bassifondi]] è ora la versione play-facing unica della quest, riformattata secondo le nuove regole.
+- [[Day 13 - 14 Arthemol Coro di Carne Quest]] è stato accorpato e trasformato in nota-puntatore verso [[Day 13 - 14 Bestia nei bassifondi]], per evitare doppioni e contraddizioni.
+
+### Formattazione Quest Fase 1
+
+Applicate le regole di [[quest_markdown_rules]] alle quest giornaliere già scritte della Fase 1.
+
+- Aggiornate 30 note quest sotto `04 - Quests/Act 1 - Days 01-10`, giorni 1-7.
+- Aggiornata anche [[Day 11 - Corpi mancanti dalle fosse comuni]], come richiesto, con apertura specifica, tabella indizi colorata, dialoghi colorati e maggiore coerenza con la serie di Vaeltharuun.
+- Ogni quest aggiornata ora ha apertura con `> [!motive]`, `> [!summary]`, `> [!success]`, tabella gestionale iniziale e sezione `## PNG e Colori`.
+- Promossi readaloud, descrizioni, note, avvertimenti e indizi principali a callout evidenti.
+- Colorate le CD ricorrenti secondo caratteristica quando riconosciute nel testo.
+- Puliti accenti italiani frequenti nei file toccati.
+
+Nota: `Quest Board.md` e `Varro's Plan - Act 1.md` non sono stati trattati come singole quest giocabili, quindi non sono stati riformattati in questo passaggio.
+
+### Riscrittura Completa Quest Giorno 2
+
+Corretto il passaggio precedente sulle quest di [[Day 02]]: la prima formattazione aveva aggiornato soprattutto apertura e struttura, ma non abbastanza il corpo giocabile.
+
+Riscritti in modo sostanziale i corpi delle sei quest del giorno 2, seguendo il modello play-facing di [[Day 13 - 14 Bestia nei bassifondi]]:
+
+- [[Mediazione per Carico in Ritardo]]
+- [[Consegna Contesa al Mercato]]
+- [[Furto alla Forgia]]
+- [[La Lanterna del Vicolo Storto]]
+- [[Marcia's Song in the Square 2]]
+- [[Disputa alla Bottega]]
+
+Modifiche applicate:
+
+- aperture specifiche con motivo, riassunto ed esiti non generici;
+- tabelle iniziali con luogo, PNG, tipi di CD, combattimento e ricompensa;
+- sezioni `PNG e Colori` con dialoghi colorati coerenti;
+- scene di apertura e punti di interesse riscritti come materiale direttamente giocabile;
+- fasi di gestione al tavolo, complicazioni, indizi e ricompense rese esplicite;
+- tabelle indizi con CD colorate secondo [[quest_markdown_rules]];
+- tracce cultuali mantenute molto sottili e non risolutive;
+- accenti italiani verificati nei file del giorno 2.
+
+Nota operativa: questo è il livello minimo desiderato per le prossime riformattazioni quest. La sola aggiunta di blocchi iniziali non è sufficiente.
+
+### Riscrittura Completa Quest Giorno 3 e Veltharuun
+
+Applicato lo stesso standard play-facing usato per [[Day 13 - 14 Bestia nei bassifondi]] e per le quest del [[Day 02]] alle quest del [[Day 03]] e alle tappe principali ancora non riscritte della sottotrama di Veltharuun.
+
+Quest del giorno 3 riscritte:
+
+- [[Bread Before Sunset|Pane Prima del Tramonto]]
+- [[Discreet Double Registration Check|Verifica Discreta su Doppia Registrazione]]
+- [[Merchant Refuses Delivery|Mercante Rifiuta Consegna]]
+- [[Official Transport Escort|Scorta a Trasporto Ufficiale]]
+- [[Unregistered Delivery Check|Controllo su Consegna Non Registrata]]
+
+Quest di Veltharuun riscritte:
+
+- [[Candles for the Old Chapel|Candele per la Cappella Vecchia]]
+- [[Day 16 - Persone scomparse dopo la veglia]]
+
+Decisioni e note canoniche:
+
+- [[Bread Before Sunset|Pane Prima del Tramonto]] resta una quest senza vera paga monetaria: il premio è fiducia di [[Marcia]] e riconoscimento nei bassifondi.
+- [[Official Transport Escort|Scorta a Trasporto Ufficiale]] è confermata come prima apparizione diretta di [[Gaius Varro]]: deve sembrare ordinato, potente e quasi ragionevole.
+- Le quest documentali del giorno 3 rafforzano la falsa pista di [[Brutus Verro]] senza rivelare ancora la rete completa di Varro.
+- [[Merchant Refuses Delivery|Mercante Rifiuta Consegna]] era quasi uno stub: è stata resa giocabile mantenendo il nucleo canonico, cioè il sospetto di [[Naevius Prisco]] sui materiali illegali e sulla paura dei controlli.
+- [[Candles for the Old Chapel|Candele per la Cappella Vecchia]] è ora la prima tappa chiara della serie di Veltharuun: introduce la cappella, [[Serena Valeria]], le nove candele, il numero 9 come lutto plausibile e una traccia fatata per [[Filippo]], senza mostrare il necromante.
+- [[Day 16 - Persone scomparse dopo la veglia]] è ora la conclusione play-facing della sottotrama: quattro volontari, scelta morale, possibile rituale completato, scontro difficile con timer e ricompense sporche.
+- Le note usano [[Veltharuun|Vaeltharuun]] quando serve mantenere il nome narrativo usato nei testi e il link al file PNG esistente.
+
+Verifiche eseguite:
+
+- blocchi iniziali obbligatori presenti nei 7 file;
+- sezioni `PNG e Colori` presenti;
+- nessun placeholder `$c`;
+- nessuna CD grezza non colorata trovata con il controllo usato;
+- nessuna occorrenza residua trovata per i termini inglesi operativi cercati (`fight`, `Feeling`, `Ritual`, `Quest Board`, `Source Migration`, ecc.);
+- accenti italiani comuni verificati nei file toccati.
