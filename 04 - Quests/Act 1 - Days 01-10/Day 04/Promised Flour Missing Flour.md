@@ -54,7 +54,7 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day4/Day4_Farina_promessa_farin
 
 | Item Or Lead | DCs | Location | Fight Presence | Involved NPCs | Implication | Risk |
 | --- | --- | --- | --- | --- | --- | --- |
-| Missing flour list with deliberate erasures | Linguistics DC 16; Profession merchant DC 15 | Merchant warehouse office | No unless caught trespassing | [[Larto Vero]], [[Lippo Gualdo]] | Destination names are being removed before public posting | Clerk may burn remaining pages if frightened |
+| Missing flour list with deliberate erasures | Linguistics DC 16; Profession merchant DC 15 | Merchant warehouse office | No unless caught trespassing | [[Larto Vero]], [[Lappo Gualdo]] | Destination names are being removed before public posting | Clerk may burn remaining pages if frightened |
 
 - Calendar: [[Day 04]] is Desnus 4, 3608.
 - Breaching Festival week: music, temporary markets, pilgrims, performers, and caravans from across the country make the city bright, crowded, and easy to exploit.

@@ -161,7 +161,7 @@ Total imported NPC rows: **160**.
 
 | NPC | Race | Role |
 | --- | --- | --- |
-| [[Lippo Gualdo]] | Umano | Magazziniere di alto livello |
+| [[Lappo Gualdo]] | Umano | Magazziniere di alto livello |
 | [[Livia Cornelia Frizzapunto]] | Gnoma | Magazziniere minore, mediatrice di contratti per Brutus Verro |
 | [[Titus Falco]] | Umano | Magazziniere capo fedele alla rete di Varro |
 
