@@ -40,7 +40,7 @@ status: in-progress
 - Ha sospettato di:
   - l'**apprendista di Borin** (al momento senza nome proprio nel canone — vedi nota sotto);
   - [[Durgan Dato]] (Durgan), il mercante d'armi nano rivale/indipendente;
-  - i **fabbri umani** (la pista razzista plausibile ma falsa).
+  - i **fabbri umani** della forgia rivale, [[Tullio Spaccaferro]] e [[Macra Carbonera]] (la pista razzista plausibile ma falsa).
 
 > [!note] Falsa pista che regge
 > Coerente con il design di [[Forge Theft|Furto alla Forgia]]: il gruppo sta seguendo la pista razzista/concorrenza, che è **plausibile ma non è il vero movente** (il bersaglio reale sono gli attrezzi su misura, cioè la capacità produttiva di Borin). Non correggere d'ufficio: lasciare che gli indizi spostino il sospetto.
@@ -56,7 +56,7 @@ Questa battuta è la stessa logica del copione degli **uomini di Aulus**: gente 
 
 | Pista | Stato | Note |
 | --- | --- | --- |
-| Furto razzista / fabbri umani | Sospetto attivo ma falso | Messa in scena; non smentita ancora apertamente |
+| Furto razzista / fabbri umani ([[Tullio Spaccaferro]], [[Macra Carbonera]]) | Sospetto attivo ma falso | Messa in scena; non smentita ancora apertamente |
 | Apprendista di Borin | Sospettato | Nervoso, teme di essere accusato; non è il colpevole |
 | [[Durgan Dato]] | Sospettato | Rivale plausibile; in realtà avversario dei favoritismi, non sabotatore |
 | Due figure notturne (via [[Lippo]]) | **Pista vera emergente** | Lavoro pagato e mirato → collegamento agli uomini di Aulus |
@@ -74,6 +74,6 @@ Questa battuta è la stessa logica del copione degli **uomini di Aulus**: gente 
 
 > [!warning] Da confermare / completare
 > - **Nome dell'apprendista di Borin:** non esiste nel canone (in [[Forge Theft]] è solo "Apprendista"). Se vuoi un nome proprio, da assegnare.
-> - I **"fabbri umani"** non sono NPC nominati: sono la falsa pista, non una fazione definita. Eventuale scheda solo se la pista diventa rilevante.
+> - I **fabbri umani** ([[Tullio Spaccaferro]] e [[Macra Carbonera]]) sono nomi **inventati** in fase di recap: nel canone erano solo la falsa pista razzista, senza nomi. Schede create come stub provvisori, da rinominare se al tavolo erano usciti altri nomi.
 > - Azioni individuali di Massimiliano e Filippo in questa scena: da registrare se emerse al tavolo.
 > - Esito sociale con [[Marcia]] (suonato / rifiutato) da fissare a fine sessione.
