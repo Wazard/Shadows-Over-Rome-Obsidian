@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Forge Theft",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Forge Theft.md"
+      "basename": "Session 04.5 - Day 02 Evening Wolves",
+      "path": "03 - Sessions and Timeline/Session Prep/Session 04.5 - Day 02 Evening Wolves.md"
+    },
+    {
+      "basename": "Wolves Outside the Walls",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 01/Wolves Outside the Walls.md"
+    },
+    {
+      "basename": "Shop Dispute",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Shop Dispute.md"
+    },
+    {
+      "basename": "Session 04 - Day 02 Afternoon and Evening",
+      "path": "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Afternoon and Evening.md"
+    },
+    {
+      "basename": "Disputed Market Delivery",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Disputed Market Delivery.md"
+    },
+    {
+      "basename": "Gnaeus Petron",
+      "path": "05 - NPCs/Merchant NPCs/Gnaeus Petron.md"
+    },
+    {
+      "basename": "Titus Marcellus",
+      "path": "05 - NPCs/City Officials and Guards/Titus Marcellus.md"
+    },
+    {
+      "basename": "Session 03 - Day 02 Festival Pressure",
+      "path": "03 - Sessions and Timeline/Session Prep/Session 03 - Day 02 Festival Pressure.md"
     },
     {
       "basename": "Session 03 - Day 02 Recap",
       "path": "03 - Sessions and Timeline/Session Prep/Session 03 - Day 02 Recap.md"
+    },
+    {
+      "basename": "Day 01 - Mattina - Anti-Merchant - Aferio Lento",
+      "path": "08 - Systems and Tables/Encounter Tables/NPC Routines/Day 01/Day 01 - Mattina - Anti-Merchant - Aferio Lento.md"
+    },
+    {
+      "basename": "Day 01 - Mattina - Anti-Merchant - Brutus Verro",
+      "path": "08 - Systems and Tables/Encounter Tables/NPC Routines/Day 01/Day 01 - Mattina - Anti-Merchant - Brutus Verro.md"
+    },
+    {
+      "basename": "Ring of a Thousand Faces",
+      "path": "09 - Items, Props, and Handouts/Items/Ring of a Thousand Faces.md"
+    },
+    {
+      "basename": "Abandoned Chapel",
+      "path": "07 - Locations/Encounter Locations/Abandoned Chapel.md"
+    },
+    {
+      "basename": "Act 1 Daily Beat Sheet",
+      "path": "03 - Sessions and Timeline/Daily Timeline/Act 1 Daily Beat Sheet.md"
+    },
+    {
+      "basename": "Day 01",
+      "path": "03 - Sessions and Timeline/Daily Timeline/Day 01.md"
+    },
+    {
+      "basename": "Day 02",
+      "path": "03 - Sessions and Timeline/Daily Timeline/Day 02.md"
+    },
+    {
+      "basename": "Day 03",
+      "path": "03 - Sessions and Timeline/Daily Timeline/Day 03.md"
+    },
+    {
+      "basename": "Day 04",
+      "path": "03 - Sessions and Timeline/Daily Timeline/Day 04.md"
+    },
+    {
+      "basename": "Forge Theft",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Forge Theft.md"
     },
     {
       "basename": "Lappo Gualdo",
@@ -77,10 +145,6 @@
       "path": "05 - NPCs/Merchant NPCs/Larto Vero.md"
     },
     {
-      "basename": "Gnaeus Petron",
-      "path": "05 - NPCs/Merchant NPCs/Gnaeus Petron.md"
-    },
-    {
       "basename": "Fenn CodaStretta",
       "path": "05 - NPCs/Merchant NPCs/Fenn CodaStretta.md"
     },
@@ -125,10 +189,6 @@
       "path": "05 - NPCs/Merchant NPCs/Aulo Nerone.md"
     },
     {
-      "basename": "Session 03 - Day 02 Festival Pressure",
-      "path": "03 - Sessions and Timeline/Session Prep/Session 03 - Day 02 Festival Pressure.md"
-    },
-    {
       "basename": "Marcia's Song in the Square 2",
       "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Marcia's Song in the Square 2.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "Discreet Double Registration Check",
       "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md"
-    },
-    {
-      "basename": "Bread Before Sunset",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Bread Before Sunset.md"
-    },
-    {
-      "basename": "Unregistered Delivery Check",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md"
-    },
-    {
-      "basename": "Official Transport Escort",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md"
-    },
-    {
-      "basename": "quest_markdown_rules",
-      "path": "context/quest_markdown_rules.md"
-    },
-    {
-      "basename": "Dirty Receipts",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 04/Dirty Receipts.md"
-    },
-    {
-      "basename": "Promised Flour Missing Flour",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 04/Promised Flour Missing Flour.md"
-    },
-    {
-      "basename": "Price Dispute",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 04/Price Dispute.md"
-    },
-    {
-      "basename": "Lantern in the Crooked Alley",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Lantern in the Crooked Alley.md"
-    },
-    {
-      "basename": "Shop Dispute",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Shop Dispute.md"
-    },
-    {
-      "basename": "Caius Rutilo",
-      "path": "05 - NPCs/Varro Network/Caius Rutilo.md"
-    },
-    {
-      "basename": "Day 11 - Corpi mancanti dalle fosse comuni",
-      "path": "04 - Quests/Act 2 - Days 11-20/Day 11/Day 11 - Corpi mancanti dalle fosse comuni.md"
-    },
-    {
-      "basename": "Delayed Shipment Mediation Needed",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 02/Delayed Shipment Mediation Needed.md"
-    },
-    {
-      "basename": "Candles for the Old Chapel",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 07/Candles for the Old Chapel.md"
-    },
-    {
-      "basename": "Cargo Delivery Dispute With Wrong Numbers",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 06/Cargo Delivery Dispute With Wrong Numbers.md"
-    },
-    {
-      "basename": "Day 13 - 14 Bestia nei bassifondi",
-      "path": "04 - Quests/Act 2 - Days 11-20/Day 13/Day 13 - 14 Bestia nei bassifondi.md"
     }
   ],
   "omittedPaths": [],

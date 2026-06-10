@@ -15,16 +15,16 @@ source:
 # Lost Ledger near the Harbor
 
 > [!motive] Motivo
-> I PG hanno un motivo pratico per accettare questa quest: seguire il gancio descritto sotto, ottenere la ricompensa o il favore previsto, e capire come la pressione locale di [[Day 01]] sta toccando il quartiere. Questa sezione orienta la gestione al tavolo senza sostituire il testo giocabile già presente.
+> [[Publius - Apprentice]], apprendista scrivano del porto, ha perso (o fatto cadere) un registro commerciale e implora aiuto discreto per recuperarlo prima che lo trovi qualcun altro. I PG possono accettare per la paga rapida, per un contatto negli uffici portuali, o perché il panico del ragazzo dice che quei numeri valgono più del denaro.
 
 > [!summary] Riassunto
-> Quest di [[Day 01]] centrata su **Lost Ledger near the Harbor**. Il contenuto sotto mantiene gancio, scene, indizi, prove e conseguenze già scritte; questa apertura serve a renderla leggibile secondo [[quest_markdown_rules]].
+> Recupero rapido e nervoso lungo il porto durante il festival. Il registro contiene le **prove documentali più dirette del Giorno 1**: casse assegnate a magazzini sbagliati, destinazioni abbreviate, **priorità non firmate** e righe scritte *prima* che la merce arrivasse. La folla del festival ha coperto il percorso di Publius. La quest non nomina [[Gaius Varro]]: pianta solo l'idea che la scarsità non nasce dal caos, ma da una mano che sa usarlo.
 
 > [!success] Esiti possibili
-> - **Successo pieno:** i PG risolvono la richiesta principale, ottengono la ricompensa prevista e lasciano PNG o quartiere in posizione migliore.
-> - **Successo parziale:** i PG completano solo parte dell'obiettivo, ottengono meno fiducia o meno informazioni, ma mantengono una pista giocabile.
-> - **Fallimento:** la situazione peggiora, la ricompensa si riduce o sparisce, e la pressione della città avanza.
-> - **Conseguenza futura:** indizi, reputazione e reazioni dei PNG vanno riportati nelle sessioni successive se emergono al tavolo.
+> - **Successo pieno:** i PG recuperano il registro (o frammenti leggibili) e **copiano almeno una riga compromettente** prima di restituirlo; Publius diventa un contatto fragile per documenti futuri.
+> - **Successo parziale:** recuperano il libro ma non leggono/non copiano nulla di utile, oppure trovano solo 1-2 indizi senza il registro.
+> - **Fallimento:** Publius distrugge i frammenti per paura, o un impiegato anonimo recupera il registro prima dei PG: la prova svanisce.
+> - **Conseguenza futura:** una riga copiata oggi diventa **prova comparativa** quando emergeranno altri carichi sbagliati (collega a [[Missing Cargo from the Docks]] e ai magazzini); le iniziali ripetute sono un primo filo dello schema.
 
 | Campo | Dettaglio |
 | --- | --- |
@@ -99,13 +99,13 @@ Publius vuole recuperare il registro prima che lo faccia qualcun altro. Se i per
 
 Prove:
 
-| Prova | CD | Esito |
-| --- | --- | --- |
-| Intuizione | 13 | Publius minimizza il pericolo |
-| Intuizione | 17 | Teme conseguenze peggiori del licenziamento |
-| Diplomazia | 14 | Ottiene una descrizione migliore del registro |
-| Intimidire | 16 | Confessa che alcune righe "non dovevano esserci" |
-| Professione mercante o Valutare | 15 | Capisce quali parti di un registro commerciale sono più sensibili |
+| Prova | Esito |
+| --- | --- |
+| <span style="color:#8b5cf6"><strong>Intuizione CD 13</strong></span> | Publius minimizza il pericolo |
+| <span style="color:#8b5cf6"><strong>Intuizione CD 17</strong></span> | Teme conseguenze peggiori del licenziamento |
+| <span style="color:#d6a500"><strong>Diplomazia CD 14</strong></span> | Ottiene una descrizione migliore del registro |
+| <span style="color:#d6a500"><strong>Intimidire CD 16</strong></span> | Confessa che alcune righe "non dovevano esserci" |
+| <span style="color:#2f9ed8"><strong>Professione mercante CD 15</strong></span> oppure <span style="color:#2f9ed8"><strong>Valutare CD 15</strong></span> | Capisce quali parti di un registro sono più sensibili |
 
 ## Ricostruire il Percorso
 
@@ -150,11 +150,11 @@ Il registro non è intero. A seconda del ritmo, puoi far trovare:
 
 | Indizio | Prova | Lettura Superficiale | Verità Nascosta |
 | --- | --- | --- | --- |
-| Inchiostro diluito | Percezione CD 12 | Il registro e caduto in acqua | Alcune pagine sono state bagnate più di altre |
-| Segni di trascinamento | Percezione o <span style="color:#8b5cf6"><strong>Sopravvivenza CD 14</strong></span> | Qualcuno lo ha spostato | Il libro è stato recuperato, poi lasciato di nuovo |
-| Pagina strappata | Percezione CD 15 | Danno accidentale | La pagina conteneva numeri di destinazione |
-| Iniziali ripetute | Linguistica CD 16 | Codici commerciali | Le stesse iniziali tornano in carichi non collegati |
-| Note future | Linguistica o Professione mercante CD 18 | Pianificazione ordinaria | Alcune merci risultano assegnate prima dell'arrivo |
+| Inchiostro diluito | <span style="color:#8b5cf6"><strong>Percezione CD 12</strong></span> | Il registro è caduto in acqua | Alcune pagine sono state bagnate più di altre, di proposito |
+| Segni di trascinamento | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> oppure <span style="color:#8b5cf6"><strong>Sopravvivenza CD 14</strong></span> | Qualcuno lo ha spostato | Il libro è stato recuperato, poi lasciato di nuovo |
+| Pagina strappata | <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> | Danno accidentale | La pagina conteneva numeri di destinazione |
+| Iniziali ripetute | <span style="color:#2f9ed8"><strong>Linguistica CD 16</strong></span> | Codici commerciali | Le stesse iniziali tornano in carichi non collegati |
+| Note future | <span style="color:#2f9ed8"><strong>Linguistica CD 18</strong></span> oppure <span style="color:#2f9ed8"><strong>Professione mercante CD 18</strong></span> | Pianificazione ordinaria | Alcune merci risultano assegnate **prima** dell'arrivo |
 
 ## Indizi di Indagine Profonda
 
