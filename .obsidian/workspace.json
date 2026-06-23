@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md",
+                "file": "context/migration_state.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 05 - Day 03 Morning"
+              "title": "migration_state"
             }
           },
           {
@@ -318,12 +318,17 @@
       }
     ]
   },
-  "active": "f48ea0cf71e6a1a7",
+  "active": "bdfc81b2c9c5a821",
   "lastOpenFiles": [
+    "context/log.md.tmp.23040.c39b00212a0d",
+    "context/migration_state.md.tmp.23040.55d257f72c8e",
+    "context/campaign_bible.md",
+    "context/migration_state.md",
+    "context/campaign_state.md",
+    "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md",
     "04 - Quests/Act 1 - Days 01-10/Day 02/The Note in the Mud.md",
     "04 - Quests/Act 1 - Days 01-10/Day 01/Wolves Outside the Walls.md",
     "03 - Sessions and Timeline/Session Prep/Session 04.5 - Day 02 Evening Wolves.md",
-    "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md",
     "04 - Quests/Act 1 - Days 01-10/Day 03/Bread Before Sunset.md",
     "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Recap.md",
     "context/log.md.tmp.28196.3db6fa9d8adc",
@@ -339,7 +344,6 @@
     "04 - Quests/Tangente_I_corrieri_che_non_tornano.docx",
     "context/log.md.tmp.28196.fe48d7d44cf4",
     "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md.tmp.28196.60ab3eb86648",
-    "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md.tmp.28196.9062c7f677dc",
     "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md",
     "04 - Quests/Act 1 - Days 01-10/Day 07/Tax Enforcement.md",
     "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md",
@@ -351,10 +355,7 @@
     "00 - Campaign Hub/Players/Massimiliano.md",
     "08 - Systems and Tables/Market Tables/Day1 7 Central market stocks.md",
     "04 - Quests/Act 1 - Days 01-10/Day 02/Shop Dispute.md",
-    "context/campaign_state.md",
     "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Afternoon and Evening.md",
-    "04 - Quests/Act 1 - Days 01-10/Day 02/Disputed Market Delivery.md",
-    "05 - NPCs/Merchant NPCs/Gnaeus Petron.md",
     "09 - Items, Props, and Handouts/Assets/phase 1/quests/props/lost ledger book/Lost Book.png",
     "09 - Items, Props, and Handouts/Assets/images/players/Padre_Massimiliano.png",
     "09 - Items, Props, and Handouts/Assets/images/players/Filippo.jpg",

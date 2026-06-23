@@ -8,10 +8,10 @@ Last updated after expanding the player hub to all four repo-confirmed players f
 
 ## User Preference
 
-The user wants future sessions to rely on:
+The user wants future migration sessions to rely on:
 
 - `context/campaign_bible.md`
-- `context/state.md`
+- `context/migration_state.md`
 - the current task
 
 Keep future responses focused on the vault work, not re-explaining old context.
@@ -552,3 +552,34 @@ Verifiche eseguite:
 - nessuna CD grezza non colorata trovata con il controllo usato;
 - nessuna occorrenza residua trovata per i termini inglesi operativi cercati (`fight`, `Feeling`, `Ritual`, `Quest Board`, `Source Migration`, ecc.);
 - accenti italiani comuni verificati nei file toccati.
+
+### Sessioni 04 / 04.5 / 05, Rework Quest e Stato Vivo (giu 2026)
+
+Lavoro di sessione e quest successivo all'ultima riscrittura del Giorno 3. Dettaglio cronologico completo in [[log|context/log.md]].
+
+**Stato vivo della campagna**
+
+- Creato [[campaign_state|context/campaign_state.md]]: istantanea per ripartire in qualsiasi momento (tempo di gioco, quest aperte/chiuse, fili caldi, PNG chiave, semi dell'Atto 3). Da aggiornare a fine sessione insieme a [[log|context/log.md]] e a **questo file**.
+
+**Recap e prep di sessione**
+
+- [[Session 04 - Day 02 Recap]]: Disputa alla Bottega mediata ([[Asterio Falena]]/[[Caius Rutilo]]); sospetto di fondo "carta pulita, sostanza peggiore" tenuto sottile.
+- [[Session 04.5 - Day 02 Evening Wolves]] (prep): scontro lupi con orologio di preparazione, **Alpha-osservatore che non combatte**, Lupo Mutilato col marchio cultuale; aggiunti due beat di roster (ingresso [[Hillara]], morte opzionale di Apollodoro).
+- [[Session 04.5 - Day 02 Recap]] (giocata): lupi **respinti** (1 ucciso, 1 in fuga; una pecora sventrata); **Apollodoro caduto ma SOPRAVVISSUTO** (ha protetto Massimiliano); [[Massimiliano]] spezza il branco con un colpo "benedetto da Iomedae"; Lupo Mutilato **fuggito monco** (marchio non recuperato sul campo); [[Hillara]] entra alla fattoria di [[Faustus]].
+- [[Session 05 - Day 03 Morning]] (prep): mezza giornata di [[Day 03]] (alba→mezzogiorno); false piste su [[Brutus Verro]], pane di [[Marcia]], prima **sparizione** (seme cultuale), gancio della Scorta al Trasporto per il pomeriggio.
+
+**Riconciliazione "Apollodoro vivo"** (decisione utente: Apollodoro resta in gioco, [[Hillara]] = quinta PG, non sostituta): allineati [[campaign_state|context/campaign_state.md]] (stato avanzato post-4.5, quest lupi chiusa, roster) e [[Session 05 - Day 03 Morning]] (rimosso il funerale; Fase 1 → "Alba - Rientro e Medicazione").
+
+**Quest Giorno 3 — rework per più azione** (oltre alla prima riscrittura play-facing): [[Discreet Double Registration Check]] (rompicapo a incrocio + heist/controspionaggio), [[Unregistered Delivery Check]] (orologio dell'allarme + caccia notturna), [[Official Transport Escort]] (diversivo, spionaggio bidirezionale, assalto non lineare), [[Bread Before Sunset]] (motivo politico, bassifondi ostili, puzzle dei segni, 4 tappe).
+
+**Nuove quest**
+
+- Tangente "I corrieri che non tornano" (port dal docx sorgente, Giorni 2-3): [[The Note in the Mud]], [[The Orphan Network]]. Restano i Giorni 4-9. Workflow: l'utente metterà i docx sorgente nella cartella quests per i prossimi port.
+- Giorno 4: [[Attention - Report counterfeit coins]] (le 6 monete false di Auris diventano contrabbando), [[The Unsigned List]] (infiltrazione, Indicatore di Sospetto).
+
+**PG e GM reference**
+
+- Nuova PG [[Hillara]] (scheda backstory; stirpe/classe ancora da fissare).
+- `10 - GM Reference/Merchant Inventories.csv`: inventari PF1e per venditore (~31 venditori: mercato/porto, rete di Varro, nave Chimera di Giada).
+
+**Nota operativa:** da ora ogni modifica al vault va registrata in [[log|context/log.md]] **e** [[campaign_state|context/campaign_state.md]] **e** in **questo file** (`migration_state.md`). Push / PR / backup restano gestiti dall'utente.
