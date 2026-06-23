@@ -8,7 +8,7 @@ Day: "[[Day 01]]"
 NPCs:
   - "[[Grumo|Grumo Bracciodiragno]]"
   - "[[Tilla Tresecchi]]"
-  - "[[Lippo Gualdo]]"
+  - "[[Lappo Gualdo]]"
   - "[[Crew of the Chimera di Giada]]"
   - "[[Sajan Qadir]]"
   - "[[Captain Linh Sura]]"
@@ -35,7 +35,7 @@ source:
 | --- | --- |
 | Giorno | [[Day 01]] |
 | Luogo | Vedi testo |
-| PNG coinvolti | [[Grumo|Grumo Bracciodiragno]], [[Tilla Tresecchi]], [[Lippo Gualdo]], [[Crew of the Chimera di Giada]], [[Sajan Qadir]], [[Captain Linh Sura]], [[Bao Yiren]], [[Naso Rotto]] |
+| PNG coinvolti | [[Grumo|Grumo Bracciodiragno]], [[Tilla Tresecchi]], [[Lappo Gualdo]], [[Crew of the Chimera di Giada]], [[Sajan Qadir]], [[Captain Linh Sura]], [[Bao Yiren]], [[Naso Rotto]] |
 | Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#3f8f4c"><strong>COS</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
 | Combattimento | Vedi testo: nessuno, possibile, probabile o boss secondo le sezioni sotto |
 | Ricompensa | Vedi testo |
@@ -46,7 +46,7 @@ source:
 | --- | --- |
 | <span style="color:#3366cc"><strong>[[Grumo|Grumo Bracciodiragno]]</strong></span> | `#3366cc` |
 | <span style="color:#7f5f2a"><strong>[[Tilla Tresecchi]]</strong></span> | `#7f5f2a` |
-| <span style="color:#4f6f52"><strong>[[Lippo Gualdo]]</strong></span> | `#4f6f52` |
+| <span style="color:#4f6f52"><strong>[[Lappo Gualdo]]</strong></span> | `#4f6f52` |
 | <span style="color:#2f7fb8"><strong>[[Crew of the Chimera di Giada]]</strong></span> | `#2f7fb8` |
 | <span style="color:#8b1e1e"><strong>[[Sajan Qadir]]</strong></span> | `#8b1e1e` |
 | <span style="color:#6f4a8e"><strong>[[Captain Linh Sura]]</strong></span> | `#6f4a8e` |
@@ -130,7 +130,7 @@ Può riconoscere dettagli su casse, legature e sigilli. Non si interessa alla po
 | --- | --- | --- |
 | [[Grumo|Grumo Bracciodiragno]] | Ha visto mani non da porto presso il molo laterale | Stanco, concreto, poco poetico |
 | [[Tilla Tresecchi]] | Ha sentito lavoro notturno mentre puliva cassette di pesce | Furba, rumorosa, pronta a vendere dettagli per cibo o monete |
-| [[Lippo Gualdo]] | Conferma il passaggio dal conteggio della nave al conteggio romano | Impiegato basso, spaventato dalla colpa |
+| [[Lappo Gualdo]] | Conferma il passaggio dal conteggio della nave al conteggio romano | Impiegato basso, spaventato dalla colpa |
 | [[Sajan Qadir]] | Conferma che la nave ha scaricato correttamente | Diplomatico, vigile |
 | [[Naso Rotto]] | Sorveglia che la faccenda non venga scavata troppo | Calmo, pericoloso, non abbastanza informato |
 
@@ -195,7 +195,7 @@ Non sa nominare Varro. Sa solo che qualcuno lo ha mandato a fare in modo che "il
 
 | Oggetto o Pista | CD | Luogo | Presenza di Scontro | PNG Coinvolti | Implicazione | Rischio |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sigilli mercantili bruciati | Percezione CD 12; Conoscenze locali CD 15 | Zona laterale in [[Harbor District]] | No, salvo provocazioni | [[Grumo|Grumo Bracciodiragno]], [[Lippo Gualdo]], [[Crew of the Chimera di Giada]] | La perdita è stata mascherata da fretta del festival | Il personale del magazzino si chiude se esposto in pubblico |
+| Sigilli mercantili bruciati | Percezione CD 12; Conoscenze locali CD 15 | Zona laterale in [[Harbor District]] | No, salvo provocazioni | [[Grumo|Grumo Bracciodiragno]], [[Lappo Gualdo]], [[Crew of the Chimera di Giada]] | La perdita è stata mascherata da fretta del festival | Il personale del magazzino si chiude se esposto in pubblico |
 | Testimone dei fuochi d'artificio | Diplomazia/Raccogliere Informazioni CD 14; <span style="color:#8b5cf6"><strong>Intuizione CD 12</strong></span> | Piattaforme del porto | No | Operai dei fuochi, [[Nerio Spaccacorde]] | I preparativi notturni hanno coperto movimento non autorizzato | I testimoni se ne vanno dopo il tramonto |
 | Ricordo di un facchino dalle mani pulite | Persuasione CD 15; <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Molo commerciale | Possibile brawl | [[Naso Rotto]] o un uomo minore di Aulus | Non-portuali sono stati usati per finire il lavoro | L'uomo catturato indica un intermediario, non Varro |
 

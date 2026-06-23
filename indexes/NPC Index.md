@@ -161,7 +161,7 @@ Total imported NPC rows: **160**.
 
 | NPC | Race | Role |
 | --- | --- | --- |
-| [[Lippo Gualdo]] | Umano | Magazziniere di alto livello |
+| [[Lappo Gualdo]] | Umano | Magazziniere di alto livello |
 | [[Livia Cornelia Frizzapunto]] | Gnoma | Magazziniere minore, mediatrice di contratti per Brutus Verro |
 | [[Titus Falco]] | Umano | Magazziniere capo fedele alla rete di Varro |
 
@@ -210,6 +210,8 @@ Total imported NPC rows: **160**.
 | [[Octavius Brenno]] | Umano | Gioielliere |
 | [[Vibius Panciotto Ennio]] | Halfling | Mercante di alimenti e materiali da cucina |
 | [[Borin Martelferro]] | Nano | Ferramenta indipendente |
+| [[Tullio Spaccaferro]] | Umano | Fabbro umano, forgia rivale (provvisorio) |
+| [[Macra Carbonera]] | Umano | Fabbra umana, forgia rivale (provvisorio) |
 
 ### Tempio di Sarenrae
 

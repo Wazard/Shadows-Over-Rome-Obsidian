@@ -4,205 +4,204 @@ tags:
   - act/1
   - quest
   - source/phase-1-quests
+  - investigation
+  - infiltration
+  - cult-seed
 Day: "[[Day 03]]"
 NPCs:
   - "[[Bobbins McTwist]]"
+  - "[[Sergerro Atranus]]"
   - "[[Brutus Verro]]"
-  - "[[Corda]]"
+  - "[[Livia Cornelia Frizzapunto]]"
   - "[[Lucius Livius]]"
 source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Verifica_discreta_su_doppia_registrazione.docx"
 ---
 # Verifica Discreta su Doppia Registrazione
 
 > [!motive] Motivo
-> [[Bobbins McTwist]] vuole esterni perché la Gilda dei Mercanti ha due registrazioni discordanti per lo stesso ingresso merci. I PG vengono pagati per guardare carte, parlare con impiegati e riportare solo fatti verificabili senza creare scandalo pubblico.
+> [[Bobbins McTwist]] vuole **esterni** perché la Gilda ha due registrazioni discordanti per lo stesso carico, e ogni occhio interno è già di parte. I PG vengono pagati per **leggere le carte, risolvere la contraddizione e tornare con fatti** — non con uno scandalo. Ma una verifica "discreta" durante il festival significa: un **rompicapo** da risolvere, una **stanza chiusa** da aprire, e qualcuno che, mentre voi indagate, **indaga su di voi**.
 
 > [!summary] Riassunto
-> La quest deve sembrare ufficiale e amministrativa. I PG confrontano due copie di un registro, interrogano Servius Atranus, contabile di [[Brutus Verro]], e possono controllare un deposito minore. La falsa pista cresce: Brutus è davvero sporco, ma non è ancora il regista del collasso economico.
+> Investigazione con denti. I PG ricostruiscono quale delle due copie è **nata dopo** (un vero rompicapo documentale a incrocio), spremono il contabile spaventato **[[Sergerro Atranus]]**, e per la prova decisiva devono entrare in un **sotto-archivio chiuso** nella casa dei conti di Brutus — di giorno con l'inganno, o di notte con un'**infiltrazione**. Intanto **[[Livia Cornelia Frizzapunto]]** raccoglie nomi su di loro. La falsa pista cresce: **Brutus è davvero sporco**, ma non è il regista del collasso.
 
 > [!success] Esiti possibili
-> - **Successo pieno:** i PG dimostrano che una copia è stata costruita dopo l'altra, collegano la registrazione a Brutus Verro e tornano da Bobbins con prove.
-> - **Successo parziale:** trovano incongruenze ma non abbastanza per accusare qualcuno.
-> - **Fallimento:** Servius si chiude, i registri restano ambigui e la Gilda paga poco.
-> - **Scandalo pubblico:** la prova diventa politicamente fragile e [[Lucius Livius]] o altri attori preparano coperture.
+> - **Successo pieno:** risolvono il rompicapo, ottengono la prova dal sotto-archivio **senza farsi schedare**, e tornano da Bobbins con fatti.
+> - **Successo investigativo:** dimostrano che la copia B è costruita dopo e la legano a una **compagnia di facciata** di Brutus.
+> - **Successo sporco:** ottengono la prova ma lasciano tracce → [[Livia Cornelia Frizzapunto]] / [[Lucius Livius]] sanno, e preparano coperture.
+> - **Fallimento:** scandalo o break-in fallito → la Gilda paga poco, Sergerro sparisce, e i PG diventano un nome scomodo.
+> - **Conseguenza futura:** la ricevuta vale come prova nei confronti pubblici dei Giorni 5-6; proteggere Sergerro apre la sua testimonianza.
 
 | Campo | Dettaglio |
 | --- | --- |
 | Giorno | [[Day 03]] |
-| Luogo | Ufficio secondario della Gilda, uffici contabili, deposito minore |
-| PNG coinvolti | [[Bobbins McTwist]], Servius Atranus, [[Brutus Verro]], impiegato della Gilda, guardie private |
-| Tipi di CD principali | <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
-| Combattimento | Possibile solo se i PG forzano un deposito o rubano documenti |
-| Ricompensa | Paga media, pista verso Brutus Verro, favore prudente di Bobbins |
+| Luogo | Gilda dei Mercanti, uffici contabili, **casa dei conti / sotto-archivio di Brutus** |
+| PNG coinvolti | [[Bobbins McTwist]], [[Sergerro Atranus]] (alias "Servius"), [[Brutus Verro]] indiretto, [[Livia Cornelia Frizzapunto]], guardie private |
+| Tipi di CD principali | <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
+| Combattimento | Evitabile; **possibile** (guardie private se il break-in salta → fuga con la prova) |
+| Ricompensa | Paga media, **pista solida su Brutus**, favore prudente di Bobbins; rischio "schedatura" |
 
 ## PNG e Colori
 
 | PNG | Colore dialogo | Ruolo |
 | --- | --- | --- |
-| <span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span> | `#3366cc` | Capo della Gilda, vuole fatti |
-| <span style="color:#7f5f2a"><strong>Servius Atranus</strong></span> | `#7f5f2a` | Contabile di Brutus Verro, nervoso |
-| <span style="color:#8b1e1e"><strong>Guardia privata</strong></span> | `#8b1e1e` | Protezione di deposito |
-| <span style="color:#4f6f52"><strong>Impiegato della Gilda</strong></span> | `#4f6f52` | Autorità minore, non risolve al posto dei PG |
-| <span style="color:#2f7fb8"><strong>Facchino</strong></span> | `#2f7fb8` | Testimone logistico |
+| <span style="color:#3366cc">color #3366cc</span> | <strong>[[Bobbins McTwist]]</strong> | Capo Gilda; vuole fatti, non tamburi |
+| <span style="color:#7f5f2a">color #7f5f2a</span> | <strong>[[Sergerro Atranus]] ("Servius")</strong> | Contabile di Brutus, terrorizzato |
+| <span style="color:#a86b2a">color #a86b2a</span> | <strong>[[Livia Cornelia Frizzapunto]]</strong> | Mediatrice che **conta i vostri nomi** |
+| <span style="color:#8b1e1e">color #8b1e1e</span> | <strong>Guardia privata</strong> | Protezione del sotto-archivio |
+| <span style="color:#4f6f52">color #4f6f52</span> | <strong>Impiegato della Gilda</strong> | Autorità minore; non risolve al posto dei PG |
+
+> [!warning] Continuity sul nome
+> Nel canone il contabile compare sia come **"Servius Atranus"** (nei testi quest) sia come **[[Sergerro Atranus]]** (scheda NPC). Sono la **stessa persona**: uso il link alla scheda e tengo "Servius" come alias parlato. Uniformare quando ci passi.
 
 ## Contesto di Calendario
 
 > [!note] Festival e registri
-> [[Day 03]] è Desnus 3, 3608. I permessi temporanei del Breaching Festival moltiplicano carri, depositi provvisori e registrazioni frettolose. Una doppia registrazione può sembrare errore, ma può anche nascondere un salto di fila.
-
-## Testo per la Bacheca
-
-> [!readaloud] Bacheca degli incarichi
-> **Verifica discreta su doppia registrazione**
->
-> La Gilda dei Mercanti richiede assistenza esterna per confrontare due registrazioni discordanti relative allo stesso ingresso merci. Gli incaricati dovranno accompagnare un rappresentante della gilda, controllare le copie dei registri, parlare con i magazzinieri presenti e riportare alla gilda solo fatti verificabili. Discrezione richiesta.
-
-Pagamento: medio.  
-Durata stimata: 3 ore.  
-Disponibilità: 1 giorno.
+> [[Day 03]], Desnus 3, 3608. I permessi temporanei del festival moltiplicano carri, depositi provvisori e registrazioni frettolose. Una doppia registrazione può sembrare errore — o nascondere un **salto di fila** comprato. Il caos è la copertura perfetta.
 
 ## Verità per il GM
 
 > [!summary] Premessa reale
-> La doppia registrazione serve a far apparire legittimo un salto di fila. [[Brutus Verro]] è coinvolto tramite compagnie e contabili, ma la sua colpa non spiega tutta la crisi. Questa quest rafforza la falsa pista: Brutus sembra abbastanza colpevole da meritare attenzione.
+> La copia B serve a far apparire **legittimo un salto di fila**. [[Brutus Verro]] è coinvolto via compagnie e contabili, ma la sua colpa **non spiega tutta la crisi**. La quest rafforza la falsa pista: Brutus sembra colpevole quanto basta per meritare attenzione.
 
-## Fase 1 - Bobbins presenta il problema
+## Fase 1 - Bobbins Presenta il Problema
 
 > [!readaloud] Ufficio di Bobbins
-> Bobbins McTwist è in piedi su uno sgabello dietro una scrivania troppo alta per lui e troppo piena per chiunque. Pergamene, tavolette, corde di sigillo e piccoli pesi da bilancia occupano ogni spazio libero. Quando entrate, non vi saluta subito: finisce di leggere una riga, la rilegge, sbuffa e solo allora alza gli occhi.
+> Bobbins McTwist è in piedi su uno sgabello dietro una scrivania troppo alta per lui e troppo piena per chiunque. Quando entrate, finisce di leggere una riga, la rilegge, sbuffa, e solo allora alza gli occhi.
 
-<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Bene. Esterni. Perfetto. Se un membro della Gilda guarda queste carte, qualcuno dirà che protegge un amico. Se le guardo io, qualcuno dirà che proteggo la Gilda. Quindi le guardate voi."
+<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Esterni. Perfetto. Se guarda la Gilda, qualcuno grida al favore. Se guardate voi, è solo curiosità di stranieri. Confrontate due registri. Scoprite quale copia è **nata per sembrare vecchia**. Fatti, non tamburi."
 
-Se chiedono perché non usa le guardie:
+Se chiedono perché non le guardie:
 
-<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Perché appena entrano le guardie, nessuno parla più. E perché Cassian sarebbe felicissimo di avere un altro motivo per mettere le mani nei nostri registri."
-
-Se chiedono chi è sospettato:
-
-<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Io sospetto le carte. Le persone vengono dopo. Le carte mentono peggio degli uomini, perché non arrossiscono."
-
-Se chiedono cosa fare:
-
-<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Confrontate due registri. Parlate con chi ha scritto le righe. Capite quale copia è nata prima e quale è nata per sembrare vecchia."
+<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Perché appena entrano le guardie, nessuno parla. E Cassian sarebbe felice di un altro motivo per mettere le mani nei nostri registri."
 
 | Prova | CD | Risultato |
 | --- | --- | --- |
-| Leggere Bobbins | <span style="color:#8b5cf6"><strong>Intuizione CD 14</strong></span> | È davvero preoccupato e non vuole coprire Brutus |
-| Capire pressione sulla Gilda | <span style="color:#2f9ed8"><strong>Conoscenze locali CD 14</strong></span> | Ritardi, carichi mancanti e prezzi stanno danneggiando la Gilda |
-| Capire valore della doppia registrazione | <span style="color:#2f9ed8"><strong>Professione mercante CD 15</strong></span> | Può essere errore, frode o copertura per riassegnazione illegittima |
+| Leggere Bobbins | <span style="color:#8b5cf6"><strong>Intuizione CD 14</strong></span> | È sincero: non vuole coprire Brutus |
+| Pressione sulla Gilda | <span style="color:#2f9ed8"><strong>Conoscenze locali CD 14</strong></span> | Ritardi e prezzi stanno danneggiando la Gilda davvero |
 
-## Fase 2 - Le due copie del registro
+## Fase 2 - Il Rompicapo delle Due Copie (cuore investigativo)
 
-> [!description] Copie
-> La copia A indica un ingresso ordinario di grano comune, destinato a deposito temporaneo. Firma leggibile, sigillo regolare, orario compatibile con la fila.
+> [!description] Il banco di lavoro
+> Bobbins vi dà **due copie del registro** (A e B) per lo stesso lotto di grano, **più** il vecchio **registro di scarico del molo**. La verità non è in una singola riga: è nella **contraddizione tra i tre fogli**.
+
+> [!clue] Handout: le righe in conflitto
+> Mostra (o leggi) ai giocatori:
+> - **Copia A — lotto #214:** grano *comune*, ingresso "**terza campana**", sigillo Gilda regolare, firma chiara di *Sergerro A.*
+> - **Copia B — lotto #214:** *fornitura riservata*, ingresso "**prima campana**", sigillo della compagnia "**Mani di Cera**", firma di Sergerro *quasi* identica.
+> - **Registro di scarico del molo:** la nave del lotto #214 ha **attraccato alla terza campana**.
 >
-> La copia B indica lo stesso carico come fornitura riservata. La firma è simile ma non identica, il sigillo è impresso con più forza e l'orario è spostato quanto basta per giustificare il salto di fila.
+> **La crepa:** la copia B registra il carico **due campane prima che la nave arrivasse**. Una merce non può entrare in magazzino prima di essere sbarcata. La copia B è **costruita a posteriori** per giustificare il salto di fila.
 
-| Indizio | CD | Risultato |
+| Per estrarre il pezzo | CD | Cosa rivela |
 | --- | --- | --- |
-| Pressione diversa della firma | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | La seconda firma imita una firma già vista |
-| Orario corretto dopo | <span style="color:#2f9ed8"><strong>Investigazione CD 15</strong></span> | La seconda copia sembra scritta dopo, con inchiostro simile |
-| Termine burocratico insolito | <span style="color:#2f9ed8"><strong>Conoscenze governo CD 16</strong></span> | "Fornitura riservata" è troppo formale per grano comune |
-| Vantaggio commerciale | <span style="color:#2f9ed8"><strong>Professione mercante CD 15</strong></span> | La seconda copia fa saltare la fila senza dichiarare privilegio |
-| Traccia verso Servius | <span style="color:#2f9ed8"><strong>Investigazione CD 17</strong></span> | Una nota marginale rimanda a Servius Atranus |
+| Incrociare gli orari (molo vs copia B) | <span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span> | **L'impossibile:** registrata prima dello sbarco → la B è falsa |
+| Pressione della firma | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | La firma B **imita** quella vera (mano più lenta) |
+| Termine "fornitura riservata" | <span style="color:#2f9ed8"><strong>Conoscenze governo CD 16</strong></span> | Troppo formale per grano comune: formula da salto-fila |
+| Il sigillo "Mani di Cera" | <span style="color:#2f9ed8"><strong>Professione mercante CD 15</strong></span> | Compagnia di facciata; nota marginale → [[Sergerro Atranus]] |
 
-## Fase 3 - Cercare Servius Atranus
+> [!tip] Renderlo un gioco al tavolo
+> Dai i tre fogli come **veri handout** e lascia che siano i giocatori a trovare l'incongruenza oraria *ragionando*, non tirando. Le prove sopra servono solo a chi resta bloccato (sblocca un pezzo per volta). Trovare l'impossibile **da soli** è la soddisfazione della quest.
 
-> [!readaloud] Servius
-> Servius Atranus non sembra un uomo pericoloso. Sembra un uomo che ha paura degli uomini pericolosi. È magro, con la tunica pulita in modo quasi nervoso, e le dita macchiate di inchiostro fino alla seconda falange. Quando vede l'impiegato della Gilda, si alza troppo in fretta e urta lo sgabello dietro di sé.
+## Fase 3 - Sergerro Atranus, il Contabile Spaventato
 
-<span style="color:#7f5f2a"><strong>Servius Atranus</strong></span>: "Se è per le copie, io ho solo ricopiato ciò che mi è stato consegnato."
+> [!readaloud] Sergerro
+> Non sembra pericoloso: sembra uno che ha paura degli uomini pericolosi. Magro, tunica fin troppo pulita, dita macchiate d'inchiostro. Quando vede l'impiegato della Gilda, si alza così in fretta da rovesciare lo sgabello.
+
+<span style="color:#7f5f2a"><strong>[[Sergerro Atranus|Servius Atranus]]</strong></span>: "Io ho solo ricopiato ciò che mi è stato consegnato. Le copie non sono nate insieme. Questo posso dirlo. Non chiedetemi di dirlo davanti a tutti."
 
 | Approccio | CD | Risultato |
 | --- | --- | --- |
-| Rassicurarlo | <span style="color:#d6a500"><strong>Diplomazia CD 15</strong></span> | Ammette che la seconda copia gli è stata portata già "corretta" |
-| Mettergli paura | <span style="color:#d6a500"><strong>Intimidire CD 14</strong></span> | Parla più in fretta, ma poi potrebbe avvisare Brutus |
-| Mostrare incongruenze | <span style="color:#2f9ed8"><strong>Professione mercante o Investigazione CD 15</strong></span> | Lascia cadere il nome di Brutus indirettamente |
-| Leggerlo emotivamente | <span style="color:#8b5cf6"><strong>Intuizione CD 16</strong></span> | Teme Brutus e teme che la Gilda lo scarichi |
-| Rubare una nota | <span style="color:#e68632"><strong>Rapidità di Mano CD 17</strong></span> | Ottengono lista di depositi collegati a Brutus |
+| Rassicurarlo | <span style="color:#d6a500"><strong>Diplomazia CD 15</strong></span> | Ammette: la copia B gli è arrivata già "corretta" |
+| Mostrargli l'impossibile orario | <span style="color:#2f9ed8"><strong>Investigazione CD 15</strong></span> | Cede: indica indirettamente Brutus e la "Mani di Cera" |
+| Spaventarlo | <span style="color:#d6a500"><strong>Intimidire CD 14</strong></span> | Parla in fretta, **ma poi avvisa Brutus** (alza il rischio) |
+| Sfilargli una nota | <span style="color:#e68632"><strong>Rapidità di Mano CD 17</strong></span> | Lista di **depositi** collegati a Brutus (apre Fase 4) |
 
-<span style="color:#7f5f2a"><strong>Servius Atranus</strong></span>: "Le copie non sono nate insieme. Questo posso dirlo. Ma non chiedetemi di dirlo davanti a tutti. Io scrivo. Non comando."
+> [!warning] Scelta: proteggere il testimone (azione + seguito)
+> Se i PG lo pressano in pubblico o se Livia (sotto) li ha già segnalati, Sergerro **rischia di sparire** prima di poter testimoniare. I PG possono **scortarlo in un luogo sicuro** ora (mini-scena: evitare un pedinatore, una via laterale) → la sua testimonianza diventa solida e si aggancia alla quest "Protezione per testimonianza riservata" dei giorni dopo. Abbandonarlo = un altro nome che il mercato non rivede.
 
-<span style="color:#7f5f2a"><strong>Servius Atranus</strong></span>: "Volete un nome? I nomi pesano. E quando cadono, schiacciano prima chi li pronuncia."
+## Fase 4 - La Prova Chiusa (infiltrazione *o* inganno)
 
-<span style="color:#7f5f2a"><strong>Servius Atranus</strong></span>: "Il carico era di Verro. O di una sua compagnia. Non cambia molto. Tutte le strade, quando si parla di grano, finiscono davanti alla sua porta."
+> [!summary] Dove sta la prova decisiva
+> La nota di Sergerro non basta in un confronto pubblico: serve la **ricevuta originale** (pagamento anticipato + riassegnazione) chiusa nel **sotto-archivio** della casa dei conti di Brutus. Due vie, due registri diversi.
 
-## Fase 4 - Verifica sul Deposito
+### Via A — Inganno diurno
 
-> [!description] Deposito minore
-> Il deposito è piccolo, stretto tra due magazzini più grandi, con una porta laterale e un sigillo semplice. Non sembra importante. Dentro ci sono sacchi ordinati, casse coperte e una lavagna con numeri cancellati male.
+> [!description] A porte aperte
+> Di giorno l'archivio è presidiato ma accessibile col pretesto giusto.
 
-| Indizio | CD | Risultato |
+| Approccio | CD | Risultato |
 | --- | --- | --- |
-| Sacchi spostati | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | I sacchi sono ordinati per sembrare meno numerosi |
-| Numeri cancellati | <span style="color:#2f9ed8"><strong>Investigazione CD 15</strong></span> | La lavagna mostrava quantità più alta |
-| Sigillo secondario | <span style="color:#8b5cf6"><strong>Percezione CD 16</strong></span> | Una compagnia di facciata compare su due casse |
-| Ricevuta nascosta | <span style="color:#2f9ed8"><strong>Investigazione CD 17</strong></span> | Pagamento anticipato e riassegnazione di merce |
-| Traccia di Brutus | <span style="color:#2f9ed8"><strong>Professione mercante CD 16</strong></span> | La compagnia è collegata a Brutus Verro |
+| Spacciarsi per incaricati della Gilda | <span style="color:#d6a500"><strong>Raggirare CD 16</strong></span> | L'impiegato vi lascia "consultare" sotto sorveglianza |
+| Lasciapassare falsificato | <span style="color:#2f9ed8"><strong>Linguistica CD 16</strong></span> | Regge a una lettura rapida |
+| Distrarre l'impiegato | <span style="color:#d6a500"><strong>Diplomazia CD 14</strong></span> mentre un altro cerca | Finestra breve per copiare la ricevuta |
 
-### Complicazione
+### Via B — Infiltrazione notturna (heist)
 
-> [!warning] Guardie private
-> Se i PG perdono tempo, rompono sigilli o cercano documenti senza permesso, arrivano due guardie private o facchini robusti. Non sono uomini di Aulus: sono personale pagato da un mercante.
+> [!danger] Di notte, a porte chiuse
+> Catena di azione: **entrare** (finestra/tetto <span style="color:#d64545"><strong>Atletica CD 14</strong></span> o serratura di servizio <span style="color:#e68632"><strong>Disattivare Congegni CD 15</strong></span>), **muoversi** evitando la ronda privata (<span style="color:#e68632"><strong>Furtività CD 15</strong></span> tra i turni), **aprire lo scrigno** dell'archivio (<span style="color:#e68632"><strong>Disattivare Congegni CD 16</strong></span>), **copiare/prendere** la ricevuta (<span style="color:#2f9ed8"><strong>Linguistica CD 13</strong></span> per copiarla; <span style="color:#e68632"><strong>Rapidità di Mano CD 16</strong></span> per **sostituirla** con un finto così che il furto non si noti).
+> - Ogni fallimento **alza l'allerta**: alla seconda, due **guardie private** convergono.
 
-<span style="color:#8b1e1e"><strong>Guardia privata</strong></span>: "Questo deposito è privato. Se la Gilda ha domande, manda lettere. Non manda stranieri con le mani lunghe."
+> [!warning] Guardie private (azione/uscita)
+> Non sono uomini di Aulus: sono **personale pagato**. Vogliono cacciarvi, non morire.
 
-| Approccio | CD | Esito |
+<span style="color:#8b1e1e"><strong>Guardia privata</strong></span>: "Archivio privato. La Gilda manda lettere, non stranieri con le mani lunghe."
+
+| Se scoperti | CD | Esito |
 | --- | --- | --- |
-| Spiegarsi | <span style="color:#d6a500"><strong>Diplomazia CD 15</strong></span> | Ottengono tempo |
-| Imporsi | <span style="color:#d6a500"><strong>Intimidire CD 16</strong></span> | Le guardie arretrano ma avvisano Brutus |
-| Fingere autorizzazione completa | <span style="color:#d6a500"><strong>Raggirare CD 16</strong></span> | Possono uscire con una prova |
+| Spiegarsi/uscire con calma | <span style="color:#d6a500"><strong>Diplomazia CD 15</strong></span> | Tempo per filare; ma Brutus viene avvisato |
+| Imporsi | <span style="color:#d6a500"><strong>Intimidire CD 16</strong></span> | Arretrano e avvisano comunque |
+| **Fuga con la prova** | <span style="color:#d64545"><strong>Atletica</strong></span>/<span style="color:#e68632"><strong>Acrobazia CD 14</strong></span> | Inseguimento breve tra cortili e tetti; scontro evitabile |
 
-Fight breve possibile se forzano l'accesso o vengono colti a rubare.
+## Complicazione - Qualcuno Conta i Vostri Nomi (spionaggio sui PG)
+
+> [!clue] Livia Cornelia Frizzapunto
+> Mentre i PG indagano, **[[Livia Cornelia Frizzapunto]]** gira con un sorriso, chiede ai facchini *chi* sta facendo domande su Brutus, e segna nomi su una tavoletta. È **controspionaggio** soft.
+> - <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> per notarla; <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span>: non minaccia, **scheda**.
+> - I PG possono **evitarla** (restare discreti), **depistarla** (<span style="color:#d6a500"><strong>Raggirare CD 15</strong></span> → riferisce nomi/intenzioni sbagliate), o **affrontarla** (gelida, non dà nulla). Ignorarla = Brutus alza le difese del sotto-archivio (Fase 4 più dura).
 
 ## Indizi
 
 | Indizio | CD | Dove | PNG coinvolti | Cosa sembra | Cosa significa | Rischio |
 | --- | --- | --- | --- | --- | --- | --- |
-| Doppia registrazione sotto permessi festivalieri | <span style="color:#2f9ed8"><strong>Linguistica CD 15</strong></span> o <span style="color:#2f9ed8"><strong>Conoscenze locali CD 15</strong></span> | Ufficio registrazioni | Bobbins, impiegati | Errore da festival | I permessi temporanei coprono movimenti ripetuti | Copie sbagliate puntano al mercante sbagliato |
-| Nota marginale di Servius | <span style="color:#2f9ed8"><strong>Investigazione CD 17</strong></span> | Registro B | Servius | Appunto contabile | Il contabile ha ricevuto materiale già alterato | Pressarlo troppo lo fa sparire |
-| Deposito minore troppo ordinato | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | Deposito | Guardie private | Buona gestione | Nasconde quantità reali | Forzare il deposito crea scandalo |
-| Compagnia collegata a Brutus | <span style="color:#2f9ed8"><strong>Professione mercante CD 16</strong></span> | Ricevute e sigilli | Brutus Verro | Canale commerciale | Brutus usa facciate | Non basta a spiegare la crisi |
+| Orario impossibile sulla copia B | <span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span> | Banco di Bobbins | Bobbins | Errore d'orario | Registrata **prima** dello sbarco → falsa | Accusa frettolosa colpisce il mercante sbagliato |
+| Firma imitata | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | Copia B | Sergerro | Svista | Mano diversa che copia | Pressarlo lo fa sparire |
+| Sigillo "Mani di Cera" | <span style="color:#2f9ed8"><strong>Professione mercante CD 15</strong></span> | Copie e ricevuta | Brutus indiretto | Canale commerciale | **Compagnia di facciata** di Brutus | Scambiarlo per il capo finale |
+| Ricevuta di pagamento anticipato | <span style="color:#2f9ed8"><strong>Investigazione CD 16</strong></span> | Sotto-archivio | Brutus | Contabilità | Riassegnazione comprata | Prenderla è furto/heist |
+| Qualcuno chiede i vostri nomi | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Magazzini | Livia Cornelia | Pettegolezzo | Vi stanno **schedando** | Ignorarla rinforza le difese |
 
 ## Tracce Cultuali Molto Sottili
 
-> [!clue] Rumore quasi invisibile
-> Qui il focus è commerciale. I segni strani devono restare laterali.
-
-| Dettaglio | Dove appare | Prova | Lettura immediata | Verità lontana |
-| --- | --- | --- | --- | --- |
-| Sale nero in un foro della tavoletta cerata | Ufficio registri | <span style="color:#8b5cf6"><strong>Percezione CD 16</strong></span> | Sporcizia da porto | Residuo rituale minore |
-| Formula "conto chiuso quando la luna manca" | Margine di una copia vecchia | <span style="color:#2f9ed8"><strong>Linguistica CD 15</strong></span> | Detto superstizioso | Linguaggio cultuale diluito |
-| Cera grigia sul sigillo secondario | Deposito minore | <span style="color:#2f9ed8"><strong>Artigianato CD 16</strong></span> | Cera economica | Colore ricorrente in offerte marine |
+> [!clue] Rumore quasi invisibile (focus commerciale)
+> | Dettaglio | Dove | Prova | Lettura immediata | Verità lontana (non dire) |
+> | --- | --- | --- | --- | --- |
+> | Sale nero in un foro della tavoletta cerata | Ufficio registri | <span style="color:#8b5cf6"><strong>Percezione CD 16</strong></span> | Sporco da porto | Residuo rituale minore |
+> | "Conto chiuso quando la luna manca" a margine | Copia vecchia | <span style="color:#2f9ed8"><strong>Linguistica CD 15</strong></span> | Detto superstizioso | Linguaggio cultuale diluito |
+> | Cera grigio-bluastra sul sigillo della facciata | Sotto-archivio | <span style="color:#2f9ed8"><strong>Artigianato CD 16</strong></span> | Cera economica | Colore ricorrente nelle "offerte marine" |
 
 ## Ritorno da Bobbins
 
-<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Bene. Malissimo, ma bene. Questo è abbastanza per fare domande scomode senza sembrare un vecchio gnomo paranoico."
+<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Bene. Malissimo, ma bene. Questo basta per fare domande scomode senza sembrare un vecchio gnomo paranoico."
 
-Se tornano solo con accuse:
-
-<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Accuse ne ho già quindici al giorno. Mi servivano fatti. I fatti sono più piccoli, ma tagliano meglio."
-
-Se hanno fatto scandalo:
-
-<span style="color:#3366cc"><strong>[[Bobbins McTwist]]</strong></span>: "Vi avevo chiesto discrezione. Avete portato tamburi. Ora la Gilda dovrà pagare anche per il rumore."
+Se portano solo accuse: *"Accuse ne ho quindici al giorno. Mi servivano fatti — più piccoli, ma tagliano meglio."*
+Se hanno fatto scandalo: *"Vi avevo chiesto discrezione. Avete portato tamburi. Ora la Gilda paga anche per il rumore."*
 
 ## Esiti
 
 | Esito | Risultato |
 | --- | --- |
-| Prove complete | Bobbins paga interamente; pista chiara verso Brutus Verro |
-| Prove parziali | Paga metà o poco più; sospetto non solido |
-| Scandalo pubblico | Paga ridotta; Lucius Livius viene informato |
-| Servius spaventato | Servius sparisce o chiede protezione più avanti |
-| Deposito controllato | Ricevuta utile per quest del giorno 4 o 5 |
+| Rompicapo risolto + ricevuta presa pulita | Bobbins paga pieno; pista solida su Brutus; nessuna schedatura |
+| Prove parziali | Paga metà; sospetto non a prova di confronto |
+| Sotto-archivio forzato e scoperto | Paga ridotta; Brutus avvisato; possibile heat dei giorni dopo |
+| Sergerro protetto | Testimone solido → confronto pubblico più forte (Giorni 5-6) |
+| Schedati da Livia | Un nome scomodo in più; difese alzate altrove |
 
 ## Note GM
 
 > [!warning] Cose da non rivelare
-> Non rivelare che Brutus Verro è solo un pezzo del sistema. Non collegare direttamente [[Lucius Livius]] a Varro in modo definitivo. Non usare uomini di Aulus. Non far intervenire Cassian. Non risolvere la falsa pista.
+> Brutus è **solo un pezzo**. Non legare definitivamente [[Lucius Livius]] a [[Gaius Varro]]. **Niente uomini di Aulus, niente Cassian** in scena. Non risolvere la falsa pista.
 
-> [!note] Funzione della quest
-> Questa quest è più forte se i PG sentono di aver fatto un lavoro intelligente, non eroico. Devono guardare registri, parlare con un contabile, capire una differenza tra due copie e tornare con fatti.
+> [!note] La "spezia"
+> Tre marce diverse: **rompicapo** (le tre carte) → **sociale a rischio** (Sergerro che può sparire) → **heist** (il sotto-archivio). Tieni la tensione del *qualcuno-vi-osserva* sotto pelle. Investigazione che si **gioca**, non si subisce.
 
-Se i PG sospettano Brutus, la quest ha funzionato. Brutus è davvero colpevole; la cosa importante è che la sua colpa non basti a spiegare la crisi.
+> [!summary] Sensazione finale
+> Le carte non arrossiscono. Ma se le metti vicine, a volte tremano.
