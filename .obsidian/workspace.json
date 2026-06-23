@@ -228,8 +228,7 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_6b4bc838bbdb",
-                "child": "ID_39781a1b3bca"
+                "id": "ID_6b4bc838bbdb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -248,7 +247,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_192b9b3a1bf8",
                 "id": "ID_39781a1b3bca",
                 "parent": "ID_6b4bc838bbdb"
               },
@@ -275,8 +273,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "github-sync:Sync with Remote": false,
-      "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "f48ea0cf71e6a1a7",
