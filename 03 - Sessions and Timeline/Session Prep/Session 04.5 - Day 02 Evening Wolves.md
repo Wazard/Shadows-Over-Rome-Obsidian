@@ -14,6 +14,12 @@ status: ready
 > [!summary] In una frase
 > Si riprende [[Day 02]] nel **tardo pomeriggio**: i PG accettano i lupi del pastore [[Faustus]] e hanno **una sola finestra** per **preparare il terreno** prima del tramonto. Senza preparazione lo scontro è **letale**; con preparazione è gestibile ma mai lineare. Sopra a tutto, un **Alpha che non combatte**: osserva fino alla fine.
 
+> [!info] Cambi al tavolo in questa sessione
+> Stasera il gruppo cambia volto. Pianifica in anticipo **due beat di trama**:
+> 1. **Entra una nuova PG, [[Hillara]]** — introdotta la sera, prima dello scontro (vedi **§1.5 - Ingresso di Hillara**).
+> 2. **Esce Apollodoro** — se concordato col suo giocatore, **muore nello scontro coi lupi** (vedi **§5 - La fine di Apollodoro**). Morte guadagnata e significativa, non una punizione del DM.
+> I due beat si sostengono a vicenda: Hillara combatte accanto al gruppo e ne esce legata a un gruppo in lutto.
+
 ## Materiali di Sessione
 
 | Voce | Riferimento |
@@ -67,6 +73,28 @@ status: ready
 > - Il suo **cane vecchio** è troppo lento per inseguire ma sente i lupi prima di tutti.
 > - **Non sa** che stanotte il branco non si comporta come al solito.
 
+## 1.5 - Ingresso di Hillara (nuova PG)
+
+> [!info] Come e quando inserirla
+> [[Hillara]] entra **prima dello scontro**, sulla strada verso il gregge, così è già in squadra quando i lupi arrivano. La sera fuori le mura è l'occasione perfetta: la strada è piena di **carovane del festival**, gente di passaggio e volti nuovi che a Roma ancora nessuno conosce. Scegli **una** delle aperture sotto e adattala al concept di Hillara.
+
+> [!readaloud] Apertura predefinita: la straniera sulla strada
+> Dove la pietra cittadina cede alla terra battuta, una figura è ferma a lato della strada, accanto a un mulo carico e a una pecora sventrata ancora calda. Non è del posto — *[inserisci descrizione fisica di Hillara]* — e quando vi vede armati e diretti fuori porta non scappa né saluta: vi soppesa, come chi è abituata a decidere in fretta di chi fidarsi. «Lupi», dice indicando col mento le impronte nel fango. «Tre, forse più. Mi hanno già preso una bestia. Se andate a stanarli, vengo con voi: non ho voglia di dormire tra i denti di qualcuno.»
+
+> [!tip] Agganci secondo il concept (scegline uno)
+> - **Marziale / cacciatrice / ranger:** outrider di una carovana in arrivo; ha perso un animale ai lupi e li sta già seguendo. Aggancio immediato e pratico alla quest.
+> - **Divina (chierica / oracolo / paladina):** pellegrina diretta al Tempio di [[Severa Solealto|Sarenrae]] per la Remembrance Moon; si ferma perché "non si lasciano i poveri ai lupi".
+> - **Arcana (mago / stregone):** studiosa forestiera sbarcata col carico al porto; cerca lavoro discreto, e i lupi sono un buon test sul campo.
+> - **Ladra / bardo / furfante:** viaggiatrice squattrinata che si lega al gruppo per la paga e un tetto in città dopo.
+
+> [!note] Far scegliere e far restare
+> - Lascia che sia il giocatore a dire **perché** Hillara si unisce: dalle un piccolo bisogno concreto (paga, protezione, un contatto in città, una pista personale).
+> - Chiudi la serata con un **legame reale**: ha combattuto al loro fianco e — se segui il beat di §5 — ha visto morire uno di loro. Il lutto condiviso è la colla migliore per una nuova PG.
+> - Domani entra in città col gruppo: presentala a [[Er Trace]] al [[Il Veliero]] per ancorarla alla base.
+
+> [!warning] Da definire
+> Stirpe, classe e descrizione fisica di [[Hillara]] non sono ancora fissate: compila lo spazio nel readaloud e scegli l'aggancio coerente. Crea/aggiorna la scheda PG dopo la sessione.
+
 ## 2. La Strada e la Ricognizione (gratis, ma costa luce)
 
 Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qui si raccolgono i primi indizi: leggerli **bene** è ciò che permette di preparare la difesa giusta. Leggerli male = preparare la difesa sbagliata.
@@ -85,6 +113,9 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 > Quell'ultima pista che "non entra mai" è dell'**Alpha**. Chi la nota capisce, prima dello scontro, che c'è una bestia che **non viene per mangiare**. Mettilo come unghia sotto la pelle, senza spiegare.
 
 ## 3. Preparare il Terreno (le leve dello scontro)
+
+> [!readaloud] Mentre preparate, la luce se ne va
+> Il sole è una brace bassa oltre i campi e allunga le vostre ombre fino al boschetto. Lavorate in fretta: la terra umida si attacca alle mani, la resina vi incolla le dita, la corda morde i palmi e le torce sibilano quando le piantate nel terreno molle. Intorno, la campagna trattiene il fiato — i grilli hanno smesso tutti insieme, e il vento porta odore di lana bagnata e, sotto, qualcosa di più rancido. Il vecchio cane di [[Faustus]] gira largo intorno al recinto col pelo del collo già ritto; ogni tanto si pianta a fissare gli alberi come contasse qualcosa che voi non vedete. Le pecore si stringono al centro, stupide e nervose. La prima stella non è ancora uscita, e avete già la sensazione che qualcuno, dal buio, stia guardando le vostre mani.
 
 > [!warning] Qui si vince o si muore
 > Ogni preparazione **cambia in concreto** l'arrivo del branco. Un fallimento non blocca la quest: crea una complicazione (corda che si spezza, fumo che gira, cane che abbaia troppo presto) **e consuma comunque un'azione di tempo**.
@@ -106,7 +137,7 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 ## 4. Tramonto - L'Arrivo
 
 > [!readaloud] L'arrivo
-> Il primo segno non è un ululato. È il gregge che smette di masticare. Poi il cane abbassa la testa e mostra i denti verso il boschetto. Tra i tronchi qualcosa di grigio si muove senza fretta: due occhi che riflettono il fuoco, poi altri, poi altri ancora. Sono troppi. E **in alto, sul muretto crollato, uno più grande si siede. Non scende. Vi guarda.**
+> Il primo segno non è un ululato: è il silenzio. Il gregge smette di masticare tutto insieme, e il vecchio cane abbassa la testa, le labbra tirate sui denti, un ringhio basso che non sale mai di tono. Poi li vedete. Al limite della luce delle torce, tra i tronchi, qualcosa di grigio si muove senza fretta — un paio d'occhi che catturano il fuoco e lo restituiscono ambra, poi un altro paio, poi altri ancora. Non corrono. Avanzano a ventaglio, bassi sulle zampe, le teste che oscillano per pesarvi l'odore. Sono troppi per essere tre. Una pietra si stacca sotto una zampa e rotola via: nessuno di loro la guarda. Guardano voi, il recinto, gli agnelli al centro — e **calcolano**. E poi, in alto, sul muretto crollato, qualcosa di più grande si siede.
 
 > [!danger] Composizione
 > - **1 Alpha** (profilo *Lupo Terribile / Dire Wolf*, CR 3) — **non combatte**: vedi sotto.
@@ -114,6 +145,9 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 > - **Round 5: +4 lupi** richiamati, incluso il **Lupo Mutilato** col marchio cultuale.
 
 ### L'Alpha che Osserva (il cuore non lineare)
+
+> [!readaloud] L'osservatore sul muretto
+> Non scende. Mentre il branco scivola avanti, lui resta seduto sulle pietre crollate, immenso e immobile, le zampe anteriori allineate con una precisione che non appartiene a una bestia. Il vento gli muove il pelo, e nient'altro si muove. Gli occhi — troppo fermi, troppo attenti — passano da uno di voi all'altro senza fretta, si posano sulle torce, sulle trappole, sulle vostre mani, e tornano ai vostri volti. Non ringhia. Non gli cola la bava. Non ha fame. Vi sta studiando come si studia un problema, e qualunque cosa stia pensando, ha tutto il tempo del mondo per pensarla.
 
 > [!warning] Regola dell'Alpha — vale per tutta la sessione
 > L'**Alpha non attacca, non morde, non carica. Mai.** Sta sul punto rialzato e **osserva fino alla fine**, immobile, attento, calmo in modo sbagliato. È **intelligenza**, non fame.
@@ -130,6 +164,13 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 - **Guardia sul muretto / campanacci:** i PG agiscono per primi e con +2 a respingere.
 - **Nessuna preparazione:** entrano **tutti e 5 insieme**, cercano di **separare un PG isolato** e di sfondare verso gli agnelli, mentre l'Alpha guarda dall'alto. Alta probabilità di mettere a terra un personaggio già nei primi round.
 
+> [!readaloud] Quando il terreno preparato risponde
+> Leggi solo le righe che corrispondono a ciò che i PG hanno davvero preparato.
+> - **Linea di fuoco:** I primi due si lanciano; gli altri tre arrivano alla cortina di fiamme e si bloccano come se avessero sbattuto contro un muro. Si scostano lungo la luce, occhi che lampeggiano arancione, ululando la loro frustrazione ai margini. Il fuoco regge — per ora.
+> - **Trappole:** Un guaito secco spezza il ringhio: un laccio si chiude di scatto, una zampa sprofonda in una buca coperta di frasche. La bestia si dimena, ringhia, perde i round preziosi in cui avrebbe dovuto azzannarvi.
+> - **Campanacci e rumore:** Tirate la corda e la notte esplode di metallo. I lupi più vicini si appiattiscono, le orecchie indietro, indecisi: per un istante il branco perde il ritmo e voi guadagnate il primo colpo.
+> - **Cane e agnelli al sicuro:** Il vecchio cane si pianta tra il gregge e il buio e abbaia come un dannato; gli agnelli, stretti al centro, non offrono il fianco facile che i lupi cercavano. Quello che doveva essere un massacro diventa una battaglia.
+
 ## 5. Lo Scontro - Non Lineare
 
 ### Round 1-4 - Tattica del branco
@@ -141,6 +182,9 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 > - Guardano spesso verso l'Alpha, come in attesa: rende esplicito al tavolo che **qualcuno li dirige**.
 
 ### Round 5 - L'Ululato e i Rinforzi
+
+> [!readaloud] L'ululato
+> Per la prima volta l'osservatore si muove. Solleva il muso al cielo ormai nero e lascia uscire un suono che non è un richiamo di caccia: è lungo, piatto, quasi una nota tenuta, e vi si appoggia sullo sterno come acqua fredda. Dal buio oltre il boschetto rispondono altri versi, più vicini di quanto dovrebbero essere. Le sagome che il fuoco aveva tenuto ai margini rientrano galvanizzate — e dietro di loro arriva qualcosa che zoppica, senza fretta, una bestia storta che la fiamma non spaventa. Poi l'Alpha richiude la bocca, riabbassa la testa, e torna a guardare. Ha chiamato. Adesso aspetta di vedere cosa fate.
 
 > [!danger] Svolta
 > All'inizio del **5° round**, se lo scontro è ancora aperto, l'**Alpha ulula una volta** (la sua unica "azione"): dal buio arrivano **+4 lupi**. Se i 3 "spaventati dal fuoco" erano ai margini, rientrano ora, galvanizzati.
@@ -165,6 +209,25 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 > - **Respinti col fuoco/rumore:** persi 2-3 elementi, il branco si ritira (il mutilato sparisce per primo, vivo se possibile; poi l'Alpha).
 > - **Disastro:** PG isolato a terra, gregge sfondato; il branco "incassa" e si ritira — e l'Alpha **se n'era già andato**, soddisfatto.
 
+### Beat concordato: La fine di Apollodoro
+
+> [!danger] Usare solo se concordato col giocatore di Apollodoro
+> Questo è il **commiato del personaggio** (uscita del giocatore / passaggio a [[Hillara]]). Dev'essere una morte **guadagnata e significativa**, non una punizione: **lascia che sia il giocatore a scegliere il gesto finale**. Qui Apollodoro chiude il suo arco — quello del **suono che non gli era mai venuto bene** (vedi il pasticcio dei "fuochi d'artificio" in [[Session 03 - Day 02 Recap]]).
+
+> [!summary] Come può succedere (proponi, poi lascia decidere)
+> - **Il sacrificio sul varco:** quando un compagno, [[Hillara]] o gli agnelli stanno per essere travolti, Apollodoro si frappone. Va a 0 PF e, nel caos, non riesce a stabilizzarsi prima del morso successivo.
+> - **L'ultimo suono, stavolta giusto:** spende la sua azione per un'ultima magia sonora / un urlo / una nota — e **stavolta funziona** (trattala come una riuscita su Intimidire o sul respingere col rumore): un boato che fa arretrare i lupi normali di un round e compra ai compagni il tempo di spezzare il branco. Il prezzo è restare scoperto: il **Lupo Mutilato** lo raggiunge dal lato cieco.
+> - **Isolato dal branco:** se la tattica dei lupi lo separa (vedi Round 1-4) e nessuno arriva in tempo, la separazione diventa fatale. Coerente con le regole dello scontro, senza forzature.
+
+> [!readaloud] L'ultima nota di Apollodoro
+> Per una volta non sbaglia. Il suono che gli esce non è il fracasso goffo dei fuochi d'artificio di ieri: è pieno, rotondo, **giusto**, e per un istante copre perfino gli ululati. I lupi più vicini si appiattiscono, storditi dal rumore. Poi il peso storto del branco gli arriva addosso dal lato cieco, e la nota si spezza a metà — non in un grido, ma in silenzio. Cade sull'erba bagnata mentre l'eco del suo unico, vero capolavoro si perde ancora nel buio. Stavolta l'aveva azzeccato. Non lo saprà mai.
+
+> [!note] Dopo: il corpo e il lascito
+> - **Il corpo:** i compagni possono recuperarlo. [[Faustus]] offre un telo e, a cose fatte, una sepoltura in vista delle mura: "Almeno questo posso darglielo."
+> - **Il lascito:** il suo strumento / focus sonoro passa a un PG o direttamente a [[Hillara]] — un legame immediato fra la nuova arrivata e il gruppo in lutto.
+> - **Eco di trama (non spiegare):** l'unico suono "riuscito" di Apollodoro cade nella stessa notte del **marchio cultuale** e dell'**Alpha-osservatore**. Non collegare nulla al tavolo: lascia che la perdita pesi da sola.
+> - **Seguito in città:** alla prossima sosta il gruppo può cercare riti funebri al Tempio di Sarenrae ([[Severa Solealto]]); buon gancio sociale e occasione per integrare Hillara.
+
 ## 6. Quadro di Difficoltà (per il DM)
 
 > [!info] Quanto è dura, in concreto
@@ -186,6 +249,9 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 | Colpire per primi il Lupo Mutilato | come da scontro | Spezza la coesione: vittoria più rapida (l'Alpha guarda comunque) |
 
 ## 7. Dopo lo Scontro
+
+> [!readaloud] L'osservatore se ne va
+> Quando il branco si spezza — chi a terra, chi in fuga nel buio — restate col fiato corto, il fuoco che crepita e il sangue che fuma sulla terra fredda. E in alto, sul muretto, lui è ancora lì. Vi guarda ancora, un istante più lungo del necessario, come a fissarvi i volti in memoria. Poi, senza fretta, senza un verso, si alza, si volta e scende dal lato buio del muretto. Un attimo dopo non c'è più. Non l'avete sconfitto. L'avete soltanto finito di intrattenere.
 
 > [!description] Il corpo storto
 > Se i PG hanno abbattuto/bloccato il lupo mutilato, possono esaminarlo: la zampa senza artigli non è ferita di caccia. È un taglio **vecchio e netto**, e sotto è inciso il marchio. Le altre bestie sono solo lupi affamati.
@@ -209,6 +275,7 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 ## Notte - Rientro e Riposo
 
 - Chiusa la faccenda, il gruppo rientra (probabile [[Il Veliero]]) o usa i permessi notturni del [[Government Palace]].
+- Se Apollodoro è morto, il rientro è un **corteo silenzioso**: si riporta il corpo (o lo si lascia alla sepoltura di [[Faustus]]) e si fa entrare [[Hillara]] in città col gruppo. Prima scena al [[Il Veliero]]: presentazione a [[Er Trace]] e lutto.
 - Per incontri notturni: sezione **Notte** di [[Encounters Giorno 02]].
 
 ## Note di Canone da Verificare
@@ -217,10 +284,14 @@ Terra battuta, solchi di ruote, piccoli altari di strada con fiori appassiti. Qu
 > - Esito preciso (lupi uccisi vs respinti, pecore perse, PG feriti) e se il **marchio** è stato notato/copiato.
 > - Se i PG hanno colto l'**Alpha-osservatore** come anomalia o l'hanno scambiato per un capo normale.
 > - Eventuale uso al tavolo dei fili aperti (meretrice, Aulus, Petron) durante la serata.
+> - **[[Hillara]]:** stirpe, classe, descrizione e aggancio definitivo scelti al tavolo → creare la scheda PG.
+> - **Apollodoro:** confermare con il giocatore che la morte è desiderata; annotare *come* è avvenuta e *chi* eredita lo strumento/focus.
 
 ## Checklist DM
 
 - [ ] Aprire nel **tardo pomeriggio**, col sole che cala; dichiarare l'**orologio del tramonto**.
+- [ ] **Introdurre [[Hillara]]** sulla strada (§1.5) prima dello scontro; far dichiarare al giocatore movente e aggancio.
+- [ ] Se concordato, preparare il **beat di morte di Apollodoro** (§5): proporre i modi, ma lasciare a lui il gesto finale.
 - [ ] Far leggere gli indizi della Fase 2 **prima** di preparare (lettura corretta → difesa corretta).
 - [ ] Gestire il **budget di 4 azioni di preparazione**; i fallimenti consumano tempo lo stesso.
 - [ ] Far entrare lo scontro **scalato sulla preparazione** (vedi Quadro di Difficoltà).

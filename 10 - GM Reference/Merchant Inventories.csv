@@ -1,0 +1,179 @@
+item,seller,stock,price,piece_type,short_description
+Adventuring gear,Aferio Lento,6,,,"Mixed kit group (PF1e gear): backpack, bedroll, belt pouch, hemp rope 50 ft., grappling hook, flint and steel, waterskin, sack, torches"
+Crowbar,Aferio Lento,4,,,Iron pry bar; +2 circumstance bonus on Strength checks to force doors
+Climber's kit,Aferio Lento,2,,,"Pitons, boot tips, gloves and harness; +2 on Climb checks"
+Caltrops,Aferio Lento,10,,,Bag of iron caltrops to slow pursuers
+Grappling hook,Aferio Lento,3,,,Three-pronged iron hook for ropes and walls
+10-foot pole,Aferio Lento,5,,,Wooden pole for probing traps and pits
+Hooded lantern,Aferio Lento,3,,,Shuttered lantern; burns one pint of oil for 6 hours
+Hardware,Borin Martelferro,8,,,"Ferramenta group: hammer, crowbar, iron pot, pitons, 10 ft. iron chain, spade/shovel, miner's pick, grappling hook"
+Average lock,Borin Martelferro,3,,,Good-quality lock; Disable Device DC 25
+Good lock,Borin Martelferro,2,,,Superior lock; Disable Device DC 30
+Manacles,Borin Martelferro,4,,,Iron manacles; can forge masterwork pairs on order
+Masterwork manacles,Borin Martelferro,1,,,"Masterwork manacles; Disable Device DC 35, Escape Artist DC 35"
+Masterwork artisan's tools,Borin Martelferro,2,,,Smithing tools; +2 on a Craft check for metalwork. Ally: 5% discount applies
+Whetstone,Borin Martelferro,6,,,Sharpening stone for blades and tools
+Weapons rack,Durgan Dato,6,,,"Simple/martial group: dagger, club, mace, shortspear, handaxe, shortsword, longsword"
+Light crossbow,Durgan Dato,3,,,Simple ranged weapon
+Crossbow bolts (10),Durgan Dato,12,,,Case of ten bolts
+Sling bullets (10),Durgan Dato,10,,,"Lead sling ammunition, per ten"
+Buckler,Durgan Dato,4,,,Light shield strapped to the forearm
+Light steel shield,Durgan Dato,3,,,Standard steel shield
+Studded leather,Durgan Dato,2,,,"Light armor, +3 AC"
+Chain shirt,Durgan Dato,1,,,"Light metal armor, +4 AC; scarce during the festival"
+Weapon blanch (silver),Durgan Dato,3,,,Single-use coating; weapon counts as silver for one fight
+Potion of cure light wounds,Gnaeus Petron,4,,,"Heals 1d8+1; festival best-seller, limited stock"
+Antitoxin,Gnaeus Petron,3,,,+5 alchemical bonus on saves vs poison for 1 hour
+Alchemist's fire,Gnaeus Petron,5,,,Thrown splash flask; 1d6 fire plus splash
+Acid (flask),Gnaeus Petron,4,,,Thrown splash flask; 1d6 acid
+Smokestick,Gnaeus Petron,3,,,Alchemical stick; instantly fills a 10-ft. cube with smoke
+Tanglefoot bag,Gnaeus Petron,2,,,Thrown bag; entangles the target in sticky goo
+Scroll of detect magic,Gnaeus Petron,3,,,"Arcane scroll, 0-level"
+Scroll of cure light wounds,Gnaeus Petron,3,,,"Divine scroll, 1st level"
+Scroll of mage armor,Gnaeus Petron,2,,,"Arcane scroll, 1st level"
+Spell component pouch,Gnaeus Petron,3,,,Holds material components for spellcasting
+Scroll of comprehend languages,Mauro Tersi,2,,,"Arcane scroll, 1st level"
+Scroll of identify,Mauro Tersi,2,,,Arcane scroll for analyzing magic items
+Scroll of light,Mauro Tersi,3,,,0-level utility scroll
+Scroll of endure elements,Mauro Tersi,2,,,1st-level scroll vs heat and cold
+Potion of cure light wounds,Mauro Tersi,2,,,Heals 1d8+1
+Antiplague,Mauro Tersi,2,,,+5 alchemical bonus on saves vs disease for 1 hour
+Smelling salts,Mauro Tersi,3,,,Wakes an unconscious creature as a standard action
+Blank wizard's spellbook,Mauro Tersi,2,,,100-page blank spellbook
+Ink (1 oz vial),Mauro Tersi,5,,,Black ink for scribing scrolls and notes
+Masterwork artisan's tools,Mauro Tersi,1,,,Scrivener's set; +2 on Craft checks for scrolls
+Gemstones,Octavius Brenno,6,,,Assorted cut gems (trade goods); spell foci and pawn value
+Signet ring,Octavius Brenno,3,,,Engraved ring for sealing wax and identity
+Silver holy symbol,Octavius Brenno,2,,,Divine focus; also stocks wooden holy symbols
+Small steel mirror,Octavius Brenno,2,,,Polished steel mirror; handy for looking around corners
+Silver (per lb.),Octavius Brenno,4,,,Refined silver trade bar; also buys pledged metal
+Gold (per lb.),Octavius Brenno,1,,,Gold trade ingot; high-value pawn
+Masterwork artisan's tools,Octavius Brenno,1,,,Jeweler's tools; +2 on Craft checks for jewelry
+Oil (1-pint flask),Velio Stoppino,12,,,Lamp oil; also a thrown 1d3 fire splash when lit
+Candle,Velio Stoppino,20,,,Tallow candle; 5-ft. dim light for 1 hour
+Common lamp,Velio Stoppino,5,,,Burns one pint of oil for 6 hours
+Hooded lantern,Velio Stoppino,4,,,Shuttered lantern
+Bullseye lantern,Velio Stoppino,3,,,Projects a 60-ft. cone of light
+Tindertwig,Velio Stoppino,15,,,Strikeable match; lights a fire as a move action
+Everburning torch,Velio Stoppino,1,,,"Continual flame torch; prized festival lighting, very scarce"
+Trail rations,Vibius Panciotto Ennio,15,,,"Dry travel food, per day"
+Bread (per loaf),Vibius Panciotto Ennio,20,,,Fresh festival loaves
+Cheese (hunk),Vibius Panciotto Ennio,12,,,Hunk of hard cheese
+Meat (chunk),Vibius Panciotto Ennio,10,,,Chunk of cured or roast meat
+Cooking kit,Vibius Panciotto Ennio,4,,,"Pot, pans and utensils for camp cooking"
+Iron pot,Vibius Panciotto Ennio,5,,,Cast-iron cooking pot
+Common wine (pitcher),Vibius Panciotto Ennio,8,,,Pitcher of common wine
+Soap,Vibius Panciotto Ennio,10,,,Bar of soap
+Bread (per loaf),Larto Vero,24,,,Fresh-baked loaves; prices rising with the flour shortage
+Trail rations,Larto Vero,10,,,"Hardtack and dry biscuit, per day"
+Flour (per lb.),Larto Vero,30,,,Milled wheat flour (trade good); short supply
+Cheese (hunk),Larto Vero,6,,,Hunk of cheese to go with the bread
+Wheat (per lb.),Brutus Verro,200,,,Bulk wheat (trade good); he hoards stock and sells priority lots
+Flour (per lb.),Brutus Verro,120,,,Milled flour (trade good); steep festival markup
+Grain stores,Brutus Verro,10,,,"Bulk group: sacks of wheat, barley and flour sold by the cartload"
+Trail rations,Brutus Verro,40,,,Pressed travel rations made from his grain
+Wheat (per lb.),Sergerro Atranus,80,,,Smaller grain lots; he also keeps Verro's ledgers
+Flour (per lb.),Sergerro Atranus,60,,,Milled flour (trade good)
+Trail rations,Sergerro Atranus,20,,,"Travel rations, per day"
+Small metal goods,Plautia Ramefine,10,,,"Group: fishhooks, sewing needles, signal whistle, belt buckles, pitons, small steel mirror"
+Iron (per lb.),Plautia Ramefine,60,,,Iron stock (trade good)
+Copper (per lb.),Plautia Ramefine,20,,,Copper stock (trade good)
+10-ft iron chain,Plautia Ramefine,4,,,"Hardness 10 chain, 10 ft. length"
+Caltrops,Plautia Ramefine,8,,,Bag of iron caltrops
+Imported trade goods,Maro Silanus,8,,,"Cargo group: cinnamon, pepper, ginger, cloves, saffron, silk and linen (per-pound/sq-yd trade goods)"
+Silk (per sq. yd.),Maro Silanus,6,,,Bolt of imported silk (trade good)
+Salt (per lb.),Maro Silanus,10,,,Sea salt (trade good); steady seller for preserving
+Cinnamon (per lb.),Maro Silanus,8,,,Spice trade good
+Pepper (per lb.),Maro Silanus,8,,,Spice trade good
+Fresh catch,Pescenna Ruga,12,,,"Food group (use AoN Meat, chunk of): the day's fish, eel and shellfish off the boat"
+Meat (chunk),Pescenna Ruga,10,,,Fresh fish portion; closest AoN food entry
+Trail rations,Pescenna Ruga,8,,,Salted and dried fish travel rations
+Net,Pescenna Ruga,3,,,Thrown net (exotic weapon); also spare fishing nets
+Fishhook,Pescenna Ruga,20,,,Iron fishhooks
+Weapons rack,Tullio Spaccaferro,5,,,"Forged group: dagger, handaxe, mace, shortspear, warhammer"
+Artisan's tools,Tullio Spaccaferro,4,,,Smithing tool sets
+Masterwork artisan's tools,Tullio Spaccaferro,1,,,Fine smithing tools; +2 on metal Craft checks
+Iron pot,Tullio Spaccaferro,6,,,Cast cookware and fittings
+Crowbar,Tullio Spaccaferro,4,,,Forged pry bar
+Spade or shovel,Tullio Spaccaferro,5,,,Digging tools
+Hardware,Macra Carbonera,6,,,"Group: pitons, hammer, manacles, 10-ft iron chain, grappling hook"
+Pitons,Macra Carbonera,20,,,Iron spikes by the bundle
+Hammer,Macra Carbonera,5,,,Smith's hammers
+Firewood (per day),Macra Carbonera,30,,,Charcoal and firewood (her trade); fuels forges and hearths
+Manacles,Macra Carbonera,3,,,Iron manacles
+Eastern weapons,La Chimera di Giada,5,,,"Exotic eastern arms group (PF1e Ultimate Combat): katana, wakizashi, nodachi, kama, nunchaku, sai, siangham, war fan"
+Katana,La Chimera di Giada,2,,,Eastern exotic blade; can be wielded one- or two-handed
+Naginata,La Chimera di Giada,2,,,Eastern reach polearm
+Shuriken (5),La Chimera di Giada,10,,,"Thrown eastern blades, sold by the handful of five"
+Lamellar (steel),La Chimera di Giada,2,,,Eastern medium armor of laced steel plates
+Do-maru,La Chimera di Giada,1,,,Eastern medium armor; rare import
+Black powder (dose),La Chimera di Giada,6,,,Firearm propellant (Ultimate Combat); part of the ship's gunpowder cargo
+Fireworks (skyrocket),La Chimera di Giada,12,,,Eastern festival fireworks; popular during the Breaching Festival
+Eastern luxuries,La Chimera di Giada,8,,,"Luxury trade-goods group: silk (per sq. yd.), jade and assorted gemstones, cinnamon/cloves/ginger/saffron spices; flavored with tea, incense and porcelain"
+Gemstones (jade),La Chimera di Giada,6,,,Cut jade and pearls (trade goods); Captain Linh Sura's signature stones
+Silk rope (50 ft.),La Chimera di Giada,4,,,Lightweight silk rope; easier Climb checks than hemp
+Off-manifest scrolls,La Chimera di Giada,3,,,"Bao Yiren's discreet scrolls (not on public manifests): e.g. comprehend languages, tongues, identify; some homebrew with side effects. Sold only on trust via Sajan Qadir"
+Pearl of power (1st level),La Chimera di Giada,1,,,Rare wondrous item; recalls one used 1st-level spell per day
+Incense of meditation,La Chimera di Giada,1,,,Rare wondrous eastern incense that empowers divine casting
+Oil of taggit,La Chimera di Giada,2,,,Ingested knockout poison; shady stock sold quietly by Bao Yiren
+Hardware,Caius Rutilo,10,,,"Well-stocked ferramenta (Varro-protected supply): hammer, crowbar, pitons, iron pot, 10 ft. chain, spade/shovel, grappling hook"
+Common weapons,Caius Rutilo,8,,,"Group: dagger, club, mace, spear, handaxe, light crossbow"
+Crossbow bolts (10),Caius Rutilo,15,,,Cases of ten bolts; never short despite the festival
+Caltrops,Caius Rutilo,10,,,Iron caltrops; also sells simple trap materials
+Average lock,Caius Rutilo,5,,,Locks and hasps
+Masterwork artisan's tools,Caius Rutilo,2,,,Tool sets; +2 on a Craft check
+Hemp rope (50 ft.),Caius Rutilo,8,,,Coils of hemp rope
+Weapons rack,Decimus Varian,8,,,"Martial group: longsword, battleaxe, warhammer, shortsword, morningstar, spear"
+Masterwork longsword,Decimus Varian,2,,,Masterwork blade; +1 attack
+Light crossbow,Decimus Varian,4,,,Crossbows in steady supply
+Heavy crossbow,Decimus Varian,2,,,Heavier ranged option
+Chain shirt,Decimus Varian,3,,,Light armor
+Studded leather,Decimus Varian,4,,,Light armor
+Heavy steel shield,Decimus Varian,3,,,Heavy steel shield
+Weapon blanch (cold iron),Decimus Varian,3,,,Coating; weapon counts as cold iron for one fight
+Potion of cure light wounds,Flavius Corvin,5,,,Healing potions; protected supply
+Potion of cure moderate wounds,Flavius Corvin,2,,,Heals 2d8+3; pricier festival stock
+Antitoxin,Flavius Corvin,4,,,+5 alchemical bonus vs poison for 1 hour
+Alchemist's fire,Flavius Corvin,4,,,Thrown splash flask
+Wand of cure light wounds,Flavius Corvin,1,,,Charged wand; high-value item for trusted clients
+Scroll of invisibility,Flavius Corvin,1,,,"Arcane scroll, 2nd level"
+Scroll of detect magic,Flavius Corvin,3,,,0-level scroll
+Everburning torch,Flavius Corvin,2,,,Continual flame light source
+Salt (per lb.),Anders Crispian,40,,,Salt for preserving (trade good); stocked when others are not
+Preserved food,Anders Crispian,20,,,"Group: salted fish, cured meat, pickled stores (price as AoN Trail rations / Meat, chunk of)"
+Trail rations,Anders Crispian,30,,,Dried and salted travel rations
+Meat (chunk),Anders Crispian,15,,,Cured and salted meat
+Grain (minor lots),Naevius Prisco,60,,,Small grain measures (trade good): wheat and barley by the pound
+Wheat (per lb.),Naevius Prisco,50,,,Wheat trade good
+Flour (per lb.),Naevius Prisco,40,,,Milled flour (trade good)
+Bread (per loaf),Nessa Briciole,30,,,Fresh festival bread
+Trail rations,Nessa Briciole,8,,,Hard biscuit travel rations
+Fresh fruit,Aulo Ficosecche,25,,,"Food group: figs, apples, dried fruit (no distinct AoN entry; price as Meals, per day)"
+Trail rations,Aulo Ficosecche,6,,,Dried-fruit travel rations
+Candle,Oriolo Candelaio,30,,,Tallow candles; high festival demand
+Tindertwig,Oriolo Candelaio,12,,,Strikeable matches
+Common lamp,Oriolo Candelaio,4,,,Simple oil lamp
+Perfume,Tamira Velofalso,8,,,Vials of perfume; the legitimate face of a shadier trade
+Soap,Tamira Velofalso,12,,,Scented soap
+Disguise kit,Tamira Velofalso,2,,,Cosmetics and props; +2 on Disguise checks
+Whetstone,Durghetta Limesalde,15,,,Sharpening stones; her main trade is honing blades
+Dagger,Durghetta Limesalde,6,,,Simple knives and daggers
+Sickle,Durghetta Limesalde,3,,,Bladed tools she sharpens and resells
+Fresh catch,Tilla Tresecchi,15,,,"Food group (use AoN Meat, chunk of): the day's fish and shellfish at the dock"
+Meat (chunk),Tilla Tresecchi,12,,,Fresh fish portion
+Trail rations,Tilla Tresecchi,8,,,Salted and dried fish rations
+Common outfits,Mina Bottone,10,,,"Clothing group: peasant's, traveler's and artisan's outfits"
+Cold-weather outfit,Mina Bottone,3,,,Warm clothing; +5 on saves vs cold
+Sewing needle,Mina Bottone,20,,,Needles and thread
+Silk rope (50 ft.),Mina Bottone,2,,,Fine silk cord she also works with
+Junk,Pietro Dueprezzi,12,,,"Mixed second-hand group: used belt pouch, sack, candles, flint and steel, whetstone, dented iron pot, odd tools (prices scribbled over twice)"
+Used adventuring gear,Pietro Dueprezzi,6,,,"Group sold cheap, condition varies: worn backpack, bedroll, hemp rope, torches, waterskin"
+Caltrops,Pietro Dueprezzi,5,,,Loose bag of caltrops
+Crowbar,Pietro Dueprezzi,3,,,Second-hand crowbar
+Hooded lantern,Asterio Falena,5,,,Shuttered lanterns; his specialty craft
+Bullseye lantern,Asterio Falena,3,,,Directional 60-ft. cone lantern
+Common lamp,Asterio Falena,6,,,Simple oil lamps
+Everburning torch,Asterio Falena,1,,,Continual flame torch; his proudest piece (terrified of the dark)
+Oil (1-pint flask),Asterio Falena,10,,,Lamp oil for his lanterns
+Small steel mirror,Asterio Falena,4,,,Polished mirrors and lenses for directing light
+Masterwork artisan's tools,Asterio Falena,1,,,Lantern-maker's tools; +2 on Craft checks for lanterns and mechanisms
