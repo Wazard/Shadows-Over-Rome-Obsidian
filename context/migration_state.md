@@ -616,3 +616,16 @@ Aggiunti due archi personali "alla Veltharuun" (5 tappe: indizi sottili → nome
   - [[Dario Arc - The Debt Comes to Rome]]: Dario caccia [[Filippo]] con una banda e usa [[Tommaso]] come leva; finale combattere o risolvere (debito + riconciliazione). Tell = le **monete cadute**.
 - Ogni file ha tabella sintesi con **giorni possibili, sender, combattimento, ricompensa** per tappa. Aggiunti i pointer nel roster PG di campaign_state (Hillara→Elira, Filippo→Dario).
 - **Nota di continuità:** il background di Filippo nomina il capo sia "Ruggin" sia "Dario" → fissato **Dario** come nome reale.
+
+### Tracker Relazioni PG (giu 2026)
+
+Aggiunta a [[campaign_state|context/campaign_state.md]] una sezione **"Rapporti con i PG (punteggio)"**: tally numerico del rapporto dei PNG importanti verso il gruppo, da aggiornare quando le azioni dei PG lo spostano. Valori iniziali (utente): Marcia +2, Borin +1, Faustus +1, Asterio Falena -1, Cassian Rulfo -1. Aggiornata la checklist "Come aggiornare" del file di stato. **Discrepanza da confermare:** Asterio era "riconoscente" nel recap Sess. 4 (forse l'utente intendeva [[Caius Rutilo]]).
+
+### Asterio -1 confermato + Gancio "Damigiane" (giu 2026)
+
+- **[[Asterio Falena]] confermato a -1:** l'esito della [[Shop Dispute|Disputa alla Bottega]] è slittato alla 4.5 e i PG non l'hanno aiutato oltre un piccolo sconto (non il "contatto riconoscente" del recap Sess. 4). Aggiornati: tracker relazioni (tolto il ⚠️) e voce PNG Chiave in campaign_state; nota correttiva nel [[Session 04 - Day 02 Recap]]; scheda Asterio.
+- **Gancio "Le Damigiane di Asterio"** in [[Session 05 - Day 03 Morning]] (sez. 6.5): i PG trovano le damigiane d'olio rubate di Asterio (marchio a falena), vuote o riempite d'**acqua ferma + sale nero** → vindica la sua denuncia (aggancio per risalire da -1) e semina il **buio organizzato** del [[Cult of Eternal Night|culto]] (luce sottratta alla città), coerente coi semi della sparizione e del marchio del lupo.
+
+### File Tracker Relazioni Dedicato (giu 2026)
+
+Creato **[[npc_relations|05 - NPCs/npc_relations.md]]**, file canonico per i rapporti PNG → PG: scala (+3…-3), tabella attuale (Marcia +2, Borin +1, Faustus +1, Asterio -1, Cassian -1), istruzioni d'aggiornamento, e nota di aggiungere [[Elira]]/[[Dario]]/[[Tommaso]] quando partono i loro archi. La sezione "Rapporti con i PG" in [[campaign_state|context/campaign_state.md]] è stata ridotta a **puntatore + snapshot** per evitare duplicazione/divergenza.

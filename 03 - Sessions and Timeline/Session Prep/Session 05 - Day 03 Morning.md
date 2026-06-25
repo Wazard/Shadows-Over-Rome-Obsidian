@@ -161,6 +161,27 @@ status: ready
 > [!note] Collegamento alla 4.5 (per il DM)
 > Se un PG ha conservato/disegnato il **marchio del lupo mutilato**, un <span style="color:#2f9ed8"><strong>Conoscenze (religioni/arcane) CD 18</strong></span> nota una **parentela** col simbolo inciso qui. Non confermare il significato: due stonature che rimano, niente di più. Se nessuno ha il marchio, lascia solo l'inquietudine.
 
+## 6.5 - Le Damigiane di Asterio (gancio luce/buio)
+
+> [!summary] Cosa trovano (e perché punge)
+> Seguendo la sparizione (o passando per una cantina/vicolo presso il porto), i PG trovano delle **damigiane** marchiate con la **falena** di [[Asterio Falena]]: sono le sue scorte di **olio da lampada**, quelle che lui aveva denunciato come rubate — e che i PG avevano liquidato (è il motivo del rapporto **-1**). Alcune sono **vuote**; una è piena, ma **non d'olio**.
+
+> [!description] Le damigiane
+> Grosse damigiane impagliate, vetro affumicato, il **sigillo a falena** inciso sul collo. Le più sono **a secco**: l'olio sparito. Una sola è colma — di **acqua troppo ferma**, salmastra, con un velo di **sale nero** sul fondo. Odorano di mare dove dovrebbero odorare di lampada.
+
+| Esaminare | CD | Cosa rivela |
+| --- | --- | --- |
+| Riconoscere il marchio | <span style="color:#2f9ed8"><strong>Investigazione CD 12</strong></span> | Sono di [[Asterio Falena]]: l'olio "rubato" di cui si lamentava era **vero** |
+| Il contenuto sostituito | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | Una damigiana non ha olio: **acqua marina ferma + sale nero** |
+| Dove va l'olio | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Qualcuno **toglie luce** alla città, in silenzio, un deposito per volta |
+
+> [!clue] Immediata vs lontana (non spiegare)
+> - **Immediata:** Asterio aveva ragione, i PG l'hanno snobbato — ecco da dove viene il **-1**. Prendere sul serio i furti è la via per risalire.
+> - **Lontana (seme cultuale):** non è avidità, è **buio organizzato**. La luce sparisce mentre tornano **acqua ferma e sale nero** — la stessa "famiglia" di segni della sparizione (Fase 6) e del **marchio del lupo** della 4.5. La città viene preparata, piano, a restare **al buio**. Non nominare il [[Cult of Eternal Night|culto]].
+
+> [!tip] Aggancio relazione (da -1)
+> [[Asterio Falena]] reagisce a chi gli **riporta** le damigiane o **indaga** sui furti: è il modo più rapido per muovere il suo rapporto **da -1 verso l'alto**. Ignorarle di nuovo lo conferma deluso (o peggio). Aggiorna il punteggio in [[campaign_state|context/campaign_state.md]].
+
 ## 7. Mezzogiorno - Chiusura della Mezza Giornata
 
 > [!summary] Dove ci si ferma
