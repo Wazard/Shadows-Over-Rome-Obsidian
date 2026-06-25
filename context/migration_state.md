@@ -583,3 +583,36 @@ Lavoro di sessione e quest successivo all'ultima riscrittura del Giorno 3. Detta
 - `10 - GM Reference/Merchant Inventories.csv`: inventari PF1e per venditore (~31 venditori: mercato/porto, rete di Varro, nave Chimera di Giada).
 
 **Nota operativa:** da ora ogni modifica al vault va registrata in [[log|context/log.md]] **e** [[campaign_state|context/campaign_state.md]] **e** in **questo file** (`migration_state.md`). Push / PR / backup restano gestiti dall'utente.
+
+### Espansione Quest "Verifica Doppia Registrazione" (giu 2026)
+
+Su richiesta dell'utente, [[Discreet Double Registration Check|Verifica Doppia Registrazione]] (Giorno 3) è passata da semplice investigazione documentale a quest a più strati:
+
+- **Descrizioni giocabili** in Fase 3 e 4 (ambienti, abiti, gesti dei PNG) con liste esplicite di "Cosa potete fare qui", così i giocatori vedono cosa **possono** fare.
+- **Rumore e false piste:** nuova sezione con testimonianze discordanti, un depistaggio interessato e una **bugia pagata** (l'orario di attracco) che attacca l'indizio-chiave; distinguere segnale da rumore è ora parte dell'indagine.
+- **Indizi sulle monete false:** la mancia "in moneta nuova" di Sergerro e la sacca nello scrigno sono **falsi dello stesso conio** delle 6 di Auris → aggancio esplicito a [[Attention - Report counterfeit coins]] (mostrare la parentela, non la fonte).
+- **Infiltrazione notturna come dungeon:** Orologio dell'Allarme (0→6), ingresso multiplo, **armature animate** (Oggetto Animato PF1e) disattivabili via sigillo o aggirabili col gettone d'ottone, corridoio **trappolato** (campanella, glifo d'allarme, ago avvelenato, scaffale instabile), stanzino della **ricerca** dove non sanno cosa cercano, scrigno con ricevuta + monete false.
+- **Lettura di trama:** trappole e armature animate segnalano che "Brutus protegge troppo per un truffatore di grano" senza rivelare Cassian/Aulus/Varro; falsa pista intatta.
+
+Stesso standard estendibile alle altre quest del Giorno 3 se richiesto.
+
+### Fix Timing Bread + Rework "Scorta al Trasporto Ufficiale" (giu 2026)
+
+- **[[Session 05 - Day 03 Morning]]:** corretto un errore di slotting — [[Bread Before Sunset|Pane Prima del Tramonto]] è **pomeriggio→tramonto** (quattro tappe, non rapida), quindi **non** è una quest del mattino. Ora è un **gancio del pomeriggio** (Marcia la offre al mattino, la corsa si gioca dopo, accanto alla Scorta).
+- **[[Official Transport Escort|Scorta al Trasporto Ufficiale]] (Giorno 3):** rework per renderla "puzzolente" e far sentire i PG **complici**:
+  - più **descrizioni**/gesti dei PNG; **landmark mnemonico** della magione di Varro (fontana-prua di marmo nero **sempre asciutta**, salita silenziosa, cipressi gemelli, battente a occhio chiuso) come **seme di memoria** per ritrovarla;
+  - sezione **"Voci Discordanti"** con false piste e una narrativa-banditi piazzata in anticipo;
+  - **Fase 9** come bivio decisivo: non seguire il carico "perso" = **biasimo + niente paga**; seguirlo porta a un deposito leggibile come **banditi che rivendono** (superficie, errato) **o messinscena** (profondità), con indizi distinti;
+  - **Conclusione** con la **dichiarazione da firmare** = i PG diventano **testimoni dei banditi** (complici), con logica di paga esplicita;
+  - falsa pista intatta: il filo punta ad **Aulus** come mano, mai a Varro come testa.
+
+### Nuovi PNG e Archi Personali Atto 2 (Elira, Dario, Tommaso) (giu 2026)
+
+Aggiunti due archi personali "alla Veltharuun" (5 tappe: indizi sottili → nome → confronto salvare/combattere), tarati sull'Atto 2, più i relativi PNG.
+
+- **PNG creati** (template NPC standard, italiano con accenti): [[Elira]] (`05 - NPCs/Supporting NPCs` — mentore cantante di [[Hillara]], imprigionata), [[Dario]] (`05 - NPCs/Criminal Underworld` — ex capo-banda tradito da [[Filippo]], cacciatore libero con banda; nome reale **Dario**, alias "Ruggin"), [[Tommaso]] (`05 - NPCs/Supporting NPCs` — fratello di Filippo, leva e specchio).
+- **File d'arco** (uno per arco) in `04 - Quests/Act 2 - Days 11-20/Personal Arcs/`:
+  - [[Elira Arc - The Caged Song]]: Elira incolpata di un delitto del **[[Cult of Eternal Night|culto]]**; **falsa pista deliberata su [[Veltharuun]]** (non è lui); finale salvare/scagionare o perdere (martire). Tell = una **melodia**.
+  - [[Dario Arc - The Debt Comes to Rome]]: Dario caccia [[Filippo]] con una banda e usa [[Tommaso]] come leva; finale combattere o risolvere (debito + riconciliazione). Tell = le **monete cadute**.
+- Ogni file ha tabella sintesi con **giorni possibili, sender, combattimento, ricompensa** per tappa. Aggiunti i pointer nel roster PG di campaign_state (Hillara→Elira, Filippo→Dario).
+- **Nota di continuità:** il background di Filippo nomina il capo sia "Ruggin" sia "Dario" → fissato **Dario** come nome reale.

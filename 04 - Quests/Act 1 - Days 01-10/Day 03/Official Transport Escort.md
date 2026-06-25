@@ -25,8 +25,10 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Escort_Required_Offic
 
 > [!success] Esiti possibili
 > - **Successo pieno apparente:** trasporto completato, Marcus paga, i PG vedono Varro come potente e ragionevole.
-> - **Successo investigativo:** notano monete false, passaggi troppo facili, cassa governativa, assalto **selettivo** — e magari **pedinano il bottino** fino a un deposito fuori mura.
+> - **Successo investigativo:** notano monete false, passaggi troppo facili, cassa governativa, assalto **selettivo** — e **pedinano il bottino** fino al deposito fuori mura, dove possono **intuire la messinscena** o **scambiarla per banditi che rivendono**.
 > - **Fallimento controllato (per Varro):** parte del carico si perde come da piano.
+> - **Biasimati e non pagati:** se **non** seguono né recuperano il carico "perso", Marcus li accusa di aver fatto un cattivo lavoro → paga **tagliata o nulla**, e il loro nome finisce sul rapporto dei "banditi".
+> - **Complici (consapevoli o no):** attestano la dichiarazione dell'assalto → la loro parola rispettabile **copre la messinscena**. È l'esito che deve **puzzare**.
 > - **Fallimento imprevisto (per Varro):** i PG salvano il carico o fermano la diffusione delle monete false; Aulus dovrà compensare più avanti.
 
 | Campo | Dettaglio |
@@ -36,7 +38,7 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Escort_Required_Offic
 | PNG coinvolti | [[Marcus Livius]], [[Gaius Varro]], [[Lucius Livius]] indiretto, [[Spago]] (vedetta), guardie, folla, oracolo, briganti pagati |
 | Tipi di CD principali | <span style="color:#d64545"><strong>FOR</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
 | Combattimento | **Probabile fuori mura** (non lineare); evitabile/breve in città |
-| Ricompensa | Paga alta, possibile benedizione, **molti indizi sulla rete di Varro** |
+| Ricompensa | Paga alta **condizionata** (tagliata/nulla se non seguono il carico "perso"), possibile benedizione, **molti indizi sulla rete di Varro** — e il rischio di diventarne **complici** |
 
 ## PNG e Colori
 
@@ -49,6 +51,7 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Escort_Required_Offic
 | <span style="color:#2f7fb8">color #2f7fb8</span> | <strong>Oracolo di Sarenrae</strong> | Pressione sacra/sociale |
 | <span style="color:#a86b00">color #a86b00</span> | <strong>[[Spago]]</strong> | Vedetta che segue la carovana |
 | <span style="color:#8b1e1e">color #8b1e1e</span> | <strong>Capo brigante</strong> | Assalto inscenato fuori mura |
+| <span style="color:#3f6f6f">color #3f6f6f</span> | <strong>Mercante compratore</strong> | Facciata al deposito: "merce mai esistita" |
 
 ## Contesto di Calendario
 
@@ -71,7 +74,7 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Escort_Required_Offic
 ## Fase 1 - Presa in Carico
 
 > [!readaloud] Distretto mercantile
-> Più controllato del porto: meno urla, più registri, più gente che guarda le mani degli altri. Marcus Livius vi aspetta con lista cerata e tavoletta di carico. Non sembra un criminale. Sembra uno che teme di sbagliare davanti a persone più importanti.
+> Più controllato del porto: meno urla, più registri, più gente che guarda le mani degli altri. **Marcus Livius** vi aspetta con lista cerata e tavoletta di carico: **tunica buona ma sudata sul collo**, **anello da liberto** che gira e rigira attorno al dito, occhi che corrono alla vostra cintura, alle vostre mani, alla strada — mai ai vostri. Non sembra un criminale. Sembra uno che **teme di sbagliare** davanti a persone più importanti.
 
 <span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Lavoro semplice: accompagnare il carro, aiutare coi carichi, non fare domande inutili. Non siete qui per combattere. Siete qui perché tutto resti **ordinato**."
 
@@ -113,13 +116,42 @@ Al distretto nobiliare:
 > [!clue] La vedetta (spionaggio bidirezionale)
 > [[Spago]] segue la carovana a distanza fin dal mercato. <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> per notarlo durante il diversivo. I PG possono **ignorarlo**, **pedinarlo** (porta a un contatto dei bassifondi), **spaventarlo** (fugge, riferisce comunque) o **depistarlo** (<span style="color:#d6a500"><strong>Raggirare CD 15</strong></span> → l'assalto fuori mura arriva **meno preparato**, vedi Fase 8).
 
+## Voci Discordanti lungo il Tragitto (rumore e false piste)
+
+> [!warning] Qualcosa non torna, e lo senti
+> Più il trasporto fila liscio, più le **voci** intorno si contraddicono. Alcune sono innocenti, altre sono **piazzate** per costruire in anticipo la storia che servirà stasera: *"la strada è piena di banditi"*. Semina queste stonature mentre attraversano la città: devono **puzzare** senza spiegarsi.
+
+| Voce / dettaglio | Chi / Dove | Afferma | Verità (GM) | Come stride |
+| --- | --- | --- | --- | --- |
+| "La strada del Nord è **sicura da settimane**." | Guardia al primo posto di blocco | Niente banditi di recente | **Vero finora** | Contraddice chi, poco dopo, parla di assalti |
+| "Banditi **ogni notte**, ormai, oltre il Cancello." | Marcus / un facchino | Pericolo fuori mura | **Narrativa piazzata**: prepara l'alibi | Nessuno cita un assalto *concreto* recente |
+| Il **manifesto del carico** "è cambiato due volte stamattina." | Facchino borbottante (<span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span>) | Errori d'ufficio | Quantità **aggiustate per la perdita** | Numeri "tondi", giusti da perdere |
+| "Grano **per il tempio**", dice Marcus. | Marcus → poi il Tempio (Fase 5) | Donazione attesa | Il tempio **non aspettava** così tanto | L'oracolo non sa di una consegna simile |
+| I "banditi" stanotte grideranno **Aulus**… | (anticipo della Fase 8) | Colpa ai bassifondi | …ma avranno **gettoni/sigilli** del carico | Ladri che "rubano" con le **chiavi di casa** |
+
+> [!tip] Regia del rumore
+> Non dire quali voci sono vere. Falle arrivare da **bocche diverse** e lascia che i PG **sentano la dissonanza**: la strada è sicura *o* infestata? Il carico è per il tempio *o* no? La sensazione da costruire è **"ci stanno raccontando una storia"** — e noi siamo dentro la storia.
+
 ## Fase 3 - Prima Apparizione di Varro
 
+> [!readaloud] La salita silenziosa
+> Per arrivare alla magione si lascia il frastuono del festival e si imbocca una **breve salita** dove, stranamente, il rumore **muore**: niente bancarelle, niente musica, solo il vostro passo e lo scricchiolio del carro. In cima, **due cipressi identici** fanno la guardia a un cancello di bronzo il cui battente ha la forma di un **occhio chiuso**. Davanti, una **fontana di marmo nero a forma di prua di nave** — **perennemente asciutta**, il fondo della vasca **macchiato come se l'acqua vi fosse rimasta ferma troppo a lungo**.
+
 > [!readaloud] Magione di Varro
-> La casa non è solo ricca: è **controllata**. Siepi alla stessa altezza, ghiaia rastrellata, guardie che non parlano tra loro, vetro vero alle finestre. Nulla è fuori posto.
+> Oltre il cancello la casa non è solo ricca: è **controllata**. Siepi tagliate alla stessa altezza, ghiaia rastrellata in righe dritte, guardie che non si parlano tra loro, vetro vero a ogni finestra. Nulla è fuori posto. Anche il silenzio sembra **ordinato**.
+
+> [!tip] Far ricordare dov'è la magione (seme per dopo)
+> Questa è, per ora, **l'unica volta** che i PG vedono **dove abita Varro**: serve che se lo **ricordino** per tornarci nelle sessioni future. Ripeti e fai pesare **due o tre àncore sensoriali** facili da citare a memoria:
+> - la **salita dove il festival tace**;
+> - la **fontana-prua di marmo nero, sempre asciutta**;
+> - i **due cipressi gemelli** e il **battente a occhio chiuso**.
+> Un PG attento (<span style="color:#8b5cf6"><strong>Conoscenze nobiliari/locali CD 13</strong></span>) ne fissa anche la posizione nel distretto. Al tavolo chiamala "**la casa della fontana-prua secca**": diventa il loro segnalibro.
+
+> [!clue] Stonatura alla fontana (indizio discordante)
+> La fontana asciutta **non** è in rovina: i tubi sono **nuovi**, la pompa **funziona**. È stata **svuotata apposta**. <span style="color:#2f9ed8"><strong>Artigianato CD 15</strong></span> o <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span>: l'acqua è stata tolta di recente e l'alone scuro sul marmo **non è calcare** — sa vagamente di **mare**. Lettura immediata: eccentricità da ricco. (Verità lontana, non dire: la stessa "acqua troppo ferma" che ricorre altrove.)
 
 > [!description] Varro
-> Sobrietà costosa, nessun gioiello inutile. Lo sguardo di chi è abituato a essere ascoltato senza alzare la voce.
+> Sobrietà costosa, nessun gioiello inutile. **Mani curate** che non gesticolano mai; quando ascolta **inclina appena la testa** e ti lascia finire, poi risponde piano, come se la tua frase l'avesse già prevista. Lo sguardo di chi è abituato a essere ascoltato senza alzare la voce.
 
 <span style="color:#4f6f52"><strong>[[Gaius Varro]]</strong></span>: "Marcus. Puntuale. Apprezzo la puntualità quando il resto della città sembra averla dimenticata."
 
@@ -227,19 +259,53 @@ Nemici: 4-5 briganti + 1 **capo brigante**; morale media.
 
 Se catturato e intimidito (<span style="color:#d6a500"><strong>Intimidire CD 16</strong></span>): *"Il lavoro veniva dai bassifondi. Gente di Aulus, forse. Non so altro."* **Non nominare Varro.**
 
-## Fase 9 - Seguire il Bottino (outer-wall, opzionale)
+## Fase 9 - Seguire il Bottino (il punto in cui la quest puzza)
 
-> [!summary] Dove va il carico "perso"
-> Se i PG **lasciano** o **inseguono** il ladro coi sacchi marcati invece di difendere solo il carro, possono pedinarlo nel buio fino a un **deposito occulto fuori mura**: una cascina/cisterna dove la merce "perduta" e le monete false si raccolgono.
+> [!danger] Bivio che decide tutto (e la paga)
+> Quando parte il **furto selettivo** (Fase 8), i PG scelgono senza saperlo il proprio destino:
+> - **Difendono solo il carro / non notano i sacchi marcati / non inseguono:** i sacchi "giusti" spariscono nel buio. Per Marcus il lavoro è **fallito** → vedi *Se non seguono*.
+> - **Lasciano o inseguono** il ladro coi sacchi marcati: lo pedinano fino al **deposito occulto fuori mura** → vedi *Il deposito*.
 
-| Prova | CD | Risultato |
+> [!warning] Se non seguono (biasimo + niente paga)
+> Se nessuno recupera né pedina i sacchi marcati, all'alba Marcus è **gelido**:
+>
+> <span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span>: "Vi avevo presi perché il carico arrivasse. È arrivato **monco**. Non pago per metà lavoro."
+>
+> - Paga **tagliata o nulla**, "spese" trattenute. (<span style="color:#8b5cf6"><strong>Intuizione CD 14</strong></span>: la delusione è **recitata** — la perdita gli fa comodo, ma il *biasimo* serve a tenervi piccoli e zitti.)
+> - **La fregatura vera:** il suo rapporto userà i **vostri nomi** come "le guardie che non hanno fermato i banditi". Avete appena **firmato la storia dei banditi** senza accorgervene (vedi Conclusione). Non sapere **non** vi salva: vi rende **utili**.
+
+### Il deposito (se seguono e trovano)
+
+> [!readaloud] La cascina che non dovrebbe esserci
+> Oltre un dosso, dove le torce non arrivano, una **cascina bassa** con una **cisterna** a lato. Non è un covo di disperati: c'è una **lanterna schermata**, un **carro pulito** già pronto, uomini che **non litigano** e si muovono come a un turno di lavoro. I sacchi "rubati" vengono **scaricati con cura**, non spartiti.
+
+| Pedinare e leggere il luogo | CD | Cosa colgono |
 | --- | --- | --- |
-| Pedinare al buio | <span style="color:#e68632"><strong>Furtività CD 14</strong></span> + <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> | Trovano il deposito |
-| Leggere il luogo | <span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span> | Grano "perso" + sacchetti di monete false accatastati |
+| Pedinare al buio | <span style="color:#e68632"><strong>Furtività CD 14</strong></span> + <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> | Arrivano senza farsi sentire |
+| Sguardo d'insieme | <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> | Un **mercante** aspetta il carico con un **secondo carro**; monete che passano di mano |
 | Non farsi prendere | <span style="color:#e68632"><strong>Furtività CD 15</strong></span> | Osservano e si ritirano con la prova |
 
-> [!clue] Cosa apre
-> Il deposito è un **gancio outer-wall** per una sessione successiva (chi gestisce la "perdita programmata"). Porta ad **Aulus**, non a Varro. Tienilo aperto.
+> [!summary] Due letture (lascia che siano LORO a sceglierla)
+> Cosa concludono dipende da **quanto** scavano. Entrambe le letture devono lasciare il **disgusto** addosso; solo la seconda dice *quanto* sono già dentro.
+>
+> | Lettura | A cosa arrivano | Quando ci cascano |
+> | --- | --- | --- |
+> | **"Banditi che rivendono"** (superficie) | Ladri che fanno la cresta e **fenced il bottino** a un mercante rivale | Si fermano allo sguardo d'insieme: merce + compratore + monete. Plausibile. **Sbagliato.** |
+> | **"Era tutto una messinscena"** (profondità) | Il furto è **teatro**: il carico non è stato derubato, è stato **spostato in nero** e la "perdita" **fabbricata** | Se **incrociano** gli indizi sotto |
+
+> [!clue] Gli indizi che smascherano la messinscena
+> | Dettaglio | Prova | Cosa rivela |
+> | --- | --- | --- |
+> | Il carico è **intatto e inventariato**, niente di rotto o sparso | <span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span> | Una rapina vera fa danni; qui è un **trasloco**, non un furto |
+> | I "banditi" hanno gli **stessi gettoni/sigilli** del carico | <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> | Rubano con **le chiavi di casa**: sono **personale**, non nemici |
+> | Un **foglio di riscontro** quadra i sacchi "persi" col manifesto del mattino | <span style="color:#2f9ed8"><strong>Investigazione CD 16</strong></span> | La "perdita" è **contabilizzata in anticipo** |
+> | Il mercante compratore usa il sigillo **"Mani di Cera"** | <span style="color:#2f9ed8"><strong>Professione mercante CD 15</strong></span> | Non è un rivale: è una **facciata** dello stesso giro (eco di [[Discreet Double Registration Check]]) |
+> | Paga in **monete d'oro nuove** | <span style="color:#2f9ed8"><strong>Valutare CD 15</strong></span> | **False**, stesso conio della scorta (e delle 6 di Auris) |
+
+<span style="color:#3f6f6f"><strong>Mercante compratore</strong></span>: "Tutto qui? Bene. Domani questo grano non è mai esistito. Come l'altro."
+
+> [!clue] Il gancio (cosa resta aperto)
+> Il deposito è il **filo da tirare**: chi gestisce la "perdita programmata" oltre le mura. Porta verso **Aulus** come mano, **non** verso Varro come testa — ma i PG ora **sanno** che esiste un posto dove le merci "rubate" diventano "mai esistite". Un **volto da rivedere** (il mercante compratore, o il capo brigante se è fuggito), un **luogo da ritrovare**, una **prova in mano**. Tienilo aperto verso la **Sessione 6** e oltre.
 
 ## Indizi
 
@@ -266,21 +332,37 @@ Se il carico viene rubato: <span style="color:#b08900"><strong>[[Marcus Livius]]
 
 Se i PG impediscono il furto: *"Bene. Ottimo. Avete... fatto il vostro lavoro."* (<span style="color:#8b5cf6"><strong>Intuizione CD 16</strong></span>: contrariato che qualcosa non sia andato secondo piano.)
 
+### La Firma — come diventate parte della storia
+
+> [!danger] Il momento in cui la quest vi sporca le mani
+> Alla resa dei conti, Marcus (o un impiegato al Cancello) tira fuori una **dichiarazione già scritta** e vi chiede di **attestarla**: *"Trasporto lecito assalito da banditi oltre le mura; perdita inevitabile."* Una formalità, dice. Una firma, o un cenno davanti a un testimone.
+> - <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span>: quella carta **non** registra ciò che è successo, registra ciò che a qualcuno **conviene** sia successo. Firmando, la vostra parola **rispettabile** copre la bugia: diventate **i testimoni dei banditi**.
+> - **Firmare** = paga piena, sorrisi, "vi richiameremo" — e un filo che vi lega: domani qualcuno dirà *"l'hanno visto anche le guardie assoldate"*.
+> - **Rifiutare** = niente sorriso, paga incerta, e un **nome che adesso dà fastidio** (Varro non dimentica chi non sta al gioco).
+> - **Firmare sapendo** (se hanno visto il deposito) è la scelta peggiore e più umana: sanno che è falso e firmano lo stesso, perché pagano e perché dire di no, qui, costa.
+
+> [!warning] La paga, in chiaro
+> - **Carico "perso" + nessuna indagine:** biasimo, **paga tagliata o nulla**, e firmano la storia dei banditi **in buona fede** → complici inconsapevoli.
+> - **Carico "perso" + deposito trovato:** hanno leva. Firmare = paga piena + complici **consapevoli**; rifiutare e tenere la prova = niente paga ora, ma una carta da giocare dopo.
+> - **Furto impedito:** Varro paga (controvoglia) e li **scheda** come imprevedibili; Aulus dovrà rifarsi più avanti.
+
 | Evento | Conseguenza |
 | --- | --- |
 | Monete false a folla/tempio | Circolano prima; il Giorno 5 ne risente |
 | Grano/riso perso | La scarsità cresce; si accusano i banditi |
 | Carico salvato | Varro deve compensare; Aulus colpisce più duro dopo |
 | Brigante interrogato | Aulus come pista criminale minore |
-| Deposito fuori mura trovato | Gancio outer-wall aperto |
+| Deposito fuori mura trovato | Gancio outer-wall aperto; prova della messinscena |
+| **Dichiarazione firmata** | La bugia dei banditi porta **il vostro nome**: complici |
+| **Non seguono il bottino** | Biasimo di Marcus; **paga tagliata/nulla** |
 
 ## Note GM
 
-> [!note] Tono
-> In città **troppo facile**; fuori, il pericolo aspetta nel punto giusto. Varro: educato, intelligente, potente, quasi ragionevole — **non** minaccioso, **non** bugiardo ovvio.
+> [!note] Tono — deve PUZZARE
+> In città **troppo facile**; fuori, il pericolo aspetta nel punto giusto. Varro: educato, intelligente, potente, quasi ragionevole — **non** minaccioso, **non** bugiardo ovvio. L'obiettivo emotivo della serata non è "vincere lo scontro": è la sensazione, crescente, che **qualcosa è molto sbagliato** e che i PG, lavorando bene, stanno **diventando parte della menzogna**. Premia chi lo fiuta; non punire chi non lo capisce — **usalo contro di loro**.
 
 > [!warning] Da non rivelare
-> L'assalto non si collega **mai** apertamente a Varro. Il brigante punta ad **Aulus**. La perdita è programmata, ma deve sembrare sfortuna.
+> L'assalto non si collega **mai** apertamente a Varro. Il brigante e il deposito puntano ad **Aulus**. La perdita è programmata, ma deve sembrare sfortuna. La **magione** (fontana-prua secca) è un **seme di memoria**, non una pista da spiegare adesso.
 
 > [!summary] Sensazione finale
-> In città era tutto troppo facile. Fuori, il pericolo sembrava aspettarci esattamente nel punto giusto.
+> In città era tutto troppo facile. Fuori, il pericolo aspettava esattamente nel punto giusto. E alla fine ci hanno ringraziato, ci hanno pagato, ci hanno chiesto una firma — e solo dopo, lontano da lì, abbiamo capito **per cosa** ci avevano davvero assoldati.

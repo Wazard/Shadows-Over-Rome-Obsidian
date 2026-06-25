@@ -36,8 +36,8 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Verifica_discreta_su_
 | Giorno | [[Day 03]] |
 | Luogo | Gilda dei Mercanti, uffici contabili, **casa dei conti / sotto-archivio di Brutus** |
 | PNG coinvolti | [[Bobbins McTwist]], [[Sergerro Atranus]] (alias "Servius"), [[Brutus Verro]] indiretto, [[Livia Cornelia Frizzapunto]], guardie private |
-| Tipi di CD principali | <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> |
-| Combattimento | Evitabile; **possibile** (guardie private se il break-in salta → fuga con la prova) |
+| Tipi di CD principali | <span style="color:#2f9ed8"><strong>INT</strong></span>, <span style="color:#8b5cf6"><strong>SAG</strong></span>, <span style="color:#e68632"><strong>DES</strong></span>, <span style="color:#d6a500"><strong>CAR</strong></span> (+ <span style="color:#d64545"><strong>FOR</strong></span>/<span style="color:#3f8f4c"><strong>COS</strong></span> nell'infiltrazione) |
+| Combattimento | Evitabile di giorno; nell'**infiltrazione notturna probabile**: trappole e **armature animate** a guardia del sotto-archivio |
 | Ricompensa | Paga media, **pista solida su Brutus**, favore prudente di Bobbins; rischio "schedatura" |
 
 ## PNG e Colori
@@ -49,6 +49,9 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Verifica_discreta_su_
 | <span style="color:#a86b2a">color #a86b2a</span> | <strong>[[Livia Cornelia Frizzapunto]]</strong> | Mediatrice che **conta i vostri nomi** |
 | <span style="color:#8b1e1e">color #8b1e1e</span> | <strong>Guardia privata</strong> | Protezione del sotto-archivio |
 | <span style="color:#4f6f52">color #4f6f52</span> | <strong>Impiegato della Gilda</strong> | Autorità minore; non risolve al posto dei PG |
+| <span style="color:#6d8a3f">color #6d8a3f</span> | <strong>Facchino ubriaco</strong> | Voce discordante al molo: **bugia pagata** sull'orario |
+| <span style="color:#2f8f8f">color #2f8f8f</span> | <strong>Pettegola del mercato</strong> | Pettegolezzo che nasconde un **vero** indizio (moneta "che luccica storto") |
+| <span style="color:#97456e">color #97456e</span> | <strong>Mercante rivale</strong> | Depista verso il bersaglio sbagliato |
 
 > [!warning] Continuity sul nome
 > Nel canone il contabile compare sia come **"Servius Atranus"** (nei testi quest) sia come **[[Sergerro Atranus]]** (scheda NPC). Sono la **stessa persona**: uso il link alla scheda e tengo "Servius" come alias parlato. Uniformare quando ci passi.
@@ -102,16 +105,51 @@ Se chiedono perché non le guardie:
 > [!tip] Renderlo un gioco al tavolo
 > Dai i tre fogli come **veri handout** e lascia che siano i giocatori a trovare l'incongruenza oraria *ragionando*, non tirando. Le prove sopra servono solo a chi resta bloccato (sblocca un pezzo per volta). Trovare l'impossibile **da soli** è la soddisfazione della quest.
 
+## Voci Discordanti e False Piste (rumore)
+
+> [!warning] Non tutto ciò che sentono è vero
+> Mentre i PG girano tra molo, Gilda e magazzini, raccolgono **testimonianze che non combaciano**. Alcune sono oneste e parziali, altre sono **depistaggi**, e almeno una è una **bugia pagata** per smontare proprio l'indizio-chiave (l'orario di attracco). Distinguere il rumore dal segnale **è** l'indagine, non un contorno.
+
+> [!description] Dove si raccoglie il rumore
+> Banchi del mercato all'alba, la fila dei facchini al molo, il portico dove i contabili minori fumano, l'osteria vicino ai magazzini. Gente che parla a mezza bocca, che guarda altrove mentre risponde, che ripete una frase **come se gliel'avessero insegnata**.
+
+| Voce | Chi la dice | Cosa afferma | Verità (GM) | Come smascherarla |
+| --- | --- | --- | --- | --- |
+| "La nave è arrivata alla **prima campana**, l'ho vista io." | <span style="color:#6d8a3f"><strong>Facchino ubriaco</strong></span> | Conferma l'orario della copia B | **Bugia pagata**: rende "possibile" l'impossibile | Registro del molo + testimoni sobri (<span style="color:#8b5cf6"><strong>Intuizione CD 13</strong></span>: è ubriaco e ripete a memoria) |
+| "Brutus è pulito, è **il capomolo** che vende i posti in fila." | <span style="color:#97456e"><strong>Mercante rivale</strong></span> | Sposta la colpa su un altro | **Depistaggio**: rancore personale, nessuna prova | Chiedere prove (<span style="color:#d6a500"><strong>Raggirare CD 14</strong></span>): non ne ha, vuole affondare un concorrente |
+| "Le seconde copie le fanno **tutti** durante il festival." | <span style="color:#4f6f52"><strong>Impiegato della Gilda</strong></span> | Minimizza la doppia registrazione | **Copertura molle**: vera in generale, falsa per il #214 | Solo il #214 ha orario impossibile (<span style="color:#2f9ed8"><strong>Investigazione CD 13</strong></span>) |
+| "Hanno pagato in **oro che luccica storto**, l'ho visto sul banco." | <span style="color:#2f8f8f"><strong>Pettegola del mercato</strong></span> | Pettegolezzo sulle monete | **Vero**, travestito da chiacchiera: monete false | Prenderla sul serio → porta all'indizio-monete (Fase 3 / sotto-archivio) |
+| "Il carico non è **mai** arrivato, l'hanno rubato come l'altro." | Facchino onesto | Lo confonde col carico sparito di un'altra storia | **Parziale/sbagliato**: mescola due fatti | Incrociare col registro (<span style="color:#2f9ed8"><strong>Investigazione CD 12</strong></span>) |
+
+> [!tip] Regia del rumore
+> Non annunciare quali voci sono false. Falle dire da **bocche diverse**, con **gesti** che tradiscono: lo sguardo che scappa, la frase ripetuta a memoria, la mano che indica un rivale. Un gruppo frettoloso che crede al **facchino ubriaco** perde il filo (perché renderebbe l'orario della copia B "possibile"); un gruppo che **incrocia le fonti** lo stringe.
+
 ## Fase 3 - Sergerro Atranus, il Contabile Spaventato
 
+> [!description] L'annesso dei conti
+> Sergerro lavora in un **annesso stretto** dietro l'ufficio della Gilda: due banchi addossati, scaffali di registri legati con lo spago, un **braciere basso** che puzza di sego, un'unica **finestra alta** che dà sul cortile dei carri. L'inchiostro ha macchiato il legno fino a renderlo nero. Fuori il festival rumoreggia; qui dentro si sente solo il raschiare delle penne e, ogni tanto, il **cigolio della porta** che lo fa sobbalzare.
+
 > [!readaloud] Sergerro
-> Non sembra pericoloso: sembra uno che ha paura degli uomini pericolosi. Magro, tunica fin troppo pulita, dita macchiate d'inchiostro. Quando vede l'impiegato della Gilda, si alza così in fretta da rovesciare lo sgabello.
+> Non sembra pericoloso: sembra uno che ha paura degli uomini pericolosi. Magro, **tunica fin troppo pulita** per un contabile, **polsino sfrangiato** che continua a tirarsi giù sul polso, **dita macchiate d'inchiostro** fino alla seconda nocca. Tiene l'avambraccio appoggiato su una **tavoletta cerata** come per nasconderla, e a ogni cigolio della porta gli occhi corrono prima alla soglia, poi a un **cofanetto** sullo scaffale più alto. Quando vede l'impiegato della Gilda si alza così in fretta da rovesciare lo sgabello.
 
 <span style="color:#7f5f2a"><strong>[[Sergerro Atranus|Servius Atranus]]</strong></span>: "Io ho solo ricopiato ciò che mi è stato consegnato. Le copie non sono nate insieme. Questo posso dirlo. Non chiedetemi di dirlo davanti a tutti."
 
+> [!tip] Cosa potete fare qui (oltre a parlargli)
+> La stanza è **leggibile** quanto l'uomo. Indicate ai giocatori che possono:
+> - **Seguire il suo sguardo:** lo scatto verso il cofanetto in alto (<span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span>) dice dove tiene ciò che teme.
+> - **Sbirciare la tavoletta** che copre col braccio: sotto c'è una **lista di depositi** (vederla di straforo <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span>, sfilarla <span style="color:#e68632"><strong>Rapidità di Mano CD 17</strong></span>).
+> - **Frugare il braciere:** tra la cenere ci sono **brandelli di brutta copia** mal bruciati (<span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span>) — righe di prova della **firma imitata**.
+> - **Leggergli le mani:** mentre parla **strofina il pollice sull'indice**, gesto di chi ha contato monete da poco (<span style="color:#8b5cf6"><strong>Intuizione CD 14</strong></span>).
+
+> [!clue] Indizio monete false (cosa lo ha comprato)
+> Nel cofanetto in alto (o nella borsa che tiene in grembo) ci sono **poche monete d'oro nuove di zecca**: il "di più" con cui gli hanno pagato la ricopiatura. Una stona.
+> - <span style="color:#2f9ed8"><strong>Valutare CD 15</strong></span> o <span style="color:#2f9ed8"><strong>Professione mercante CD 14</strong></span>: **peso giusto ma suono sbagliato**, conio troppo morbido → **falsa**.
+> - <span style="color:#7f5f2a"><strong>Sergerro</strong></span> (se rassicurato): "Mi hanno dato qualcosa in più perché non facessi domande. Moneta nuova. Non l'ho spesa: a una è bastato cadere sul banco per suonare... vuota."
+> - **Aggancio:** un PG che porta già **monete false** (le 6 di Auris, vedi [[Attention - Report counterfeit coins]]) può **confrontarle**: stesso conio. Non dire da dove vengano.
+
 | Approccio | CD | Risultato |
 | --- | --- | --- |
-| Rassicurarlo | <span style="color:#d6a500"><strong>Diplomazia CD 15</strong></span> | Ammette: la copia B gli è arrivata già "corretta" |
+| Rassicurarlo | <span style="color:#d6a500"><strong>Diplomazia CD 15</strong></span> | Ammette: la copia B gli è arrivata già "corretta"; mostra la moneta nuova |
 | Mostrargli l'impossibile orario | <span style="color:#2f9ed8"><strong>Investigazione CD 15</strong></span> | Cede: indica indirettamente Brutus e la "Mani di Cera" |
 | Spaventarlo | <span style="color:#d6a500"><strong>Intimidire CD 14</strong></span> | Parla in fretta, **ma poi avvisa Brutus** (alza il rischio) |
 | Sfilargli una nota | <span style="color:#e68632"><strong>Rapidità di Mano CD 17</strong></span> | Lista di **depositi** collegati a Brutus (apre Fase 4) |
@@ -126,6 +164,14 @@ Se chiedono perché non le guardie:
 
 ### Via A — Inganno diurno
 
+> [!description] La casa dei conti, di giorno
+> La casa dei conti di Brutus è un'ex-domus patrizia riadattata: **atrio dal mosaico consumato**, un impluvio asciutto usato come deposito di casse, e lungo le pareti una **fila di armature da parata su sostegni di legno** — vanto da nuovo ricco. Un impiegato in **tunica verde della contabilità** timbra lasciapassare a un banco; due **guardie private** in cuoio borchiato stanno agli angoli, annoiate ma sveglie. Si sente cera calda, polvere di pergamena e, sotto, un odore freddo di **metallo lucidato**.
+
+> [!tip] Cosa potete fare qui (di giorno si studia, di notte si entra)
+> - **Le armature da parata** sono troppe e troppo lucide per un contabile: chi le osserva (<span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span>) nota che alcune **non hanno polvere** e che i sostegni sotto i piedi sono **segnati da graffi di trascinamento**. Di giorno stanno ferme. Di notte no (vedi Via B).
+> - **Il registro dei lasciapassare** al banco distingue le stanze "di rappresentanza" da quelle "**riservate**" (leggerlo di straforo <span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span>): è la **mappa** che di notte risparmia giri a vuoto.
+> - **Una guardia distratta** può perdere il suo **gettone d'ottone** di servizio (<span style="color:#e68632"><strong>Rapidità di Mano CD 16</strong></span>): di notte vale come salvacondotto davanti alle armature.
+
 > [!description] A porte aperte
 > Di giorno l'archivio è presidiato ma accessibile col pretesto giusto.
 
@@ -135,14 +181,80 @@ Se chiedono perché non le guardie:
 | Lasciapassare falsificato | <span style="color:#2f9ed8"><strong>Linguistica CD 16</strong></span> | Regge a una lettura rapida |
 | Distrarre l'impiegato | <span style="color:#d6a500"><strong>Diplomazia CD 14</strong></span> mentre un altro cerca | Finestra breve per copiare la ricevuta |
 
-### Via B — Infiltrazione notturna (heist)
+### Via B — Infiltrazione Notturna (il sotto-archivio come dungeon)
 
-> [!danger] Di notte, a porte chiuse
-> Catena di azione: **entrare** (finestra/tetto <span style="color:#d64545"><strong>Atletica CD 14</strong></span> o serratura di servizio <span style="color:#e68632"><strong>Disattivare Congegni CD 15</strong></span>), **muoversi** evitando la ronda privata (<span style="color:#e68632"><strong>Furtività CD 15</strong></span> tra i turni), **aprire lo scrigno** dell'archivio (<span style="color:#e68632"><strong>Disattivare Congegni CD 16</strong></span>), **copiare/prendere** la ricevuta (<span style="color:#2f9ed8"><strong>Linguistica CD 13</strong></span> per copiarla; <span style="color:#e68632"><strong>Rapidità di Mano CD 16</strong></span> per **sostituirla** con un finto così che il furto non si noti).
-> - Ogni fallimento **alza l'allerta**: alla seconda, due **guardie private** convergono.
+> [!danger] Premessa: non sanno dove guardare
+> Di notte la casa dei conti è **chiusa, buia e difesa**. La ricevuta del #214 è **una pergamena tra mille**, in una **stanza che non è segnata**. Questa non è "una prova in Disattivare Congegni": è una **piccola incursione** in cui i veri nemici sono il **tempo** e il **non sapere**. Si gioca a **stanze** e a **Orologio dell'Allarme**.
+
+> [!info] Orologio dell'Allarme (0 → 6)
+> Tieni un **contatore nascosto**. Sale di **+1** ogni volta che: una prova d'infiltrazione fallisce, i PG fanno rumore, forzano invece di cercare, o sprecano un "giro" a frugare la stanza sbagliata.
+> - **A 2:** la **ronda privata** cambia percorso e si avvicina.
+> - **A 4:** si **risvegliano le armature animate**.
+> - **A 6:** **allarme pieno** — campana, guardie sveglie, finestra di fuga che si chiude. Da qui si esce **con** la prova o **senza**, ma si esce.
+>
+> Chi ha **mappato di giorno** (Via A) o **sfilato la lista di Sergerro** parte sapendo **quale ala** è "riservata": taglia i giri a vuoto. Chi ha un **gettone d'ottone** ignora le armature.
+
+#### Ingresso
+
+> [!description] Da fuori, a luci spente
+> La domus è un blocco scuro nel reticolo dei vicoli. Persiane chiuse, una **lanterna sola** nel cortile dove un guardiano veglia accanto a un braciere. Sul retro: una **finestra alta dell'archivio**, una **porta di servizio** con serratura buona, un **lucernario** sul tetto a tegole.
+
+- **Entrare:** finestra/tetto (<span style="color:#d64545"><strong>Atletica CD 14</strong></span> o <span style="color:#e68632"><strong>Acrobazia CD 14</strong></span>), porta di servizio (<span style="color:#e68632"><strong>Disattivare Congegni CD 15</strong></span>), o lucernario (<span style="color:#e68632"><strong>Disattivare Congegni CD 16</strong></span> + calata <span style="color:#d64545"><strong>Atletica CD 13</strong></span>).
+- Il guardiano del cortile fa il giro a intervalli: <span style="color:#8b5cf6"><strong>Percezione CD 13</strong></span> per leggerne il ritmo e passare nel vuoto.
+
+#### Stanza 1 — L'Atrio delle Armature (la guardia)
+
+> [!description] Sentinelle di metallo
+> L'atrio è quello visto di giorno, ma ora il mosaico è solo riflessi e la **fila di armature** non sembra più decorazione. Due sostegni sono **vuoti**. Da qualche parte, nel buio, **qualcosa di metallico respira piano** — il cuoio non respira, l'acciaio sì, stanotte.
+
+> [!danger] Armature Animate (oggetti animati, guardiani)
+> Brutus ha pagato un incantatore da quattro soldi per **due armature animate** che pattugliano dopo il buio. Sono il segnale che **qui si protegge molto più di un registro del grano**.
+> - **Profilo (Oggetto Animato Medio, PF1e — adatta al tavolo):** CA ~14, PF ~31, **durezza 10** (metallo), **Schianto +4 (1d6+3)** o alabarda; immune a veleno/sonno/charme/effetti mentali; **lente** ma instancabili. Non parlano, non si stancano, non si arrendono.
+> - **Disattivarle senza combattere:** ogni armatura è legata a un **sigillo inciso** sul sostegno da cui si è alzata. Trovarlo (<span style="color:#2f9ed8"><strong>Sapienza Magica CD 16</strong></span>) e **raschiarlo o coprirlo** (un'azione, <span style="color:#e68632"><strong>Disattivare Congegni CD 15</strong></span>) spegne quella sentinella.
+> - **Evitarle:** pattuglia prevedibile (<span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> per leggerla, <span style="color:#e68632"><strong>Furtività CD 15</strong></span> per attraversare).
+> - **Distruggerle:** funziona, ma la **durezza 10** le rende dure ed è **rumoroso** (+1 Allarme a colpo pesante/fragoroso).
+> - **Falso passo:** rispondono a un **gettone d'ottone** che le guardie portano; chi ne ha sfilato uno (Via A) attraversa l'atrio **come se nulla fosse**.
+
+#### Stanza 2 — Il Corridoio dei Conti (trappole)
+
+> [!description] Stretto e ostile
+> Un corridoio di scaffalature fino al soffitto, carte legate a fascio, scale a pioli. Brutus, da paranoico, lo ha **trappolato** contro chi non conosce i suoi passi.
+
+> [!danger] Trappole — cercarle <span style="color:#8b5cf6"><strong>Percezione</strong></span>, disarmarle <span style="color:#e68632"><strong>Disattivare Congegni</strong></span>
+> | Trappola | Notare | Disarmare | Se scatta |
+> | --- | --- | --- | --- |
+> | Filo teso a una **campanella** sopra la porta | <span style="color:#8b5cf6"><strong>Perc. CD 14</strong></span> | <span style="color:#e68632"><strong>Disatt. CD 13</strong></span> | Rumore: **+2 Allarme** |
+> | **Glifo d'allarme** sotto il terzo scaffale | <span style="color:#2f9ed8"><strong>Sap. Magica CD 16</strong></span> | <span style="color:#e68632"><strong>Disatt. CD 16</strong></span> | Lampo silenzioso: **risveglia subito le armature** |
+> | **Ago avvelenato** nella maniglia di un cassetto-esca | <span style="color:#8b5cf6"><strong>Perc. CD 16</strong></span> | <span style="color:#e68632"><strong>Disatt. CD 15</strong></span> | <span style="color:#3f8f4c"><strong>Tempra CD 13</strong></span> o 1d3 DES (sonnifero, non letale) |
+> | **Scaffale instabile** segnato da un graffio | <span style="color:#8b5cf6"><strong>Perc. CD 13</strong></span> | evitarlo | Crolla: **+2 Allarme**, <span style="color:#e68632"><strong>Riflessi CD 13</strong></span> per non finirci sotto |
+
+> [!clue] Il cassetto-esca insegna una cosa
+> Il cassetto trappolato è **vuoto tranne una ricevuta civetta** col sigillo "Mani di Cera". Chi la legge (<span style="color:#2f9ed8"><strong>Professione mercante CD 14</strong></span>) capisce che Brutus **si aspetta** ladri e tiene il **vero** materiale altrove → spinge verso la Stanza 3, non verso le esche.
+
+#### Stanza 3 — Lo Stanzino Riservato (la ricerca)
+
+> [!description] La stanza che non è segnata
+> Dietro un arazzo (o una porta foderata di feltro per non far filtrare luce) c'è lo **stanzino riservato**: nessuna targa, niente "di rappresentanza". Scaffali ordinati per **compagnia**, non per data. Da qualche parte qui dorme il **#214**.
+
+> [!warning] Trovare la cosa giusta senza sapere cosa cerchi
+> Non c'è "la prova" in vista: c'è **molto** materiale e **poco tempo**. Ogni **giro di ricerca** è un'azione che alza l'Allarme di +1 **se non hanno un filo**.
+> - **Con un filo** (orario impossibile, sigillo "Mani di Cera", lista di Sergerro, mappa diurna): vanno allo scaffale giusto → 1 giro, <span style="color:#2f9ed8"><strong>Investigazione CD 15</strong></span>.
+> - **Senza filo:** brancolano → 1d3 giri prima di azzeccare lo scaffale (Allarme che sale).
+> - **La ricevuta giusta:** pagamento anticipato + ordine di riassegnazione, controfirma "Mani di Cera". È **la** prova del confronto pubblico.
+
+> [!tip] Copiare o rubare
+> - **Copiarla** (<span style="color:#2f9ed8"><strong>Linguistica CD 13</strong></span>) e rimetterla a posto = Brutus non sa di essere scoperto.
+> - **Prenderla e sostituirla** con un finto (<span style="color:#e68632"><strong>Rapidità di Mano CD 16</strong></span>) = ritarda l'allarme.
+> - **Prenderla e basta** = la mancanza si nota domani: heat sicuro.
+
+> [!clue] Lo scrigno: la moneta che spiega troppo
+> Nello scrigno di ferro dello stanzino (apertura <span style="color:#e68632"><strong>Disattivare Congegni CD 16</strong></span>; glifo opzionale <span style="color:#2f9ed8"><strong>Sap. Magica CD 16</strong></span>), oltre alla ricevuta, ci sono una **sacca pesante di monete d'oro nuove** e un **quadernetto di pagamenti "Mani di Cera"**.
+> - <span style="color:#2f9ed8"><strong>Valutare CD 15</strong></span>: **false**, stesso conio della moneta di Sergerro (e di quelle che gira Auris — non dire la fonte).
+> - **Cosa rivela (e cosa no):** Brutus **paga e si fa pagare in moneta falsa** — un **canale**, non solo una doppia registrazione. Ma **non** è la cima: chi conia e dirige resta fuori scena (vedi Note GM).
+> - **Prenderle?** Sono **prova** ma anche **contrabbando** ([[Attention - Report counterfeit coins]]): addosso hanno gli stessi rischi delle 6 di Auris.
 
 > [!warning] Guardie private (azione/uscita)
-> Non sono uomini di Aulus: sono **personale pagato**. Vogliono cacciarvi, non morire.
+> Se l'Allarme sale, convergono. Non sono uomini di Aulus: sono **personale pagato**. Vogliono cacciarvi, non morire.
 
 <span style="color:#8b1e1e"><strong>Guardia privata</strong></span>: "Archivio privato. La Gilda manda lettere, non stranieri con le mani lunghe."
 
@@ -150,7 +262,7 @@ Se chiedono perché non le guardie:
 | --- | --- | --- |
 | Spiegarsi/uscire con calma | <span style="color:#d6a500"><strong>Diplomazia CD 15</strong></span> | Tempo per filare; ma Brutus viene avvisato |
 | Imporsi | <span style="color:#d6a500"><strong>Intimidire CD 16</strong></span> | Arretrano e avvisano comunque |
-| **Fuga con la prova** | <span style="color:#d64545"><strong>Atletica</strong></span>/<span style="color:#e68632"><strong>Acrobazia CD 14</strong></span> | Inseguimento breve tra cortili e tetti; scontro evitabile |
+| **Fuga con la prova** | <span style="color:#d64545"><strong>Atletica</strong></span>/<span style="color:#e68632"><strong>Acrobazia CD 14</strong></span> | Inseguimento tra cortili e tetti, armature lente alle spalle; scontro evitabile |
 
 ## Complicazione - Qualcuno Conta i Vostri Nomi (spionaggio sui PG)
 
@@ -168,6 +280,9 @@ Se chiedono perché non le guardie:
 | Sigillo "Mani di Cera" | <span style="color:#2f9ed8"><strong>Professione mercante CD 15</strong></span> | Copie e ricevuta | Brutus indiretto | Canale commerciale | **Compagnia di facciata** di Brutus | Scambiarlo per il capo finale |
 | Ricevuta di pagamento anticipato | <span style="color:#2f9ed8"><strong>Investigazione CD 16</strong></span> | Sotto-archivio | Brutus | Contabilità | Riassegnazione comprata | Prenderla è furto/heist |
 | Qualcuno chiede i vostri nomi | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Magazzini | Livia Cornelia | Pettegolezzo | Vi stanno **schedando** | Ignorarla rinforza le difese |
+| Moneta nuova che "suona vuota" | <span style="color:#2f9ed8"><strong>Valutare CD 15</strong></span> | Da Sergerro / nel sotto-archivio | Sergerro, Brutus | Mancia generosa | **Moneta falsa**: ha comprato il silenzio | Tenerla = contrabbando (come le 6 di Auris) |
+| Sacca di monete + quaderno "Mani di Cera" | <span style="color:#2f9ed8"><strong>Investigazione CD 16</strong></span> | Scrigno del sotto-archivio | Brutus | Cassa nera | **Canale di moneta falsa**, non solo una frode di registro | Scambiarlo per "il capo finale" |
+| Armature troppo lucide, sostegni graffiati | <span style="color:#8b5cf6"><strong>Percezione CD 15</strong></span> | Atrio della casa dei conti | — | Lusso da nuovo ricco | Sicurezza magica: Brutus **protegge troppo** | Sottovalutarle di notte |
 
 ## Tracce Cultuali Molto Sottili
 
@@ -194,14 +309,18 @@ Se hanno fatto scandalo: *"Vi avevo chiesto discrezione. Avete portato tamburi. 
 | Sotto-archivio forzato e scoperto | Paga ridotta; Brutus avvisato; possibile heat dei giorni dopo |
 | Sergerro protetto | Testimone solido → confronto pubblico più forte (Giorni 5-6) |
 | Schedati da Livia | Un nome scomodo in più; difese alzate altrove |
+| Trovata la sacca di monete false + quaderno | Prova di un **canale**, non solo di un registro; aggancio a [[Attention - Report counterfeit coins]]; **heat** se le portano via |
+| Armature animate distrutte (rumore) | Heist "rumoroso": Brutus sa di un'incursione mirata e blinda tutto; possibile pressione nei giorni dopo |
 
 ## Note GM
 
 > [!warning] Cose da non rivelare
 > Brutus è **solo un pezzo**. Non legare definitivamente [[Lucius Livius]] a [[Gaius Varro]]. **Niente uomini di Aulus, niente Cassian** in scena. Non risolvere la falsa pista.
+> - **Le monete false** sono lo **stesso conio** di quelle che gira Auris ([[Attention - Report counterfeit coins]]): mostra la **parentela**, non la **fonte**. Chi conia e dirige resta fuori scena.
+> - **Armature animate e trappole** dicono "Brutus protegge troppo per un truffatore di grano" — un brivido di *c'è dell'altro*, non una spiegazione. Non dire chi gliele ha pagate.
 
 > [!note] La "spezia"
-> Tre marce diverse: **rompicapo** (le tre carte) → **sociale a rischio** (Sergerro che può sparire) → **heist** (il sotto-archivio). Tieni la tensione del *qualcuno-vi-osserva* sotto pelle. Investigazione che si **gioca**, non si subisce.
+> Quattro marce diverse: **rompicapo** (le tre carte) → **rumore** (voci discordanti e una bugia pagata) → **sociale a rischio** (Sergerro che può sparire) → **dungeon** (il sotto-archivio con trappole e armature animate). Tieni la tensione del *qualcuno-vi-osserva* sotto pelle. Investigazione che si **gioca**, non si subisce.
 
 > [!summary] Sensazione finale
 > Le carte non arrossiscono. Ma se le metti vicine, a volte tremano.

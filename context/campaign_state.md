@@ -29,8 +29,8 @@ next_session: "05 (Day 03, mattina)"
 | --- | --- | --- |
 | [[Apollodoro]] | Magia sonora | Sess. 3: rumore dei fuochi → guardie attratte (coda aperta). **Sess. 4.5: caduto proteggendo Massimiliano dai lupi, sopravvissuto** (recuperato dal gruppo) |
 | Auris | Curiosità pericolosa, metalli, frodi | Gancio verso [[Gnaeus Petron]] e i materiali difettosi. **Porta 6 monete d'oro false** → contrabbando dal [[Day 04]] (vedi [[Attention - Report counterfeit coins]]) |
-| [[Hillara]] | Da definire (nuova PG, entra in 4.5) | Stirpe/classe/aggancio da fissare; **si aggiunge** al gruppo (quinta PG — Apollodoro è sopravvissuto). Ingresso avvenuto **alla fattoria di [[Faustus]]** |
-| Filippo | Scorciatoie | — |
+| [[Hillara]] | Da definire (nuova PG, entra in 4.5) | Stirpe/classe/aggancio da fissare; **si aggiunge** al gruppo (quinta PG — Apollodoro è sopravvissuto). Ingresso avvenuto **alla fattoria di [[Faustus]]**. **Arco personale (Atto 2):** [[Elira Arc - The Caged Song|Elira]] (mentore perduta, imprigionata) |
+| Filippo | Scorciatoie | **Arco personale (Atto 2):** [[Dario Arc - The Debt Comes to Rome|Dario]] (capo-banda tradito, a caccia; leva su [[Tommaso]]) |
 | Massimiliano | Paladino, spada consacrata a **Iomedae** | Sess. 4.5: colpo decisivo "benedetto da Iomedae" che salva Apollodoro e spezza il branco |
 
 > [!note] Da verificare

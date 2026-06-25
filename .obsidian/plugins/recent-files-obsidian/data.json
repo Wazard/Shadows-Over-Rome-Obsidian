@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Elira Arc - The Caged Song",
+      "path": "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Elira Arc - The Caged Song.md"
+    },
+    {
+      "basename": "Elira",
+      "path": "05 - NPCs/Supporting NPCs/Elira.md"
+    },
+    {
+      "basename": "Filippo",
+      "path": "00 - Campaign Hub/Players/Filippo.md"
+    },
+    {
+      "basename": "Apollodoro",
+      "path": "00 - Campaign Hub/Players/Apollodoro.md"
+    },
+    {
+      "basename": "Auris Mantopietra",
+      "path": "00 - Campaign Hub/Players/Auris Mantopietra.md"
+    },
+    {
+      "basename": "Massimiliano",
+      "path": "00 - Campaign Hub/Players/Massimiliano.md"
+    },
+    {
+      "basename": "Hillara",
+      "path": "00 - Campaign Hub/Players/Hillara.md"
+    },
+    {
+      "basename": "Official Transport Escort",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md"
+    },
+    {
+      "basename": "Session 05 - Day 03 Morning",
+      "path": "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md"
+    },
+    {
+      "basename": "Discreet Double Registration Check",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md"
+    },
+    {
       "basename": "migration_state",
       "path": "context/migration_state.md"
     },
@@ -11,10 +51,6 @@
     {
       "basename": "campaign_state",
       "path": "context/campaign_state.md"
-    },
-    {
-      "basename": "Session 05 - Day 03 Morning",
-      "path": "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md"
     },
     {
       "basename": "The Note in the Mud",
@@ -37,20 +73,12 @@
       "path": "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Recap.md"
     },
     {
-      "basename": "Discreet Double Registration Check",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md"
-    },
-    {
       "basename": "Unregistered Delivery Check",
       "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md"
     },
     {
       "basename": "Tax Enforcement",
       "path": "04 - Quests/Act 1 - Days 01-10/Day 07/Tax Enforcement.md"
-    },
-    {
-      "basename": "Official Transport Escort",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md"
     },
     {
       "basename": "Attention - Report counterfeit coins",
@@ -63,14 +91,6 @@
     {
       "basename": "Aferio Lento",
       "path": "05 - NPCs/Merchant NPCs/Aferio Lento.md"
-    },
-    {
-      "basename": "Hillara",
-      "path": "00 - Campaign Hub/Players/Hillara.md"
-    },
-    {
-      "basename": "Massimiliano",
-      "path": "00 - Campaign Hub/Players/Massimiliano.md"
     },
     {
       "basename": "Day1 7 Central market stocks",
@@ -179,26 +199,6 @@
     {
       "basename": "Pescenna Ruga",
       "path": "05 - NPCs/Merchant NPCs/Pescenna Ruga.md"
-    },
-    {
-      "basename": "Octavius Brenno",
-      "path": "05 - NPCs/Merchant NPCs/Octavius Brenno.md"
-    },
-    {
-      "basename": "Mauro Tersi",
-      "path": "05 - NPCs/Merchant NPCs/Mauro Tersi.md"
-    },
-    {
-      "basename": "Maro Silanus",
-      "path": "05 - NPCs/Merchant NPCs/Maro Silanus.md"
-    },
-    {
-      "basename": "Lucilla Chimente",
-      "path": "05 - NPCs/Merchant NPCs/Lucilla Chimente.md"
-    },
-    {
-      "basename": "Livia Cornelia Frizzapunto",
-      "path": "05 - NPCs/Merchant NPCs/Livia Cornelia Frizzapunto.md"
     }
   ],
   "omittedPaths": [],
