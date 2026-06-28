@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 539.5
+    "width": 328.5
   },
   "right": {
     "id": "18881ade8471f7b6",
@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,46 +266,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "ad36a123bda0188b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "18e0761690c2aa9b",
-        "type": "window",
-        "children": [
-          {
-            "id": "1f06be6d95d29b8a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7db979262bb84ba3",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/issues",
-                    "title": "Issues · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Issues · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 467,
-        "y": 479,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7db979262bb84ba3",
+  "active": "f48ea0cf71e6a1a7",
   "lastOpenFiles": [
     "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Elira Arc - The Caged Song.md",
     "context/migration_state.md.tmp.6216.763998c695ed",
