@@ -29,8 +29,8 @@ next_session: "05 (Day 03, mattina)"
 | --- | --- | --- |
 | [[Apollodoro]] | Magia sonora | Sess. 3: rumore dei fuochi → guardie attratte (coda aperta). **Sess. 4.5: caduto proteggendo Massimiliano dai lupi, sopravvissuto** (recuperato dal gruppo) |
 | Auris | Curiosità pericolosa, metalli, frodi | Gancio verso [[Gnaeus Petron]] e i materiali difettosi. **Porta 6 monete d'oro false** → contrabbando dal [[Day 04]] (vedi [[Attention - Report counterfeit coins]]) |
-| [[Hillara]] | Da definire (nuova PG, entra in 4.5) | Stirpe/classe/aggancio da fissare; **si aggiunge** al gruppo (quinta PG — Apollodoro è sopravvissuto). Ingresso avvenuto **alla fattoria di [[Faustus]]** |
-| Filippo | Scorciatoie | — |
+| [[Hillara]] | Da definire (nuova PG, entra in 4.5) | Stirpe/classe/aggancio da fissare; **si aggiunge** al gruppo (quinta PG — Apollodoro è sopravvissuto). Ingresso avvenuto **alla fattoria di [[Faustus]]**. **Arco personale (Atto 2):** [[Elira Arc - The Caged Song|Elira]] (mentore perduta, imprigionata) |
+| Filippo | Scorciatoie | **Arco personale (Atto 2):** [[Dario Arc - The Debt Comes to Rome|Dario]] (capo-banda tradito, a caccia; leva su [[Tommaso]]) |
 | Massimiliano | Paladino, spada consacrata a **Iomedae** | Sess. 4.5: colpo decisivo "benedetto da Iomedae" che salva Apollodoro e spezza il branco |
 
 > [!note] Da verificare
@@ -61,7 +61,7 @@ next_session: "05 (Day 03, mattina)"
 | PNG | Ruolo | Stato relazione |
 | --- | --- | --- |
 | [[Borin Martelferro]] | Fabbro nano | **Alleato**: sconto 5%, aiuto su metalli/marchi/manomissioni |
-| [[Asterio Falena]] | Artigiano (lanterne/meccanismi) | **Contatto riconoscente** (da Sess. 4) |
+| [[Asterio Falena]] | Artigiano (lanterne/meccanismi) | **Deluso** (-1): aiutato solo con un piccolo sconto (seguito alla 4.5); **furti d'olio ignorati** dai PG |
 | [[Caius Rutilo]] | Fornitore | Contatto **freddo ma utile**, non umiliato |
 | [[Lippo]] | Bambino dei vicoli che parla con gli animali | **Informatore ricorrente** |
 | Carbonaia (madre di [[Lippo]]) | Venditrice di carbone | Fonte della pista meretrice; **senza nome** |
@@ -70,6 +70,13 @@ next_session: "05 (Day 03, mattina)"
 | [[Marcia]] | Musicista/coscienza civica (Atto 2) | Rapporto positivo |
 | [[Naso Rotto]] | Pressione/strada | Possibile canale per gli uomini di Aulus |
 | [[Tullio Spaccaferro]], [[Macra Carbonera]] | Fabbri umani rivali | Falsa pista razzista (stub NPC provvisori) |
+
+## Rapporti con i PG
+
+> [!note] Tracker spostato (file canonico)
+> Lo scoreboard completo dei rapporti PNG → PG è ora in **[[npc_relations|05 - NPCs/npc_relations.md]]** — aggiornare **lì** e riallineare lo snapshot qui sotto.
+>
+> **Snapshot:** [[Marcia]] **+2** · [[Borin Martelferro]] **+1** · [[Faustus]] **+1** · [[Asterio Falena]] **-1** · [[Cassian Rulfo]] **-1**.
 
 ## Semi dell'Atto 3 (Cult of Eternal Night) — NON spiegare al tavolo
 
@@ -87,4 +94,4 @@ next_session: "05 (Day 03, mattina)"
 - Recap precedenti: [[Session 03 - Day 02 Recap]], [[Session 04 - Day 02 Recap]], [[Session 04.5 - Day 02 Recap]]
 
 > [!tip] Come aggiornare
-> A fine sessione: 1) sposta lo stato delle quest, 2) aggiorna i fili aperti (rimuovi i chiusi, alza i caldi), 3) aggiorna `in_game_time`, `last_session`, `next_session`, `last_updated`, 4) aggiungi una riga al [[log|context/log.md]].
+> A fine sessione: 1) sposta lo stato delle quest, 2) aggiorna i fili aperti (rimuovi i chiusi, alza i caldi), 3) aggiorna `in_game_time`, `last_session`, `next_session`, `last_updated`, 4) aggiorna i **Rapporti con i PG**, 5) aggiungi una riga a [[log|context/log.md]] e a [[migration_state|context/migration_state.md]].

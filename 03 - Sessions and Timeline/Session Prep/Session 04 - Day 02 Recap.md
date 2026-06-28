@@ -30,6 +30,9 @@ status: completed
 > **Esito relazioni:** [[Asterio Falena]] diventa **contatto artigiano riconoscente** (lanterne, meccanismi, luci, prove su metalli fragili); [[Caius Rutilo]] resta contatto **freddo ma utile**, non umiliato.
 > **Bottino investigativo:** un **campione buono + uno scadente** dello stesso marchio di lotto, da usare come **prova comparativa** futura.
 
+> [!warning] Aggiornamento d'esito (canon corretto)
+> Il "successo pieno" **non ha tenuto**: il seguito della disputa è **slittato alla 4.5** e i PG **non hanno aiutato Asterio oltre un piccolo sconto**. [[Asterio Falena]] resta **deluso** → rapporto **-1** (vedi [[campaign_state|context/campaign_state.md]]). Tratta il "contatto riconoscente" come **mancato**; il filo si riapre con le sue **damigiane** in [[Session 05 - Day 03 Morning]].
+
 - Nodo chiave compreso al tavolo: **la merce è "completa" sulla carta ma inferiore nella sostanza**. Il registro è pulito, il marchio di lotto è valido ma usato anche su materiali migliori, la firma di passaggio è una formula rapida.
 - Nessuno dei due era il vero colpevole: il problema è **a monte**, nella catena di fornitura (Caius rimanda al porto).
 

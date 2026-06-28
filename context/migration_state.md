@@ -8,10 +8,10 @@ Last updated after expanding the player hub to all four repo-confirmed players f
 
 ## User Preference
 
-The user wants future sessions to rely on:
+The user wants future migration sessions to rely on:
 
 - `context/campaign_bible.md`
-- `context/state.md`
+- `context/migration_state.md`
 - the current task
 
 Keep future responses focused on the vault work, not re-explaining old context.
@@ -552,3 +552,91 @@ Verifiche eseguite:
 - nessuna CD grezza non colorata trovata con il controllo usato;
 - nessuna occorrenza residua trovata per i termini inglesi operativi cercati (`fight`, `Feeling`, `Ritual`, `Quest Board`, `Source Migration`, ecc.);
 - accenti italiani comuni verificati nei file toccati.
+
+### Sessioni 04 / 04.5 / 05, Rework Quest e Stato Vivo (giu 2026)
+
+Lavoro di sessione e quest successivo all'ultima riscrittura del Giorno 3. Dettaglio cronologico completo in [[log|context/log.md]].
+
+**Stato vivo della campagna**
+
+- Creato [[campaign_state|context/campaign_state.md]]: istantanea per ripartire in qualsiasi momento (tempo di gioco, quest aperte/chiuse, fili caldi, PNG chiave, semi dell'Atto 3). Da aggiornare a fine sessione insieme a [[log|context/log.md]] e a **questo file**.
+
+**Recap e prep di sessione**
+
+- [[Session 04 - Day 02 Recap]]: Disputa alla Bottega mediata ([[Asterio Falena]]/[[Caius Rutilo]]); sospetto di fondo "carta pulita, sostanza peggiore" tenuto sottile.
+- [[Session 04.5 - Day 02 Evening Wolves]] (prep): scontro lupi con orologio di preparazione, **Alpha-osservatore che non combatte**, Lupo Mutilato col marchio cultuale; aggiunti due beat di roster (ingresso [[Hillara]], morte opzionale di Apollodoro).
+- [[Session 04.5 - Day 02 Recap]] (giocata): lupi **respinti** (1 ucciso, 1 in fuga; una pecora sventrata); **Apollodoro caduto ma SOPRAVVISSUTO** (ha protetto Massimiliano); [[Massimiliano]] spezza il branco con un colpo "benedetto da Iomedae"; Lupo Mutilato **fuggito monco** (marchio non recuperato sul campo); [[Hillara]] entra alla fattoria di [[Faustus]].
+- [[Session 05 - Day 03 Morning]] (prep): mezza giornata di [[Day 03]] (alba→mezzogiorno); false piste su [[Brutus Verro]], pane di [[Marcia]], prima **sparizione** (seme cultuale), gancio della Scorta al Trasporto per il pomeriggio.
+
+**Riconciliazione "Apollodoro vivo"** (decisione utente: Apollodoro resta in gioco, [[Hillara]] = quinta PG, non sostituta): allineati [[campaign_state|context/campaign_state.md]] (stato avanzato post-4.5, quest lupi chiusa, roster) e [[Session 05 - Day 03 Morning]] (rimosso il funerale; Fase 1 → "Alba - Rientro e Medicazione").
+
+**Quest Giorno 3 — rework per più azione** (oltre alla prima riscrittura play-facing): [[Discreet Double Registration Check]] (rompicapo a incrocio + heist/controspionaggio), [[Unregistered Delivery Check]] (orologio dell'allarme + caccia notturna), [[Official Transport Escort]] (diversivo, spionaggio bidirezionale, assalto non lineare), [[Bread Before Sunset]] (motivo politico, bassifondi ostili, puzzle dei segni, 4 tappe).
+
+**Nuove quest**
+
+- Tangente "I corrieri che non tornano" (port dal docx sorgente, Giorni 2-3): [[The Note in the Mud]], [[The Orphan Network]]. Restano i Giorni 4-9. Workflow: l'utente metterà i docx sorgente nella cartella quests per i prossimi port.
+- Giorno 4: [[Attention - Report counterfeit coins]] (le 6 monete false di Auris diventano contrabbando), [[The Unsigned List]] (infiltrazione, Indicatore di Sospetto).
+
+**PG e GM reference**
+
+- Nuova PG [[Hillara]] (scheda backstory; stirpe/classe ancora da fissare).
+- `10 - GM Reference/Merchant Inventories.csv`: inventari PF1e per venditore (~31 venditori: mercato/porto, rete di Varro, nave Chimera di Giada).
+
+**Nota operativa:** da ora ogni modifica al vault va registrata in [[log|context/log.md]] **e** [[campaign_state|context/campaign_state.md]] **e** in **questo file** (`migration_state.md`). Push / PR / backup restano gestiti dall'utente.
+
+### Espansione Quest "Verifica Doppia Registrazione" (giu 2026)
+
+Su richiesta dell'utente, [[Discreet Double Registration Check|Verifica Doppia Registrazione]] (Giorno 3) è passata da semplice investigazione documentale a quest a più strati:
+
+- **Descrizioni giocabili** in Fase 3 e 4 (ambienti, abiti, gesti dei PNG) con liste esplicite di "Cosa potete fare qui", così i giocatori vedono cosa **possono** fare.
+- **Rumore e false piste:** nuova sezione con testimonianze discordanti, un depistaggio interessato e una **bugia pagata** (l'orario di attracco) che attacca l'indizio-chiave; distinguere segnale da rumore è ora parte dell'indagine.
+- **Indizi sulle monete false:** la mancia "in moneta nuova" di Sergerro e la sacca nello scrigno sono **falsi dello stesso conio** delle 6 di Auris → aggancio esplicito a [[Attention - Report counterfeit coins]] (mostrare la parentela, non la fonte).
+- **Infiltrazione notturna come dungeon:** Orologio dell'Allarme (0→6), ingresso multiplo, **armature animate** (Oggetto Animato PF1e) disattivabili via sigillo o aggirabili col gettone d'ottone, corridoio **trappolato** (campanella, glifo d'allarme, ago avvelenato, scaffale instabile), stanzino della **ricerca** dove non sanno cosa cercano, scrigno con ricevuta + monete false.
+- **Lettura di trama:** trappole e armature animate segnalano che "Brutus protegge troppo per un truffatore di grano" senza rivelare Cassian/Aulus/Varro; falsa pista intatta.
+
+Stesso standard estendibile alle altre quest del Giorno 3 se richiesto.
+
+### Fix Timing Bread + Rework "Scorta al Trasporto Ufficiale" (giu 2026)
+
+- **[[Session 05 - Day 03 Morning]]:** corretto un errore di slotting — [[Bread Before Sunset|Pane Prima del Tramonto]] è **pomeriggio→tramonto** (quattro tappe, non rapida), quindi **non** è una quest del mattino. Ora è un **gancio del pomeriggio** (Marcia la offre al mattino, la corsa si gioca dopo, accanto alla Scorta).
+- **[[Official Transport Escort|Scorta al Trasporto Ufficiale]] (Giorno 3):** rework per renderla "puzzolente" e far sentire i PG **complici**:
+  - più **descrizioni**/gesti dei PNG; **landmark mnemonico** della magione di Varro (fontana-prua di marmo nero **sempre asciutta**, salita silenziosa, cipressi gemelli, battente a occhio chiuso) come **seme di memoria** per ritrovarla;
+  - sezione **"Voci Discordanti"** con false piste e una narrativa-banditi piazzata in anticipo;
+  - **Fase 9** come bivio decisivo: non seguire il carico "perso" = **biasimo + niente paga**; seguirlo porta a un deposito leggibile come **banditi che rivendono** (superficie, errato) **o messinscena** (profondità), con indizi distinti;
+  - **Conclusione** con la **dichiarazione da firmare** = i PG diventano **testimoni dei banditi** (complici), con logica di paga esplicita;
+  - falsa pista intatta: il filo punta ad **Aulus** come mano, mai a Varro come testa.
+
+### Nuovi PNG e Archi Personali Atto 2 (Elira, Dario, Tommaso) (giu 2026)
+
+Aggiunti due archi personali "alla Veltharuun" (5 tappe: indizi sottili → nome → confronto salvare/combattere), tarati sull'Atto 2, più i relativi PNG.
+
+- **PNG creati** (template NPC standard, italiano con accenti): [[Elira]] (`05 - NPCs/Supporting NPCs` — mentore cantante di [[Hillara]], imprigionata), [[Dario]] (`05 - NPCs/Criminal Underworld` — ex capo-banda tradito da [[Filippo]], cacciatore libero con banda; nome reale **Dario**, alias "Ruggin"), [[Tommaso]] (`05 - NPCs/Supporting NPCs` — fratello di Filippo, leva e specchio).
+- **File d'arco** (uno per arco) in `04 - Quests/Act 2 - Days 11-20/Personal Arcs/`:
+  - [[Elira Arc - The Caged Song]]: Elira incolpata di un delitto del **[[Cult of Eternal Night|culto]]**; **falsa pista deliberata su [[Veltharuun]]** (non è lui); finale salvare/scagionare o perdere (martire). Tell = una **melodia**.
+  - [[Dario Arc - The Debt Comes to Rome]]: Dario caccia [[Filippo]] con una banda e usa [[Tommaso]] come leva; finale combattere o risolvere (debito + riconciliazione). Tell = le **monete cadute**.
+- Ogni file ha tabella sintesi con **giorni possibili, sender, combattimento, ricompensa** per tappa. Aggiunti i pointer nel roster PG di campaign_state (Hillara→Elira, Filippo→Dario).
+- **Nota di continuità:** il background di Filippo nomina il capo sia "Ruggin" sia "Dario" → fissato **Dario** come nome reale.
+
+### Tracker Relazioni PG (giu 2026)
+
+Aggiunta a [[campaign_state|context/campaign_state.md]] una sezione **"Rapporti con i PG (punteggio)"**: tally numerico del rapporto dei PNG importanti verso il gruppo, da aggiornare quando le azioni dei PG lo spostano. Valori iniziali (utente): Marcia +2, Borin +1, Faustus +1, Asterio Falena -1, Cassian Rulfo -1. Aggiornata la checklist "Come aggiornare" del file di stato. **Discrepanza da confermare:** Asterio era "riconoscente" nel recap Sess. 4 (forse l'utente intendeva [[Caius Rutilo]]).
+
+### Asterio -1 confermato + Gancio "Damigiane" (giu 2026)
+
+- **[[Asterio Falena]] confermato a -1:** l'esito della [[Shop Dispute|Disputa alla Bottega]] è slittato alla 4.5 e i PG non l'hanno aiutato oltre un piccolo sconto (non il "contatto riconoscente" del recap Sess. 4). Aggiornati: tracker relazioni (tolto il ⚠️) e voce PNG Chiave in campaign_state; nota correttiva nel [[Session 04 - Day 02 Recap]]; scheda Asterio.
+- **Gancio "Le Damigiane di Asterio"** in [[Session 05 - Day 03 Morning]] (sez. 6.5): i PG trovano le damigiane d'olio rubate di Asterio (marchio a falena), vuote o riempite d'**acqua ferma + sale nero** → vindica la sua denuncia (aggancio per risalire da -1) e semina il **buio organizzato** del [[Cult of Eternal Night|culto]] (luce sottratta alla città), coerente coi semi della sparizione e del marchio del lupo.
+
+### File Tracker Relazioni Dedicato (giu 2026)
+
+Creato **[[npc_relations|05 - NPCs/npc_relations.md]]**, file canonico per i rapporti PNG → PG: scala (+3…-3), tabella attuale (Marcia +2, Borin +1, Faustus +1, Asterio -1, Cassian -1), istruzioni d'aggiornamento, e nota di aggiungere [[Elira]]/[[Dario]]/[[Tommaso]] quando partono i loro archi. La sezione "Rapporti con i PG" in [[campaign_state|context/campaign_state.md]] è stata ridotta a **puntatore + snapshot** per evitare duplicazione/divergenza.
+
+### Espansione Arco di Elira a Cavallo dei Due Atti (giu 2026)
+
+Su richiesta dell'utente, l'[[Elira Arc - The Caged Song|Arco di Elira]] **non** deve iniziare e finire nell'Atto 1: rifatto sul modello a lungo respiro di [[Veltharuun]] (**inizio ~Giorno 5, climax Giorno 16-18, flessibile fino al 20**) e progettato per girare **in parallelo** all'[[Dario Arc - The Debt Comes to Rome|Arco di Dario]], così i giocatori vivono i due archi personali insieme.
+
+- **Da 5 a 6 tappe, a cavallo Atto 1→Atto 2:** Q1 *La melodia in città* (G5-7) e Q2 *La stanza vuota* (G8-10) come **semi silenziosi dell'Atto 1**, agganciabili a quest già in corso ([[A Room for Those Who Cannot Return]], [[Bread Bought Twice]], [[Candles for the Old Chapel]]); Q3 *Una veglia andata storta* (G11-12), Q4 *Il nome: Elira* (G13), Q5 *Il delitto che non ha commesso* — colloquio in cella + indagine (G14-15), Q6 *Prima che canti* — climax salvare/martire (G16-18).
+- **Motore emotivo (Hillara):** agganciato alle sue due paure canoniche dal background (paura media = essere abbandonata/dimenticata — Elira l'ha già lasciata una volta; paura grave = essere responsabile della morte di qualcuno — leva del finale se Elira muore martire), più l'**eco di Roderik** (fiducia tradita / Elira non perfetta) come twist opzionale.
+- **Parallelo con Dario:** nuova sezione con **tabella giorno-per-giorno** (riflettore alternato Hillara/Filippo), nota di pacing sui due climax (**scaglionare** vs **collidere** in una notte di crisi doppia) e **intersezioni opzionali** (stesso fence/[[Spago]], stessa prigione/secondini) tenendo gli antagonisti separati — un arco **non** risolve l'altro.
+- **Canone invariato:** falsa pista su [[Veltharuun]] (è il **[[Cult of Eternal Night|culto]]**, non lui; [[Aelius Nuurglaag]] mai nominato); rima con i beat Veltharuun ([[Day 11 - Corpi mancanti dalle fosse comuni|G11]], [[Day 16 - Persone scomparse dopo la veglia|G16]]) per sfruttare la memoria recente dei PG; mano "legale" [[Nerva Censore]] che silenzia le veglie. Aggiornati i tag frontmatter (`act/1`+`act/2`). `campaign_state` invariato (stato di gioco vivo fermo al Day 02).
+- **Workflow:** da ora lavoro **nel vault vivo** (non nel worktree): il vault è sotto auto-sync e avanza di continuo, quindi il worktree restava indietro e i file `context/*` divergevano. Lavorando nel vault vivo l'auto-commit raccoglie tutto senza conflitti; push/PR restano dell'utente.
+- **Aperto:** spacchettare Q1-Q6 in file quest play-facing singoli (`quest_markdown_rules`) quando richiesto; eventuale anticipo dei beat Q1-Q2 di Dario per un avvio davvero simultaneo dei due archi.

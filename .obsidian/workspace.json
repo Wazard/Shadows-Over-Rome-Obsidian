@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - GM Reference/Source Imports/Act 1/Cult plan phase 1.md",
+                "file": "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Elira Arc - The Caged Song.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cult plan phase 1"
+              "title": "Elira Arc - The Caged Song"
             }
           }
         ],
@@ -266,8 +266,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bdfc81b2c9c5a821",
+  "active": "f48ea0cf71e6a1a7",
   "lastOpenFiles": [
+    "context/migration_state.md",
+    "05 - NPCs/npc_relations.md",
+    "05 - NPCs/Supporting NPCs/Tommaso.md",
+    "05 - NPCs/Supporting NPCs/Elira.md",
+    "05 - NPCs/Criminal Underworld/Dario.md",
+    "10 - GM Reference/Source Imports/Act 1/Cult plan phase 1.md",
     "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Dario Arc - The Debt Comes to Rome.md",
     "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Elira Arc - The Caged Song.md",
     "04 - Quests/Act 2 - Days 11-20/Personal Arcs",
@@ -280,21 +286,16 @@
     "context/migration_state.md.tmp.6216.763998c695ed",
     "context/log.md.tmp.6216.9bef6c3b7c40",
     "context/campaign_state.md.tmp.6216.7b310645a1ba",
-    "05 - NPCs/npc_relations.md",
     "05 - NPCs/npc_relations.md.tmp.6216.8ec472c93254",
     "context/migration_state.md.tmp.16388.67a0becb9fdc",
     "context/log.md.tmp.16388.2f3ba2cac0f6",
-    "05 - NPCs/Supporting NPCs/Elira.md",
     "00 - Campaign Hub/Players/Filippo.md",
     "00 - Campaign Hub/Players/Apollodoro.md",
-    "05 - NPCs/Supporting NPCs/Tommaso.md",
-    "05 - NPCs/Criminal Underworld/Dario.md",
     "00 - Campaign Hub/Players/Auris Mantopietra.md",
     "00 - Campaign Hub/Players/Massimiliano.md",
     "00 - Campaign Hub/Players/Hillara.md",
     "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md",
     "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md",
-    "context/migration_state.md",
     "context/campaign_bible.md",
     "context/campaign_state.md",
     "04 - Quests/Act 1 - Days 01-10/Day 02/The Note in the Mud.md",

@@ -12,7 +12,7 @@ status: ready
 # Session 05 - Day 03, Mattina
 
 > [!summary] In una frase
-> Si apre [[Day 03]] all'**alba**: il gruppo rientra dai lupi (**Apollodoro ferito ma vivo**) e [[Hillara]] vive la sua prima mattina col gruppo, poi una **mezza giornata** di incarichi in città (le false piste su [[Brutus Verro]], il rifiuto di [[Naevius Prisco]], il pane di [[Marcia]]). Sotto al rumore economico, **comincia la prima sparizione**. Si chiude a mezzogiorno, con la **Scorta al Trasporto Ufficiale** affissa come gancio del pomeriggio.
+> Si apre [[Day 03]] all'**alba**: il gruppo rientra dai lupi (**Apollodoro ferito ma vivo**) e [[Hillara]] vive la sua prima mattina col gruppo, poi una **mezza giornata** di incarichi in città (le false piste su [[Brutus Verro]], il rifiuto di [[Naevius Prisco]], l'incontro con [[Marcia]]). Sotto al rumore economico, **comincia la prima sparizione**. Si chiude a mezzogiorno, con la **Scorta al Trasporto Ufficiale** e il **pane di [[Marcia]]** affissi come **ganci del pomeriggio**.
 
 > [!info] Dipendenze dalla Sessione 4.5
 > Questo prep **presume gli esiti** di [[Session 04.5 - Day 02 Recap]]: i lupi sono stati **respinti** (una pecora persa), **Apollodoro è caduto ma è sopravvissuto** (recuperato dal gruppo) ed è entrata la nuova PG **[[Hillara]]** come quinta del gruppo. Se al tavolo è andata diversamente, adatta l'apertura (Fase 1) e l'ingresso di Hillara.
@@ -27,7 +27,7 @@ status: ready
 | Recap precedente                 | [[Session 04.5 - Day 02 Recap]]                                                                                                                          |
 | Stato campagna                   | [[campaign_state\|context/campaign_state.md]]                                                                                                            |
 | Quest - mattina (investigative)  | [[Discreet Double Registration Check\|Verifica Discreta su Doppia Registrazione]], [[Unregistered Delivery Check\|Controllo su Consegna Non Registrata]] |
-| Quest - mattina (sociali/rapide) | [[Merchant Refuses Delivery\|Mercante Rifiuta Consegna]], [[Bread Before Sunset\|Pane Prima del Tramonto]]                                               |
+| Quest - mattina (sociali/rapide) | [[Merchant Refuses Delivery\|Mercante Rifiuta Consegna]] — *([[Bread Before Sunset\|Pane Prima del Tramonto]] è pomeriggio→tramonto: gancio, non mattina)* |
 | Quest - gancio del pomeriggio    | [[Official Transport Escort\|Scorta al Trasporto Ufficiale]]                                                                                             |
 | Base del gruppo                  | [[Il Veliero]]                                                                                                                                           |
 | PNG ricorrenti                   | [[Marcia]], [[Bobbins McTwist]], [[Naevius Prisco]], [[Vibius Panciotto Ennio]], [[Severa Solealto]], [[Naso Rotto]]                                     |
@@ -56,10 +56,9 @@ status: ready
 | [[Discreet Double Registration Check\|Verifica Doppia Registrazione]] | ~3 h | Gilda dei Mercanti, uffici | Solo se forzano | Media | Falsa pista forte su [[Brutus Verro]]; carte e contabili |
 | [[Unregistered Delivery Check\|Consegna Non Registrata]] | ~3 h | Mercato, uffici di carico | Solo se forzano | Bassa-media | Stessa falsa pista da un altro angolo (favoritismi logistici) |
 | [[Merchant Refuses Delivery\|Mercante Rifiuta Consegna]] | ~1-2 h | Ufficio di [[Naevius Prisco]] | No (corriere può fuggire) | Bassa-media | Rapida; la **paura** come pattern, traccia salmastra sottile |
-| [[Bread Before Sunset\|Pane Prima del Tramonto]] | inizia al mattino, scade al tramonto | Mercato → [[Slums]] | Possibile/evitabile | Nessuna (fiducia di [[Marcia]]) | Sociale; ottima per integrare Hillara dopo la notte dei lupi |
 
 > [!tip] Lettura delle scelte (consiglio di regia)
-> Le due investigative ([[Discreet Double Registration Check|Doppia Registrazione]] e [[Unregistered Delivery Check|Consegna Non Registrata]]) puntano **entrambe** a [[Brutus Verro]]: scegline **una** come quest principale del mattino per non ripetere lo stesso indizio. Abbinala a una scena breve ([[Merchant Refuses Delivery|Naevius]]) **oppure** apri [[Bread Before Sunset|Pane Prima del Tramonto]], che può iniziare ora e chiudersi nella prossima sessione.
+> Le due investigative ([[Discreet Double Registration Check|Doppia Registrazione]] e [[Unregistered Delivery Check|Consegna Non Registrata]]) puntano **entrambe** a [[Brutus Verro]]: scegline **una** come quest principale del mattino per non ripetere lo stesso indizio. Abbinala alla scena breve di [[Merchant Refuses Delivery|Naevius]]. Il **pane di [[Marcia]]** ([[Bread Before Sunset|Pane Prima del Tramonto]]) **non** è roba da stamattina: è una corsa **pomeriggio→tramonto** in quattro tappe, quindi al mattino si **prende il gancio** e basta (vedi Fase 5 e i ganci del pomeriggio).
 
 > [!danger] Gancio del pomeriggio (non per stamattina)
 > La [[Official Transport Escort\|Scorta al Trasporto Ufficiale]] è la **quest principale del Giorno 3** e la **prima apparizione di [[Gaius Varro]]**: dura **tutta la giornata + notte fuori mura**. Stamattina viene solo **affissa** ([[Marcus Livius]] cerca scorta, paga alta, "discrezione richiesta") e i suoi documenti risultano **già pronti** (vedi Fase 5). È il cliffhanger verso la **Sessione 6**.
@@ -140,13 +139,13 @@ status: ready
 
 - Indizio sottile (non occultarlo come trama): granello di **sale nero** nella piega della nota, frase "rischio quando la luna manca" sul retro di un secondo modello, odore **salmastro** su corda asciutta. Coincidenze, per ora.
 
-### [[Bread Before Sunset|Pane Prima del Tramonto]] (può iniziare ora)
+### [[Bread Before Sunset|Pane Prima del Tramonto]] (gancio al mattino, corsa al pomeriggio)
 
 > [!summary] Nucleo
 > [[Marcia]] chiede un favore **senza paga**: portare pane e cibo nei [[Slums]] prima del tramonto. Una **pattuglia corrotta** (Capoguardia Rutilio) blocca la strada e chiede monete, cibo o i **nomi dei donatori**. Pagare, discutere, mentire, aggirare o combattere: ogni scelta costa.
 
-> [!tip] Perché stamattina
-> Ottima per **saldare [[Hillara]] al gruppo** (lavoro fisico condiviso, scelta morale) e per far respirare la tensione della notte in chiave attiva. Ha **scadenza al tramonto**: se la aprono ora, può chiudersi nella prossima sessione. Successo = fiducia di Marcia + favore dei bassifondi.
+> [!warning] Non è una scena del mattino
+> La corsa del pane è una quest da **pomeriggio → tramonto** (quattro tappe, percorso ostile): **non** si gioca nella mezza giornata mattutina e **non** è rapida. Al mattino [[Marcia]] **offre il favore e fissa l'appuntamento** per il pomeriggio — è il momento giusto per legare [[Hillara]] al gruppo sul piano umano — ma la corsa vera parte dopo. Tienila come **gancio del pomeriggio** accanto alla [[Official Transport Escort|Scorta]]: se il gruppo gioca la Scorta, il pane slitta (o lo prende un'altra mano); decidi al tavolo. Successo (quando si gioca) = fiducia di Marcia + favore dei bassifondi.
 
 ## 6. Seme Cultuale del Giorno - La Prima Sparizione
 
@@ -161,6 +160,27 @@ status: ready
 
 > [!note] Collegamento alla 4.5 (per il DM)
 > Se un PG ha conservato/disegnato il **marchio del lupo mutilato**, un <span style="color:#2f9ed8"><strong>Conoscenze (religioni/arcane) CD 18</strong></span> nota una **parentela** col simbolo inciso qui. Non confermare il significato: due stonature che rimano, niente di più. Se nessuno ha il marchio, lascia solo l'inquietudine.
+
+## 6.5 - Le Damigiane di Asterio (gancio luce/buio)
+
+> [!summary] Cosa trovano (e perché punge)
+> Seguendo la sparizione (o passando per una cantina/vicolo presso il porto), i PG trovano delle **damigiane** marchiate con la **falena** di [[Asterio Falena]]: sono le sue scorte di **olio da lampada**, quelle che lui aveva denunciato come rubate — e che i PG avevano liquidato (è il motivo del rapporto **-1**). Alcune sono **vuote**; una è piena, ma **non d'olio**.
+
+> [!description] Le damigiane
+> Grosse damigiane impagliate, vetro affumicato, il **sigillo a falena** inciso sul collo. Le più sono **a secco**: l'olio sparito. Una sola è colma — di **acqua troppo ferma**, salmastra, con un velo di **sale nero** sul fondo. Odorano di mare dove dovrebbero odorare di lampada.
+
+| Esaminare | CD | Cosa rivela |
+| --- | --- | --- |
+| Riconoscere il marchio | <span style="color:#2f9ed8"><strong>Investigazione CD 12</strong></span> | Sono di [[Asterio Falena]]: l'olio "rubato" di cui si lamentava era **vero** |
+| Il contenuto sostituito | <span style="color:#8b5cf6"><strong>Percezione CD 14</strong></span> | Una damigiana non ha olio: **acqua marina ferma + sale nero** |
+| Dove va l'olio | <span style="color:#8b5cf6"><strong>Intuizione CD 15</strong></span> | Qualcuno **toglie luce** alla città, in silenzio, un deposito per volta |
+
+> [!clue] Immediata vs lontana (non spiegare)
+> - **Immediata:** Asterio aveva ragione, i PG l'hanno snobbato — ecco da dove viene il **-1**. Prendere sul serio i furti è la via per risalire.
+> - **Lontana (seme cultuale):** non è avidità, è **buio organizzato**. La luce sparisce mentre tornano **acqua ferma e sale nero** — la stessa "famiglia" di segni della sparizione (Fase 6) e del **marchio del lupo** della 4.5. La città viene preparata, piano, a restare **al buio**. Non nominare il [[Cult of Eternal Night|culto]].
+
+> [!tip] Aggancio relazione (da -1)
+> [[Asterio Falena]] reagisce a chi gli **riporta** le damigiane o **indaga** sui furti: è il modo più rapido per muovere il suo rapporto **da -1 verso l'alto**. Ignorarle di nuovo lo conferma deluso (o peggio). Aggiorna il punteggio in [[campaign_state|context/campaign_state.md]].
 
 ## 7. Mezzogiorno - Chiusura della Mezza Giornata
 

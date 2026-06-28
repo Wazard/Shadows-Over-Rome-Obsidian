@@ -56,6 +56,7 @@ La prima impressione deve essere giocabile in una frase: i PG dovrebbero capire 
 - Usa Asterio Falena come volto riconoscibile della vita quotidiana romana, utile per rendere una strada o una quest meno anonima.
 - Se i PG trattano Asterio Falena con rispetto, puo offrire una voce, una scorciatoia sociale o un dettaglio osservato per caso.
 - Se i PG fanno pressione nel modo sbagliato, Asterio Falena si chiude, chiede protezione a qualcuno o trasforma una scena semplice in reputazione negativa.
+- **Damigiane d'olio rubate (gancio concreto):** le sue scorte d'olio da lampada, marchiate con la **falena**, spariscono mentre le damigiane tornano vuote o piene d'**acqua ferma e sale nero**. I PG le trovano nella [[Session 05 - Day 03 Morning|Sessione 5]]; averlo ignorato l'ha già portato a **rapporto -1**, riprendere sul serio i furti è la via per risalire.
 
 ## Segreti, Pressione e Reazioni
 
