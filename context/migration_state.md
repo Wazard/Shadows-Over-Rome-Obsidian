@@ -640,3 +640,45 @@ Su richiesta dell'utente, l'[[Elira Arc - The Caged Song|Arco di Elira]] **non**
 - **Canone invariato:** falsa pista su [[Veltharuun]] (è il **[[Cult of Eternal Night|culto]]**, non lui; [[Aelius Nuurglaag]] mai nominato); rima con i beat Veltharuun ([[Day 11 - Corpi mancanti dalle fosse comuni|G11]], [[Day 16 - Persone scomparse dopo la veglia|G16]]) per sfruttare la memoria recente dei PG; mano "legale" [[Nerva Censore]] che silenzia le veglie. Aggiornati i tag frontmatter (`act/1`+`act/2`). `campaign_state` invariato (stato di gioco vivo fermo al Day 02).
 - **Workflow:** da ora lavoro **nel vault vivo** (non nel worktree): il vault è sotto auto-sync e avanza di continuo, quindi il worktree restava indietro e i file `context/*` divergevano. Lavorando nel vault vivo l'auto-commit raccoglie tutto senza conflitti; push/PR restano dell'utente.
 - **Aperto:** spacchettare Q1-Q6 in file quest play-facing singoli (`quest_markdown_rules`) quando richiesto; eventuale anticipo dei beat Q1-Q2 di Dario per un avvio davvero simultaneo dei due archi.
+
+### Rework Prep Sessione 05 (Day 03) — Doppio Fuoco Hillara+Brutus (giu 2026)
+
+Dopo un'**interrogazione a step** dell'utente sulle attese (tieni/rilavora), riscritto il prep [[Session 05 - Day 03 Morning|Sessione 05]] (punto 1 di 4). Prima: recuperati nel vault vivo (su `main`) i file che il sync aveva "nascosto" passando a `main` — restore via `git checkout session-03-quest-rules-rewrite -- <paths>`.
+
+- **Fuoco doppio:** integrazione [[Hillara]] **+** falsa pista [[Brutus Verro]]; obiettivo di regia = far **vedere due trail** (economico/Brutus **e** sparizioni) **senza collegarli** (sezione "I Due Trail del Giorno").
+- **Investigativa = solo Opzione B** ([[Unregistered Delivery Check]]); **Opzione A** ([[Discreet Double Registration Check]]) **sospesa** (rework futuro, non in bacheca).
+- **Soft seed di [[Elira]] via [[Marcia]]** (battuta di riconoscimento, nessuna pista) → aggancio personale di Hillara verso [[Elira Arc - The Caged Song]] (Q1, Giorni 5-7).
+- **Giornata piena:** nuova sezione **Pomeriggio (opzioni)** — [[Bread Before Sunset]] / [[The Orphan Network]] / [[Official Transport Escort]] (cliffhanger Sess. 6); si chiude realisticamente nel pomeriggio.
+- **Ganci inline nuovi (file dedicati in arrivo):** (1) **spada di [[Massimiliano]]** — lungaspada consacrato a Iomedae trovato nel bisogno; bagliore 4.5 = **grazia una tantum, non risveglio**; risposta alla [[Temple of Sarenrae]] (manca un tempio di Iomedae); **via di risveglio** come seme (forse vs [[Arthemol]]); (2) **gancio [[The Orphan Network|Rete degli Orfani]]** prendibile se vagano nel [[Residential District]] o via [[Lippo]] (finora non agganciabile).
+- **Aperto (prossimi punti):** 2) scena/lore spada di Massimiliano (fonte iomedana da fissare); 3) rework [[Lippo]] (affinità fatata + amico druido-scoiattolo, legame con la rete, padre assente) + PNG scoiattolo; 4) rework [[The Orphan Network]] + gancio. **[[Hillara]]:** scheda PG (stirpe/classe) ancora da definire; per ora hook = ricerca di Elira. `campaign_state` invariato (Day 02).
+
+### Punto 2 — Scena/Lore Spada di Massimiliano (giu 2026)
+
+Creato **[[La Lama di Iomedae di Massimiliano]]** (`09 - Items, Props, and Handouts/Items`): la lama consacrata che [[Massimiliano]] prese all'altare durante i **Nove Rintocchi** (dal [[Background Massimiliano|background]]); il bagliore della 4.5 è **grazia una tantum, non risveglio** ("non a comando").
+
+- **Scena al [[Temple of Sarenrae]]** con [[Severa Solealto]] (alta sacerdotessa): riconosce la consacrazione iomedana, lettura **parziale e onesta**, battute pronte (colore `#c77f2a`), prove Religioni/Sapienza Magica/Intuizione/Diplomazia; **eco cultuale** "la città perde luce" (rima con le damigiane, **da non collegare**).
+- **Via di risveglio (seme):** cammino d'imprese di protezione, **gated** dietro il **tempio di Iomedae nel [[Military District|Distretto Militare]]** (a **permessi**; raccomandazione del clero di Sarenrae come via futura; **non** il Giorno 3). Culmine lontano e solo tematico: **Arthemol** (nove facce ↔ Nove Rintocchi).
+- **Canon nuovo (utente):** esiste un **tempio di Iomedae nel Distretto Militare**, inaccessibile senza permesso. Popolata la nota vuota [[Military District]] con questo gancio. Fonte iomedana per il Giorno 3 = **clero di Sarenrae** (Opzione 1).
+- Linkata la scena nel prep [[Session 05 - Day 03 Morning]] (Fase 1 + Materiali). `campaign_state` invariato (Day 02). Restano: punto 3 ([[Lippo]] + amico druido-scoiattolo, legame con la rete, padre assente; nuovo PNG scoiattolo) e punto 4 ([[The Orphan Network]] rework + gancio).
+
+### Punto 3 — Rework Lippo (sangue fatato) + PNG Ghianda (druido-spia) (giu 2026)
+
+Risolti gli "Aperti" della scheda di [[Lippo]] e creato il nuovo PNG [[Ghianda]] (scelte utente).
+
+- **[[Lippo]]:** la sua "capacità di parlare con gli animali" è **sangue fatato latente**, **eco di [[Filippo]]** (mirror tra due fatati nascosti — possibile legame/disagio quando si sfiorano). **Madre** = la carbonaia; **padre** assente/ignoto (mistero aperto, forse fonte del sangue). Aggiunto a Lippo: sezione *Verità GM*, ruolo di **ponte** verso [[The Orphan Network|Rete degli Orfani]] ([[Erinna CodaCorta]]) e verso [[Ghianda]], e **ritmo di rivelazione** lento (Sess. 05 = solo ponte, niente magia/scoiattolo a vista).
+- **[[Ghianda]]** (nuovo, `05 - NPCs/Supporting NPCs`): uno "scoiattolo" che è in realtà un **druido raro in forma animale**, usato come **spia**. **Committente deliberatamente aperto** (mercato nero / per conto proprio / altro — GM decide anche tardi). Amico segreto di Lippo (lo capisce grazie al sangue fatato). Progettato come **asset flessibile**: spiare la cella/il processo per l'arco di [[Elira Arc - The Caged Song|Elira]], pedinare la banda per l'arco di [[Dario Arc - The Debt Comes to Rome|Dario]], girare attorno alla rete degli orfani. Eco fatato come gancio silenzioso verso [[Filippo]]/[[Lippo]].
+- Aggiornata la Fase 5.5 del prep [[Session 05 - Day 03 Morning]]. `campaign_state` invariato (Day 02). Resta il **punto 4**: rework [[The Orphan Network]] + gancio prendibile (housing wander + Lippo).
+
+### Punto 4 — Rete degli Orfani (ingresso) + Rivelazione Lippo/Veltharuun (giu 2026)
+
+Chiusi i 4 punti della prep Sessione 05. La [[The Orphan Network|Rete degli Orfani]] (Giorno 3) va tenuta **piccola** (è una **serie**, non una quest unica): fatto solo un **fix d'ingresso leggero**, corpo invariato.
+
+- **Ingressi nuovi** (per gruppi che hanno saltato [[The Note in the Mud|il Giorno 2]]): via [[Lippo]] (ponte), vagando nel [[Residential District]] (corriere in fuga + filo nero), [[Ghianda]] dietro le quinte; più nota "primo passo della serie, non gonfiarla". [[Lippo]] aggiunto ai PNG della quest.
+- **RIVELAZIONE (working/tentativa — idea utente):** il **padre vero di [[Lippo]] è [[Veltharuun]]**, che **non sa** di avere un figlio → da lì il **sangue fatato** del bambino (mirror con [[Filippo]]). La **carbonaia** è in realtà **zia/madre adottiva**; **madre biologica da definire**. Registrata come **segreto profondo** in [[Lippo]] (*Verità GM* + *Aperti*) e con un **callout-segreto** in [[Veltharuun]] che usa i ganci già presenti (anello / "forse sposato", compra "segreti familiari", "ricorda una città più antica").
+- **Aperti del filo:** madre biologica; se/quando Veltharuun lo scopre (beat enorme); rima col **nove** e con **Arthemol** nel finale della serie di Veltharuun; **riconciliare** la stirpe di Veltharuun (scheda = *Damphir*; serie = *stregone di stirpe fatata* — è la fatata che regge la rivelazione).
+
+**Stato prep Sessione 05:** punti **1-4 completati** (spina, spada di Massimiliano, Lippo+Ghianda, ingresso Rete degli Orfani). `campaign_state` invariato (Day 02).
+
+### Fix Render Official Transport Escort (giu 2026)
+
+Solo formattazione (nessun rework di contenuto, su richiesta): in [[Official Transport Escort]] corrette le **colonne invertite** della tabella *PNG e Colori* (nome colorato in colonna PNG, swatch colore in colonna Colore) e aggiunto il **separatore `>` vuoto** mancante prima di **4 tabelle dentro callout** che non renderizzavano (diversivo, donazione al tempio, scelte di guardia, indizi messinscena). Verificato. Refuso "fenced" (inglese) segnalato ma non corretto.

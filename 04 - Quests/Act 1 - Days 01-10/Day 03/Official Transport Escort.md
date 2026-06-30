@@ -44,14 +44,14 @@ source: "Wazard/Shadows-over-Rome/phase 1/quests/Day3/Day3_Escort_Required_Offic
 
 | PNG | Colore dialogo | Ruolo |
 | --- | --- | --- |
-| <span style="color:#b08900">color #b08900</span> | <strong>[[Marcus Livius]]</strong> | Incaricato del carico; **vi mette alla prova** |
-| <span style="color:#4f6f52">color #4f6f52</span> | <strong>[[Gaius Varro]]</strong> | Potere dietro il trasporto; **mai minaccioso** |
-| <span style="color:#7f5f2a">color #7f5f2a</span> | <strong>Guardia</strong> | Controlli già allineati |
-| <span style="color:#6f4a8e">color #6f4a8e</span> | <strong>Folla</strong> | Rabbia sociale fuori dal distretto nobiliare |
-| <span style="color:#2f7fb8">color #2f7fb8</span> | <strong>Oracolo di Sarenrae</strong> | Pressione sacra/sociale |
-| <span style="color:#a86b00">color #a86b00</span> | <strong>[[Spago]]</strong> | Vedetta che segue la carovana |
-| <span style="color:#8b1e1e">color #8b1e1e</span> | <strong>Capo brigante</strong> | Assalto inscenato fuori mura |
-| <span style="color:#3f6f6f">color #3f6f6f</span> | <strong>Mercante compratore</strong> | Facciata al deposito: "merce mai esistita" |
+| <span style="color:#b08900"><strong>[[Marcus Livius]]</strong></span> | <span style="color:#b08900">color #b08900</span> | Incaricato del carico; **vi mette alla prova** |
+| <span style="color:#4f6f52"><strong>[[Gaius Varro]]</strong></span> | <span style="color:#4f6f52">color #4f6f52</span> | Potere dietro il trasporto; **mai minaccioso** |
+| <span style="color:#7f5f2a"><strong>Guardia</strong></span> | <span style="color:#7f5f2a">color #7f5f2a</span> | Controlli già allineati |
+| <span style="color:#6f4a8e"><strong>Folla</strong></span> | <span style="color:#6f4a8e">color #6f4a8e</span> | Rabbia sociale fuori dal distretto nobiliare |
+| <span style="color:#2f7fb8"><strong>Oracolo di Sarenrae</strong></span> | <span style="color:#2f7fb8">color #2f7fb8</span> | Pressione sacra/sociale |
+| <span style="color:#a86b00"><strong>[[Spago]]</strong></span> | <span style="color:#a86b00">color #a86b00</span> | Vedetta che segue la carovana |
+| <span style="color:#8b1e1e"><strong>Capo brigante</strong></span> | <span style="color:#8b1e1e">color #8b1e1e</span> | Assalto inscenato fuori mura |
+| <span style="color:#3f6f6f"><strong>Mercante compratore</strong></span> | <span style="color:#3f6f6f">color #3f6f6f</span> | Facciata al deposito: "merce mai esistita" |
 
 ## Contesto di Calendario
 
@@ -107,6 +107,7 @@ Al distretto nobiliare:
 
 > [!danger] Il diversivo inscenato (azione in città)
 > Per spezzare la monotonia e creare il contrasto "tutto liscio **tranne** questo": a un incrocio scoppia un **intoppo** — un carro di fuochi pirotecnici che prende fuoco, un mulo imbizzarrito, una rissa da festival che blocca la via. Sembra casuale; è **organizzato** (un test/diversione di Aulus per vedere come si muove la scorta).
+>
 > | Reagire | CD | Esito |
 > | --- | --- | --- |
 > | Aprire un varco al carro | <span style="color:#d64545"><strong>Atletica CD 13</strong></span> o <span style="color:#d6a500"><strong>Intimidire CD 14</strong></span> | Passano rapidi; Marcus annota l'efficienza |
@@ -198,6 +199,7 @@ A Marcus: *"Il pacco per il palazzo. E il sacchetto per le spese lungo il tragit
 <span style="color:#2f7fb8"><strong>Oracolo di Sarenrae</strong></span>: "Ogni carico che arriva qui non appartiene solo al tempio. Appartiene a chi verrà affamato, malato o perduto. Chi porta, può anche offrire."
 
 > [!warning] Pressione alla donazione (atmosfera, non magia cattiva)
+>
 > | TS Volontà | Effetto |
 > | --- | --- |
 > | <span style="color:#8b5cf6"><strong>CD 18</strong></span> | Resistono del tutto |
@@ -230,6 +232,7 @@ Marcus entra con la **piccola cassa di Varro** e torna dopo poco.
 
 > [!danger] Le scelte di guardia contano (prepara l'assalto)
 > **Chiedi esplicitamente** come organizzano la notte. Questo rende l'assalto **non lineare** (vedi Fase 8):
+>
 > | Preparazione | CD | Effetto sull'assalto |
 > | --- | --- | --- |
 > | Turni di guardia veri | — | Niente sorpresa; i PG agiscono per primi |
@@ -294,6 +297,7 @@ Se catturato e intimidito (<span style="color:#d6a500"><strong>Intimidire CD 16<
 > | **"Era tutto una messinscena"** (profondità) | Il furto è **teatro**: il carico non è stato derubato, è stato **spostato in nero** e la "perdita" **fabbricata** | Se **incrociano** gli indizi sotto |
 
 > [!clue] Gli indizi che smascherano la messinscena
+>
 > | Dettaglio | Prova | Cosa rivela |
 > | --- | --- | --- |
 > | Il carico è **intatto e inventariato**, niente di rotto o sparso | <span style="color:#2f9ed8"><strong>Investigazione CD 14</strong></span> | Una rapina vera fa danni; qui è un **trasloco**, non un furto |

@@ -11,6 +11,7 @@ NPCs:
   - "[[Obrax Dentefermo]]"
   - "[[Sibilo Doppiofondo]]"
   - "[[Piso Greve]]"
+  - "[[Lippo]]"
 ---
 # La Rete degli Orfani
 
@@ -53,7 +54,13 @@ NPCs:
 ## Aggancio - Trovare Erinna
 
 > [!description] Come arrivarci
-> I PG possono raggiungere [[Erinna CodaCorta]] tramite i bambini del giorno prima, [[Obrax Dentefermo]], un venditore del mercato, o una piccola rissa. Lei li **trova** appena capisce che fanno domande giuste.
+> I PG possono raggiungere [[Erinna CodaCorta]] tramite i bambini del giorno prima ([[The Note in the Mud]]), [[Obrax Dentefermo]], un venditore del mercato, o una piccola rissa. Lei li **trova** appena capisce che fanno domande giuste.
+
+> [!tip] Ingressi per questo gruppo (se hanno saltato il Giorno 2)
+> Se i PG **non** hanno giocato [[The Note in the Mud|Il Biglietto nel Fango]], il filo resta prendibile:
+> - **Via [[Lippo]]:** il loro informatore è il **ponte** verso la rete — li porta da Erinna se si fida di loro (vedi [[Session 05 - Day 03 Morning|Sess. 05]], Fase 5.5).
+> - **Vagando nel [[Residential District]]:** un **corriere-bambino in fuga** sbatte contro di loro e perde il biglietto "sono scesi sotto" + il filo nero (scena della Sess. 05) — stesso aggancio, altra porta.
+> - **[[Ghianda]] (dietro le quinte, non stasera):** il druido-spia "sa chi muove i bambini"; può alimentare il filo **dopo**, tramite Lippo, senza apparire ora.
 
 > [!readaloud] Erinna
 > Minuta, sporca, veloce, dentro un mantello troppo grande, una mano sempre vicino a un coltello corto. Vi guarda come guarda tutti gli adulti: calcolando quanto costerà fidarsi di voi.
@@ -127,7 +134,7 @@ NPCs:
 ## Note GM
 
 > [!note] Conduzione
-> Viene da [[The Note in the Mud|Il Biglietto nel Fango]]. Gli indizi dopo lo scontro (moneta fiscale, "P.G.", tavoletta a tre punti) sono **deboli da soli**: servono ad aprire il Vicolo delle Corde, non a chiudere la trama. "P.G." può indicare [[Piso Greve]] — **non renderlo ovvio**. **Fallimento morbido:** se perdono o mollano, sposta Erinna e fai passare i PG da [[Obrax Dentefermo]] o [[Sibilo Doppiofondo]]; non chiudere la pista.
+> **Tienila piccola (Giorno 3):** è il **primo passo di una serie** (corrieri → mercato nero → [[Sibilo Doppiofondo]] / [[Nerva Censore]]), **non** una quest unica — non gonfiarla stasera. Viene da [[The Note in the Mud|Il Biglietto nel Fango]]. Gli indizi dopo lo scontro (moneta fiscale, "P.G.", tavoletta a tre punti) sono **deboli da soli**: servono ad aprire il Vicolo delle Corde, non a chiudere la trama. "P.G." può indicare [[Piso Greve]] — **non renderlo ovvio**. **Fallimento morbido:** se perdono o mollano, sposta Erinna e fai passare i PG da [[Obrax Dentefermo]] o [[Sibilo Doppiofondo]]; non chiudere la pista.
 
 > [!summary] Sensazione finale
 > Non è una banda. Non ancora. È un **filo** — nero, annodato tre volte — che qualcuno ha infilato tra le ricevute di bambini che credevano di fare solo commissioni.

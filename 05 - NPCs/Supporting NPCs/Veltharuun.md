@@ -23,6 +23,13 @@ source: "Wazard/Shadows-over-Rome@gpt-main/CSVs/NPCs/NPC_secondari.csv"
 | Stirpe | Damphir, apparentemente umano |
 | Ruolo | Antico collezionista di reliquie / trama secondaria nobiliare |
 
+> [!danger] Verità GM — Segreto profondo (working/tentativo)
+> **Veltharuun ha un figlio che non sa di avere: [[Lippo]].** Il **sangue fatato** del bambino viene da lui (stirpe fatata — vedi la serie di Veltharuun). La donna che Lippo crede sua madre, la **carbonaia**, è in realtà la **zia / madre adottiva**; la **madre biologica** resta da definire. Veltharuun **ignora tutto**.
+> - **Ganci già nella scheda:** l'**anello** ("forse è sposato"), il comprare **segreti familiari** (cieco sul proprio), il "ricordare una città più antica".
+> - **Aperti:** chi è la madre vera; se/quando Veltharuun lo scopre (beat enorme); come rima col **nove** e con **Arthemol** nel finale della serie.
+> - **Da riconciliare:** la scheda lo dà *Damphir*, mentre la serie lo tratta da **stregone di stirpe fatata** — è la **stirpe fatata** che rende possibile la rivelazione. Uniformare quando comodo.
+> Segreto **profondissimo**: non al tavolo, non vicino.
+
 ## Descrizione Estesa
 
 Veltharuun e una presenza urbana di supporto legata a **Alternative_NPC**. Il tratto di partenza piu evidente e questo: Nobile pallido, elegante e immobile, indossa un anello al dito, forse è sposato; parla come se ricordasse una città più antica di quella attuale.

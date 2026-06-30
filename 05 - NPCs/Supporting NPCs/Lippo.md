@@ -40,10 +40,20 @@ Sveglio, curioso, diretto, un po' diffidente con gli adulti che lo trattano come
 > [!clue] Parla con gli animali
 > Lippo riceve informazioni dagli animali del quartiere: chi è passato di notte, dove si nascondono le cose, da che parte è andato qualcuno. Per il GM è un **canale di indizi giustificato in fiction**: utile per dettagli su movimenti notturni, nascondigli (pozzi, cantine, magazzini) e persone che cercano di non farsi vedere. Non onnisciente: gli animali notano odori, rumori, movimenti, non nomi e piani.
 
+## Verità GM (non al tavolo)
+
+> [!warning] Cosa Lippo è davvero (rivelazione lenta)
+> Il "parlare con gli animali" non è un dono qualunque: è **sangue fatato latente**, **eco di [[Filippo]]** (né lui né gli altri sanno cosa sia). Da qui un **mirror** potente — due fatati nascosti, un bambino e un PG: possibile legame, o disagio, quando si sfiorano.
+> - **Amico segreto:** [[Ghianda]], uno "scoiattolo" che in realtà è un **druido-spia**; il sangue fatato di Lippo lo **percepisce e lo capisce**. Tramite Lippo, Ghianda è un **asset** per gli archi di [[Hillara]]/[[Elira Arc - The Caged Song|Elira]] e [[Filippo]]/[[Dario Arc - The Debt Comes to Rome|Dario]].
+> - **Padre (rivelazione GM, working):** è **[[Veltharuun]]**, di stirpe fatata, **che non sa di avere un figlio** — da lui viene il sangue fatato di Lippo. La "carbonaia" che Lippo crede sua madre è in realtà la **zia / madre adottiva**; la madre **biologica** resta da definire. Lega Lippo alla **serie di [[Veltharuun]]** (Giorni 7-16). Segreto **profondissimo**: non al tavolo.
+> - **Ritmo di rivelazione:** tienilo **nascosto**. Nella Sessione 05 Lippo è **solo il ponte** verso la rete degli orfani; magia e scoiattolo **non si mostrano**.
+
 ## Uso in Campagna
 
 - Informatore ricorrente dei vicoli e del basso popolo, complementare a [[Diego]] per le piste cultuali e ai facchini per quelle portuali.
 - Ponte verso la rete dei **bambini dei vicoli** incontrati in [[Market Square]] nella Sessione 03.
+- **Ponte verso la [[The Orphan Network|Rete degli Orfani]] di [[Erinna CodaCorta]]:** è la via "amica" per agganciare quel filo (vedi [[Session 05 - Day 03 Morning|Sess. 05]], Fase 5.5).
+- **Ponte verso [[Ghianda]]** (il druido-spia): occhio impagabile dove i PG non arrivano — utile negli archi personali.
 - Funziona meglio come **fonte che chiede qualcosa**: cibo, una piccola gentilezza, protezione, ascolto. I PG che lo trattano bene guadagnano un occhio costante sulla città.
 
 ## Impressione per i Giocatori
@@ -71,7 +81,8 @@ Sembra un bambino di strada qualsiasi, finché non dice qualcosa che non dovrebb
 - Se viene spaventato o trattato come bugiardo, si chiude e sparisce nei vicoli, portandosi via una fonte preziosa.
 - Tracce cultuali: gli animali possono "lamentarsi" di acqua salmastra, gabbiani che non vanno più in certi punti, cani che evitano un magazzino — colore sottile coerente con l'Atto 3, senza svelare nulla.
 
-## Aperti
+## Aperti / Risolti
 
-- Famiglia di Lippo, dove dorme, se fa parte di un gruppo organizzato di bambini.
-- Se la sua capacità è sangue magico latente (eco del tema di [[Filippo]]) o un dono naturale: da decidere.
+- **Capacità (risolto):** **sangue fatato latente**, eco di [[Filippo]] — non un semplice dono naturale. Vedi *Verità GM*.
+- **Famiglia (rivelazione GM, working):** la **carbonaia** è in realtà la **zia / madre adottiva**; il **padre vero è [[Veltharuun]]** (che ignora di avere un figlio) → fonte del sangue fatato; **madre biologica da definire**. Segreto profondo (vedi *Verità GM*).
+- **Da definire:** dove dorme di preciso; quanto è *dentro* la rete di [[Erinna CodaCorta]] vs solo adiacente; il **committente** di [[Ghianda]] (mercato nero? per conto proprio? altro?).
