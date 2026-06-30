@@ -8,35 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22be7cb801fbb552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Recap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 04 - Day 02 Recap"
-            }
-          },
-          {
             "id": "f48ea0cf71e6a1a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Elira Arc - The Caged Song.md",
+                "file": "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elira Arc - The Caged Song"
+              "title": "Session 05 - Day 03 Morning"
+            }
+          },
+          {
+            "id": "2cde94c9549bd93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Official Transport Escort"
+            }
+          },
+          {
+            "id": "14f4002124ea0722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Discreet Double Registration Check"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,6 +281,25 @@
   },
   "active": "f48ea0cf71e6a1a7",
   "lastOpenFiles": [
+    "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md",
+    "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md",
+    "context/migration_state.md.tmp.17344.b5087588d61b",
+    "context/log.md.tmp.17344.7cfe605e123f",
+    "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md.tmp.17344.da5e7d0883bf",
+    "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md.tmp.17344.6e015c334e22",
+    "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md.tmp.17344.7572fa963eff",
+    "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md.tmp.17344.425a03fbaf35",
+    "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Recap.md",
+    "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md",
+    "04 - Quests/Act 1 - Days 01-10/Day 03/The Orphan Network.md",
+    "context/migration_state.md.tmp.17344.6b7cbf7cf5f8",
+    "context/log.md.tmp.17344.1e4e5a7bf8ab",
+    "05 - NPCs/Supporting NPCs/Veltharuun.md.tmp.17344.255385bfdf82",
+    "05 - NPCs/Supporting NPCs/Lippo.md.tmp.17344.735f97f14fc6",
+    "05 - NPCs/Supporting NPCs/Ghianda.md",
+    "09 - Items, Props, and Handouts/Items/La Lama di Iomedae di Massimiliano.md",
+    "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md",
+    "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Elira Arc - The Caged Song.md",
     "context/migration_state.md",
     "05 - NPCs/npc_relations.md",
     "05 - NPCs/Supporting NPCs/Tommaso.md",
@@ -275,35 +307,15 @@
     "05 - NPCs/Criminal Underworld/Dario.md",
     "10 - GM Reference/Source Imports/Act 1/Cult plan phase 1.md",
     "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Dario Arc - The Debt Comes to Rome.md",
-    "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Elira Arc - The Caged Song.md",
-    "04 - Quests/Act 2 - Days 11-20/Personal Arcs",
-    "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md",
     "context/state.md",
     "Arthemol.md",
-    "context/migration_state.md.tmp.28488.af07e6c7e292",
-    "context/log.md.tmp.28488.84702a309ac5",
-    "04 - Quests/Act 2 - Days 11-20/Personal Arcs/Elira Arc - The Caged Song.md.tmp.28488.109b860510a0",
-    "context/migration_state.md.tmp.6216.763998c695ed",
-    "context/log.md.tmp.6216.9bef6c3b7c40",
-    "context/campaign_state.md.tmp.6216.7b310645a1ba",
-    "05 - NPCs/npc_relations.md.tmp.6216.8ec472c93254",
-    "context/migration_state.md.tmp.16388.67a0becb9fdc",
-    "context/log.md.tmp.16388.2f3ba2cac0f6",
     "00 - Campaign Hub/Players/Filippo.md",
     "00 - Campaign Hub/Players/Apollodoro.md",
     "00 - Campaign Hub/Players/Auris Mantopietra.md",
     "00 - Campaign Hub/Players/Massimiliano.md",
     "00 - Campaign Hub/Players/Hillara.md",
-    "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md",
-    "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md",
     "context/campaign_bible.md",
     "context/campaign_state.md",
-    "04 - Quests/Act 1 - Days 01-10/Day 02/The Note in the Mud.md",
-    "04 - Quests/Act 1 - Days 01-10/Day 01/Wolves Outside the Walls.md",
-    "03 - Sessions and Timeline/Session Prep/Session 04.5 - Day 02 Evening Wolves.md",
-    "04 - Quests/Act 1 - Days 01-10/Day 03/Bread Before Sunset.md",
-    "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Recap.md",
-    "04 - Quests/Act 1 - Days 01-10/Day 03/The Couriers Who Never Return - Day 3.md",
     "09 - Items, Props, and Handouts/Assets/phase 1/quests/props/lost ledger book/Lost Book.png",
     "09 - Items, Props, and Handouts/Assets/images/players/Padre_Massimiliano.png",
     "09 - Items, Props, and Handouts/Assets/images/players/Filippo.jpg",
