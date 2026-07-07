@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Encounters Giorno 03",
+      "path": "08 - Systems and Tables/Encounter Tables/Encounters Giorno 03.md"
+    },
+    {
+      "basename": "Valeria Targa",
+      "path": "05 - NPCs/City Officials and Guards/Valeria Targa.md"
+    },
+    {
       "basename": "Session 05 - Day 03 Morning",
       "path": "03 - Sessions and Timeline/Session Prep/Session 05 - Day 03 Morning.md"
     },
@@ -9,20 +17,52 @@
       "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Official Transport Escort.md"
     },
     {
-      "basename": "Session 04 - Day 02 Recap",
-      "path": "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Recap.md"
+      "basename": "La Lama di Iomedae di Massimiliano",
+      "path": "09 - Items, Props, and Handouts/Items/La Lama di Iomedae di Massimiliano.md"
+    },
+    {
+      "basename": "Prior Lucanus Solari",
+      "path": "05 - NPCs/Temple NPCs/Secondary Temple NPCs/Prior Lucanus Solari.md"
+    },
+    {
+      "basename": "Sorella Maura Vesta",
+      "path": "05 - NPCs/Temple NPCs/Secondary Temple NPCs/Sorella Maura Vesta.md"
+    },
+    {
+      "basename": "Severa Solealto",
+      "path": "05 - NPCs/Temple NPCs/Secondary Temple NPCs/Severa Solealto.md"
+    },
+    {
+      "basename": "Varia Solechiaro",
+      "path": "05 - NPCs/Temple NPCs/Supporting Temple NPCs/Varia Solechiaro.md"
+    },
+    {
+      "basename": "Frate Caldus",
+      "path": "05 - NPCs/Temple NPCs/Supporting Temple NPCs/Frate Caldus.md"
+    },
+    {
+      "basename": "Sorella Elenia",
+      "path": "05 - NPCs/Temple NPCs/Supporting Temple NPCs/Sorella Elenia.md"
+    },
+    {
+      "basename": "Temple of Sarenrae",
+      "path": "07 - Locations/Government and Temples/Temple of Sarenrae.md"
+    },
+    {
+      "basename": "Unregistered Delivery Check",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md"
     },
     {
       "basename": "Discreet Double Registration Check",
       "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Discreet Double Registration Check.md"
     },
     {
-      "basename": "The Orphan Network",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/The Orphan Network.md"
+      "basename": "Session 04 - Day 02 Recap",
+      "path": "03 - Sessions and Timeline/Session Prep/Session 04 - Day 02 Recap.md"
     },
     {
-      "basename": "Unregistered Delivery Check",
-      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/Unregistered Delivery Check.md"
+      "basename": "The Orphan Network",
+      "path": "04 - Quests/Act 1 - Days 01-10/Day 03/The Orphan Network.md"
     },
     {
       "basename": "Elira Arc - The Caged Song",
@@ -159,46 +199,6 @@
     {
       "basename": "Titus Falco",
       "path": "05 - NPCs/Merchant NPCs/Titus Falco.md"
-    },
-    {
-      "basename": "Tavro il Muto",
-      "path": "05 - NPCs/Merchant NPCs/Tavro il Muto.md"
-    },
-    {
-      "basename": "Sergerro Atranus",
-      "path": "05 - NPCs/Merchant NPCs/Sergerro Atranus.md"
-    },
-    {
-      "basename": "Plautia Ramefine",
-      "path": "05 - NPCs/Merchant NPCs/Plautia Ramefine.md"
-    },
-    {
-      "basename": "Piro Carrovuoto",
-      "path": "05 - NPCs/Merchant NPCs/Piro Carrovuoto.md"
-    },
-    {
-      "basename": "Pescenna Ruga",
-      "path": "05 - NPCs/Merchant NPCs/Pescenna Ruga.md"
-    },
-    {
-      "basename": "Octavius Brenno",
-      "path": "05 - NPCs/Merchant NPCs/Octavius Brenno.md"
-    },
-    {
-      "basename": "Mauro Tersi",
-      "path": "05 - NPCs/Merchant NPCs/Mauro Tersi.md"
-    },
-    {
-      "basename": "Maro Silanus",
-      "path": "05 - NPCs/Merchant NPCs/Maro Silanus.md"
-    },
-    {
-      "basename": "Lucilla Chimente",
-      "path": "05 - NPCs/Merchant NPCs/Lucilla Chimente.md"
-    },
-    {
-      "basename": "Livia Cornelia Frizzapunto",
-      "path": "05 - NPCs/Merchant NPCs/Livia Cornelia Frizzapunto.md"
     }
   ],
   "omittedPaths": [],
